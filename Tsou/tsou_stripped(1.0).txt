@@ -1,0 +1,2989 @@
+1. 情況. mo mainenu na a'a'ausna to hosamuu ho moso cmoehu? 颱風過後，你們的部落的情況 如何？
+1. 打仗;互相攻擊 . la paifutneni to mengzu ho emonoyiei 'o fkuo, tena yaahzoo hotela 'aafofou. 打 仗時用芙蓉繩 (護身符)綁在長茅和刀鞘祈求天神的庇佑 mo 'aafofou ta fkoi si t'oe'oya. 大冠鷲 和蛇拼命互鬥
+1. 打仗;互相攻擊 . isi 'aafofova to av'u 'o fuzu. 狗和山豬相互拼鬥 .
+1. 打仗;互相攻擊 . isi poa 'aafofovneni to av'u 'o fuzu. 他讓狗和山豬拼鬥 .
+1. 一直. o'te aahtu pepeisu. 一直都沒有錢
+1. 省著吃. lea ʉmnʉ homo at'ocʉ aakak'ingi. 省著吃是好的 .
+1. 省著吃. lea ʉmnʉ ho isi aakak'inga 'o macucuma. 習慣省著吃是好的 .
+1. 欺負. mita aaknuesu ta 'atai 'e voyu. Voyu 佔Atai 的便宜
+1. 欺負. ita aaknuesa ta voyu 'o 'atai. V oyu 佔Atai 的便宜. Voyu 欺負Atai.
+1. 用力地. la alʉ mangihu 'e sumsu ho mo 'aanana'o bonʉ to fi'i 有人用力吃檳榔竟然吃到嘴歪
+1. 用力地. a'ʉmta 'aanana'va ne o'u tibangnua 'o chachae'u. 我挖鬆我的菜園時真的很拼命 挖.
+1. 用力地. isi 'aanana'veni ta moningeohʉ si tuutu. 公雞拼命攻擊小狗 .
+ 然老人家聽不懂
+1. 嘗試.
+1. 分配;分食. la kaebʉ aangae to 'oanʉ 'e coua'toana. 鄒族人很喜歡分享
+1. 分配;分食. la aangaeza 'o mafofou ho fii 'o mao'oahngʉ. 要把獸肉分食給親朋好友。
+1. 概括(毫無選擇性 ). aa'pucu sʉ'no ho isi ake'a ea'ezneni. 稍微說你一下就生氣了 (每一次都生 氣)
+1. 概括(毫無選擇性 ). aa'pucva yaa si mo kuzo. 連壞的都拿 .
+1. 碰觸. mita aaso to mo cuveu ci tngoo. 他碰到燙的鍋 子
+1. 碰觸. ita aasa 'o mo cuveu ci tngoo. 他碰到燙的鍋 子.
+1. 夢卜(占卜的一種,重大活動或工作開工前非常重 要的儀式). la a'asvʉ 'o mameoi to pupuzu ho te i'eongcʉ to te toton'u. 要開墾玉米田之前 ，家族的 掌門人要先夢卜
+1. 夢卜. lasi a'asvi to mameoi 'o tee teai toton'u. 要開墾玉米田之前 ，家族的 掌門人要先夢 卜.
+1. 為……而 . isi aatvineni nac'o homo tma'congo 'o ino taini. 他為他媽媽生病而難過。 [相關詞- 其它] aatvia
+1. 情況. mio mainenu 'o 'a'ausna to inguyu maitan'e? Inguyu 今天情況如何 ?
+1. 幸好. mi'o abohtʉ bonʉ ne taseona, ko'ko 'ancu mi'o sieo. 我還好早上有吃,所以我不餓
+1. 幸好. os'o abohta'u ana 'o s'os'o, ko'ko o'a mo congo co t'ango'u. 幸好我吃藥了,所以我的 腳不痛.
+1. 不見得. o'a mos'a acau acʉhʉ yaa kuhcu 'e haahocngʉ 男人不見得都有皮製披風。
+1. 一直(靜態). mita achʉmʉ sʉ'no a'o 'e voyu. V oyu 一直生我的氣
+1. 一直(靜態). ita achʉma sʉ'nova a'o. 他一直生我的氣 .
+1. 總是. tela iachi emʉm'ʉ to chae, o'a te la couno mhino. 要自己種蔬 菜,不要總是用買的
+1. 總是. lata aacni mongsi ho isi koica to amo 'e oko. 孩子被父 親罵，每次都會 哭.
+1. 僅是……. 'ac'o kaapana 'o zotona ta phingi'u. 我的門只是用竹子頂住。
+1. 全部. micu acʉhʉ moyomo 'o moso mimo ci mamameoi. 喝酒的那些老人都醉了
+1. 全部. ihecu acʉha peepʉnga 'o emi. 他們把酒都喝完了.
+1. 直到. mo ac'ʉhʉ ne hucma ho mo asngʉcʉ mʉchʉ. 下雨一直下到 昨天
+1. 直到. te ac'ʉha ho homna ho ihe teai 'o mo eyʉskʉ to ceonʉ? 崩塌的路他們要修到 什麼 時候?
+1. 弄破. isi aekieka to memeno 'o pooyoyo'u. 我的褲子被鐵弄破 了
+1. 破. isi t'esa to ino 'o mo aekieki ci pooyoyo to amo. 媽媽縫補爸爸已破 的褲子
+1. 超出;過份. mo aemoemou tinoi ti'usnu to oko 'o amosi. 他的爸爸打小孩打得太過分了
+1. 超出;過份. isi aemoemova tinoza ti'usna to amosi 'o oko. 他的爸爸打小孩打得太過分了.
+
+1. 散亂. mo aemo'ʉ si f'ʉsʉsu. 你的頭髮散亂  2. 解散. micu aemo'ʉ 'o moso noteuyunu. 聚會的解 散了 3. 解體. micu aemo'ʉ si nia ca'hʉ. 椅子解體 了
+1. 解體. ihe aemo'a to 'o'oko 'o efuefu'u to coca. 放在庭院的沙子被孩子 們弄散了.
+1. 由下而上. mo aepe noe'ʉcʉ 'o tonghifza ne mo mʉchʉ. 下雨時牆壁由下而上潮濕 mo aepe hʉehʉngʉ 'o evi. 樹從下而上葉子很茂盛
+1. 由下而上. ihe aepza poa noe'ʉcʉ 'o tonghifza. 他們由下而上把牆壁弄濕 了。
+1. 完成. mi'o cu aepʉngʉ mamcino. 我洗完澡了
+1. 完成. os'ocu aepʉnga 'o hioa'u. 我做的工作做完 了.
+1. 改變. o'a mo ahtu aezuhu 'o hiata totpiei ta 'atai. 'atai 說謊的習慣一 點都沒改變
+1. 改變. tekola aezuha 'o lako hia aomotʉ'ʉ. 你要改變你說話的方式.
+1. 搗亂; 打擾. 'aoko 'afeifei'i ta mo yahioa si oko. 那孩子一直搗亂工作 的人
+1. 搗亂; 打擾. teav'a poa 'afeifei'neni ta oko si te oengʉtʉ. 不要讓那孩子搗亂那 要睡覺的 人.
+1. 搗亂; 打擾. teav'a 'aoka 'afeifei'za si te oengʉtʉ. 不要一直 搗亂那要睡覺的人.
+1. 擾亂. mita 'afeo'fu'u ta nte'o eskakos'ozai. 他在我要 撈蝦子的地方擾亂.
+1. 搗亂. ita 'afeo'fu'a ta os'o hoseoya ci nghou. 他擾亂我要獵的猴子
+1. 擾亂. teav'a poa 'afeo'fu'neni ta 'o'oko si te eakos'ozai. 要抓蝦的地方不要讓孩子們擾亂.
+1. 好不容易. mita afeungu peipei'i 'e yangui, ma o'a teta cmʉ'ho 'e aomoe'o. YANGUI 好不容易煮 了東西,Mo'o 叔叔卻沒來.
+1. 好不容易.
+1. 枉費. 'afeungu uhne fuengu ho uk'a mako a'a'ausna. 枉費我到山上 卻沒收穫
+1. 枉費. 'afeunga hafneni to cʉyʉ ma o'a teta amaka ana. 枉費我幫他帶便當他竟然不吃 .
+1. 特別. mita afnaso mau'to'tohʉngʉ 'e amo uyongʉ. Amouyongʉ 他特別有智慧
+1. 特別. ihe afnasa poa mau'to'tohʉngʉ to maaya 'o nia amouyongʉ. 日本人讓 Amouyongx 成為特別 有智慧的人.
+1. 熄滅. micu petohʉyʉ afsi 'o moso pae'ʉhʉ ta hcuyu ta'e. 那山丘發生的火災終於熄滅 了
+1. 熄滅. afsa 'o puzu yangui. Yangui, 把火熄滅.
+1. 斷(硬質物體 ). mo aftungu 'o pefotngʉ ta emoo'u 我家的橫樑斷了
+1. 斷(硬質物體 ). os'o aftunga 'o 'empicu. 我把鉛筆弄斷 .
+1. 折斷. panto la ehohangva ta cou no ohe la tiftunga ci tʉ'sʉ. 鄒族有折箭的神話故事。
+
+
+
+1. 突然. mo mainci aha'o mivoecʉvcʉ 'e hpʉhpʉngʉ? 天為何出乎意料地暗下來?
+1. 突然. mo mainci ita aha'va tutva ta voyu a'o? V oyu 他為什麼突 然打我?
+1. 靜悄悄的. la na'no ahoha'o ho mo zotayo to nsoo. 狩獵於獸泉時要安靜 .
+1. 靜悄悄的. la na'na ahoha'va ho isi zotaeva 'o nsoo. 狩獵於獸泉時要安靜 .
+1. 開始. micu ahoi fʉhngoya si bʉnʉvhʉ. 那李子開始變紅 了
+1. 這起初 ；這開始 . no ahoisi moso c'o la titho ta popsusa ho soupuzu. 這起初起火 都是用 火具袋。
+1. 開始. tetocu ahoza toveuca 'e bʉnʉvhʉ. 我們開始採收李子 了.
+1. 所剩不多的. micu a'homamso nafongku 'o ihin'i 'afeunga hafneni ci fou. 他們好不 容易帶來 一 點點的肉發臭了
+1. 所剩不多的. isi a'homamsa ana no nghou 'o ntohin'i tusbuka ci sbuku. 他們原本要 採割 的剩下一點點的竹筍被猴子 吃了
+1. 標示.
+1. 標示. isi a'honga to voyu 'e te mia ci ceonʉ. Voyu 標示出要走的路 a'honga 'e os'o mia ci ceonʉ te'osa'a moloʉngʉ ho ta'ucu yuovei. 標註我所走過的路,返回時才不致迷路 2. 明顯 的. mitacu engha sohpoi ho itacu a'honga sʉ'nova si voyu. 他對Vo yu 已經厭煩 到明顯的在 生氣
+1. 折斷. mo ahtosʉ si ehti ta bʉnʉvhʉ ho mo angu yʉho'a. 李子枝因結果實太多而折斷
+1. 折斷. ihe ahtosa 'o ehti to bʉnʉvhʉ. 他們把李子枝折斷 了.
+1. 間隔. te'o n'a ahtu baito to mameoi. 我要見一下老人家
+1. 間隔. teto n'a ahta usa ho aiti 'o mameoi. 我要見一下老人家 .
+1. 一直等不到. o'a os'o ahta'so toc'ʉha. mi'ocu moezoyʉ emoovei. 我一直等不到他, 於是我就乾脆回來 了。
+1. 一定會. te eno ahtuo'te congo ho isi yo'eoca to fkoi. 被蛇咬一定會痛的.
+1. 一定會. te eno ahtao'te poa congo ho isi yo'eoca to fkoi. 被蛇咬一定會痛的.
+1. 必須;強行. ta'u 'ahʉyʉ mocni no fuzu ho ta'u uhne fuengu. 我去山上一定要抓到一隻山豬
+1. 必須;強行. o'a te'o 'ahʉya ana 'o s'os'o. 我不需要吃那個藥.
+1. 是有……. a'ico co mo matvaho ta apihana. 對面有人又射擊了一次。
+1. 到處粘著. micu aiei'i ta pangka si teta ana ci naveu. 他要吃的 飯已經粘在桌上了
+1. 到處粘著. ita aiei'a ta yʉsʉ ta oko si ita ana ci naveu. 小孩子把飯粘在他的衣服上.
+1. 立刻. tekon'a akameosʉ uhne emoo. 請你立刻去我家
+1. 立刻. te'o akameosa usa ho aiti 'o mameoi. 我立刻去看老人家一下 .
+1. 一點. mi'o ake'i ao'po'pou to mo seolʉa no nac'o. 我稍微安 慰那正在傷心的人. 'a la'uc'o aasvʉtʉ ake'i mimo to emi. 我只有偶而喝一點酒. 2. 至少. te'o amako uso ho ake'i ao'pou to mo nac'o. 我至少要去喪家聊表弔唁
+1. 一點. tekon'a ake'a pa'cohivi si mo'o. 請你稍微教一下Mo'o. 2. 至少. te'o amaka usa ho ake'a au'po'pova 'o mo nac'o. 我至少要去喪家聊表弔唁 .
+1. 比較…….一點. ake'ac'o soengzota si emi. 那些酒少喝一點。
+1. 它們比較……一點. la ake'ahe pena'va 'o mo sume ho isi ima. 烈酒會喝得比較久 一點。
+1. 比較…….；有一點……. lac'o ake'ihe p'onanʉhtʉ ho mo mooyai ieu homo homu'eina. 夏 天釀酒時間比較短。
+1. 有一點……； 比較……. ake'in'a baito no tposʉ ci takocu sikeng. 你快考試了看點書吧。
+
+1. 你們的祖父. poa tot'angveni ta ak'imu si mo noyano ci chumu. 那溫水給祖父洗腳。
+1. 打算. te'o akoyu no uhne maibayu ho mhimhino. 我打算要去嘉義採購
+1. 打算. 'ote ma'pecvai no teko akoeva no hioa. 你想做的事不要猶疑不定。
+1. 準備要…….. mi'o mooyai tataka ho te'o akoyuno miazomnʉ. 我準備要趕鳥時就建立了 涼亭。
+1. 女子名. mo uvo 'o 'akuanʉ? Akuanʉ 去那裡?
+1. 陀螺、巴櫟陀螺 . O'ana la luea peispak'i ta 'akuyucu 'e cou maitan'e. 現在的鄒族人不 常玩陀螺 了。
+1. 竟然. alʉ sʉ'no 'e yangui ho isi c'o yoyasveni ta voyu. Voyu 只是逗Yangu, Yangui 竟然生氣
+1. 竟然. tav'a ala koica ho mo c'o yoyaso 'o 'o'oko. 不要罵那只是在玩的小孩.
+1. 達到…….. alʉ'u smololongʉ ne mi'o supeohʉ to kuyai. 我從車子上掉下來時撞到受傷。
+1. 分成大的;分成多的. teko amaamtana mo'o si te faeni to mamameoi ci macucuma. Mo'o 你要給 老人的東西(肉)要給大塊的
+1. 分成大的;分成多的.
+1. 竟然. mita 'amakno meelʉ lema'cohio 'e naa'u. Naa'u 竟然當老師.
+1. 竟然. ita 'amakna 'ucea hioa ta voyu na lema'cohio. V oyu 竟然想到要當老師.
+1. 至少. o'te amako bonʉ 'e mo'o, mitacu e'ohʉ. Mo'o 連吃都沒吃就 走了.
+1. 至少. teko amaka poa poyapo no te'o ima ci chumu. 你至少給我喝一點水
+1. 有….我. o'te amaka'u peolʉneni no yoskʉ 'e ino. 我沒撈到魚給媽媽。
+1. 什麼…… .到. amako'so tolʉ ho mita toalungu. 他釣魚什麼都沒釣到。
+1. 直到老. mita amameoi coca'i 'e fa'ei. Fa'ei 到老還是都髒髒的
+1. 直到老.
+1. 網子. os'o ekuyungveni ta emoo no teo'ua si 'ami. 我用網子把雞舍圍起來。
+1. 父親;對男性長輩的敬稱. zou amo ta pasuya ta mo yac'ʉ ta'e. 站在那裡的是Pasuya 的父親
+1. voyu 舅舅. micu c'o noachi 'o amovoyu ho micu tmopsʉ 'o 'o'oko. 小孩子們讀書時Vo yu 叔叔已獨處。
+1. 叔叔；伯伯；舅舅；姑丈. isi usa a'o to amoconi ne hucma. 叔叔昨天來我這裡。
+1. 他們的爸爸. ihe totoefʉngi to 'o'oko 'o amohe. 他們躲他們的爸爸。
+1. 他的爸爸. mo aemoemou tinoi ti'usnu to oko 'o amosi. 他的爸爸打小孩打得太過分了。
+1. 你的爸爸. 'a os'o honga 'o amosu. 我認得你的父親。
+1. 我的爸爸. la leyaezoi 'o amo'u. 我的父親是做農的。
+1. uongʉ 叔叔. mita afnaso mau'to'tohʉngʉ 'e amou yongʉ. Amouyongʉ 他特別有智慧。
+1. mo'o 伯伯. mi'o m'ene to peisu ta aomoe'o. 我向Mo'o 叔叔要錢。
+1. 足夠. o'a mo amso maski 'e osko pei'i. 你煮的不夠鹹
+1. 足夠. o'a os'o amsoa 'e osko pei'i 你煮的我嫌不夠多.
+1. 關閉. mo amʉtʉ si phingi ta emoo ta voyu. Voyu 的家門是關著的
+1. 關閉.
+1. 終究. tav'ana paenova ci tac'u amzo sʉ'no. 別再逗他了，他 終究會生氣了
+1. 終究. [備註：達邦社amia]
+1. 吃. ana si fou fuzu. 把山豬肉吃了 吧
+1. 已經不...；已經沒有.... 'ana la loyo na la titho to etohva ci cou ho la etamaku. 現今用煙斗抽煙 的人已經不多。
+1. 太…. mita cu angu noyʉnʉ 'e pasuya. Pasuya 已經太胖了
+1. 太…. ita anga koica si pasuya. 他太責備Pasuya 了.
+1. 就是…….. 'ano eni 'o isi payo'i to peisu to oko. 這裡就是小孩遺失錢的地方。
+1. 只有. mainci anou c'o maica 'e osko tov'oha ? 你收成的作物怎麼就只有這些? 2. 獨處. moc'o anou ne emoo 'o oko. 小孩子獨自在家
+1. 只有. ihe anova poa aisi uhne c'oeha 'o 'o'oko. 他們只讓小孩單獨去河邊 2. 只好. anova poa hioaneni ta pasuya 'o ntohta hioa ta mo'o. Pasuya 只好做了Mo'o 應該要做的
+1. 棄置不管. mi'o anʉ'ʉ pei'i na'a , mi'ocu uh to mo pasunaeno. 我煮東西就放著不管，就去參加 唱歌班的活動
+1. 棄置不管. ita anʉ'va paavi ta tanivu 'o phingi ne mita emoyafo. Tanivu 門沒關就出門了.
+1. 會見. 2. 露臉.
+1. 會見；給他人看. leata n'a meelʉ bʉʉlʉlʉ ho aopopato ta haah'o. 他還可以站得穩穩地會 見群眾。
+1. 安慰. micu ake'i ao'pou co to'tohʉngʉ'u. 我的心裡殊堪告 慰
+1. 安慰. mi'o ake'i ao'po'pou to mo seolʉa no nac'o. 我稍微安 慰那正在傷心的人。
+1. 安慰. ao'pova si mo mongsi ci oko 安慰在哭的孩子.
+1. 安慰. te'o amaka usa ho ake'a au'po'pova 'o mo nac'o. 我至少要去喪家聊表弔唁 。
+1. 嘗試. nahocu aothomʉ supihi ta va'hʉ. 你就嘗試 渡河
+1. 嘗試.
+1. 治療.
+1. 治療. mac'o acpua aotothoma tesi o'te pateongaboi to tma'congo. 疾病要及早治療,否則 會蔓延
+1. 晃動. 'ote 'aoko aot'ou. 不要一直 晃動!
+1. 晃動. aot'ova ho poa supeopeohʉ si bʉvnʉsi. 搖動使其花掉下.
+1. 運動；會動. la kahkʉmnʉ 'o mabʉya to la kaebʉ aut'ot'ou. 喜歡運動的人小腿都很粗。
+1. 劈. 2. 分開(自己分開). mo apci si fatu. 石頭分開(自己分開)。
+1. 劈. la ngoveo ho isi apcia 'o mo kaceo. 堅硬的石頭很難劈開.
+1. 因為...而. mita apemzo mi'pou to mo cmuhu to feʉ'ʉ. 他因為看殺豬而逗留。
+1. 掉落. os'o ei'eima 'o os'o apeoha ci peisu'u ne yofna. 我找我昨晚掉的錢。
+1. 吵鬧. mita emo'ʉ to mo 'aptaptaʉngʉ 'e voyu. V oyu 責備那些吵鬧的人
+1. 吵鬧. teav'a 'aptaptaʉnga si oko ho mion'a oengʉtʉ. 小孩還在睡不要吵鬧.
+1. 吵鬧. ihe 'aptaptaʉngi 'e voyu ho mita tmopsʉ. Voyu 念書時有人在 吵鬧.
+1. 反而. nama mita apuyu sʉ'no 'e yangui. Yangui 反而生氣
+1. 反而.
+1. 超過. mo asa'o to esa 'o iko t'ot'i. 你開墾的超過界線smoe
+1. 超過. iko asa'va pomi si ezoyʉ'u. 拔草超過我的土地了
+1. 一些. mio eno aseou yaa chumu 'o toeku to po'oyua. 水管源頭只有一點點水
+1. 一些. naho aseova titheni to hʉsʉ si iko peipei'i. 你煮的東西可以放一點點油.
+1. 常常. lata asngʉcʉ sʉ'no 'e paicʉ. Paicʉ 常常在生氣 2. 一直. mo asngʉcʉ poesoso 'e oko. 孩子 一直拉肚子
+1. 常常. lata asngʉcva cohmi to chumu 'o cachae. 他常常給菜園澆水
+1. 認真. lata asno'zonʉ tmopsʉ 'e pasuya. Pasuya 他很認真地讀書
+1. 認真. lata asno'zona p'ani 'o teo'ua. 他很認真地餵雞. [備註：達邦社asno'iona]
+1. 生來. asonghoi lolekoknuyu 'e pasuya. Pasuya 生來就會騙人
+1. 生來.
+1. 可能. tena asonʉ mʉchʉ ci micu eno mokvo'ʉ 'e engʉca. 變天了!可能要下雨了
+1. 大約. isi asona suemoi si mo coni ta chae. 一把菜大 約要五元.
+1. 更加;進一步. mita asuhcu kaebʉ 'e pasuya. Pasuya 更加的高興
+1. 更加;進一步.
+1. 預訂. ihe cu asvʉta 'o feʉ'ʉ to moe'o. 他們已預訂Mo'o 的豬
+1. 預訂. ihecu asvʉta 'o feʉ'ʉ to mo'o. 他們已預訂Mo'o 的豬.
+1. 男子名. mita aaknuesu ta 'atai 'e voyu. Voyu 佔Atai 的便宜。
+1. … 之後. 'aoko mʉchʉ, micu atavei kuzo 'o ceonʉ. 一直下雨,之後路壞了
+1. … 之後. 'aoko mʉchʉ, isicu ataveia poa kuzo 'o ceonʉ. 一直下雨,之後就使路壞了.
+1. 只是.... ita c'o at'inga e'po'pova 'o isi tuocosi. 他所問的他只是答非所問。
+1. 但是. ta'u la mhia kuyai, at'inghi te'o auyu asno'zonʉ eya peisu. 我將來要買車,但是我要先努力 找錢
+1. 但是. naho ana si huv'o, at'ingha teav'a oepʉnga. 你可以吃橘子,但不要吃光.
+1. 但是；只是. mita c'o at'ingi mea'upu ne nteta to'usni 'o mo ngohcu. 他本來要救溺水的人，結 果反而連帶流走。
+1. 習慣. la'u at'ocʉ coeconʉ ho uhne fuengu. 我習慣走路去山上. mita at'ocʉ mahafo to av'u ho uhne fuengu. 他去山上習慣 帶著(任何的)狗.
+1. 習慣. lata at'oca hafa 'o av'u ho uhne fuengu. 他去山上習慣 帶著(指定的)狗
+1. 累積. micu atpu'u si o'a ita tufkua ci 'i'ihosa. 他還沒有洗的衣服已經堆積如山
+1. 累積. ita atpu'a si o'a ita tufkua ci yʉsʉ. 他沒洗的衣服堆積如山.
+1. 主要. zou atuhcu hupa ta cou 'o ne psoseongana. 阿里山主要是 屬於鄒族的傳統領域
+1. 主要. isi atuhca ta'upa no hupa ta cou 'o ne psoseongana. 阿里山主要是 屬於鄒族的傳統 領域.
+1. 最…. mita atva'esi bankake ta mihin'i biteuyunu 'e pasuya. Pasuya 在他們之中長最高
+1. 最…. isi atva'esa hubankake to mo biteuyunu 'e pasuya. Pasuya 在他們之中看起來最高.
+1. 混合. mo atvohʉ 'o ecngi ho fo'na. 樹豆和鵲豆混合 了
+1. 混合.
+1. 換衣服. aʉe ho teko uhne maibayʉ. 要去嘉義時要換衣服
+1. 換衣服. aʉza si yʉsʉ no aoskopa. 把你的外衣換掉
+1. 正在. mita aʉlʉ bonʉ ne mi'o esmi. 我到時他 正在吃飯 2. 真正的. yoskʉaʉlʉ 鯝魚 pasʉaʉlʉ 箭竹
+
+
+1. 善待. mo aʉlʉlʉ ta 'o'oko si lema'cohio. 老師善待學 生
+1. 善待. isi aʉlʉlʉa si 'o'oko. 老師善待學 生.
+1. 真的. ita a'ʉmta ana 'o fou ne yofna. 他昨晚真的吃了 那肉 pano iko a'ʉmta chua ci 'uachumu? 你真的宰殺了牛隻嗎?
+1. 真的. mita a'ʉmtʉ uhne tfuya. 他真的去特富野
+1. 真的. mais'a a'ʉmtʉno si uacoua. 那人像好像是真的。
+1. 那真正的；正確的. mita etuhcu to a'ʉmtʉsi. 他講對了。
+1. 隨便；亂來；亂 七八糟. 'ote la 'aʉnpʉnpʉ mo'engho to mocmo. 不要隨便說別人(壞話)。
+1. 隨便. teav'a 'anpʉnpa ana si fou. 那些肉不要隨便吃.
+1. 很快地. mi'o aupcio bonʉ ho cu e'ohʉ. 我很快吃後就走了
+1. 很快地. ita aupcieva ana hocu e'ohʉ. 他很快吃後就走了.
+1. 也是,包含, 連帶. 'a a'upu nuusu 'o mo yonto fatu ci f'ue. 包括在石頭上的地瓜也是你的
+1. 也是,包含, 連帶. a'upa yaa 'o mo yonto fatu ci f'ue. 石頭上的地瓜也拿去.
+1. 隨便；亂來；亂 七八糟. o' tela 'aʉpʉmpʉ tmo'popcako to 'o'oko. 不要隨便掌摑小朋友。
+1. 屬於……. la a'usnu no hoseovna ho micu feohʉ no 'tueva ne noana'o. 以前三月是屬於糧食缺 乏的季節(旱季)。
+1. 漸漸;愈. micu ausuhcu bankake si sbuku. 竹筍長得愈來愈高.
+1. 漸漸;愈. os'o ausuhca ʉmnʉa 'e paicʉ. 我漸漸喜歡Paicʉ.
+1. 順便;順勢. tekon'a ausu'u mhino to fʉesʉ. 請你順便買米. ausu'u ea koyu ne mi'o mam'eti. 我看 陷阱時順便找香菇. 2. 接著. ausu'u aʉlʉ tma'congo ne mi'o aonoe'ʉcʉ ne hucma. 昨天淋雨後接著 生病了.
+1. 順便;順勢. i'o ausu'va usa ho aiti 'o ak'i. 我順便去探望爺爺 .
+
+
+1. 嘗試. naho aʉsvʉtʉ mo'engho. 就嘗試讀吧! naho aʉsvʉtʉ mo'engho ta e'e no cou. 你嘗試說鄒 語.
+1. 學習. te'o aʉsʉsvʉtʉ bua'angmu. 我要學說外語。
+
+1. 照顧. mita aʉt'ʉcʉ to moatʉ'nʉ 'e pasuya. Pasuya 是養羊的
+1. 照顧. ita aʉt'ʉca ta pasuya 'o moatʉ'nʉ. 羊是Pasuya 養的.
+1. 先於…. mo auyuhe tacʉmʉ to huv'o 'o bʉnʉvhʉ. 李子比橘子先成熟 auyu yoemuyu ho takocu yʉc'ʉ. 你起來後先洗臉
+1. 先於…. os'o aueva hafa 'o ton'u. 我先帶小米 la atva'esa auva hioa homo homeyaya 'e p'ot'ozu. 小米祭最先做的動作是祈福。
+1. 狠下心. o'a os'o s'a av'oha koica 'e yangui. 我狠不下心責備Yangui
+1. 狠下心. o'a mi'o s'a av'ohʉ sʉ'no ho mitacu amako maine'e 'e voyu. Voyu 既已經回家，我就 狠 不下心再生氣了 2. 走得動. mi'o o'te av'ohʉ ho mi'o cong'e t'ango. 我腳痛走不動
+1. 事先做. teko ayocʉ smoyu'ho ci teto c'o sʉfeʉngnʉ e'ohʉ ho taseona. 你要事先做因為明 一早我 們很早就出發
+1. 事先做.
+1. 緊. na'no ayʉcʉ ho mita sʉ'eʉsʉ. 他衣服都包的緊緊的
+1. 緊. ayʉca si ieu. teno ʉmnʉ ci moefuso. 把釀的米酒包緊. 這樣發酵才會好.
+1. 因此. mo na'no smʉnʉ'ʉ. o'a mi'o s'a azou tmopsʉ. 因為雨下的很大 ,所以我沒去上學
+1. 因此.
+1. 看. mi'o baito to 'avai ne hucma. 我昨天去看'avai
+1. 看. os'o aiti to kuyai ne hucma 'o 'avai. 我昨天在車上看到'Avai.
+1. 高. teta bankake 'e mo'o. 會長高 micu na'no bankake 'e sbuku. 竹筍已經 長很高了 micu bankake 'o c'osʉ 樟樹長很高
+1. 高大. na'no baankake 'o c'osʉ to a'ofeihni to ceonʉ. 沿著路長的樟樹都很高大.
+1. 看起來很高. isi atva'esa hubankake to mo biteuyunu 'e pasuya. Pasuya 在他們之中看起 來最高。
+1. 尋找. mi'o biebimi no te'o yoni miski. 我在找我要過夜住宿的地方
+1. 尋找. os'o ei'eima 'o os'o apeoha ci peisu'u ne yofna. 我找我昨晚掉的錢.
+1. 找你. ta'u n'a miebibisuu ho yofna. 晚間我要去找你。
+1. 拋擲…堵住. mo boemi to 'empi 'o mo'o ho bismʉtʉ to feongo. Mo'o 用圓鍬(鏟土)堵住洞口
+1. 拋擲…堵住.
+1. 用...堵住.
+1. 仔細看,觀察. mi'o uhne fuengu ho bu'i'io no nte'o sii no smohfihci. 我到山上 觀察要放陷阱的 地方
+1. 知道. sia na mo bochio no ongkosi? 誰知道他的名字呢?
+1. 咬. mo boecʉ ne os'o tʉtpʉta si av'u . 我抓那隻狗時牠咬人
+1. 咬. isi yo'eoca ta av'u a'o ne os'o tʉtpʉta. 我抓那隻狗時牠咬人.
+1. 靠近. 'ote so na'no boecum'u a'o. 不要太靠近我
+1. 靠近. ita pecmu'i a'o 他靠近我.
+1. 利用. la boemi to 'empicu ho tmopsʉ. 讀書需要用原子筆 mi'o boeya 'empicu ho tmopsʉ. 我用 鉛筆寫字 mi'o boeta tu'u ho yahioa. 我用鋤頭工作 mi'o boepa poyave ho tmuvci. 我用刀子砍草
+1. 用手.... 'ana la lua boemamucu ho mo tufku maitan'e. 現在洗衣服幾乎都不用手洗衣了。
+
+1. 使用……. mi'o boepa poyave ho tmuvci. 我用刀子砍草。
+1. 使用. os'o yomzeni ma'e ta f'ue 'e tu'u. 這小鋤頭我用來挖地瓜.
+1. 放陷阱. mi'o boepono to huyu no fuzu ne hucma. 我昨天在山豬 路徑放陷阱
+1. 砍到. mita bohilʉ ne hucma ne mita yahioa. 他昨天工作時砍傷 2. 切到. mi'o bohilʉ ne mi'o pei'i. 我煮飯時切到手.
+1. 砍到. ita hilʉa si t'ango taini. 他砍傷自己的腳.
+1. 切成塊. teko bohipuepuyu ta f'ue sayungu no te teai pivuyu'a. Sayungu 妳把地瓜切成塊並用水 煮
+1. 剁成塊. teko hipuepuya 'o f'ue sayungu ho mooyai pivuyu'a. Sayungu 你把地瓜切塊做地 瓜湯.
+1. 切碎. mo bohiz'oz'o to saitungu 'o mo'o. Mo'o 切碎木瓜
+1. 剁碎. isi hiz'oz'a to mo'o 'o saitungu. Mo'o 切碎木瓜
+1. 用手堵住. mo bohmʉtʉ ta phingi si emucusu. 你的手堵住門
+1. 用手堵住.
+1. 認出來. micu ahoi bohngʉ si oko. 那小孩開始會認人了 2. 看得見. 'a os'o honga 'o mo yonto chumu ci yoskʉaʉlʉ. 我看得出在水中的鯝魚
+1. 撐住. mo bohtonʉ to cnʉmʉ 'o kaapana. 竹子撐住香蕉
+1. 吃. mita bonʉ ta foufuzu. 他吃山豬肉
+1. 吃到……. ne noana'o moso la kakutia 'o la hia bonto naveu pai. 在過去很少吃到白米飯。
+
+1. 吃一下. te'o toa bonʉn'a tena'u cu maine'e. 我要去赴宴再回家。
+1. 覓食；聚餐；共食. la mimimio ho mo feʉngna 'o ngiungiu ho eyabobonʉ. 夜鴞在夜間 出來找食物。
+1. 喜宴；筵席. la butaso mateolʉlʉ ho te uhto mo yaabobonʉ. 去吃筵席是要盡量穿著得體。
+
+1. 多. mo botngonʉ 'o mo toameesi ci mao'oahngʉ. 參加祭典的人很 多. botngonʉ 'o mo toheae to mamaepuhu ci yuansou. 很多動物在草原上曬太陽.
+1. 破壞. 2. 放陷阱. mo uhne fuengu ho buekematmohʉ 'o na'vama. 父子倆去山上放陷阱
+1. 破壞;玩弄. ma ihe keematmohi 'o h'oepona'u. 他們破壞了我的 陷阱.
+1. 烤(薯瓜類). teko a'upu bʉengʉ no pohe. te o'upa ho cohzona. 你也就烤個玉米.中午可以吃的
+1. 烤(薯瓜類). yʉngi ta ucei ta pasuya si pupuzu. 那火塘被Pasuya 用來烤地瓜.
+1. 吃醋. mo buhfuyo 'o vcongʉ'u ho mi'o mi'unu to mocmo. 我只要看別人一眼我的另一半就吃 醋了
+1. 吃醋. isi uhfueva to vcongʉ'u ho mi'o mi'unu to moc'mo. 我只要看別人一眼，我的另一 半就吃醋了.
+1. 看很久. ʉmnʉ hoci poa o'te buhna'o michʉmʉ to televi 'o 'o'oko. 最好不要讓小 孩看電視看太 迷
+1. 看很久. te koa kuzo to mcoo honcihe huna'vi michʉmi 'o televi. 太專注看電視會影響眼 睛.
+1. 直立擋住. ihe poa bʉmʉtʉ ta phingi-'u 'o kaapana. 他們把竹子擋在我家門口
+1. 直立擋住.
+1. 直立擋住.
+1. 套索獵. mo buofeo'isi to huyu no moatʉ'nʉ 'o voyu. V oyu 在山羊路徑設套索 獵
+1. 套索獵. isi uofeo'isi to voyu 'o huyu no moatʉ'nʉ. Voyu 在山羊路徑設套索 獵.
+1. 拒絕. mita bʉʉpsʉpsʉ ho ihe eoho'a. 他拒絕他們的邀請
+1. 是對的.
+1. 忍耐. teko la buveici upena ho lako ngoseo. 就算很辛苦你也要忍耐 buveici mimo. 忍耐著喝 下去吧(俏皮的語氣)
+1. 忍耐. tekola uveica ho mo 'oha tmaolalʉ 'e 'o'oko. 小孩不聽話時你還是要包容.
+1. 掌. mo soe'os'o 'e caphʉ'u. 我的腳掌很癢
+
+
+1. 夢. na'no ʉmnʉ 'o cei'u ne yofna. 我昨晚的夢好美
+1. 菜. tela iachi emʉm'ʉ to chae, o'a te la couno mhino. 要自己種蔬 菜,不要總是用買的 bonʉ ta machachae ta pangka. 吃桌上的菜餚
+1. 菜園. lata asngʉcva cohmi to chumu 'o cachae. 他常常給菜園澆水。
+1. 菜園. mo cohmo to chachae 'o yangui. Yangui 在菜園澆水。
+1. 我的菜園 . a'ʉmta 'aanana'va ne o'u tibangnua 'o chachae'u. 我挖鬆我的菜園時真的 很拼命挖。
+1. 他的菜園 . isi zu'zi to kaapana to 'uongʉ 'o chachaesi. 'uongʉ 的菜園用 竹子豎立著。
+1. 葉菜類. lea koa ʉmnʉ ta feango homo bonʉ to chaehʉngʉ. 吃葉菜類對身體很好
+1. 我的菜. ma cuma co mo ocʉcʉhʉ ta chae'u. 是什麼把我的菜吃 完了?
+1. 丟. teko n'a ciha si mapupucu. 請你丟掉垃圾
+1. 怎麼…….；好像是…….. ae'e! cis'a poe'ohʉ ta mameoi. 哎啊!怎麼推到老人家 !
+1. 因為. teav'a ta'eungza ho yainca uk'a ci'so peisu'u. 不要憂慮說因為我沒錢。
+1. 瞄準. mita cmiu to teta pnaa ci 'ua 'e voyu. Voyu 已經瞄準好他要射的水鹿
+1. 瞄準. ita cu cieva ta voyu 'o 'ua ci teta cu pnaa. V oyu 已經瞄準好他要射的水鹿.
+1. 宰殺. mi'o cmuhu to mo coni ci teo'ua ne hucma. 我昨天宰殺了一隻雞 2. 烤. mita cmuhu to simeo. 他已經把山羊肉烤了
+
+
+1. 宰殺. tehin'icu chua 'o feʉ'ʉ. 他們就要 殺那豬了. 2. 烤. itacu chua 'o nia foumoatʉ'nʉ. 他 已經把山羊肉烤了.
+1. 連接. teko pʉta si te'o cnguhi ci po'oyua. 你拿著我要 接的水管。
+1. 香蕉. lasi atva'esa ʉmnʉa to nghou 'o cnʉmʉ. 香蕉是猴子的最愛
+
+
+1. 香蕉園.
+1. 攀爬. micu ahoi cocapo si emcu ta o'u emʉ'a ci fo'na. 我先前種的鵲豆的藤蔓開始攀爬
+1. 攀爬.
+1. 笑;嘲笑. mo cocvo 'e oko ne ita ea'ezneni. 他對著這幼兒說話時他(幼兒)會笑
+1. 笑;嘲笑. ita cocvi ta sayungu ho mi'o smofei'i. Sayungu 嘲笑我跌得四腳朝天.
+1. 石堆. ita soe'ohi to yungku si isi coe'a ci fatu. 他放背簍在石堆上而壓垮。
+1. 河流；大河. to mac'oc'oeha ta taivan, mo atva'esi tacvoh'i 'o ne yamasiana. 台灣所有的河川中， 楠梓仙溪 是最長的。 la himeu 'o c'oeha ho mo smʉnʉ'ʉ. 下大雨時河水會混濁。
+1. 河流群. isi toemizi to ceoa 'e mac'oc'oeha. 土石流衝向河流
+1. 大河. te'o uhne c'oha ho mamtesngusngu to yoskʉ. 我們會到 河邊叉魚。
+1. 知道. isi cohivi to inguyu na ongkosu? Inguyu 知道你的名字嗎?
+1. 澆. mo cohmo to chachae 'o yangui. Yangui 在菜園澆水
+1. 澆. isi cohmi to yangui 'o chachae. Yangui 在菜園澆水.
+1. 疼痛. asngʉcʉ congo co fnguu'u. 我的頭一直疼痛 mi'o cong'e hisi. 我牙痛 mi'o cong'e kali. 我的腳痛
+
+
+1. ... 痛. mi'o o'te av'ohʉ ho mi'o cong'e t'ango. 我腳痛走不動。
+1. 已經. mi'o cu aepʉngʉ mamcino. 我已經洗完澡 了。
+1. 醬菜. topicneni ta cukemono si fatu. 用石頭壓住那醬菜。 [日語借詞]
+1. 因為...而. mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 因為他已經相信基督,所以領受 洗禮。
+1. 是 (看到的). 'e ehoi ho eao osi la pa'cohivneni no hamo ho yainca "temu la maica ho temu la pasunaeno". 迎神曲和送神曲是天神hamo 教導的,祂說:你們唱的時候要這樣唱。
+1. 帶領. la'u eahahafo to haah'o. 我帶領群眾
+1. 帶領. mo botngonʉ 'o la'u eahahafa. 我帶領的人很多.
+1. 說三到四搬弄是非. la sohpoza tomo conohosa 'o mo kaebʉ eaknuesu . 說三到四搬弄是非的人 在一個部落裡是被厭煩的
+1. 說三到四搬弄是非. 'ote la euski ho lahe eaknuesa. 他們搬弄是非時不要回應.
+1. 認親. mi'o eamaameoi to yoifoana. 我到莊家去認親(長輩)
+1. 認親. os'o eamaameoia na taini. 我認他為親(長輩).
+1. 各說各話. mainci mihin'i eanan'ou ho mihin'i yupeahngʉyʉ? 他們的對話怎是各說各的?
+1. 各說各話. ihin'i 'ahʉya eanan'ova 'o moc'o conci a'a'ausna. 同一件事他們卻堅持各說各 話.
+1. 成年禮. la couno hioa 'o easmoyʉskʉ ho mo mayasvi. mayasvi 祭典時總會舉行成年禮
+1. 成年禮. la ieni to mayasvi ho easmoyʉska 'o yu'fafoinana. 依照mayasvi 祭典為青年舉行 成年禮
+1. 打斷;拉斷. mita ebkocʉ to sbuku 'e 'avai. 'Avai 打斷竹筍
+1. 打斷;拉斷. ita ebkoca ta 'avai 'o sbuku. 'avai 把竹筍打斷了
+1. 折斷. os'o ebkocneni to sbuku 'e ino. 我替媽媽折斷竹筍 。
+1. 憑空說中. mita c'o ebohtʉ ho mita eʉsvʉsvʉtʉ 'e voyu. Voyu 講述事情沒有什麼根據,但都被他 說中
+1. 憑空說. ita ebota ho ita eʉsvʉta ta voyu. V oyu 講述事情都憑空說瞎話。
+1. 邀集多人. mita ebotngonʉ to teta poa toa'ocea 'e mo'o. mo'o 他邀集多人去採茶
+1. 邀集多人. ita na'na ebotngona 'e moc'o kakutia ci 'ocea. 這麼少的茶還邀集那麼多人.
+1. 蜈蚣. la na'no t'at'ango 'o eepa. 蜈蚣的腳很多。
+1. 界線. mo asa'o to eesa 'o iko t'ot'i. 你開墾的超過界線smoe 。
+1. 帶完.
+1. 帶完. mo nongaco ne teova 'o isi o'te e'eʉpngi ci f'ue. 他沒帶完的地瓜暫放在工寮
+1. 橫倒. mo efeti to ceonʉ 'o mo oefʉ'ʉ ci evi. 倒下的樹橫在路上。
+1. 收割； 割稻. 'a tato cu efeutu ho tac'u kayani 'o mcuu to pai . 他們昨天已經開始割 稻。 mihin'i cu ahoi efeutu to pai ne hucma. 他們昨天已經開始割 稻。
+1. 收割. ho tac'u kayani 'o mcuu to pai, 'a tac'u eno efeuta. 稻穗成熟(黃)時,就可收割
+
+
+1. 包包;袋子. te'o teapha to efucu 'o voyʉ. 把飛鼠放進袋子裡
+
+
+1. 不小心吞下. mi'o c'o eha'o to snʉfʉ. 我不小心吞下(山豬)皮
+1. 吞噬. os'o eha'va 'o snʉfʉ. 我不小心吞下(山豬)皮
+1. 說故事. mo ʉmnʉ ho mo tmalʉ to mamameoi ho mo ehohamo. 聽長者述說歷史故事是很好的 事 2. 故事.
+1. 說故事. os'o ehohanva ho moso la etʉpʉ 'e hpʉhpʉngʉ 我講述以前世界洪水的故事.
+1. 故事；傳說. panto la ehohangva ta cou no ohe la tiftunga ci tʉ'sʉ. 鄒族有折箭的神話故事。
+1. 謹慎地講. la ake'i ehoha'o ho miko aomotʉ'ʉ. 你說話時要謹慎地講
+1. 謹慎地講. la ake'a ehoha'va ho teko koica 'e 'o'oko. 你責罵小孩時謹慎些. 2. 輕一點拉. ake'a ehoha'va ho teko e'tʉi 'o po'oyua. 你拉水管時輕一點拉. 3. 輕一點打. la ake'a ehoha'va 'o 'o'oko ho lako yoobaka. 你打孩子時輕一點.
+1. 剝. mita e'ho'ho tomo capo to fatu ci emcu 'e yangui. yangui 剝掉那攀爬在石頭上的藤蔓
+1. 掀開. isi e'ho'hi no poepe si sofʉ ta emoo. 家的屋頂被風掀開.
+1. 聞到. mita e'hongʉ no mo namusngau. 他聞到很香的味道
+1. 聞到. lasi e'hongi to av'u 'o lasi emomzi to fuzu. 狗可以聞得出山豬的蹤跡.
+1. 邀請. tela eho'ʉ to 'oahngʉ ho mo meesi. 舉行祭典時要邀請親友
+1. 邀請. la eho'a 'o 'oahngʉ ho mo meesi. 舉行祭典時要邀請親友.
+1. 訴苦；投訴. mo ehpʉngʉ to amosi 'o oko ho ihe pohcingha. 小孩被人欺負向他的爸爸訴苦。
+1. 作戰；摔角. mosola toomʉtʉ no pihci ne noana'o 'e cou hola ehtothomʉ. 以前作戰要用盾牌。
+1. 紅棕. mio pahafo a'o to tesi phieni ci ehufu 'o fa'ei. Fa'ei 託我帶他要賣的紅棕。
+1. 葉子. to'si ta ehʉngʉ no fʉhfʉhʉ si yoskʉ ta ecuu. 丟一下野蕉的葉子給池塘的魚。
+1. 你的菜(葉). te'o meelʉ m'ecpo ta chaehʉngʉsu? 我可以跟你要一片葉菜類蔬菜嗎?
+1. 葉子茂盛 . teto la yupa himngonghi to huehungu. 我們要與左右鄰居彼 此相愛。
+1. 說開;說破. o'a mi'o smeecʉ'ho eh'ʉtʉ ho mita yontan'e. 他在這裡我不敢說出來
+1. 說開;說破. o'a os'o seecʉ'ha eh'ʉta ho mita yontan'e. 他在這裡我不敢說出來
+1. 打破.
+1. 戳洞. os'o eh'ʉtneni to phingi 'o ngiau . 我為貓在門上打個洞.
+1. 吸血蟲；螞蝗；水蛭. lea titacvoh'i 'o ehʉʉ no meah'o ho mo coeconʉ. 大的吸水蟲走路時會 呈長形。
+1. 尊敬. la anana'o einu to mamameoi 'e cou. 鄒族人本 來就是很尊敬長輩
+1. 尊敬. la anana'va einva 'o mamameoi. 本來就要尊敬老人.
+1. 背累;搬累;拖累. mi'o e'kuv'o to fou. 我背山肉導致身體疲累
+1. 背累;搬累;拖累. isi e'kuv'i to hiafa'u a'o. 我被我載的東西弄傷.
+1. 圍籬成圈. mi'o ekuyungu ta emoo no teo'ua. 我把雞舍圍起來 la ekuyungu to taf'u 'e maamespingi ho mo pei'i 女人們煮飯時圍圍裙
+
+
+1. 圍籬成圈. os'o ekuyungva si emoo no teo'ua. 我把雞舍圍籬.
+1. 圍籬成圈. os'o ekuyungveni ta emoo no teo'ua si 'ami. 我用網子把雞舍圍起來.
+1. 圍籬成圈. os'o ekuyungvi si emoo no teo'ua. 我把雞舍圍籬.
+1. 毀謗;講損他人的話. o'a mo ʉmnʉ ho mo 'aʉnpʉnpʉ ekuzkuzo to mocmo. 隨便毀謗人是不好 的
+1. 毀謗;講損他人的話. teav'a s'a ekuzkuzoa 'o voyu. 不要毀謗Vo yu
+1. 謾罵. mo ekvo'ʉ to mo nouteuyunu 'o mo'o. Mo'o 對著聚會的人謾罵 mita ekvo'ʉ ta maamespingi. 他罵女人(們) 2. 說壞話. 'ote la 'aʉnpʉnpʉ ekvo'ʉ no mocmo. 不要隨便說別人壞話
+1. 謾罵. ita ekvo'i 'o maamespingi. 他罵女人(們) 2. 說壞話. ita ekvo'i 'o 'uongʉ. 他 說'Uongʉ 壞話.
+1. 找到. mi'o cu elʉ to atuhcu ceonʉ. 我已找到正確的路
+1. 找到. os'ocu elʉa 'o atuhcu ceonʉ. 我已找到正確的路
+1. 聞到. mimza elʉ to mo nakuzo. 我們聞到臭味
+1. 聞到. os'o elʉi 'o mo nafongku. 我聞到(肉)的腐臭味.
+1. 用力拉. la emacongo 'o 'uachumu ho isi poa e'tʉ. 牛的拉力是很快速的
+1. 說重話.
+1. 責備. lahe emo'a 'o mo atfʉngʉ buocoeke. 偏愛講話風流的人會受責備
+1. 經由. mita emomzo ne tfuya. 他經由特富野
+1. 經由. 'a lasi e'hongi to av'u 'o lasi emomzi to fuzu. 狗可以聞得出山豬的蹤跡.
+1. 屋. mo cicvi 'o emoo'u ne mo cmoehu. 我的家在颱風時 漏雨
+1. ... 的家. teko soyovca to ceonʉ 'o teko teai ci emono teo'ua. 我把我的雞 舍蓋在底下。
+1. 刀鞘. la paifutneni to mengzu ho emonoyiei 'o fkuo, tena yaahzoo hotela 'aafofou. 打仗時 用芙蓉繩 (護身符)綁在長茅和刀鞘祈求天神的庇佑。
+1. 我們的家 . mo botngonʉ 'o la lesmoe'isi ta emoomza (emoomia). 我們家族有很 多警察。 mo botngonʉ 'o la lema'cohio ta emoomza. 我們家族有很 多老師。
+1. 家. teko soyovca to ceonʉ 'o teko teai ci emono teo'ua. 你把雞舍設在路的下方。
+1. 你的家. te'o miski ta emoosu maitan'e yofna. 我今晚要在你家住一 晚。
+1. 我家；我的…….家. os'o sopeohna 'o emoo'u teoua. 我把sopeohna 的雞舍蓋在下方。 mo aftungu 'o pefotngʉ ta emoo'u. 我家的橫樑斷了。
+1. 各個家. mo acʉhʉ yaa mengzu 'o maemoemono peisia. 祭屋都有長矛。
+1. 建築物. mo baankake 'e maemoemoo ne ngeesangsi. 平地有些房子很高
+1. 家祭屋. mo ianan'ou to emoo no peisia to mʉknana ho yasiungu. 安家和武家各自有祭屋 ihe teovahi 'o emonopeisia ta tiaki'ana. 他們修建鄭家的祭屋。
+1. 在…之上行走. ma ngiau co mo emooskopʉ nca sofʉ. 貓在屋頂上行走
+1. 在…之上行走. isi emooskopa to ngiau co sofʉ. 貓在屋頂上行走.
+1. 走回來. o'a os'o'so toc'ʉha. mi'o cu moezʉ moovei. 我等不到人,我乾脆回來 了 mainci o'te ahtu emoovei 'o pasuya ho mo emo'unu ne momhino? pasuya 去店鋪怎麼都還沒回來?
+1. 走回來. os'o emooveia 'o o'u mia ci ceonʉ. 我又走回我剛走的路
+1. 往下方走. mio emopeohʉ to tʉ'nʉ 'o moatʉ'nʉ. 山羊從峭壁走下去
+1. 往下方走. eni 'o la emopeoha hola uhne yamasiana. 去yamasiana 是從這裡走.
+1. 往下方走. 'a eno eni 'o isi emopeohi to moatʉ'nʉ. 山羊是從這裡下去.
+1. 渡水；過河. i'o sokoeveni 'e 'o'oko ho te emopihi to mo fozu ci chumu. 我替孩子們擔心他們 要渡水深的地方。
+1. 直接走. emosonʉ maine'e 'o 'o'oko ne micu tosvo tmopsʉ 小孩放學就直接走回家
+1. 直接走. ita emosona ta sayungu 'o 'o'oko taini. Sayungu 直接去她孩子那裡.
+1. 責備. mita emo'ʉ to mo 'aptaptaʉngʉ 'e voyu. V oyu 責備那些吵鬧的(人)
+1. 弄散. mo emo'ʉ ta pucu si av'u. 狗把垃圾弄散了
+1. 弄散.
+1. 走向. mo emo'unu tan'e ta veoveo. 梅花鹿漸漸走向這裡
+1. 走向.
+1. 頭暈.酒醉. otala tmasʉ'no to la emoyomo. 聽了說酒話的人不要生氣。
+1. 圓鍬(日語借詞). mo boemi to 'empi 'o mo'o ho bismʉtʉ to feongo. Mo'o 用圓鍬(鏟土)堵住洞 口。 [日語借詞]
+
+
+1. 種植的作物. na'no ʉmnʉ si ita emʉemʉ'a. 他種植的作物很好！
+1. 種植的作物. isi emʉemʉ'i to tahia 'o papai. 他在水田裡種植豆類.
+1. 藏起來. mo emʉfngʉ to yoskʉ 'o yangui. Yangui 把錢藏起來
+1. 藏起來. ita efʉnga ta yangui 'o yoskʉ. Yangui 把魚藏起來.
+1. 埋. mita emuf'o to pucu 'e voyu. Voyu 埋垃圾
+1. 埋. ita efo'a ta voyu 'o pucu. V oyu 埋垃圾.
+1. 種植. ita emʉ'i to ucei si papai. 他在田裡種芋頭. isi emʉ'i to ucei 'o papai. 水田種植芋頭.
+1. 吸. em'um'i si hʉsu ta cʉehʉ. 把骨頭的骨髓吸出來。
+1. 種植. mi'o emʉm'ʉ to f'ue ne hucma. 我昨天種了地瓜
+1. 種植. cuma nate emʉ'a to isi t'ot'i? 開墾的地要種什麼? os'o emʉ'a ne hucma 'o ucei. 我昨 天種植芋頭.
+1. 種植的. ho micu mihof'oya 'o ceoa lac'uc'o yuhomcoi 'o isi mʉemʉ'a. 土壤呈現乾 黃時,種植的作物會枯萎。
+1. 種植. ita emʉ'neni to chae na a'o. 她為我種菜 isi emʉ'neni to ucei to pasuya a'o. Pasuya 為我種芋頭
+1. 種植. mo'u emʉm'ʉ to ucei ne hucma. 我昨天種植芋頭
+1. 關閉. sia 'o mo emʉtʉ to phingi  ? 誰把門關起來?
+1. 關閉.
+1. 抽很久. mi'o cu ena'o ho la'u etamaku. 我抽煙抽很久了
+1. 讀;唸. os'o aʉsvʉta engha 'o os'o talʉi ci e'e no sbukunu. 我試著說 出我聽到的 布農族語
+1. 讀;唸. os'o c'o engheni to tposʉ ci o'a mita tmʉh'ʉtʉ. 因為他發不出聲音所以我代他唸書. 2. 唸; 述說. itac'o engheni si 'o'oko ta tposʉ. 他幫小朋友念書.
+1. 藍色的,綠色. panto mo enghova ci tposʉ. 有一本藍色的書 na'no enghova 'e engʉca ho mo molʉ. 天氣晴朗天空是藍的
+
+
+1. 長得翠綠. na'no yueenghova 'e kukuzo ho mon'a yusbuki. 草剛出土發芽時是翠綠的。
+1. 帶領. mo engochʉ to 'o'oko ho uhne c'oeha 'o pasuya. pasuya 帶領孩子們去河邊
+1. 帶領. ita engocha ta pasuya 'o 'o'oko ho uhne c'oeha. Pasuya 帶領孩子們去河邊.
+1. 話說得少. mitac'o engzotʉ to pat'a'ausna taini. 他話說得很少
+1. 說一點點. tekoc'o engzota. 你少說點 [達邦社：engiota]
+1. 斷氣. mo entʉhʉ nsou ne hucma 'o mameoi ne peongsi 汪家的老人 昨天斷氣 2. 拉斷. sia na mo entʉhʉ to po'oyua? 誰拉斷了水管?
+1. 斷氣.
+1. 打(使用工具). mita eobako to oko 'e pasuya. pasuya 他打小孩 mo eobako to teova 'o mo oefʉ'ʉ ci evi. 倒下的樹打到工寮.
+1. 打(使用工具). ita eobaka ta pasuya 'e oko. 小孩是Pasuya 打的.
+1. 呼叫. mo yonta apihana ho eoho'ʉ co voyu. voyu 在對面呼叫著
+1. 呼叫.
+1. 最後叮嚀.
+1. 最後叮嚀.
+1. 搖動. mo eot'ou ta eukeokeo si oko. 小孩在搖動趕鳥器
+1. 搖動. isi eot'ova ta oko si eukeokeo. 小孩在搖動趕鳥器.
+1. 誇耀. la kaebʉ ho mo epapaata'e 'o 'o'oko. 小孩們喜歡誇耀事物
+1. 誇耀;炫. epapaata'zeni ta voyu na ita yaa ci fuzu. voyu 誇耀他抓到的山豬
+1. 誇耀. ita epapaata'zi a'o ta mo'o ho mita e'ohʉ. Mo'o 向我誇耀他去打獵.
+1. 選擇. teko epei no teko ana. 你選擇你要吃的
+1. 選擇;挑選. teko epeia na teko ana. 你選擇你要吃的 .
+1. 疤. na'na husansana si 'epi ta sapcisu. 你臉上的疤看得很清楚
+1. 很多疤;各式各樣的疤. mainci (mo) ma'e'epi si sapcisu? 你的臉怎麼很多疤?
+1. 用藤條打. mita epliki to oko. 他用藤條打小孩
+1. 鞭打. isi pahtoteuhi ne isi eplikva to inosi 'o oko. 小孩被他媽媽打了三下.
+1. 說話很白. mita na'no epopayo ho mita aomotʉ'ʉ. 他說話說得很白
+1. 說話很白.
+1. 顧左右而言他. mo mainci e'po'pou 'e oko ho os'o 'ucea tuocosi? 為何小孩對我的發問都顧左 右而言他? 2. 干擾. a'ʉmtʉ 'oha ʉmnʉ atfʉngʉ e'po'pou no nteta hioa. 真是抱歉一直干擾你說話
+1. 顧左右而言他. ita c'o at'inga e'po'pova 'o isi tuocosi. 他所問的他只答非所問
+1. 驅邪儀式. la boemi to haengu ho epsʉpsʉ no h'akukuv'o. 用五節芒驅除惡靈
+1. 驅邪儀式. te'o boemi to tapanzou ho epsʉpsa suu. 我要用舌菊為你驅邪.
+1. 打一個結. poa ep'ungu ta 'o'oko si nte'o titha ci teesi. 小孩把我要用的繩 子打一個結了
+1. 打一個結.
+1. 瑟縮. mita e'pʉ'pʉyʉ ho mo soyʉmʉ. 冷的時候瑟縮
+1. 集中起來.
+1. 長出；冒出. micu eseafo 'o hpoz'o to pai. 開始長出稻穗的花蕊。
+1. 到;出現. mita esmi 'e mo'o ne mimza cu oepʉngʉ. 我們吃完了MO'O 才來
+1. 到;出現. imza esmiza ne mita toa 'ocea. 他採茶的時候我們到達.
+1. 到;出現. mo sea'fʉnʉ 'o os'o esmizi ne mo'u cu bohsifou. 我攀登到陵線是我出現的地方
+1. 遲到. a'ʉmtʉ pa'hikokoe'i ho mi'o esnononhʉngʉ. 我遲到了真的 對不起。
+1. 痢疾. alʉ mateononmʉhʉ to paceofʉ ne mita esoskungi. 他瘧疾時都蓋到六層棉被。
+1. 搬得快. isi e'sosoni no sosea si moso supeopeohʉ ci naveu. 掉在地上的 飯,螞蟻搬得好快 poac'o maakakutia na temu hafa; teno e'sosoni. 你們每個人都帶一點,就可以搬得快
+1. 講話無礙很順;讀的很順. mita esosonʉ ho mita ya'ei 'e pasuya. pasuya 說話說得很流利
+1. 講話無礙很順;讀的很順. tec'o esosona 'o te e'e, o'a te namaci patvaveiveiya. 話要說得順 暢,不需要重複述說.
+1. 帶得順利. mo e'sosonʉ ho isi pofngua 'o hiafa. 用頭背式帶東西 很順利
+1. 竹枝. la peela teai si'ngi 'o esou to kaapana. 竹子的枝子可用來作掃把
+
+
+1. 事過才講. mita c'o esuae to ihe cu toehunga cohivi. 他說的只不過大家都 知道了
+1. 事過才講. cuma na ten'a koa engha ho iko cuc'o esuaeza. 你事後才講還有什麼好說的呢?
+
+1. 說定. zou 'o peongsi ho niahosa na te esvʉtʉ no hiesi no homeyaya. 小米收穫祭的舉行日期是 由汪氏族與梁氏族說定的
+1. 說定. os'o esvʉta 'o te hioa. 我說定要做的事.
+1. 建造工寮. la na'nosi no ma'haengu ho mo eteovʉ ne fuengu. 在山上搭建的工寮大都是用 五結 芒
+1. 建造工寮.
+1. 建造工寮. os'o eteovi si mo poneo. 我在平坦的地方搭建工寮.
+1. 召集. mita eteuyunu no teta engocha yahioa. 他召集一些人要來幫他工作
+1. 召集. ita eteuyuna ta mo'o 'o haah'o. Mo'o 召集了眾人.
+1. 用木棍打. mi'o etokʉ ta 'uachumu. 我敲打牛(宰殺)
+1. 敲打. naho cu etokʉa 'o 'uachumu 你們去敲打(宰殺)牛.
+1. 幫人說話. mita eto'usnu to mo yahngʉyʉ. 他在提親時幫忙說話
+1. 幫人說話. eto'usni ta pasuya 'o mo'o. Pasuya 幫Mo'o 說話.
+1. 說話有條理. a'ʉmtʉ etoyange ho mita aomotʉ'ʉ. 他說話真是很有 條理
+1. 說話有條理. ita etoyangza ho moso la i'mi ne patunkuonʉ 'e cou. 他很有條理地敘述鄒 族人從玉山遷移.
+1. 拉. ake'i ehoha'o ho teko e'tʉ ta po'oyua. 你拉水管時輕一點拉
+1. 拉. ake'a ehoha'va ho teko e'tʉi 'o po'oyua. 你拉水管時輕一點拉.
+1. 講對話. mita etuhcu to a'ʉmtʉsi. 他講對了
+1. 講對話. ita etuhca 'o a'ʉmtʉsi. 他講對了.
+1. 趕鳥器. mo eot'ou ta eukeokeo si oko. 小孩在搖動趕鳥器。
+1. 講話拐彎抹角. ote la 'ahʉyʉ eukuyungu ho mo aomotʉ'ʉ. 說話時不需要拐彎抹角
+1. 講話拐彎抹角. o'a teko 'ahʉya eukuyungva. 你不需要拐彎抹角.
+1. 迷路；不清楚方向；發瘋. mitan'a maololʉ totoefʉngʉ to feongo ne mita eʉngcʉ to fuengʉ. 他 在山上迷路時還會想到躲在洞裡。
+1. 全盤托出. 'ote la 'ahʉyʉ eup'op'o. 不一定要全盤托出
+1. 全盤托出. teav'a namaci eup'op'a 不一定要全盤托出.
+1. 告訴;告知. mita eʉsvʉtʉ to te hioa ho hucma. 他告知明天要做的工作
+1. 告訴;告知. tetacu eʉsvʉta na te hioa ho hucma. 他現在要告知明天要做的事.
+1. 告訴;告知. os'o eʉsvʉti 'o mo'o ho te yahioa ho hucma. 我告訴Mo'o 明天要工作.
+1. 叮嚀. mo mi'unu a'mi ho eutotavei 'e mameoi. 長者對我們叮嚀
+1. 叮嚀. isi mi'usmi a'mi to mameoi ho eutotaveia. 長者對我們叮嚀.
+1. 稱讚. mita e'ʉ'ʉmnʉ to 'o'oko. 他稱讚小孩
+1. 稱讚. isi e'ʉ'ʉmnʉa to lema'cohio 'e 'uongʉ. 老師稱讚'uongx
+1. 走路搖晃. Evalvalʉ ho mita coeconʉ 'e pasuya. Pasuya 走路時搖搖晃晃 。 [重心站不穩、搖 晃的樣子，如負重時、喝醉時。]
+1. 走路搖晃. E'va'vale ho mita coeconʉ 'e pasuya. Pasuya 走路時搖搖晃晃 。 [重心站不穩、搖 晃的樣子，如負重時、喝醉時。]
+1. 報復. yainca to seiso "ote la evei to mo mihango suu". 聖經上說:不要報復敵視你的人
+1. 報復. os'o eveia 'o mo'o. 我報復Mo'o 了
+1. 關節處折斷. mita e'vokʉ to ehti to evi. 他折斷樹枝
+1. 關節處折斷. os'o e'voki si ehti. 我折斷樹枝 .
+1. 崩塌. te ac'ʉha ho homna ho ihe teai 'o mo eyʉskʉ to ceonʉ? 崩塌的路他們要修到 什麼時候?
+1. 拉緊. na'no eyʉyʉcʉ ho mita mahmaceofʉ 'e yangui. Yangui 穿衣服都穿得很緊
+1. 拉緊. os'o cu eyʉyʉca 'o mapepethʉ'ta . 我已經把窗戶都關緊了.
+1. 給. ita faeni a'o 'o tposʉ to mo'o. 他把Mo'o 的書給了我
+1. 寬. micu engha faf'ohʉ si ita t'ot'i ci ezoyʉ. 他開墾的地相當寬大
+
+
+1. 夜晚. ho mo mokvo'ʉ ho mvʉecʉ ho mo feʉnga, la afnaso voecʉvcʉ. 當天氣有烏雲的夜晚,天 色是漆黑。
+1. 獸肉. la'u kaebʉ bonʉ to foumoatʉ'nʉ. 我很喜歡吃山 羊肉
+1. 豬肉.
+1. 山羊肉.
+1. 我的肉. ma isi otpʉska no sia 'e fou'u. 我的肉被誰吃了一口。
+1. 各種肉；許多肉. la mafe 'o mo cʉnghʉ to cmʉ'ʉ ci mafofou. 附著在腰骨的肉很好吃。
+1. 紅色；紅色的. couno ho lac'u meemeesi, la maceofʉ to yʉsʉ no fʉhngoya 'e haahocngʉ. 每逢祭 典時，男子都要穿著紅色的衣服。
+1. 忽然. miko yumzo no cuma ho miko ha'o na'no sʉ'no? 你忽然很生氣是 什麼原因?
+1. 赤腳. yunga si sapieisu ho hatasi. 脫掉你的鞋子打赤腳。
+1. 突出之地;山丘. imza emʉ'a ta hcuyu ta'e 'o ucei. 我們把芋頭種植在山丘那裡
+1. 群山. mo acʉhʉ yuepe 'e mahcuhcuyu ta psoseoanga. 阿里山山 群的山都高高的
+1. 陽具. mo titho to hiae'iza ho mahsoksoko to eʉskʉ. 用陽具指向崩山處。
+1. 鬼神. la smoyo no hicu 'o 'o'oko. 小孩子怕鬼神 panto la smoyo no hicu ci cou. 有的很怕鬼神 la yainca evi no hicu 'o sʉveʉ. 赤榕樹是鬼神的樹
+
+
+1. 旱地作物. na'no yʉ'ʉ'ʉmnʉ 'e hiehoma ta pasuya. pasuya 的作物長的很好
+1. 旱作園. te'o uhne hihiehoma'u. 我去我的旱作園
+1. 旱地作物. na'no yu'ʉ'ʉmnʉ 'e mahihiehoma ta pasuya. pasuya 的作物長的很好
+1. 肥料. ake'i soakak'ingi ta hileo. 肥料省著用。 [日語借詞]
+
+
+1. 愛惜. temu la yais'a 'e iachi ho himngonghi to mocmo. 你們要愛人如己 teto la yupa himngonghi to huehungu. 我們要與左右鄰居彼 此相愛
+1. 浸蝕刺激 . mo hmʉv'ʉ ta h'oh'o 'e haengi. 汗水浸蝕刺激 傷口
+1. 浸蝕刺激 . isi hvʉ'i ta haengi 'e h'oh'o. 汗水浸蝕刺激 傷口
+1. 發生過. mo mainenu na a'a'ausna to hosamuu ho moso cmoehu? 颱風過後，你們的部落的情 況如何？
+1. 故事；神話；傳說. mo man'i 'o h'oehanvʉ to soesoha. 法術之神有很多故事。
+1. 認出. os'o ho'honga tan'e 'e su'ku no cmoi 我看出這裡有熊的足跡
+1. 做記號;標示.
+1. 要是........ tesi nana teomi honci 'u m'eptu no takubingi no fʉesʉ. 要是我向他要七碗米，他不 知道會不會給我。
+1. 要是 ；如果. teno ʉmnʉ hocicuc'o hacayʉ na feango. 如果身體糟糕成這樣,怎麼得了?
+1. 如果他們.... mi'o na'no yophi honcihe la ta'unana a'o na mo mayo to evi. 我很擔心人家以 為木頭是我拿的。
+1. 如果你..... upena honciko man'i ci hioa. naho uhtan'e. 無論你再怎麼忙也要來。
+1. 如果他.... lasi tomʉti to fiteu na kuici hicu honcisi ohcum'a 'o kuba ho hosa. 如果惡靈靠 近男子會所與部落，木槲蘭能阻擋邪氣。
+1. 他要是........ ita ta'eyaeva honcita o'te meelʉ maine'e. 他擔心不能回家。
+1. 認得. 'a os'o honga 'o amosu. 我認得你的父親
+1. 皇帝(台語借詞). la meelʉ mebotngonʉ 'o honte ne noana'o. 以前的皇帝可以娶很多太太。 [台語借詞]
+1. 部落. te'o uhne hosa ho toamayasvi. 我要去部落參加戰祭
+1. 你們的部落 . mo mainenu na a'a'ausna to hosamuu ho moso cmoehu? 颱風過後，你們的 部落的情況如何？
+1. 我們的部落 . mo man'i 'o 'o'oanʉ ta hosamza. 部落有很 多種食物。
+1. 你的部落 . mo yonenu na no'ausnu no hosasu? 你的部落在 哪個方向?
+1. 我們的部落 . o a'ʉmtʉ cofkoya 'e peucu ta hosato. 我們部落的 空氣真的很 乾淨。
+1. 我的部落 . meesi maitan'e 'e hosa'u, micu es'esmi 'e mo i'mi ne ngeesangsi. 我的部落 今天 有祭典,平地來的訪客陸續 來到。
+1. 各部落. mo zoveo 'e mahohosa no cou ta psoseongana. 阿里山鄉有八個鄒族部落
+1. 杵立. os'o hosopi ta kaapana si os'o mʉ'a ci va'atʉ. 我把我種的絲瓜杵立竹竿。
+1. 要. te matvoveohʉ hote eobako. 打要打八次。
+1. 要做.......的時後. la paifutneni to mengzu ho emonoyiei 'o fkuo, tena yaahzoo hotela 'aafofou. 打仗時用芙蓉繩 (護身符)綁在長茅和刀鞘祈求天神的庇佑。
+1. 雨傘. pe'ongkeni ta mo yusuhngu si housua. 用雨傘為那坐著的人遮太陽。
+
+
+
+
+1. 傾倒. os'o hoyuha 'o pucu. 我倒垃圾
+1. 傾倒.
+1. 瞬間看到；之前看到. os'o yoponi 'o o'ula hucuni ci fuzu. 我放陷阱要抓我之前發現到的山豬 。
+
+1. 獵場;領域. mo yonenu na hupamuu? 你們的獵場在哪裡？ isi atuhca ta'upa no hupa ta cou 'o ne psoseongana. 阿里山主要是 屬於鄒族的傳統領域
+1. 他們的獵場. lata siho ohsasoe to hupahe. 他常常偷偷跑到別人的地(獵場)。
+1. 各個獵場.
+1. 肯定；看中. mac'o ci maica tehe cu hʉ'ʉmnʉa. 除非這樣才能得到她們的肯定。
+1. 各自. teto ianan'ou to te hioa. 咱們各做各的 teto ianan'ou to te mia (teto smainan'ou). 咱們各 走各的路
+1. 各自. la ianan'ova hioa 'o iachi ezoyʉ. 自己的土地自己耕作.
+1. 酋長；領導；頭目(達邦社的說法). zou 'oyusuhnga ta icangaya na eni. 這是領導的寶座。
+1. 依照. la ieni to mayasvi ho easmoyʉska 'o yu'fafoinana. 依照mayasvi 祭典為青年舉行成年禮。
+
+1. 開端 . la a'asvʉ 'o mameoi to pupuzu ho te i'eongcʉ to te toton'u. 要開墾玉米田之前 ，家族的 掌門人要先夢卜。
+1. 他們…….. ihe anova poa aisi uhne c'oeha 'o 'o'oko. 他們只讓小孩單獨去河邊。
+1. 他們只... ihec'o ʉsʉesi to toteocu 'o teova. 他們只用蛇木給工寮立柱子。
+1. 他們終於……； 他們已經. mateopoptuhu ne ihecu 'a'usni 'o snumaso. 開了七次槍之後 他們終於拿下公鹿。
+1. 他們剛…….；他們才正在……. ihen'a nookai ne hucma 'e emoo eni. 他們昨天剛入住 這棟房子。
+1. 因為他們…….. mo c'o okameosʉ 'o mo'o ci ihe'so eoho'a. Mo'o 就吃一下， 因為他們請 他過去。
+1. 和他人不同 . mainci i'hunu nose'u 'o pasuya? 為什麼獨獨Pasuya 在別處?
+1. 只有……(和他人不同 ). manci miko ih'unu soenanac'o? 怎麼只有你一個人喝得很傷心?
+1. 喝. ita ima ta amo si emi. 爸爸把酒喝了
+1. 從. mi'o i'mi ne hosa. 我來自大社
+1. 從. zou hosa 'o os'o i'mizi. 我來自大社.
+1. 我們要……；我們為……； 我們有……. imia noteuyuneni 'o avai ho te heetai. 我們為即將當 兵的Avai 聚在一起.(Tpangʉ 說法)。
+1. 阿姨；舅媽；伯母；姑姑；嬸嬸 (女性長輩). alʉ meoi no tmaha'o to huv'o ne mi'o uhto inoconi. 我去看阿姨時收到不少的橘子。
+1. 站在明顯處. teko i'payo tehe eno aiti. 站到明顯處好讓他們 看見
+1. 站在明顯處.
+1. 站在明顯處.
+1. 他.... isi patpopsohi ne isi pnaa 'o 'ua. 他射鹿時打了兩槍。
+1. 他只是；他只有. isic'o okameosa to feʉ'ʉ 'o os'o p'aeni ci emcu. 我餵給豬的地 瓜葉牠只 在瞬間被吃光了。
+1. 他已經被.... mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 他已經相信基督，所以 被受洗。
+1. 他還在…….. isin'a honga si ohsi smoftongi no kuyai. 車子撞的地方還看得出來。
+1. 他只幫. itac'o engheni si 'o'oko ta tposʉ. 他只是幫小朋友念書。
+1. 參與. mi'o i'upu ho yahioa. 我參與工作 leata 'ote amako ma'moalʉ i'upu meesi. 對參加祭典漠 不關心. mita seolʉa no i'upu ta meesi. 他正在參加祭典.
+1. 參與. os'o i'upi ne mita yahioa. 我參與他的工作.
+1. 男子名. imu amaka poa otpʉskʉ to imu ana ci fou 'e 'iusungu. 你們至少分一點你們吃的肉 給'Iusungu 。 leata kaebʉ efkʉtʉ to la ea'ei 'e 'iusungu. iusungu 喜歡打斷別人說話。
+1. 男子名. leata kaebʉ efkʉtʉ to la ea'ei 'e 'iyusungu. 'iyusungu 喜歡打斷別人說話。
+1. 竹子. man'i 'o la titheni to kaapana ho teai ci macucuma. 許多東西可以用竹子做的
+
+
+1. 竹林. mo covhi 'o kakapana'u. 我的竹林很遠
+1. 你的桂竹園. mainci ala poa tuapayo'neni to 'iusungu 'o kakapanasu. 你怎麼讓'iusungu 割 毀你的桂竹林。
+1. 我的桂竹園. mo yonto mo mioza 'o kakapana'u. 我的桂竹林是向陽之地。
+1. 高興;喜歡. la'u kaebʉ pasunaeno. 我喜歡唱歌 2. 幸災樂禍. os'o kaebeni ho mita smopcuku.
+1. 高興;喜歡. la'u kaeba aiti 'o paicʉ. 我喜歡看Paicʉ, 我常看見Paicʉ.
+1. 看中；看喜歡；看上. lata m'eav'ov'o to ita hukaeba ci machachae. 他要了很 多種 他看中的菜。
+1. 高興;喜歡. os'o kaebeni ho mita smopcuku. 他跌倒時,我幸災樂禍.
+1. 受人喜歡；受人喜愛. lahe yukaeba 'o mo himcocoveoi ci yatatiskova. 有憐憫心的人很 受人歡迎。
+1. 汙垢. petohʉya tov'ohi si kanti ta t'ango'u. 終於洗掉我腳上的汙垢。
+1. 咬一小塊. isi katpʉski no av'u 'o ita ngov'eni ci simeo. 他掛著的豬肉 被狗咬掉一小塊
+1. 油桐樹. la seo'tʉi to 'uachumu si kausayʉ. 那油桐樹是用來綁牛的。
+1. 黑捲尾鳥. isi smopaevi ta kea'ciu si 'uachumu. 黑捲尾鳥在牛背上。
+1. 木耳. la cmʉfeʉ to ceaf'u 'o keetʉe. 木耳會長在倒下的腐木。
+
+
+1. 獸蹄. Honga si kenkengi si ta ta'cʉ ho moso muio no smohpici. 看得出來這山羌的獸蹄是陷入 野獸夾。
+1. 乾燥硬化. mo keolo 'e ceoa ho mo o'te ahtu mʉchʉ. 太久沒下雨土地都乾了
+1. 肉乾. mi'o seolʉa no mooyai foukeolo. 我正在做肉乾
+1. 咖啡(外語借詞). isicu t'ot'i to voyu 'o tesi mʉ'i to khafei. 要種咖啡的地已經開墾 了。
+1. 磅秤(日語). panto la masvo'ho to mo se'eicha no kinkina. 有人帶得動兩百公斤(重的物品)。
+1. 皮膚病. ohola na'no tohaeva 'o mo kiskisa. 以前很怕有魚鱗癬的會傳染。
+1. 基督(外語借詞). mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 他已經相信基督,所以領受 洗禮。
+1. 咬一口. kmameoisi kmac'ohʉ to ufi 'e voyu. Voyu 咬了一大口年糕 kmac'ohʉ ta ufi 'e voyu. Vo yu 咬了一口年糕
+1. 咬一口. ita kac'ohi ta voyu 'e ufi. Voyu 咬了一口年糕.
+1. 咬一小塊. amaka poa kmatpʉskʉ ta imu pʉpʉta 'e 'atai. 至少讓'atai咬一點你們握著的食物
+1. 咬一小塊. teai si ufi ho katpʉskeni no tesi ana ta oko. 咬一小塊年糕給孩子吃.
+1. 佛手瓜. micu yu'ti'eo'eopʉ 'o emcu to o'u mʉ'a ci koea. 我種的佛手瓜藤已經互相連接起來。 [閩南語借詞]
+
+
+
+
+ teta aomotʉ'ʉ 'e pasuya. Pasuya 要說話時看起來很羞怯。
+1. 害羞；不好意思. o'a mocula bochio no koei 'e 'o'oko ho mo pae'ekut'i. 小孩露出私密處 還不知道害羞。
+1. 尊敬. la toehunga koe'ia 'e kingatu. 大家都很 尊敬頭目.
+1. 嬰兒. la na'no m'ona'o 'o mon'a ko'ingi hola oengʉtʉ. 嬰兒睡覺時會睡很久。
+1. 螺. ohola thuci to kokeu 'o papai ne noana'o 以前的稻田會養田螺
+1. 蝸牛.
+
+
+1. 所以. mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 他已經相信基督,所以領受洗禮。
+1. 怪手(國語借詞). ala yukeololvi ta kuaisou si va'hʉ ho isi 'aoko pa'ea. 河流被怪手一直挖到 乾 涸。
+1. 壞的. micu kuzo si f'ue. 地瓜已經壞掉了
+1. 看不順眼. mita na'no buhkuzo ta mo eabobonʉ 'e yangui. Yangui 看著那些吃飯的人很不 順眼。
+1. 討厭. os'o kuzoa 'o voyu. 我討厭Vo yu
+1. 會. ho micu a'eici 'e haahocngʉ, lac'u maololʉ no teoa nanghia. 男人衝動時，會想找伴。
+1. 只能是...；只會是.... ho micu mihof'oya 'o ceoa lac'uc'o yuhomcoi 'o isi mʉemʉ'a. 土壤 呈現乾黃時,種植的作物會枯萎。
+1. 他們會. lahe na'nosi no titha moyai sume ci emi 'o batayʉ. 他們多半常用高梁作烈酒。
+1. 你要. teko la buveici upena ho lako ngoseo. 就算很辛苦你也要忍耐。
+1. 我會. a la'u c'o aasvʉtʉ ake'i mimo to emi. 我只有偶而喝一點酒。
+1. 我只有；我只會.... 'a la'uc'o aasvʉtʉ ake'i mimo to emi. 我只有偶而喝一點酒。
+1. 我會. o'a la'us'a smeecʉ'ho bonʉ to sieva no simeo. 我不敢吃醃豬肉。
+1. 專事教學的;教師. mo asno'zonʉ 'o lema'cohiomza. 我們的老 師很認真 2. 教學. lata lema'cohio pasunaeno 'e voyu. 專門教唱歌 mo botngonʉ 'o la lema'cohio ta emoomza. 我們家族 有很多老師 mita lema'cohio to 'oyonatmopsʉ. 他是在學校教書的
+1. 泥巴. mo m'eefo'ʉ to linki 'e ciengona ta t'ango'u. 我的另一隻腳陷到泥巴裡。
+1. 蚱蜢. mo koa kuzo to heʉm'ʉ 'o liu. 蚱蜢對農作物不好
+
+
+1. 很多蚱蜢;很多種蚱蜢. to maliliu panto la bonʉ to heoemʉ'ʉ. 不同種的蚱蜢中,有的蚱蜢 會吃農作物
+1. 羅家. mo conoemoo 'o yulunana ho luheacana. 湯家和羅家是一家人。
+1. 容易. la luya cʉnghʉ to yʉsʉ 'o malʉngeavana. 鬼針草易沾到衣服上。 [等於lua]
+1. 不禮貌. mo 'oha luyaenva ho mo teoameoisi to isi 'o'ana. 吃東西時翻找大的食物是不禮貌的。
+
+1. 愛慕,思念. mita maaecingei to naa'u 'e 'uongʉ. uongʉ 愛慕Naau
+1. 切,鋸. mita maapaso to evi 'e 'uongʉ. uongʉ 鋸樹 mita maapaso to fou 'e 'uongʉ. 'uongʉ 切肉
+1. 撈魚. mo maaseu ne c'oeha 'o pasuya. Pasuya 在河裡撈魚
+1. 撈魚. ita paaseua ta pasuya 'o yoskʉ. Pasuya 把魚撈起來
+1. 炫燿. maata'e ho mita mayo to fuzu. 他炫燿自己抓到山豬
+1. 炫燿. paata'zeni ta 'atai 'o ita yaa ci fuzu. 'Atai 炫燿自己抓到的山豬 .
+1. 打開;開著. mita maavo ta phingi 'e pasuya. Pasuya 開門 sia na mo maavo to phingi? 誰開門? mo anʉ'ʉ maavo ta phingi. 那門一直是開著的
+1. 打開;開著. isi paavi no sia 'o phingi? 誰開門?
+1. 打開;開著. isi paavneni to phingi 'o mo esmi. 他為來的人開門.
+1. 小腿肚. la kahkʉmnʉ 'o mabʉya to la kaebʉ aut'ot'ou. 喜歡運動的人小腿都很粗
+1. 我的小腿肚. s'o peuasasa co mabʉya'u ci mo yatunga. 我撫摸我發麻的雙腳。
+1. 前小腿.
+1. 舔. mo maceicei to sieu 'o 'uachumu. 牛在舔鹽.
+1. 舔. isi paceicei to 'uachumu 'o sieu. 牛在舔鹽.
+1. 舔. lac'o maceici to chumu 'o av'u ho mo mimo. 狗喝水時用舌頭舔.
+1. 舔一舔. moc'o mahmaceicei to tesi ana 'o av'u, micu pkaako. 那隻狗只舔一舔牠的食物 就走開了
+1. 穿著. mita maceofʉ to nia feo'u no cmoi. 他穿著熊皮 la maceofʉ to mo ocmʉyʉ ho mo soyʉmʉ. 天冷時穿厚衣 2. 蓋被子. 'ote'so o'te maceofʉ ho miko oengʉtʉ. 你睡覺不要不蓋被子 ohola paceofa ne noana'o 'o feo'u. 以前把獸皮當棉被蓋
+1. 穿一穿;蓋一蓋. mitac'o mahmaceofʉ ho mita oengʉtʉ. 他睡覺時棉被只蓋一蓋
+1. 穿一穿;蓋一蓋. itac'o pahpaceofa 'o yʉsʉ, itacu yunga. 那衣服他只穿一穿就丟掉
+1. 蓋被子. os'o paceofi si oko ho mo oengʉtʉ. 我幫睡著的孩子蓋上被子
+1. 穿著. te'o paceofneni suu 'e mo ocmʉyʉ ci yʉsʉ. 我幫你穿上厚衣.
+1. 對…仁慈. tela ma'cinghi tomo 'atutumzo to huehungu. 對鄰居中較清苦的要仁慈以待
+1. 仁慈. tela ta'cingha 'o mauputisi to huehungu. 對鄰居中較弱勢的要仁慈以待
+1. 通知. mita ma'cohio ho teta cu heetai. 他告知大家他要 當兵了 2. 教導. mita ma'cohio to 'o'oko. 他教導小孩 mo ma'cohio bua cou 'o mameoi. 老人教導說母語
+1. 教導. os'o pa'cohivneni to ba'i 'o tasi oahtua. 我告知祖母她的午餐. mio pasucou 'o isi 媽我要下山 . e ehoi ho eao osi la pa'cohivneni no hamo ho yainca "temu la maica ho temu la pasunaeno". 神曲和送神曲是天神hamo 教導的，祂說：「你們唱的時候要這樣唱。」
+1. 挖. mita ma'e to teta chache. 他正在整地準備種菜
+1. 挖一挖,整地. mo ma'ma'e to teta chachae. 要做菜園的地 方先鋤一鋤 la ma'ma'e ho te ahoi miyapo to ton'u. 小米播種前(土地)要挖一挖
+1. 挖....... mo ʉmnʉ ho isi titha momo ho titha meiya f'ue 'o tu'u. 小鋤頭用來除草和挖地瓜 很好用。
+1. 挖. ita pa'ea 'o f'ue 他在挖地 瓜。
+1. 事前擔心. mita ma'eayo no o'te meelʉ maine'e. 他擔心不能回家
+1. 事前擔心. ita ta'eaeva honcita o'te meelʉ maine'e. 他擔心不能回家.
+1. 愛慕,思念. lea'u maecingei to 'o'oko hola o'te ahtu maine'e. 小孩子很少回來, 我思念他們.
+1. 愛慕,思念. lea'u conino taecingea 'o 'akuanʉ. 我經常思念'Akuanʉ.
+1. 能丟到夠遠的距離. mita maecʉ'ho to apihana to c'oeha. 他能丟到河的對岸
+1. 能丟到夠遠的距離. ita paecʉ'heni ta apihana 'o fatu. 他把石頭丟到河的對岸.
+1. 嚇人. la alʉ maehʉzʉ ho mo muni 'o ak'engʉca. 打雷很嚇人.
+1. 丟中. o'te mako maelʉ ho mita mtokʉ. 他丟沒丟中 2. 容易找到. na'no maelʉ to mo mimo 'e pasuya. pasuya 很容易找到喝酒的人 na'no maelʉ to mo nouteuyunu 'e pasuya. pasuya 很容易找 到聚集的人
+1. 丟中. isi oc'ocic'o paelʉi ta fatu si fkoi. 他碰巧用石頭打中蛇.
+1. 丟中. oc'ocic'o paelʉneni ta fkoi si fatu. 他碰巧用石頭打中蛇.
+1. 種的東西數量夠. 'ua te maemamso to tothuca no 'ocea. 要種的茶苗已經夠了
+1. 種的東西數量夠. 'ua te paemamsoza 'o tothuca no 'ocea. 茶苗已經夠我們種了.
+1. 種植以後就不理. mitac'o maenʉ'ʉ to chae ho o'te cumasa. 他種了菜之後就不管理了
+1. 伐木. pano mo ma'eof'ʉ to c'osʉ. 有人砍倒樟樹
+1. 伐木. ihe pa'eof'a 'o c'osʉ. 他們砍倒樟樹.
+1. 疊. la poa maepesviei 'o fatu ci te huomza. 把石頭疊起來做記號
+1. 疊. la paepesvia 'o fatu ci te huomza. 把石頭疊起來做記號
+1. 繫結. mo maepo'eisi to t'ango to 'uachumu 'o teesi. 繩子綁住牛的腳.
+1. 繫結. ita paepo'eisa 'o 'eongʉ to yungku. 他把籃子的帶子繫上
+1. 繫結. ita paepo'isneni to av'u 'o teesi. 他用繩子綁住狗.
+1. 打結. mita maepo'isi to 'eongʉ to sapiei. 他在綁鞋帶
+1. 打結. isi paepo'isa 'o 'eongʉ to sapiei. 他在綁鞋帶.
+1. 燒了不管. mi'o maesinʉ'ʉ to ceohu to ceonʉ. 我燒了路邊的乾草叢就不管
+1. 燒了不管. os'o aesinʉ'va 'o os'o t'ot'i. 我燒了開墾的旱地就不管.
+1. 直拋. mi'o maesʉngcʉ ne mi'o mtokʉ. 我丟得直直的
+1. 拋直. os'o paesngʉcveni 'o fatu ho ciha. 我石頭丟得直直的 .
+1. 想太多 ; 多慮. ote la ma'eungzu no uk'a yupasʉ. 不要因為沒錢而過於憂慮
+1. 想太多; 多慮. teav'a ta'eungza ho yainca uk'a ci'so peisu'u. 不要憂慮說因為我沒錢.
+1. 補種. mita maevaho to mo mcoi ci 'ocea. 他補種死掉的茶樹
+1. 補種. ita paevahi 'o mo mcoi ci 'ocea. 他補種死掉的茶樹.
+1. 往下方丟. mita maeyovcu to fatu. 他把石頭往下丟.
+1. 往下方丟. ita paeyovci to fatu 'o oi'i to ceonʉ. 他往路下丟石頭.
+1. 往下方丟. ita toyovceni 'o fatu. 他把石頭往下丟了
+1. 也要. te'o maezo uhne maibayu. 我也要去嘉義 te'o maezo bonʉ to fou fuzu. 我也要吃山豬肉
+2. 像. mita maezo to amotaini ho mau'to'tohʉngʉ. 他像他爸爸一樣聰明
+
+
+1. 好吃. mo mafe 'e taumu. 草莓很好吃。
+1. 喜歡吃. leako emafe to yoskʉ? 你喜歡吃 魚嗎?
+1. 最好吃. mo somafea to mapapasʉ 'o pasnoaʉlʉ. 上等箭竹的筍最好吃。
+1. 喜歡吃. lahe mafea to mamameoi 'o micu ake'i nafongku ci fou moatʉ'nʉ. 那已經有點腐味的山 羊肉是長者們喜歡吃的
+1. 滑滑的. la ma'mome to mo mafeʉsʉ ci fatu 'o yoskʉaʉlʉ. 苦花魚食用石上的青苔，身體翻轉 發亮。 2. 青苔 .
+
+
+1. 帶. mita mahafo to chumu ci te ima. 他攜帶飲用水 mita mahafo to te ima ci chumu. 他攜帶飲 用水
+1. 帶. ita hafa 'o te ima ci chumu. 他攜帶飲水
+1. 帶. ita hafneni ta chumu a'o. 他幫我帶水.
+1. 翻譯. sia na te mahcinghi ta e'e-'u? 誰要幫我翻譯?
+
+1. 翻譯. teta pahcingheni si mo bua 'angmu. 他要幫說外語的人翻譯.
+1. 綁錯. 'ote so mahe'pou to po'oyua. 不要綁錯水管
+1. 綁錯. teav'a'so pahe'pova 'o po'oyua. 不要綁錯水管
+1. 打死結. ote la mahep'ungu to 'eongʉ to sapiei. 鞋帶不要打死結 'ote so mahep'ungu ta sʉesʉ. 不 要在柱子上打死結
+1. 打死結. teav'a so pahep'unga 'o 'eongʉ to sapiei. 鞋帶不要打死結.
+1. 再綁,重綁. mi'o mahevaho to ita o'te pahev'oha. 我把他綁不 緊的重綁上
+1. 再綁,重綁. os'o pahevaha 'o ita o'te pahev'oha. 我把他綁不 緊的重綁上.
+1. 來回綁. alʉ mahevaveivei 'e hia tacvoh'i ta teesi. 那樣長的繩子可以來回綁好幾圈
+1. 來回綁. ala pahevaveiveia 'o hia tacvoh'i to teesi. 那樣長的繩子可以來回綁好幾圈.
+1. 綁. mita 'ote mahev'ohʉ to po'oyua. 他綁不好 水管 mita 'ote mahev'ohʉ to 'eongʉ to yungku 'e yangui. Yangui 綁不成背籃的帶子
+1. 綁. o'a ita pahev'oha 'o po'oyua. 他綁不好 水管
+1. 綁緊. mita maheyʉcʉ to sapiei. 他綁緊鞋子
+1. 綁緊. ita paheyʉca 'o sapiei taini. 他把他的 鞋子綁緊.
+1. 阻水捉魚. teto n'a uhne c'oeha ho mahfuyo. 咱們去河邊阻水捉魚
+1. 阻水捉魚. teto pahfueva 'o mo feou. 咱們來阻水抓魚.
+1. 排的方向. te maica na te ma'hi'ausnu no te oevoi. 躺的方向要這樣
+1. 排的方向. te yaica nate pa'hi'ausna no pangka. 桌子要這樣排.
+1. 變換睡態. te poa ma'hiezuhu si oko ci tes'a supeohʉ. 讓孩子變換睡之姿以免掉下床 2. 變換 所屬. mita mici ma'hiezuhu ne apihana 'e mo'o. Mo'o 想要歸屬對岸
+1. 變換睡姿. te pa'hiezuha si oko tes'a supeohʉ. 讓孩子變換睡之姿以免掉下床.
+1. 橫倒. mo ma'hifeoyʉ to ceonʉ 'o evi. 樹橫倒在路上
+1. 橫躺;橫睡;橫放. ihe pa'hifeoya to ceonʉ 'o evi. 他們把樹橫放在路上.
+1. 夠躺. mo so okosi 'e hopo; o'a tekos'a ma'himamso. 床太小,不夠你躺
+1. 夠躺. mo'so okosi 'e hopo; o'a tekos'a pa'himamsozi. 床太小,不夠你躺.
+1. 排十列/排. mo ma'himaskʉ 'o mo notoyange ci pangka. 桌子排成十排
+1. 排十列/排. ihe pa'himaska 'o ihe patoyangza ci pangka. 他們把桌子排了十排.
+1. 橫躺阻擋. mo ma'himʉtʉ to ceonʉ 'o mo oefʉ'ʉ ci pcoknʉ. 倒下的麻竹擋著路
+1. 擋路. ihe pa'himʉta to ceonʉ 'o pcoknʉ. 他們用麻竹擋路.
+1. 橫躺阻擋. isi pa'himʉti to mo oefʉ'ʉ ci pcoknʉ 'o ceonʉ. 倒下的麻竹擋住路.
+1. 排成六排. mo ma'hinonmʉhʉ 'o mo notoyange ci pangka. 桌子排成六排
+1. 排成六排. isi pa'hinonmʉha 'o isi patoyangza ci pangka. 桌子排成六排.
+1. 排一列/排. mo ma'hinsohʉ 'o mo notoyange ci pangka. 桌子排成一排
+1. 排一列/排. isi pa'hinsoha 'o isi patoyangza ci pangka. 桌子排成一排
+1. 排七十列/排. mo ma'hipitvʉhʉ 'o mo notoyange ci pangka. 桌子排成七十排
+1. 排七十列/排. isi pa'himpʉtvʉha 'o isi patoyangza ci pangka. 桌子排成七十排.
+1. 排兩列/排. mo ma'hipopsohʉ 'o mo notoyange ci ca'hʉ. 椅子排兩排
+1. 排兩列/排. isi pa'hipopsoha 'o isi patoyangza ci ca'hʉ. 椅子排兩排.
+1. 擦. mo mahisi to pangka 'o oko. 小孩擦桌子
+1. 擦. isi pahisi to oko 'o pangka. 小孩擦桌子.
+1. 擦. os'o pahisineni ta pangka si yʉsʉ'u. 我用衣服擦桌子.
+1. 排九列/排. mo ma'hisosiohʉ 'o mo notoyange ci ca'hʉ. 椅子排成九排
+1. 排九列/排. isi pa'hisosioha 'o isi patoyangza ci ca'hʉ. 椅子排成九排.
+1. 四列/排. mo ma'hisospothʉ 'o mo notoyange ci ca'hʉ. 椅子排成四排
+1. 四列/排. isi pa'hisospotha 'o isi patoyangza ci ca'hʉ. 椅子排成四排.
+1. 躺直. temu poa ma'hisʉngcʉ si kaapana. 你們把竹子排直
+1. 躺直. temu pa'hisʉngcva si kaapana. 你們把竹子排直.
+1. 躺直. temu pa'hisʉngcva si kaapana. 你們把竹子排直.
+1. 往上躺著. la ma'hiteufzu 'o fnguu ho mo oevoi. 睡覺的時候要往上躺著
+1. 往上躺著. ihe pa'hiteufza to ceonʉ 'o evi. 他們把木頭往路上排著. os'o pa'hiteufza 'o kuyai-'u. 我把我的 車子往上停著.
+1. 排在一起;睡在一起. mo ma'hiteuyunu oevoi 'o 'o'oko. 孩子們睡在一起
+1. 排在一起;睡在一起. isi cu pa'hiteuyuna 'o tuapzu. 把柴火排在一起.
+1. 排三列/排. mo ma'hitoteuhu 'o mo notoyange ci ca'hʉ. 椅子排成三排
+1. 排三列/排. isi pa'hitoteuha 'o isi patoyangza ci ca'hʉ. 椅子排成三排.
+1. 躺入; 屬於. mo ma'hi'upu to niahosa 'o tuthusana. 朱家屬於粱家的家族 系統 mi'o ma'hi'upu to mo mohtoyange to pupuzu. 我加入躺臥在火爐旁的人群中
+1. 躺入; 屬於. naho pa'hi'upa 'e pangka eni. 這張桌子也排進去
+1. 屬於. mo ma'hi'usnu ta hosa ta tfuya 'o ne pnguu. 來吉屬於特富野社
+1. 屬於. zou hosa ta tfuya 'o isi ma'hi'usni ta (to) lalauya ho pnguu. 樂野和來吉屬於特富野 社.
+1. 屬於. mo mah'i'usnu ta tfuy 'o tiaki'ana. 鄭家是特富野社的。 2. 指向.
+1. 朝向哪裡. te poa ma'hi'vonʉ na pangka. 桌子要朝向哪裡?
+1. 朝向哪裡. te pa'hi'vona na pangka. 桌子要朝向哪裡?
+1. 排八列/排. mo ma'hivoveohʉ 'o mo notoyange ci ca'hʉ. 椅子排成八排
+1. 排八列/排. ita pa'hivoveoha 'o ita patoyangza ci ca'hʉ. 他把椅子排成八排.
+1. 排五列/排. mo ma'hiyoemohʉ 'o mo notoyange ci pangka. 桌子排了五排
+1. 排五列/排. ihe pa'hiyoemoha 'o ihe patoyangza ci pangka. 他們把桌子排了五排.
+1. 躺著朝下(南). teko poa ma'hiyovcu ta ceonʉ si evi. 你把樹朝下排放著
+1. 躺著朝下(南). teko pa'hiyovca ta ceonʉ si evi. 你把樹朝下排放著.
+1. 只燒. mita mahnou to evi ho peipei'i. 他煮飯只燒木頭
+1. 只燒. itac'o ahnova 'o kaapana. 他只燒竹子
+1. 只燒. itac'o ahnovi to evi 'o pupuzu. 他在爐灶只燒竹子
+1. 燒了就不管. mita mahnʉ'ʉ to evi ho o'tena aʉlʉa. 他燒了木材就不再理會了
+1. 燒了就不管. pahnʉ'va ta paicʉ 'e pupuzu ho 'otena cumasa. Paicʉ 燒了火爐就不管了.
+1. 燒了就不管. ita pahnʉ'vi to evi 'o pupuzu. 他在火爐燒了木柴就不管了.
+1. 抱. mita mahsaho to foinana. 他抱嬰兒
+1. 抱. os'o pahsaha 'e foinana. 我抱著嬰兒.
+1. 抱. os'o pahsahneni 'e yangui ne mita pei'i. Yangui 煮飯時我幫她抱嬰兒.
+1. 說,喊,叫唱九節或唱九次. mo mahsiohʉ 'o mo pasu i'ahe ne yoyasva. 在廣場唱的人唱了九節 i'ahe
+1. 說,喊,叫唱九節或唱九次. i'o pahsioha 'o i'ahe. 我i'ahe 唱了九節.
+1. 發射九次. mo alʉ mahsiohʉ 'o mo posmoebako. 有人竟然 射擊了九次
+1. 沾湯(鹽巴水). moso la mahsiu ho te opaski 'o nia maameoi-to. 以前我們的老人家會 沾湯(鹽巴 水)當配菜
+1. 猥褻動作. mo titho to hiae'iza ho mahsoksoko to eʉskʉ. 用陽具指向崩山處
+1. 措辭強烈,不留情面. mahsosonʉ ho mita aomotʉ'ʉ 'e mo'o. Mo'o 說話時不留情面 o'atela mahsosonʉ mo'engho no mocmo. 對別人說話不要不留情面
+1. 措辭強烈,不留情面. ita pahsosona ta mo'o 'o a'ʉmtʉsi. Mo'o 把事實毫不留情地全盤托 出.
+1. 射殺四次. mo mahsospotʉ 'o mo pono to fuzu. 開槍的人對山豬射了四次
+1. 打了四次. mo mahsospotʉ ne isi eobaka to fa'ei 'o fkoi. Fa'ei 打蛇打了 四次
+1. 沾鹽巴. mita mahsungsungu to cuc'u ho bonʉ 'e pasuya. Pasuya 用生薑沾鹽巴來吃飯
+1. 沾鹽巴. ohela pahsungsungneni 'o cuc'u ho bonʉ. 他們以前吃飯常常拿生薑沾鹽巴來吃
+1. 訓誡. mo mahsʉsʉftʉ to 'o'oko 'o amo ne hucma. 昨天父親訓誡孩子們
+1. 說,喊,唱,叫三次或三節. teko mahtoteuhu to toiso 你Toiso 請唱三次/三段
+1. 說,喊,唱,叫三次或三節. isi pahtoteuha to voyu 'o toiso Voyu 把Toiso 唱三段/三次.
+1. 抬一抬. mita mahtothomʉ to fatu. 他抬抬看石頭
+1. 抬一抬. ita pahtothoma 'o fatu. 他抬抬看石頭.
+1. 硬,堅固. mo na'no mahtʉicʉ ho isi sʉesʉ si teʉfsʉ. 櫸木當柱子很堅固 2. 固執. na'no mahtʉicʉ co 'tohʉngʉ taini. 他很固執
+1. 使堅立；使堅固；使硬實 . la fihta mayasvi 'e conoyou, m'ea no'upi no hamo ho poa tmʉ'pʉ'pʉyʉ ho peela amamahtʉica na h'oyunsova. 藉著Mayasvi ，求神同在， 使部落的生 命團結堅立。
+1. 非常堅固. mo mamahtʉicʉ 'o sʉesʉ. 柱子非常堅固
+1. 用來當柴火燒. teto mahtupuzu to kaapana. 我們用竹子當柴火燒
+1. 用來當柴火燒. teta tupuzi to kaapana 'o pupuzu. 他要在火塘上用竹子燒火. 'a pupuzu 'o teta tupuzi to kaapana. 他要在火塘上用竹子燒火.
+1. 用來當柴火燒. os'o tupuzneni 'e pasuya. 我幫pasuya 燒柴火. teta tupuzneni 'e kaapana. 他用竹子燒火.
+1. 擦汗. mita boemi to suyu taini ho maihaengi. 他用衣袖擦汗
+1. 擦汗. ita paihaengia si 'o'oko. 他幫孩子擦汗.
+1. 擦汗. ita paihaengineni ta oko si 'oyoemuya. 他用毛巾幫孩子擦汗
+1. 圍成圈. mo maikuyungu si mo mimo ci haah'o. 年輕人圍成一圈喝酒 mihin'i maikuyungu to pupuzu ho ngicu. 它們為在火爐邊烤火
+1. 可愛. lac'o maimai si mauputisi ta feʉ'u. 很矮小的小豬很 可愛。
+1. 坐滿. o'te maimamso to pangka 'o mo bonʉ. 這桌子坐不下吃飯的人
+1. 不夠坐. o'a ihe paimamsozi to mo bonʉ 'o pangka. 吃飯的人坐不滿桌子. ihe paimamsozi to mo bonʉ 'o pangka. 吃飯的人夠坐那桌子.
+1. 這樣說. mi'o mainca " 'aveoveoyʉ". 我說謝謝 'ote 'aoko mainca. 別一直這樣說
+1. 怎麼. mo mainenu 'o yangui ne hucma? Yangui 昨天是怎麼了? mio mainenu 'o 'a'ausna to inguyu maitan'e? Inguyu 今天情況如何 ? 2. 如何. te mainenu na te hia uhne tfuya? 要如何去 Tfuya?
+1. 寄少量. mita ma'ingzotʉ ma'imaine'e to tahza. 他寄少量的豆回家
+1. 寄少量. ita pa'eingzoti (na) a'mi to tahza. 他寄少量的豆給我們.
+1. 按照. naho poa maino huphina-si ho phieni. 你就按照它的價錢去賣.
+1. 像這樣. mo'so maica. koko o'a teta meelʉ uso. 因為這樣,所以他不能來/去 'a mo eno maica. 就是這樣 maisica 像今天,像那個(近) 2. 按照.
+1. 像那個(遠). te maita iko teai na te'o phingi. 我的門要比照你做的門
+
+
+1. 按照.
+1. 圍一圈. mo aʉlʉ mainsohʉ ta fatu 'e teesi. 這繩子剛好可以圍石頭一圈
+1. 圍一圈. isi aʉla painsohi ta teesi si fatu. 這繩子剛好可以圍石頭一圈.
+1. 好像. mais'a mameoi ho mo bonʉ si oko. 小孩吃東西像老人
+1. 好像. tav'a yais'a oko ho iko ya'ezneni si mameoi. 跟老人講話不要像跟小孩講話一樣.
+1. 送去集中. te ma'iteuyunu to emi 'o macocono emoo no peisia. 把各家族的酒送去集中
+1. 送去集中. ihe pa'iteuyuna 'o emi to macocono emoonopeisia. 他們把各祭屋的酒都送去 集中.
+1. 送去集中. la pa'iteuyuni to emi 'o peongsi. 把酒集中到汪家.
+1. 屬於. mo mai'unu to vayaeana 'o yapsuyongana. Yapsuyongana 是屬汪氏家族的一 支。 2. 寄 出.
+1. 寄. te'o ma'i'usnu to peisu to oko. 我要寄錢給小孩
+1. 寄. os'o pa'i'usna to paicʉ 'o tposʉ. 我把書寄給Paicʉ.
+1. 寄. os'o pa'i'usni to tposʉ 'o paicʉ. 我把書寄給Paicʉ.
+1. 再寄. mi'o ma'ivaho to tposʉ to oko'u. 我再寄書給我的小 孩
+1. 再寄. os'o pa'ivahi to tposʉ 'o oko'u 我再寄書給我的小 孩.
+1. 再寄. os'o pa'ivahneni to ak'i 'o yoskʉmaski. 我再將鹹魚 寄給爺爺.
+1. 舉手遮陽眺望. mi'o maivhongʉ ho teoa ceoyu. 我舉手遮陽眺望,以眼搜尋虎頭蜂窩
+1. 舉手遮陽眺望. cuma na ita paivhongi? 他舉手遮陽眺望找的什麼呢?
+1. 回寄. mo ma'ivovei to tposʉ 'o oko'u. 我的孩子回信了
+1. 回寄. isi pa'ivoveia to oko'u 'o tposʉ. 我的小孩把書寄回來了.
+1. 擦眼淚; 拭淚. nahocu maiyaesʉ ho 'otena 'aoko mongsi. 你眼淚擦掉別再哭了 mita maiyaesʉ to hia-taini nac'o. 他難過到擦眼淚
+1. 擦眼淚; 拭淚. os'o paiyaesʉi 'e apu'u 我幫Apu'u 擦眼淚
+1. 迴避. mi'o ma'iyo to mo eʉskʉ ci ceonʉ. 我迴避崩塌的路
+1. 迴避. os'o pa'ievi 'o mo noteuyunu. 我避開群眾.
+1. 往下送. mi'o ma'iyovcu to chae. 我把菜往下送
+1. 往下送. os'o pa'iyovca 'o chae. 我把菜往下送.
+1. 到……的程度. o'te maka hulʉi ho mita angu oko no cou. 他個子小到我看不見。
+1. 雙腳跨開. mi'o makaci. 我雙腳跨開 la makaci 'o maamespingi ho mo sifu. 女人小便時 雙腳跨 開 na'no makaci ho mita tmuhcu. 他插秧時雙腳跨得很開
+1. 雙腳跨開.
+1. 啃. mita ma'kakoi to tʉfsʉ. 他啃甘蔗 mita ma'kakoi ta cʉehʉ no 'ua. 他啃鹿骨
+1. 啃. ita kakozi 'o cʉehʉ no 'ua. 他啃鹿骨
+1. 小氣. la koa 'oha nananghinghia to mo nanat'ot'oheasa 'o la makitkiti. 小氣致使兄弟姊妹 無法 和睦共處。
+1. 容易害羞. mita na'no ma'koe'i. 他易害羞
+1. 愛罵人. mo makoicʉ si lema'cohio. 老師愛罵人
+1. 罵人. isi koica si 'o'oko. 他罵那些孩子 .
+1. 常被罵的.
+1. 愛霸佔. mo ma'konvosʉ ta mali si 'o'oko. 孩子愛霸佔球
+1. 愛霸佔. ihe pa'konvosa ta 'o'oko 'o mali. 孩子愛霸佔球.
+1. 擔心,憂愁. 'aoko ma'kuv'o 'o ino ho mo e'ohʉ 'o amo. 父親去打獵，母親一直擔心 mi'o ma'kuv'o ho mo uhne c'oeha 'o avai ho o'te ahtu yuovei. Avai 去河邊一直還沒回來.我很擔心 cuma na koasu ma'kuv'o? 你擔心什麼呢?
+1. 擔心,憂愁. os'o ta'kuv'a 'e 'avai ho mo uhne c'oeha ho o'te ahtu yuovei. Avai 去河邊還沒 回來,我很擔心.
+1. 長者們. te la koe'ia 'o mamameoito. 要尊敬我們的長 輩 2. 老. miko cu mameoi temza cu aʉt'ʉca. 你老了我們 來照顧你 mo mameoihe to voyu 'o pasuya. Pasuya 比Vo yu 年長
+1. 長者們. micu yangtosa 'o maameoito. 我們的長 輩們已經白頭髮了
+1. 全部的長者. ihe pa'icngiha to mamamaameoi 'o h'oyungsova ta cou. 鄒族的文化是 由老 人傳承
+1. 長輩,老年,熟. tela tmalʉ to mameoi hola mahsʉftʉ. 要聽取老人的訓誡 nahocu toveuca si huv'o ho micu mameoi. 橘子成熟了就把它採下來
+1. 他的長輩；家長；長老. o'ana isi pasvo'ha to maameoisi 'o 'o'oko homo tmopsʉ. 那 家的小孩念書,家長付不起。
+1. 我的長輩；家長；長老. la leyaezoi 'o maameoi'u. 我的父母是務農的。
+1. 比較年長. nenusi na mito mameoihe? 我們哪一個年紀比較大?
+1. 砸爛. sia na mo alʉ mamceezoyʉ to pusiahʉ? 誰竟然砸爛了我的南瓜?
+1. 洗澡. 'ote'so ta'payo'ʉ mamcino voyu. V oyu 不要忘記洗澡
+1. 洗澡. os'o papcinva 'o av'u'u. 我幫我的狗洗澡
+1. 洗澡. os'o papcinvi si chumu ta kunkunu. 我用桶子裡的水洗澡
+1. 巡獵,巡陷阱. mimza yuyuso 'o pasuya ho mam'eti. 我跟Pasuya 一起去巡獵 mita mam'eti to h'oepona 'e mo'o. Mo'o 去巡陷阱
+1. 巡獵,巡陷阱. ita pap'eta ta mo'o 'o h'oepona. Mo'o 去巡陷阱
+1. 漠不關心. leata 'ote amako ma'moalʉ i'upu meesi. 對參加祭典漠不關心。
+1. 魚在進食時,魚身翻轉而反光發亮. ho mo ma'mome 'o yoskʉ, tec'u cohivi mo seolʉa no bonʉ. 魚身不斷因翻轉反光發亮時，就知道魚正在吃東西 la ma'mome to mo mafeʉsʉ ci fatu 'o yoskʉaʉlʉ. 苦花魚食用石上的青苔,身體翻轉發亮
+1. 魚在進食時,魚身翻轉而反光發亮. la honga to fatu 'o pa'momza to yoskʉ. 石頭上可以 看出魚吃過的痕跡.
+1. 魚在進食時,魚身翻轉而反光發亮. isi pa'momzi to yoskʉ 'o mo mafeʉsʉ ci fatu. 苦花魚 食用石上的青苔,身體翻轉發亮.
+1. 叉魚. te'o uhne c'oha ho mamtesngusngu to yoskʉ. 我們會到 河邊叉魚
+1. 叉魚. zou kos'oza 'o teto paptesngusnga. 我們叉的是蝦子
+1. 刺. sia na mo alʉ mamtezoyʉ to pusiahʉ'u? 誰竟然刺了我的南瓜 mita boemi to kaapana ho mamtezoyʉ to fkoi. 他用竹子刺蛇
+1. 刺. cuma na iko paptezoya? 你用棍子刺什麼東西 ? ita titha 'o kaapana ho paptezoya 'o fkoi. 他用竹子刺蛇.
+1. 著急. 'ote namaci ma'muemusu ta teko hioa. 你的事別著急
+1. 著急. teav'a namaci ta'muemusa 'e teko hioa. 你的事別著急.
+1. 為什麼. manci mita mateivhu to pat'a'ausna taini? 為什麼他改變話題?
+1. 提心吊膽. ma'ngongoheʉngeʉ ne mi'o emomzo to hiapeoza. 我過橋時提心吊膽的
+1. 提心吊膽. ta'ngongoheʉngea 'o ku'atu ne mita emocmu'u to tʉ'nʉ. Ku'atu 接近峭壁時我 替她感到害怕.
+1. 竟然會想到. leata o'te amako maololʉ i'upu meesi. 對參加祭典漠不關心 mitan'a maololʉ totoefʉngʉ to feongo ne mita eʉngcʉ to fuengʉ. 他在山上 迷路時還會想到躲在洞裡
+1. 竟然會想到. ita taololʉ no ucea aiti 'o ak'i taini. 他竟然會 想到要去看他的阿公
+1. 竟然想要. mi'o maololʉ no mici baito to ak'i. 我竟然想到要看爺爺
+1. 使人畏懼. ote 'aʉnpʉnpʉ maongoheʉngeʉ to oko. 不要隨便讓孩子感到害怕
+1. 使人畏懼. teav'a 'aʉnpʉnpa paongoheʉngi 'o oko. 不要隨便讓孩子感到害怕.
+1. 孟宗竹. mo mafe 'o sbuku to maozi. 孟宗竹的筍子很好吃
+
+
+1. 孟宗竹園. mo loyo 'o mamaozi ta hosa-to. 我們部落 裡的孟宗竹園有很多處
+1. 切;鋸. mi'o mapaso ta te'o pei'i ci simeo. 我切些要煮的豬肉
+1. 暈倒. mita c'o aemʉ'au ma'payo'ʉ 'e ba'i. 祖母突然昏倒 2. 忘記. mita ma'payo'ʉ mahafo to te ima ci chumu. 她忘記帶要喝的水
+1. 忘記. ita ta'payo'a hafa 'o chumu ci te ima. 她忘記帶要喝的水. ita ta'payo'a ta pasuya 'o ohsi eutotaveia to mameoi. Pasuya 已經忘記長輩交代的事了.
+1. 猶疑不定. 'ote ma'pecvai no teko akoeva no hioa. 你想做的事不要猶疑不定
+1. 猶疑不定. teav'a ta'pecvaza na teko akoeva no hioa. 你想做的事不要猶疑不定.
+1. 想錯了. mita ma'peu to os'o eutotaveia. 我交代的事情她想錯了
+1. 想錯了. ita ta'peva 'o os'o eutotaveia. 我交代的事情她想錯了.
+1. 三思而後行. la ma'popoha'o teno o'te peiskuv'o. 三思而後行才不會做錯
+1. 三思而後行. mo ʉmnʉ ho isi ta'popoha'va na te hioa. 深思熟慮後的工作態度是好的.
+1. 實實在在. la ma'po'ʉ'ʉmtʉ to teko afu'a hioa. 你既然要做事就要實實在在
+1. 實實在在. la ta'po'ʉ'ʉmta 'o teko afu'a hioa. 你既然要做事就要實實在在.
+1. 快速撿拾. mo ma'pupcio to yoskʉ 'o mo mahfuyo. 阻水抓魚的人快速撿魚
+1. 快速撿拾. ihe pa'pupcieva to mo mahfuyo 'o yoskʉ. 阻水抓魚的人快速撿魚.
+1. 確定. mita cu ma'sansano to teta hioa. 他已經確定(清楚地)要做的事情了 'ua mi'o cu ma'sansano. 我已經確定了
+1. 自認適合,覺得恰當. mita ma'saseolʉ no pokuyai. 他自認適合開車 ci mi'o na'no ma'saseolʉ no emʉm'ʉ no f'ue. 我覺得種地瓜很適合
+1. 自認適合,覺得恰當. ci os'o ta'saseolʉneni ta pasuya'u 'o mo maica ci hioa. 我覺得那工作 很適合我的Pasuya.
+1. 害怕. lea'u ma'sasmoyo to mo voecʉvcʉ. 我怕黑
+1. 害怕. lea'u ta'sasmoyoa 'o mo voecʉvcʉ. 我怕黑.
+1. 伸. mo maseafo to feongo 'o fnguu to fkoi. 蛇的頭從動裡鑽出來
+1. 伸出去. isi paseafa to feongo 'o fnguusi. 他把頭從洞裡伸出去.
+1. 伸. os'o taseafa to feongo 'o fkoi. 我把蛇從洞裡揪出來.
+1. 誤導; 搞破壞. 'ote la maskuv'o to 'o'oko. 不要誤導小孩子
+1. 亂指方向. mitac'o masloʉngʉ to mo tuocosʉ. 那個人指導錯誤
+1. 亂指方向. itac'o pasloʉngvi 'o mo tuocosʉ. 他對那個問問題的人亂指方向
+1. 擋住. mo masmʉtʉ to ceonʉ 'o evi. 樹擋在路上 2. 使擋住.
+1. 使擋住. teav'a pasmʉta to ceonʉ 'o evi. 不要將樹擋在路上.
+1. 心裡有數. mita ma'sonʉ 'e oko ho tesi koica to amosi. 這孩子他心裡有數他的父親會責罵他 mita ma'sonʉ ho tehe koica. 他心裡有數他們要教訓他
+1. 心裡有數. itacu ta'sona ho tehe koica. 他們要責罵他時,他已經心裡有數.
+1. 指向. mo mas'osʉ to ceoyu 'o tomohva. 指標是指向虎頭蜂窩
+1. 後悔. mita cu eno ma'susuae ho mita alʉ petma'congo. 他後悔喝酒把身體喝壞了
+1. 後悔. ta'susuaeza ne os'o o'te tiova 'o nteta faeni ci peisu. 我後悔沒有接受他本來要給我 的錢.
+1. 很生氣. ma'sʉsʉ'no ne ita talʉi 'o ihe engha. 他聽到他們的 話非常的火大
+1. 很生氣. ita ta'sʉsʉ'nova 'o hiahe aomotʉ'ʉ. 他們講話的方式讓他很火大生氣.
+1. 帶得動. panto la masvo'ho to mo se'eicha no kinkina. 有人帶得動兩百公斤(重的物品).
+1. 說出來. tela mateafo to tehe toehunga tiova ci e'e. 要說大家 可以接受的話
+1. 說出來. tela pateafa 'o tehe toehunga tiova ci e'e. 要說大家 可以接受的話.
+1. 改變話題. manci mita mateivhu to pat'a'ausna taini? 為什麼他改變話題?
+1. 改變話題. mainci ita pateivha 'o pat'a'ausna taini? 為什麼他改變話題?
+1. 發射五次. ten'a mateoemohʉ co peotpu'a-'u. 我的子彈還可以發射五次
+1. 發射五次. nama os'ocu pateoemoha 'o ceonʉ. 這路我(巡)走了五次.
+1. 打五次. mita mateoemohʉ ho mita eplikvi to oko. 他打了小 孩五次
+1. 洗頭. panto o'a la kaebʉ mateofngu. 有的人不喜歡 洗頭
+1. 洗頭. te'o pateofngua suu. 我幫你洗頭.
+1. 穿著得體. la butaso mateolʉlʉ ho te no'upu yupepeahngʉyʉ. 陪人去談事情是要盡量穿著得體 la butaso mateolʉlʉ ho te uhto mo yaabobonʉ. 去吃筵席是要盡量穿著得體
+1. 穿著得體. te pateolʉlʉi si oko teno o'te esongʉ. 讓小孩穿暖和點就不會感冒
+1. 穿得暖和. la afnaso mateoneano ho mo hosoyʉma. 冬天時要穿的暖和
+1. 穿得暖和. mo mav'ov'o 'o la peela pateoneanva ci 'i'ihosa. 能保持溫暖的衣裳有很多種.
+1. 蔓延. te la etngou to mo mateongabo ci tma'congo. 要對傳染病有所警覺
+1. 蔓延. mac'o yucpua aotothoma tesi o'te pateongaboi to tma'congo. 除非及早治療,要不然 會傳染.
+1. 蓋六層. alʉ mateononmʉhʉ to paceofʉ ne mita esoskungi. 他瘧疾時都蓋到六層棉被
+1. 打六次. mita mateononmʉhʉ ne mita eobako to av'u. 他打那隻狗打六次
+1. 穿兩件衣服. la nac'o mateopehaeso 'o mo noyʉnʉ. 很肥的人討厭穿兩件衣服
+1. 穿兩件衣服. la pateopehaesa 'o mo hipsi ci yʉsʉ. 薄薄的衣服要穿兩件.
+1. 穿兩件衣服. os'o pateopehaeseni ta oko 'o mo hipsi ci yʉsʉ. 我幫小孩穿兩件薄薄的衣 服.
+1. 同蓋棉被. la mateopoepohʉ to conci paceofʉ 'o navconga. 夫妻同蓋一條棉被
+1. 同蓋棉被. lahe pateoepoepoha to navconga 'o conci paceofʉ. 夫妻同蓋一條棉被.
+1. 射殺七次. mateopoptuhu ne ihecu 'a'usni 'o snumaso. 他們圍攻公鹿時開了七次槍
+1. 穿內衣. o'a la mici mateos'oyʉ ho mo yuhohaengi. 會流汗不喜歡穿內衣
+1. 穿內衣. yunga 'o iko pateos'oya. 把內衣脫掉.
+1. 苦惱. mi'o ma'tipvongʉ homo uk'a tov'oha. 我為著沒有收入而苦惱
+1. 苦惱. ita ta'tipvonga homo uk'a tov'oha. 他為了沒收入而苦惱.
+1. 唱十節,唱十次. mo matmaskʉ ne mita mahafo to tohpʉngʉ. 他領唱戰歌唱了十節(十次)
+1. 唱十節,唱十次. teto patmaska 'o nakʉmo. 我們來唱十次的nakʉmo
+1. 撿. mita matmʉtʉ to mo supeopeohʉ ci bʉnʉvhʉ. 他撿掉下來的李子. matmʉtʉ to mo supeopeohʉ ci tahia. 把掉下的豆子撿起來.
+1. 撿一撿. mita mahmatmʉtʉ to pucu to ceonʉ. 他撿一撿路上的垃圾
+1. 唱一次. teto n'a matnʉskʉ to pasu nakʉmo. 我們來唱一次Nakʉmo 這首歌 2. 射殺一次. mita matnʉskʉ ne mita smoavoyʉ. 他剛才射了一次飛鼠 3. 打一次. mita c'o matnʉskʉ ne mita eobako to oko. 他打小孩只打一次
+1. 唱一次. tec'o patnʉska ho te pasunaenva 'o miome. 我們來唱一次Miyome
+1. 射殺一次. ita c'o patnʉski 'o moatʉ'nʉ. micu e'puyu. 他只射了一次山 羌.它就倒下去了.
+2. 打一次. isi titheni to esou ho patnʉski 'o emucu to oko. 他用細長的 樹枝打了一下小 孩子 的手.
+1. 思考. mita ma'to'tohʉngʉ no uhne apihana. 他在思考去對岸的事
+1. 思考. zou cuma na iko ta'to'tohʉngva? 你在思考什麼?
+1. 唱兩次,唱兩節. teko matpopsohʉ to miome. miome 請唱兩次
+1. 唱兩次,唱兩節. teko patpopsoha 'o miome. miome 請唱兩節.
+1. 射殺兩次. matpopsohʉ ne isi pnaa 'o 'ua. 他對著鹿射了兩次
+1. 打兩次.
+1. 再唱一次. naho n'a matvaho (pasunaeno), pasuya. Pasuya, 請再唱一次
+1. 再射一次. naho n'a matvaho pono. 請再射一次 a'ico co mo matvaho ta apihana. 對面有人又射 擊了一次
+1. 再說. mita siho matvaho to e'e taini ho mita sangeau. 他喝酒後一直重複他的話
+1. 再打.
+1. 重複再說. mita 'ahʉyʉ matvaveivei to ntec'o cono e'e. 一句話他硬是一直重複說 2. 重複地唱. lea'u meelʉ matvaveivei ho mi'o mahafo pasunaeno. 我領唱時可以重複地唱歌
+1. 重複再說. ita 'ahʉya patvaveiveia 'o e'e taini. 他硬是一直重複他說的話 2. 重複地唱. 'ua teko peelʉi ho takocu patvaveiveia. 你重複唱幾遍就會唱了
+1. 發射八次. te matvoveohʉ to teto posmoebaki. 我們射八次
+1. 發射八次. teto patvaveohi na teto pnaa. 我們來射擊八次.
+1. 打八次. te matvoveohʉ hote eobako. 打要打八次
+1. 打八次. isi patvaveoha 'o isi ti'usna. 那個人被打了八次.
+1. 以為. mi'o ma'unano miko mameoihe a'o. 我以為你年紀比我大
+1. 以為. mi'o na'no yophi honcihe la ta'unana a'o na mo mayo to evi. 我很擔心人家以為木 頭是我拿的 .
+1. 以為. os'o ta'unano miko mameoihe a'o. 我以為你年紀比我大.
+1. 驚奇. mio mau'no'na'o ho mo mayo to fuzu 'o mo'o. 我很驚訝Mo'o 拿到山豬
+1. 驚奇.
+1. 重蓋. mo ma'vaho to sofʉ si voyuana. 石家他們重蓋屋頂
+1. 所有的筋. mo mav'ov'o 'e maveoveocʉ ta feango. 身體內有各種不同的筋
+1. 嘲弄; 揶揄. ote 'aʉnpʉnpʉ mayanou to o'a iko honga. 不要隨便嘲弄陌生人
+1. 嘲弄; 揶揄. teav'a 'aʉnpʉnpa paayanova 'o o'a iko honga. 不要隨便消遣陌生人.
+1. 拿. mita mayo to mo yon to pangka ci tposʉ. 他拿了放在桌上的書
+1. 拿. ita yaa 'o mo yonta pangka ci tposʉ. 他拿了在 桌上的書.
+1. 有水. micuc'o 'inania yaachumu 'o toeku to po'oyua. 水管的源頭勉強還有一點水。
+
+1. 拿. ita yaeni to tposʉ na a'o. 他幫我拿書.
+1. 要； 索取. mita boepapak'i ho mita m'ea peisu. 他以暴力方式要錢。
+1. 單獨立起. mi'o m'eachi to sʉesʉ no teova. 我自己立起工寮的柱子
+1. 單獨立起. os'o p'eachia ta'e ta oko. 我讓孩子單獨站立在那邊.
+1. 搭建. mi'o i'upu tomo m'eac'o to hʉfʉ. 我參與搭建了集會所 zou niahosa 'o moso m'eac'o to kuba ne tfuya. 特富野的男子會所是梁氏族搭建的
+1. 搭建. ihe p'eac'i to kuba 'o hosa ne tfuya. 他們在特富野部落建立男子會所.
+1. 索取一半. ihin'icu ala p'eatiska ta 'o'oko 'o tamakusu? 我的香煙已經被年輕人要一半了
+1. 立了一半.
+1. 為…求取. mita m'eatviei no tesi ima ci chumu tomo tma'congo. 他為病人求取喝的水
+1. 替…取. itac'o p'eatvieineni no tesi ima ci chumu tomo tma'congo. 他為病人求取喝的水.
+1. 困陷在石縫中. mo meatvo'eʉ to feongo 'o mo ngohcu ci evi. 水流沖走的樹困陷在石縫中
+1. 困陷在石縫中. isi peatvo'neni to feongo 'o mo ngohcu ci evi. 水流沖走的樹困陷在石縫 中.
+1. 削. mo meave to te teai yungku ci 'ue 'o haah'o. 大夥削要做背籃的黃藤
+1. 削.
+1. 削. ihe peavzi 'o te teai yungku ci 'ue. 他們削著要做背籃的黃藤.
+1. 要很多次. o'a mo ʉmnʉ ci m'ene hoci m'eaveivei. 需索無度是不好 mi'ocu m'eaveivei to siu to mo'o. 我已經多次向Mo'o 要鹽巴
+1. 要很多次. tec'u sohpoi 'o isi p'eaveivei p'enzi. 被需索無度的一方會感到厭煩.
+1. 要很多次. itacu p'eaveiveia 'o poyave'u. 他跟我要刀子好多次.
+1. 在某物的後方. mo mechipi ta hcuyu 'o emoo'u. 我家在這山丘的後方
+1. 在某物的後方. isi pechipito hcuyu 'o teova'u. 那山丘擋住我的工寮.
+1. 踏著不動. mi'o m'echʉmʉ to feongo. 我踏在洞裡不動
+1. 踏著不動. os'o p'echʉmi 'o feongo. 我踏在洞裡不動.
+1. 踩. mi'o m'ecihi to fatu. 我踩在石頭上 mo m'ecihi to puzu 'o oko. 小孩踩到炭火
+1. 踩. p'ecihi to oko 'o puzu. 小孩踩到炭火.
+1. 踩得近. mita m'ecmu'u to phingi to teongo. 他踩得離蜜蜂窩很近
+1. 踩得近. ita cuc'o p'ecmu'i 'o phingi to teongo 他已經踩到蜂窩門邊.
+1. 踩掉一塊. mo m'ec'ohʉ to ceo'ʉ 'o 'uachumu. 水牛踩掉了梯田邊坡.
+1. 踩掉一塊. isi p'ec'ohi to 'uachumu 'o ceo'ʉ. 水牛踩掉了梯田邊坡.
+1. 踩到尖尖的. mita m'ec'ʉc'ʉ to maeno ci pania. 他踩到尖銳的玻璃 ita p'ec'ʉci 'o mo maeno ci pania. 他踩到尖銳的玻璃
+1. 踩到尖尖的. ita p'ec'ʉc'eni tomo maeno ci pania 'o t'ango taini. 他的腳踩到尖銳的玻璃.
+1. 踩到尖尖的. ita p'ec'ʉci 'o mo maeno ci pania. 他踩到尖銳的玻璃.
+1. 踩到. mo m'ec'ʉhʉ to ceo'ʉ 'o 'uachumu. 水牛踩到梯田邊坡 mo m'ec'ʉhʉ tomo lingki co t'ango'u. 我的腳踩到泥巴
+1. 踩到. isi p'ec'ʉhi to 'uachumu 'o ceo'ʉ. 水牛踩到梯田邊坡.
+1. 踏到. mo m'ecunu to okono fkoi 'o mo'o. Mo'o 踏到小蛇
+1. 踏到. isi p'ecuneni to fkoi to oko 'o t'angosi. 小孩子的腳踏到小蟲.
+1. 踏到. isi p'ecuni to mo'o 'o okono fkoi. Mo'o 踏到小蛇.
+1. 踩扁. la luya m'eczoyʉ to t'ee no av'u to papae'osa. 在角落很容易踩到狗糞
+1. 踩扁. ihe p'eczoi 'o t'ee no av'u to papae'osa. 他們踩扁了在巷角的狗糞.
+1. 隨後到. teko muyo uhne 'o'ocea ta'u meecunu. 你先去茶園我隨後到
+1. 隨後到. teko muyo uhne 'o'ocea ta'u peecuni. 你先去茶園我隨後到.
+1. 陷入泥濘. mo m'eefo'ʉ to linki 'e ciengona ta t'ango'u. 我的另一隻腳陷到泥巴裡
+1. 陷入泥濘. os'o p'eefo'i ta linki si tu'u taini. 我把他的 鋤頭踩(埋)進泥巴裡.
+1. 陷入泥濘. os'o p'eefo'neni to linki 'e ciengona ta t'ango'u. 我把我的 另一隻腳踩進泥巴裡.
+
+
+1. 會. os'ocu peeelʉi 'ola hia mosi to smohfihci. 我已經會設置捕獸夾的方法了。
+1. 會. la'u peela teai teesi 'o ngei. 瓊麻可以做成繩子.
+1. 各式祭儀. mo mav'ov'o 'o meemeesi ta coua'toana. 我們鄒有很 多祭典
+1. 各式祭儀. la mav'ov'o 'ola peepeeseni ta coua'toana. 鄒族人會 為很多事情舉行祭儀.
+1. 餽贈. hoci e'ohʉ ho mayo, la meemzo to mao'oahngʉ. 如果出獵有收穫,要餽贈親友
+1. 餽贈. la butisi ho peemzeni to mao'oahngʉ. 有收穫要與親友分享 .
+1. 餽贈. honci e'ohʉ ho mayo, la peemzi 'o mao'oahngʉ. 如果出獵有收穫,要餽贈親友.
+1. 搗. mita seolʉa no me'eni ta ton'u. 他正在搗小米 mo me'eni to ton'u 'o yoso. 兩個人搗年糕
+1. 用力吹. meenoi ho mita meepeucu. 他很用力 吹氣
+1. 用力吹. ita peenozi 'o la'pa. 他用力吹喇叭.
+1. 參與到底. tela meepaezumo 'o mo i'upu to meesi. 參加祭典的人都要參 與到底
+1. 參與到底. tela peepaezumi 'o meesi. 參加儀式要參與到底.
+1. 索價高. la m'eepe to huphina 'o momhino. 商店通常價格定很高 lahe p'eepzi to momhino 'o huphina to macucuma. 商店主人通常物品價格都定很高
+1. 索價高. ita na'na p'eepzi 'o mo'o ne mo mhia 'ocea. Mo'o 買茶時他索價很高.
+1. 吹. mi'o meepeucu ta yompuhu ta pangka. 我吹桌上的灰塵
+1. 吹奏. moso la meepeucu to peiengu 'e coua'toana. 我們鄒以前會吹鼻笛 la boemi ta ngʉcʉ ho meepeucu to peiengu. 用鼻子吹鼻笛
+1. 完成祭典. micu peepʉngʉ 'o mo meesi. 祭典今天已經完成
+1. 完成祭典. isicu peepʉngneni 'o homeyaya. 收穫季已結束了.
+1. 換邊踩. te'o poa m'eezuhu co t'ango'u ci micu yatunga. 我要換腳踩,因為已經 麻了
+1. 換邊踩. te'o p'eezuhneni co t'ango'u ci micu yatunga. 我要換腳踩,因為已經 麻了.
+1. 踩到尖銳物而腳割 傷. mita'so o'te msapiei ko'ko mita m'efaco to pania. 由於他沒穿鞋,所以他 踩到玻璃瓶而腳割傷
+1. 踩到尖銳物而腳割 傷. ita p'efacneni to pania 'o t'ango taini. 他的腳踩到玻璃而割傷.
+1. 下蛋. mo seolʉa no mefcuyu 'o teo'ua. 雞正在下蛋
+1. 下蛋. micu maskʉ ho ang'osʉ 'o isi pefcuya. 它下了十多個蛋.
+1. 未婚生子. a mita c'o mef'oesʉ. 他只是未婚生子啊
+1. 未婚生子. zouc'o pef'oesa taini. 他就是未婚生的孩子.
+1. 踩破. mo m'ef'oyʉ to pania 'o mo moyomo. 酒醉的人踩破了瓶子
+1. 踩破. isi p'ef'oi to mo moyomo 'o pania. 酒醉的人採破瓶子.
+1. 前綴詞:飛;挖. mo meiyafo ta feongo 'o zomʉ. 鳥從洞裡飛出來
+1. 前綴詞:飛;挖. i'o peiafa to ceoa 'o f'ue. 我把地瓜從土裡挖出.
+1. 跳得很遠. la na'no meimae'ʉcʉ 'o puktu hola mofti'i. 松鼠會跳得很遠
+1. 踩…而受傷. mi'o m'elongʉ to t'angosu. 我踩傷你的腳
+1. 踩…而受傷. os'o p'elongi 'o t'angosu. 我踩傷你的腳.
+1. 無意踩到. mi'o m'elʉ to fkoi. 我無意中踩到蛇
+1. 無意踩到. os'o p'elʉi 'o fkoi. 我無意間踩到蛇.
+1. 踩滑掉. mi'o m'emsuhe to fatu. 我把石頭踩滑掉
+1. 踩滑掉. os'o p'emsuhzi 'o fatu. 我把石頭踩滑掉.
+1. 索取. mi'o m'ene to peisu ta aomoe'o. 我向Mo'o 叔叔要錢
+1. 要吃的. mita cu m'eaveivei m'eabonʉ. 他求了好 多次要吃（ 東西）。
+1. 索取. naho m'eveo no teko p'enza. 你可以要八個. tekon'a p'enza to ku'atʉ 'o poyave. 你去 向Ku'atu 索取刀.
+1. 索取. ita p'enzeni to te'o ima ci chumu. 他幫我要我喝的水.
+1. 要六個. tena m'enonmʉ to mo'o no saitungu 'o sayungu. Sayungu 向Mo'o 要六個木瓜 tena m'enonmʉ no saitungu to mo'o 'o sayungu. Sayungu 向Mo'o 要六個木瓜
+1. 要六個. 'ua tesi yononmʉhi no va'atʉ to mo'o. Mo'o 要給我六個絲瓜.
+1. 追趕. mo meobango to fuzu 'o av'u'u. 我的狗追趕山豬
+1. 追趕. isi peobanga to av'u 'o fuzu. 狗追趕山豬.
+1. 小偷. te poa poekotveni to lesmoe'isi si mo meo'eoi. 該叫警察來囚禁那小偷。
+1. 脆弱易斷. la meofu 'o na'sisi to cnʉmʉ. 香蕉的莖很脆弱易斷。
+1. 撈到; 勾到. mo meolʉ to tungeoza 'o ak'i ne mo maaseu. 祖父撈魚時撈到鰻魚 mo meolʉ ta pooyoyo 'o lungu'u ne mi'o toalungu. 我釣魚時鉤子勾到我褲子
+1. 阻擋. mita meomʉtʉ to pcoknʉ to la'u mia. 他種了麻竹阻擋了我的路
+1. 阻擋. ita peomʉta to la'u mia ci ceonʉ 'o pcoknʉ. 他種了麻竹阻擋了我的路.
+1. 阻擋. ita peomʉti to pcoknʉ 'o ceonʉ'u. 他種了麻竹阻擋了我的路.
+1. 種了不管. mita meonʉ'ʉ to ton'u 'e pasuya. Pasuya 種了小米就不管
+1. 種了不管. ita peonʉ'va ta pasuya 'o ton'u. Pasuya 種了小米就不管.
+1. 種了不管. ita peonʉ'veni to ton'u ta pasuya 'o 'o'oko taini. Pasuya 為他孩子種了小米就 不管.
+1. 種了不管. ita peonʉ'vi to ton'u ta pasuya 'o ezoyʉ taini. Pasuya 的地種了小米就不管.
+1. 以容器量. titho to takubingi ho meosvʉtʉ to fʉesʉ. 用碗撈米來量
+1. 以容器量. titho ta takubingi ho peosvʉta si fʉesʉ. 用碗撈米來量.
+1. 以容器量. titho ta takubingi ho peosvʉti si fʉesʉ. 用碗撈米來量.
+1. 陷入. mo m'eoyo to feongo co t'ango'u. 我陷入洞裡
+1. 陷入. os'o p'eoevi 'o feongo. 我陷入洞裡.
+1. 要七個. tesi nana teomi honci 'u m'eptu no takubingi no fʉesʉ. 要是我向他要七碗米,他不知道 會不會給我 'ua tesi teomi hoci'u m'eptu no takubingi no fʉesʉ. 我如果向他要七碗米,他會給
+1. 要七個. 'upena honci o'te amso yopitvʉhi no heesi. teec'o ʉmnʉ. 就算給不到七個蘋果,也 可以啦.
+1. 要四個. miko m'espotʉ a'o to f'ue. 你向我要四個地瓜
+1. 要四個. te'o yospoti suu to f'ue. 我給你四個地瓜.
+1. 多要. ho te m'ene o'ate 'ahʉyʉ m'esvocʉ. 要東西時不要貪多
+1. 多要. tesi eno mimha yosvoci? 他會願意多給嗎?
+1. 要九個. ta'u m'eszo no mcuu no ton'u no ta'u hioyapo. 我要九穗的小米用來播種
+1. 要九個. tesi nana yoszoi no mcuu no ton'u a'o ？ 他會給我 九穗的小米？ [達邦社： yosioi]
+1. 追趕很久. mo meteona'o 'o mo poa'av'u ne hucma. 昨天用狗獵物的人追了很久
+1. 追趕很久. poan'a peteona'veni to av'u 'o fuzu ihecu petohʉya 'a'usni. 先放狗追山豬好長 一段時間，他們終於制伏那頭山豬.
+1. 要三個. mo m'eteu to huv'o 'o oko. 小孩子要了三個橘子
+1. 要三個. os'o yoteui to huv'o 'o oko. 我給孩子三個橘子.
+1. 裝. lea'u methu to ceʉ'fʉ to fou. 我用小竹盤裝肉
+1. 裝. os'o pethua to takubingi 'o fou. 我用碗裝肉.
+1. 裝. os'o pethui to fou 'o takubingi. 我用碗裝肉
+1. 裝. os'o pethuneni to fou 'o takubingi. 我用碗裝肉.
+1. 探望一下. moso metpʉskʉ ta emoo 'o 'avai. Avai 有來家裡探望一下
+1. 探望一下. o'te ahta petpʉski 'o 'uongʉ homo yone vioing. 'uongʉ 住院，我都還沒去探望 他.
+1. 摸到. ma sia 'o mo meuaso ta f'uhu'u. 是誰摸了我的背?
+1. 摸到. os'o peuasa 'o f'uhu taini. 我觸摸她的背.
+1. 行房（人類）. la asonʉ kaebʉ meuku 'o mo n'a foinana ci navconga. 年輕夫婦喜歡行房
+1. 行房（人類）. isi kuka to ic'o 'o vcongisi ne yofna. 昨天那人和他妻子行房.
+1. 再要. o la bumemealʉ yuevaho, la teomi ho te m'evaho. 有借有還再借不難
+1. 再要. la kaebʉ ho te p'evahi to la bumemealʉ yuevaho. 守信用的人 借東西才受人們歡迎.
+
+1. 數次要求. mita cu m'eaveivei m'eabonʉ. 他求了好 多次要吃（ 東西）
+1. 採買. mo mhimhino to te 'o'ana 'o sayungu. Sayungu 採購食物
+1. 買. mi'o mhino to mo coni ci teo'ua. 我買了一隻雞 2. 賣. mi'o mhino to sangeava. 我賣 苦茶油
+1. 走在.
+1. 走在. ihe mia to 'o'oko 'o os'o teai ci hiapeoza. 孩子們走在我做的橋 poa mianeni to 'o'oko si os'o teai ci hiapeoza. 讓孩子走在我做的便橋
+1. 撒種子；播種. mo miapo to hioyapo no ton'u 'o maamespingi. 女人們撒小米種子。
+1. 趕鳥. mi'o mooyai tataka ho te'o akoyuno miazomnʉ. 我準備要趕鳥時就建立了涼亭。
+1. 想要. mi'ocu mici maine'e. 我想回家了.
+1. 想要. os'o ucia ana 'o mici. 我想吃龍葵 ita ucia ana si foufuzu. 他想吃那山豬肉 [ucia 僅於Tfuya 方言加強語氣時使用]
+1. 計算；想算. te taa'a'ava hoci 'uciaspʉya 'o congeoha? 星星要如何計 算呢(怎麼算 得完呢)? [ucia 是想，spʉya 是算]
+1. 龍葵. mi'o mici bonʉ no mici . 我想要吃龍葵。
+
+
+1. 敵視. yainca to seiso "ote la evei to mo mihango suu". 聖經上說:不要報復敵視你的人。
+1. 願意. tesi eno mimha yosvoci? 他會願意多給嗎?
+1. 喝. mita mimo to chumu 'e amo. 爸爸在喝水
+1. 我們……. 'a mimza (mimia) conoemoo 'o yangui ho mo'o. Yangui 和Mo'o 我們是一家人。 [同mimia]
+1. 因而延誤;因…逗留. mita apemzo mi'pou to mo cmuhu to feʉ'ʉ. 他因而逗留在殺豬的地方
+1. 看…而不專心(不專注). ita mi'povi 'o mo cmuhu to feʉ'ʉ. 他因看殺豬而不專注.
+1. 因而延誤;因…逗留. os'o poa mi'povneni ta haah'o 'e os'o teatatvia. 群眾為了我提的東西 而逗留.
+1. 住兩天. Te'o mipsohi ho te'o uhne fuengu. 我到山上要住 兩天。
+1. 倒著. teav'a poa mipuyu si pania. 那瓶子不要讓它倒立
+1. 倒著. isi mipui to ngiau ne mi'o oevoi. 我在睡覺時貓從上方看我.
+1. 倒著. teav'as'a pepuya si pania. 那瓶子不要讓它倒立.
+1. 塗. miseisi to hapuyu to tonghifza. 在牆上抹石灰 panto imza poa miseisi to semento to ceonʉ. 我們請人把路塗上水泥
+1. 塗. imza poa sieseni to semento 'o ceonʉ. 我們把路塗上水泥.
+1. 撫摸; 塗抹. mi'o miseisi to ngeai. 我塗抹化妝品.
+1. 撫摸; 塗抹. isi siesa to tanivu 'e f'uhu'u. Tanivu 按摩我的背
+1. 看來可怕. mo na'no mismoyoa si oko. 那孩子看起來很害怕
+1. 看來可怕的樣子. mo na'no mismoyoa 'o os'o aiti ci cmoi. 我看見的熊看起來很可怕.
+1. 他有…….. mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 他已經相信基督,所以領受洗禮。
+
+1. 他僅只…… .. mitac'o ekameosʉ ho mita aomotʉ'ʉ 'e pasuya. pasuya 他只說得很簡短。
+1. 他已經…… .. o'a mi'o s'a av'ohʉ sʉ'no ho mitacu amako maine'e 'e voyu. V oyu 他已經回 家，我就 狠不下心再生氣了。
+1. 所以他... ；他哪有.... mohta smihi'u ci mitaeno nafcucu. 他尿褲子過所以他有尿騷味。
+1. 他才….；他還..... mitan'a maololʉ totoefʉngʉ to feongo ne mita eʉngcʉ to fuengʉ. 他在 山上迷路時他還會想到躲在洞裡。
+1. 他有…….. o'a mitas'a huaeca tmaa'uzo. 他看起來不相信。
+1. 因為他.... mita'so o'te msapiei ko'ko mita m'efaco to pania. 因為他沒穿鞋，所以他踩到 玻璃瓶而腳割傷。
+1. 從那邊走；走在那邊. mo evasʉzʉ si mo mita'e ci 'o'oko no tmopsʉ 那群學生走在那裡。
+1. 對著. mo mi'usnu a'mi ho eutotavei 'e mameoi. 長者對我們叮嚀
+1. 對著; 面對. isi mi'usni a'mi to mameoi ho eutotaveia. 長者對我們叮嚀.
+1. 播種；撒種. la ma'ma'e ho te ahoi miyapo to ton'u. 小米播種前(土地)要挖一挖。
+1. 播種 ；撒種子. o'ana mo payo to kukuzo 'o oho yapneni ci chae. 播種的菜已被草叢掩 蓋。
+1. 睡午覺. mo mainci alʉ m'ofeʉnga ho mita m'oahtu 'e pasuya. Pasuya 睡午覺怎麼睡到晚上。
+1. 偷偷地做.…….. mihin'i yuyuso 'e nat'ohaesa ho m'oasoe. 他們倆兄弟一起偷毒魚。
+1. 經過. mihin'in'a mihna mocaefi ne pooftongaveoveo. 他們才剛剛經過觸口
+1. 經過. ita emocaefia ta pasuya ne mi'o toheae. 我在曬太陽時Pasuya 經過. [ ]
+1. 丟掉. mo mochi ta pucu 'e oko. 孩子在丟垃圾
+1. 丟掉. tekon'a cihneni ta pucu a'o. 請你幫我丟垃圾.
+1. 煮沸. ake'a poa tmoena'o moefueso si osko pei'i. 妳煮的要煮沸久一點。
+1. 唸;述說. mita mo'engho ta tposʉ. 他在唸書
+1. 唸;述說. ita engha si tposʉ. 他在念書.
+1. 悅耳. moengʉ 'e pasunaeno. 這首歌很悅耳動聽
+1. 悅耳. os'o na'no moengʉa 'e pasunaeno. 我覺得這首歌很好聽.
+1. 給. te'o mofi ta mo pio ci peisu ho te homeyaya. 小米豐收祭時，我要 交錢
+1. 給. la aangaeza 'o mafofou ho fii 'o mao'oahngʉ. 要把獸肉分食給親朋好友 .
+1. 分送. i'o fo'faneni to cou 'o os'o o'te psuv'ohneni ci chae. 我把沒賣出去的菜分送給別人
+1. 已經. ua mohcu smaf'ongʉ 'o pasuya. Pasuya 已經犛過田了
+1. 那時候已經.... o'a mohcula bochio no koei 'e 'o'oko ho mo pae'ekut'i. 小孩已露出私密處還不 知道害羞。
+1. 滿出來. mo moheafo 'o ngeoi to oko ho mo bonʉ. 小孩吃東西時口水流出來
+1. 滿出來(溢出). isi moheafa to va'hʉ ne taptuana 'o mamespingiana. 少女崖是達德安河流 的出口處.
+1. 滿出來. isi moheafi to va'hʉ ne taptuana 'o mamespingiana. 少女崖是達德安河流的出口 處.
+1. 同睡. mimia moheupho 'o pasuya ne yofna. 昨天我和Pasuya 睡在一起
+1. 同睡. os'o moheupheni 'e yangui ne yofna. 我昨天與Yangui 一起睡.
+1. 同睡. ita moheuphi to mo'o 'o pasuya. Mo'o 與Pasuya 睡在一起.
+1. 以容器量. te mohsʉftʉ to soetohvʉ ta chumu. 要用杯子來量水
+1. 以容器量. isi pohsʉfta to soetohvʉ 'o chumu. 用杯子量水
+1. 以容器量. isi pohsʉftineni to soetohvʉ to chumu to pasuya. Pasuya 用杯子量水.
+1. 那時他曾經.... mo totueha ne mohta fiifiho 'e mo'o. Mo'o 他曾花了三年去服婚役。
+1. 他曾經…….. mohtala na'no snooknoko ne mohtan'a foinana. 他年輕時很愛在河裡抓魚
+1. 他曾經…….. mohtala na'no snooknoko ne mohtan'a foinana. 他還年輕時很愛在河裡抓 魚。
+1. 我們曾經…….. mohto la acʉhʉ thi'cia ne mohto lan'a 'o'oko. 我們小時 候都很貧窮。
+1. 湧出. alʉ mohtoeseu co haengi'u. 我的汗水直接湧出。
+1. 同睡. mi'o moh'upu to ino ne yofna. 昨晚與媽媽同睡
+1. 同睡;陪睡. ita moh'upi na suu. 他陪你睡.
+1. 仿效. mi'o momaemaezo to hia pasunaeno to mo'o. 我仿效Mo'o 唱歌的樣子
+1. 掙脫. mo momentʉhʉ 'o moso mumio ci ta'cʉ. 山羌從陷阱脫逃
+1. 掙脫. isi momentʉhi to ta'cʉ 'o h'oepona'u. 山羌從我的陷阱脫逃跑掉.
+1. 店鋪. momhino yoskʉ 魚販 teko na'a uhne momhino ho mhia fʉesʉ. 請你去店舖買米
+1. 店鋪.
+1. 拔草. congo 'e cpʉh'o ho mo cono hie momo. 拔了一天的 草,腰覺得很酸痛
+1. 拔草. isi pomi to ino si chachae. 媽媽拔菜園裡的草.
+1. 拔草. isi pomneni to ino a'o. 媽媽幫我除草
+1. 離開. mita cu mongoi ta emoo 'e mo'o. mo'o 他已經分家了(或離開)
+1. 公禽的統稱，如:公雞、公 鳥. la fʉhngoya 'o mo moningeohʉ ho hof'oya 'o mo mosko'ʉ to seisi. 山椒鳥的公鳥是紅色的, 母鳥是黃色的。
+
+
+1. 砍斷. mo m'ontʉhʉ ta emcu si 'uongʉ. 'Uongʉ 在砍斷藤蔓.
+1. 砍斷. p'ontʉhi simo capo ta fahei ci vici. 把那杉木的葛藤砍斷
+1. 砍斷. poa p'ontʉhneni ta pasuya si vici. 讓Pasuya 砍斷那葛藤.
+1. 男子名. mo teolʉ to ceoyu 'o 'mo'o. Mo'o 看到虎頭蜂。
+1. 等待. mo mooteo to 'o'oko 'o lema'cohio. 老師在等孩子
+1. 等待. isi totea to lema'cohio 'o 'o'oko. 老師在等孩子.
+1. 製作;製造. i'o mo totontone ci yatatiskova la meemealʉ mooyai to macucuma. 多才多藝的人會 做很多東西
+1. 製作;製造. os'o teaineni to panka 'o mo'o. 我為Mo'o 做桌子.
+1. 烤竹筒魚. mo mo'oyu to copi 'o amo. 父親烤竹筒魚(貼壁魚) mita mo'oyu 'e 'uongʉ. 'Uongʉ 在 烤竹筒飯
+1. 踢. mita mo'potʉ to mali 'e mo'o. Mo'o 踢球
+1. 篩. teko n'a mopsu ta ton'u. 你來篩小米
+
+
+1. 篩. tekon'a pusi si ton'u. 你來篩那些小米.
+1. 有.... o'a mos'a acau acʉhʉ yaa kuhcu 'e haahocngʉ 男人不見得都有皮製披風。
+1. 放. mosi to peisu ta pangka tena si titha to oko. 留點錢放置桌上,給小孩用
+1. 放. ita sii to naveu 'o takubingi. 他盛飯在碗裡.
+1. 放,存放. ita sieni to naveu to takubingi 'o ba'i. 他用碗幫奶奶盛飯.
+1. 母禽的統稱，如母雞、母鳥. na'no meolʉlʉ si mosko'ʉ. 那隻母雞生了,而且很會照顧小雞。
+1. 保存;放好. ote'sola o'te mosolʉlʉ to macucumasu. 千萬要收好你自己東西 .
+1. 保存. teko soʉlʉlʉa si macucumasu. 你的東西要保管好
+1. 放置妨礙. 'ote mosomʉtʉ to 'uachumu ta ceonʉ. 不要放牛在路上妨礙道路
+1. 放置妨礙. ita somʉta ta ceonʉ 'o 'uachumu. 他將牛放置阻擋道路.
+1. 放置妨礙. ita somʉti to 'uachumu 'o ceonʉ. 他將牛放置阻擋道路
+1. 集中放在一起. mi'o mosoteuyunu to kaapana ci ta'u titha eteovʉ. 我集中一些竹子要用來蓋工 寮的
+1. 集中放在一起. soteuyuna ta yungku si f'ue. 把地瓜集中在背簍裡.
+1. 集中放在一起. os'o soteuyuyuni to f'ua 'o yongku. 我把地瓜集中在背簍裡.
+1. 放很多. mita na'no mosotmuzu ho mita mosi to hileo 'e yangui. Yangui 下肥時肥料下很多.
+1. 放很多. teav'a'so anga sotmuzi ta chae si takubingisu 不要放太多菜在你碗裡.
+1. 放很多. ita aemoemova sotmuzi to sieu ta yangui 'o ita pei'i. Yangui 煮的東西,她放太多 鹽巴
+1. 再放;再添加. poa mosovaho no naveu ta 'o'oko no tesi 'ana ta bai.. 讓孩子再為祖母添一碗飯.
+1. 再放;再添加. teko sovahi no naveu si takubingi ta ba'i. 你再為祖母添一碗飯
+1. 再放;再添加. poa sovahneni ta paicʉ si takubingi ta ba'i. 讓Paicʉ 再為祖母添一碗飯.
+1. 滅火. mo mot'afso to mo pae'ʉhʉ 'o haah'o. 眾人在滅火
+1. 滅火. ihe pot'afsa to haah'o 'o isi pae'ʉhi. 眾人在滅火
+1. 做很久. ahtu o'te moteona'o hote m'eac'o to yuepe ci emoo. 要蓋出很高的房子必須花很長的 時間
+1. 重修. tekon'a moteovaho no tesi s'ofʉ ta ba'i. 請你重做柺杖給祖母.
+1. 重修. ihe teovahi 'o emonopeisia ta tiaki'ana. 他們重修鄭家的 祭屋
+1. 整修; 重作. ihe poa teovahneni to haah'o 'o emono peisia. 他們讓年 輕人整修祭屋. tekon'a teovahneni no s'ofʉ si ba'imu. 你幫你們的祖母重做一根柺杖.
+1. 做八次；排八次. mo moteovoveohʉ 'o ita patoyangza ci ca'hʉ. 他排的椅子有八排。
+1. 開墾. mio mo'to'ʉ no te na emʉ'i no ucei. 開墾要種芋頭的地方
+1. 女子名. micu sʉptʉ no feohʉ 'o ngho'ʉ ta motoyʉ. Motoyu 懷胎已四個月了。
+1. 打瞌睡. isi p'eac'a to lema'cohio 'o mo m'out'ut'u ci oko. 老師叫打瞌睡的孩童站立
+1. 外出；出門 . emʉta 'o maphiphingi ho teko moyafo. 你要出門時要把所有的門都關起來。
+1. 穿鞋. mi'o msapiei to sapiei no hici. 我穿皮鞋.
+
+
+1. 用腳踩住. mita msatpʉtʉ to fkoi 'e pasuya. Pasuya 用腳踩住蛇
+1. 用腳踩住. ita psatpʉti ta pasuya 'o fkoi. Pasuya 用腳踩住蛇.
+1. 踩碎. mio msaz'oz'o to pusiahʉ 'o 'uachumu. 牛踩碎南瓜
+1. 踩碎. isi psaz'oz'i to 'uachumu 'o pusiahʉ. 牛踩碎南瓜.
+1. 買到. la 'ohana lua msʉlʉ to yaiyanʉ maitan'e. 現在已不容易買到散彈了。
+1. 先買. mi'ocu msuyocʉ to ta'u emʉ'a ci tutu no ecngi. 我已經預先買我要種的樹豆種子
+1. 先買. os'ocu psuyocneni to tutu no ecngi ci teta emʉ'a ta sayungu. Sayungu 要種的樹豆種 子我已經預先為她付款買好了.
+1. 投擲. mo mtokʉ ta fatu si oko. 那小孩投擲石頭
+1. 投擲. teav'ala tokʉneni to fatu 'o pania. 瓶子不要丟擲在石頭上.
+1. 種植. os'o hosopi ta kaapana si os'o mʉ'a ci va'atʉ. 我把我種的絲瓜杵立竹竿。
+1. 下雨. mo ac'ʉhʉ ne hucma ho mo asngʉcʉ mʉchʉ. 下雨一直下到 昨天。
+
+
+
+
+1. 鬆綁. mo muengu 'o 'eongʉ to av'u. 'eongʉ 把狗繩鬆綁
+1. 綁. mo mufutu to tuapiu 'o mo'o. Mo'o 在捆綁木材 te'o na'a futa 'e lulku'u ci mo 'aoko yuhmuyu. 我把我的 手指包紮因為一直流血
+1. 綁. futa 'o tuapzu. 把柴火捆好.
+1. 綁在.... la paifutneni to mengzu ho monoyiei 'o fkuo, tena yaahzoo hote 'aafofou. 把 山芙蓉籤條要綁矛和刀鞘，打仗時 才有神靈的保佑。
+1. 綁. ita futneni ta tuapzu 'o teesi. 他把繩子用來綁柴火.
+1. 地面龜裂 ；下陷. ihe nose'vi 'o mo mʉhcʉ'cʉ'a. 他們避開龜裂地。
+1. 射中. mi'o mʉ'ho to mo coni ci sʉ'eo. 我射中一隻雉雞
+1. 種. isicu t'ot'i to voyu 'o tesi mʉ'i to khafei. 要種咖啡的地已經開墾 了。
+1. 剝. mu'ici ta huv'o ho p'aeni ta 'o'oko. 請你剝橘子給孩子們吃.
+1. 剝. tekon'a yu'ici si huv'o ho p'aeni ta 'o'oko. 請你把橘子剝皮給小朋友吃
+1. 剝. tekon'a yu'icneni ta huv'o a'o. 請你幫我剝橘子.
+1. 武家. mo ianan'ou to monopeisia to mʉknana ho yasiungu. 安家和武家各自有祭屋。
+1. 中陷阱. mo mumzo to h'oepona 'o kuhku. 狐狸中了陷阱
+1. 中陷阱. isi mumzi to kuhku 'o h'oepona'u. 狐狸中了我的陷阱.
+1. 拿著,握住. mi'o mʉpʉtʉ ta tposʉ. 我拿著書
+1. 捶打. mo muutu to te teai poyave 'o mameoi. 老人打製刀子
+1. 曬. mo mvoe to yʉsʉ 'o apu'u. Apu'u 在曬衣服.
+1. 女子名. mita maaecingei to naa'u 'e 'uongʉ. uongʉ 愛慕Naau 。
+1. 傷心,不願意. mo na'no nac'o si oko ho isi koica. 小孩子被罵 了心裡很難過 nac'o si oko hote poa maine'e. 要讓那小孩回家他不願意 mi'o na'no nac'o ho mo tma'congo 'o amo'u. 父親生病我 感到傷心
+1. 為...難過. isi aatvia nac'oneni homo tma'congo 'o ino taini. 他為他媽媽生病而難過。
+1. 傷心,不願意. os'o nac'ova hafa 'o mo moyomo. 我願意幫那喝醉 的人.
+1. 傷心,不願意. os'o nac'ovneni honci fiho 'o fa'ei. 我不喜歡 Fa'ei 跟著我。
+1. 尿騷味. mohta smihi'u ci mitaeno nafcucu. 他尿褲子過所以有尿騷味。
+1. 朋友;愛人. nanghia 'e pasuya ho voyu. Pasuya 和Vo yu 是好朋友 la yone luhtu 'o nanghia'u. 我 的愛人住在Luhtu
+1. 諸位好友. maananghia, temu so la yupto'usnu. 諸位好友,你們要互相 扶持
+1. 短. mo nanʉhtʉ si t'ango ta av'u. 那隻狗的腳是短的 panto la yainca ci ongko ne saviki nanʉhtʉ. 山美部落有人 名叫Nanʉhtʉ
+1. 短. mo naanʉhtʉ si lulku ta yangui Yangui 的手指都很短
+1. 短促 ；短的. leac'o yuananʉhtʉ to nsou homo na'no ngoseo. 很累的時候呼吸很急促。
+1. 飯. mo mosi to naveu 'o paicʉ ho faeni to amosi. Paicʉ 盛一碗飯給她的父親 ne noana'o moso la kakutia 'o la hia bonto naveu pai. 在過去很少吃到白米飯
+1. 米飯. mafe 'e naveupai. 米飯很好吃 os'o o'honga ho o'a naveupai. 我吃得出來不是白米 飯
+1. 你的飯. teko oum'uha si naveusu. 你的飯趕快吃。
+1. 在...(過去式). isi patpopsohi ne isi pnaa 'o 'ua. 他在射鹿時射了兩次。
+1. 平坦. mo sonʉ ho mo ptuceonʉ to mo ngeesangsi. 在平坦地開路較容易 2. 平地. mo mapoponeo 'o ceonʉ ne ngeesangsi. 平地的路是平坦的 3. 潔淨. mo ngeesangsi 'o ceono uhne fuengu ho mo hosoyʉma. 冬天上山的 路是潔淨的(比較沒有雜草)
+1. 平地人.
+1. 苧麻. la'u peela teai teesi 'o ngei. 苧麻可以做成繩子。
+
+
+1. 烤火取暖. mo aʉsʉfeʉngnʉ soupuzu ho ngicu 'o pasuya. Pasuya 一大早就生火為了烤火取暖
+1. 烤火取暖. ihe ngicvi to haah'o 'o pupuzu. 大伙在火塘烤火.
+1. 邊緣處. mo smoftongʉ to ngi'ngiba 'o kuyai. 車子撞到山。
+1. 扛. mo ngoe to te teai sʉesʉ ci evi 'o haah'o. 大夥扛著要當柱子的木頭
+1. 扛. ihe ngoevi to haah'o 'o tena sʉesʉ ci evi. 大夥扛著要當柱子的木頭.
+1. 漂流. mo meatvo'eʉ to feongo 'o mo ngohcu ci evi. 漂流的木頭困陷在石縫中。
+1. 懼怕. mi'o ngoheʉngeʉ to fkoi. 我怕蛇 lea'u ngoheʉngeʉ to mo pak'i ci av'u. 我懼怕凶狠的狗
+1. 懼怕. lahe ngoheʉngea 'o mo pak'i ci av'u. 他們懼怕凶狠的狗.
+1. 懼怕. lea'u ngoheʉngeni ta 'o'oko 'o mo pak'i ci av'u. 我替小孩擔心凶狠的狗.
+1. 扁擔. la titho to mauzi hola moyai ngotohva. 扁擔是用孟宗竹做的
+
+
+1. 扁擔. mio h'unasi 'o la ngotohvi to hufu. 用來擔山棕的扁擔是不一樣的.
+1. 掛住. ngov'o to evi 'o nia yʉsʉ'u. 我的衣服掛在樹上
+1. 掛住;懸掛. os'o ngov'eni to ca'hʉ 'o yʉsʉ'u. 我把我的 衣服掛在椅子上
+1. 掛住. zou ca'hʉ 'o os'o ngov'i to yʉsʉ'u. 椅子是我掛衣服之處.
+1. 遺留而去. ita ngozi 'o mo yahioa. 他離開工作的人
+1. 白毛髮. micu macoconi 'o ngtosʉ ta f'ʉsʉsu. 你已經有一些白頭髮
+1. 差點. mi'o nia'te m'ecihi to t'ee no av'u. 我差點採到狗屎。
+1. 那裡的；那邊的. osucu ahta saisvʉti 'o ceonʉ ninca. 後面的路你走過了嗎?
+1. 處所方向. mo yonenu na no'ausnu no hosasu? 你的部落在 哪個方向?
+1. 處所方向. mo nopeohʉ ne hohcʉbʉ 'o no'ausna to emoo'u. 我的家在 塔山下方.
+1. 在裡面. poa no'ayumonʉ si oko ci mo'so 'aoko mici mimiyo. 讓孩子在屋裡面，因為他一直想 往外跑
+1. 在裡面. no'ayumoni to taico 'o teo'ua. 雞在客廳裡面.
+1. 滯留. mita neisu to mo noteuyunu 'e 'uongʉ ho nochʉmʉ. Uongʉ 經過眾人聚集的地方就滯留 下來
+1. 滯留. isi cuc'o nochʉmi to uhngu 'o nia toton'u'u. 我之前的小米田雀鳥都滯留在那裏.
+1. 靠近. mo nocmu'u to c'oeha 'o emoo'u. 我的家靠近河邊
+1. 靠近. isi nocmu'i to ceoyu 'o teova'u. 虎頭蜂靠近我的工寮.
+1. 隱藏. te ngoveo elʉa 'o mo noefo'ʉ to ceoa ci kin. 很難找到埋在土裡的金子
+1. 隱藏. te ngoveo elʉa 'o isi soefo'a to ceoa ci kin. 很難找到埋在土裡的金子.
+1. 埋藏. isi soefo'i to kin 'o ezoyʉ'u. 我的土地埋藏了金子.
+1. 壓倒. ihin'i noefʉ'i ta 'o'oko si teova'u. 小朋友壓倒我的工寮
+1. 坐垮. sia co mo noe'ohʉ ta ceo'ʉ? 誰把石埂坐垮了？
+1. 坐垮. noe'ohi 'o os'o yusuhngi ci fatu. 我把我坐的石頭坐垮了。
+1. 在高處. mi'o noepe ta sofʉ. 我在屋頂上方
+1. 在較高處. la noepehe to toevosʉ 'o 'oyona to ftʉftʉ. 帝雉居住在比藍腹鷴較高的環境。
+1. 在高處. ihe noepii to 'o'oko si sofʉ. 小朋友在 屋頂上.
+1. 變換位置. micu noezuhu 'o cmoi. 熊已經變換位置
+1. 變換位置. isi noezuhi to cmoi 'o tʉ'nʉ ne hohcʉbʉ. 熊變換位置到塔山.
+1. 在底下. mo nof'uf'u ta pangka si ca'hʉ. 椅子在桌子底下
+1. 在底部. nof'uf'i ta ca'hʉ 'o panka. 椅子在桌子底下.
+1. … 噁心.
+1. 對…噁心. la'u nokʉ'a 'o t'ee no av'u. 我對狗大便感到噁心
+1. 位處不恰當. mo nokvo'ʉ 'o kuyaisu. 你的車子停在不恰當的地方
+1. 位處不恰當. isi nokvo'i to yatatiskova 'e hpʉhpʉngʉ eni. 這塊地不適合人類居住.
+1. 裝得下. a tec'o nomso ta efucu si f'ue. 袋子裝得下那些地瓜 mo aʉlʉ nomso to kuyai 'o mo pitu ci 'o'oko 車子剛好裝得下七個小孩
+1. 裝得下. isi nomsozi tomo pitu ci 'o'oko 'o kuyai. 車子剛好載得下 七個小孩.
+1. 阻擋;阻礙. 'aoko nomʉtʉ 'e 'o'oko ho mi'o yahioa. 小孩子們一直阻礙我工作
+1. 阻擋;阻礙. ihe nomʉta to lesmoe'isi 'o ceonʉ ta'e. 那邊的路被警察阻擋.
+1. 阻擋;阻礙. ihin'i nomʉti ta 'o'oko ho mi'o yahioa. 小孩子們一直阻礙我工作.
+1. 頭一次. mi'o n'a nookayo to kuyai 我頭一次坐轎車
+1. 頭一次. ihen'a nookai ne hucma 'e emoo eni. 他們昨天剛入住這棟房子.
+1. 在上方. mo nooskopʉ ta pangka si skayʉ. 籃子在桌子上
+1. 在上方. isi nooskopi ta skayʉ si poyave. 刀子被壓在籃子下方.
+1. 納涼. mo noosohuyu ta tataka si mamameoi. 老人家在 涼亭納涼
+1. 納涼. ihe noosohui ta mamameoi si tataka. 老人在涼亭納涼.
+1. 在(洞)裡面. mo nooyo to kuyai 'o 'o'oko. 小孩子在車子裡 mo nooyo to feongo 'o hiaemoza. 穿 山甲在洞裡
+1. 在(洞)裡面. isi nooevi to hiaemoza 'o feongo. 穿山甲在洞裡.
+1. 耽誤. 'otena 'aoko no'pou ta tec'u e'ohʉ. 別再耽誤他們要出發了
+1. 耽誤. teav'ana 'aoka no'povi si te yaahioa. 別再耽誤他們要工作了.
+1. 在…下. mo noskufu ta evi si ca'hʉ. 那椅子在那棵樹下
+1. 在…下. isi noskufi ta kuyai si evi. 那部車在那棵樹下.
+1. 在底部. mo nos'oyʉ ta tuapzu 'o fkoi. 蛇在木材堆下方 mo nos'oyʉ ta tuapzu (tuapiu) si i'iya. 那木板壓在那堆木柴底下
+1. 在底部. isi nos'oi ta tuapzu (tuapiu) si i'iya (ie'iya). 那木板被壓在那堆木柴底下.
+1. 在中間. mo notaico to hosa 'o emoo'u. 我的家在部落 中間
+1. 在中間. isi notaici to teova 'o toton'u'u. 我的工寮在小米田裡的中央.
+1. 將要. teko pivuyu'u note ana ho yofna. 你來做晚上要吃的地 瓜湯。
+1. 聚在一起. mo noteuyunu to ecuu 'o 'o'oko ho yuuhnguzu. 小孩聚集在池塘中游泳
+1. 聚在一起. imza noteuyuneni 'o avai ho te heetai. 我們為即將當兵的Avai 聚在一起. (Tfuya 說法). imia noteuyuneni 'o avai ho te heetai. 我們為即將當兵的Avai 聚在一起. (Tpangʉ 說法).
+1. 聚在一起. ihe noteuyuni to haah'o 'o kuba. 眾(青年)人聚集在Kuba.
+1. 排列. mo ma'himaskʉ 'o mo notoyange ci pangka. 桌子排了十排.
+1. 排列. isi notoyangi (notoyangzi) to moatʉ'nʉ si ceo'ʉ. 山羊排在石埂上.
+1. 混雜在一起. mo notvohʉ to c'oeha 'o yoskʉaʉlʉ ho czou. 苦花魚和石斑魚混雜在河裡
+1. 混雜在一起. isi notvohi to yoskʉaʉlʉ ho czou 'o c'oeha. 苦花魚和石斑魚混雜在河裡.
+1. 同住,在一起. mohta la asonghoi no'upu to puutu. 他從小就和漢人同住
+1. 同住;在一起;作陪. leasi no'upi to ba'ihe 'o 'o'oko. 奶奶與孫子同住.
+1. 聚會. mo ekvo'ʉ to mo nouteuyunu 'o mo'o. Mo'o 對著聚會的人謾罵。
+1. 在下方. mo noyovcu 'o 'o'ocea taini. 他的茶園在下方處
+1. 在下方. isi noyovci to 'uachumu 'o ceo'ʉ'u. 牛在我的田埂下方.
+1. 地名；獸泉之地. 'e tan'e zou nsoana. 這裡是獸泉之地。
+1. 當就要……:將要. ita okosia ta tanivu 'o nte chua ci feʉ'ʉ. 將要殺的豬，Tanivu 嫌小。
+1. 有的..... nto lac'o mateno ho mo pono. 有的人在 射擊時很準。
+1. 他們原本要 …….. isi a'homamsa ana no nghou 'o ntohin'i tusbuka ci sbuku. 他們原本要 採割的 剩下一點點的竹筍被猴子 吃了。
+1. 本來是…….. 'a ntoho yuuving 'o voyu honci o'a mo'so angu poha'o. V oyu 要不是動作太慢, 本 來是要當郵差。
+1. 他本來要…….. anova poa hioaneni ta pasuya 'o ntohta hioa ta mo'o. Pasuya 只好做了Mo'o 應 該要做的。
+1. 我本來要…….. os'o pei'i 'o nto'u tothucneni ta oi'i. 本來要在下面育苗的我煮掉了。
+1. 乳房. mo na'no meoisi si nun'u ta sayungu. Sayungu 的乳房很大 2. 吃奶. micu asonʉ mici nun'u si oko. 那小孩可能想要吃奶了 3. 奶汁. o'te emso to nun'u 'o oko. 母乳不夠孩子吃
+1. 吃奶. isi nun'i ta oko si nun'u ta inosi. 小孩在吃母奶. 2. 乳房.
+1. 語助詞. o mcu'ho 'o fatu ta'e. 那裏的石頭部分掉落
+1. 專於….
+1. 故事. mo man'i 'o h'oehangva ta cou. 鄒族的故事很多
+1. 食物. nia la atuhcu 'oanʉ ta cou 'o ton'u. 小米是鄒族以前的主食 mo man'i 'o 'o'oanʉ ta hosamza. 部落有很 多種食物
+1. 各種不同的食 物. o'a tela oemoemou to mao'oanʉ. 吃食物不要過量。
+1. 他的食物. tekoc'o soangzotneni to teo'ua 'o 'oanʉsi. 雞的飼料你少量放就好。
+1. 專屬的座位. zou 'oyuhsunga ta 'icangaya na eni. 這是酋長的寶座
+1. 親戚. ihe eoho'a to 'oahngʉ taini ne maibayu a'o. 他嘉義的親戚邀請我 2. 屬於. zou 'oahngʉ to mo mayahe peayofʉ 'e mo'o. Mo'o 是屬於跑得很快的人
+1. 全部的親戚. mo yu'ma moengʉ 'e mao'oahngʉ taini ho mo pasunaeno. 他的親戚都很會 唱歌
+1. 他的親人 . ho mo yaa mcoi, la sʉ'eʉsʉ to mo kua'onga ci yʉsʉ 'o 'oahngʉsi. 若有親人過 世， 遺族要穿著黑色的衣著。
+1. 吃中餐. mita cu oahtu. 他已吃過午餐
+1. 吃中餐. cuma na te oahtua ho hie? 中餐要吃什麼?
+1. 珍惜著吃. tela at'ocʉ oakak'ingi to 'oanʉ. 吃東西時，要習慣省著吃
+1. 珍惜著吃;省著吃. tela at'oca oakak'inga 'o 'oanʉ. 吃東西要習慣珍惜著吃.
+1. 選大的吃 . mita c'o oamaamtanʉ ho mita bonʉ to ucei. 他只選大的芋頭來吃
+1. 選大的吃 . ita c'o oamaamtanʉa 'o ucei. 他只選大的芋頭來吃.
+1. 偷吃. cuma na mo oasoe to mo yonto pangka ci yoskʉ? 是被什麼偷吃了桌上的魚?
+1. 偷吃. isi oasoeza no ngiau 'o mo yonto pangka ci yoskʉ. 放在桌上的魚被貓偷吃了.
+1. 想要. os'oc'o ocea pa'hicocveni to haah'o co e'e'u. 我說的話只想逗大家笑而已。
+1. 間隔相近. mo angu o'cʉphʉ 'e iko emʉ'a ci ton'u. 你種的小米間隔都太近
+1. 間隔相近.
+1. 橫倒下. mo efeti to ceonʉ 'o mo oefʉ'ʉ ci evi. 倒下的樹橫在路上
+1. 倒下. ala oefʉ'a to yoi 'o cnʉmʉ. 香蕉樹被蟲咬倒了
+1. 吃過量. o'a tela oemoemou to mao'oanʉ. 吃食物不要過量 o'te la oemoemou to mo yonto pania. 瓶子裡的東西不要吃過 量
+1. 吃過量. teav'ala oemoemova 'o mo yonto pania. 瓶子裡的東西不要吃過 量.
+1. 提前吃. micu oe'mu 'o 'o'oko ci te tmopsʉ. 要上學的小孩提前吃了
+1. 提前吃. ihe oe'mua to te tmopsʉ ci 'o'oko 'o tehe ana. 要上學的小孩提前吃了他們要吃 的份.
+1. 睡著. oteso o'te maceofʉ ho miko oengʉtʉ. 你睡覺不要不蓋被子 mo oengʉtʉ si oko. 小孩子在 睡覺
+1. 睡著. isi oengʉti ta oko si hopo'u. 朋友睡在我的床上.
+1. 躺一會. mi'o ake'i oe'oevoi to teova. 工寮躺了一會
+1. 躺臥. mita oevoi ta ca'hʉ 'e 'atai. atai 躺在椅子上 te'o oevoi. 我要躺下了
+1. 不太. a'ʉmtʉ 'oha ʉmnʉ atfʉngʉ e'po'pou no nteta hioa. 真是抱歉一直干擾你說話。
+1. 不容易. la 'ohana lua msʉlʉ to yaiyanʉ maitan'e. 現在已不容易買到散彈了。
+1. 弟弟妹妹 . mo yoso 'o ohaesa no'u hahocngʉ. 我有兩個弟弟
+
+
+1. 兄弟姊妹 . mo eimo 'o mimza (mimia) nanat'ot'ohaesa. 我們兄弟姊妹 有五人 la koa 'oha nananghinghia to mo nanat'ot'ohaesa 'o la makitkiti. 小氣致使兄弟姊妹 無法和睦共處。
+1. 弟弟 妹妹. os'o usa ho aiti 'o mo amamzo ci ohaesa'u. 我去探望生病的弟弟。
+1. 哥哥姐姐 . mo cihi 'o ohaeva'u ci mamespingi. 我有一位 姐姐
+1. 弟妹們. mo tuyu 'o 'a'ahaesa'u. 我有三個弟妹
+1. 已經. ohocu ef'onga 'o papai. 田已經犁過了.
+1. 走近. lasi tomʉti ta fiteu na kuisipsipa hoci ohcum'u ta kuba ho hosa. 木槲蘭能阻擋邪氣靠近 Kuba 和部落
+1. 走近;靠近. lasi tomʉti to fiteu na kuici hicu honcisi ohcum'a 'o kuba ho hosa. 木槲蘭能阻 擋邪氣靠近男子會所與部落。
+1. 他們有. ohe la ataveia oh'usni ci hosa 'o ne cayamavana. 茶山是最後遷去的部落。
+1. 他們曾有. ohela yoni no nia takupuyanʉ 'o niahosa ne simvi. 新的舊部落是Takupuyanʉ 族人的所在地。
+1. 到齊, 全部都去. micu oheʉmhʉ 'e haah'o. 群眾已到齊了
+1. 到齊, 全部都去. ihecu oheʉmha to mo yu'suezuyu 'o ezoyʉhe. 他們輪工完畢了.
+1. (預定過的事情)完成. mi'o cu oheʉpngʉ to te'o anana'va hioa. 我該做的工作已經完成
+1. (預定過的事情)預定時事. i'ocu oheʉpnga 'o te'o anana'va hioa. 我該做的工作已經完成 了.
+1. 往下移. micu oheovcu to c'oeha 'o mo yʉskʉ ci ceoa. 土石崩落到河裡去
+1. 往下移. isi oheovca to mo yʉskʉ si ceoa. 土石崩落到河裡去.
+1. 吃得浪費. ote la o'hi'hisi to 'oanʉ. 不要浪費食物
+1. 吃得浪費. teav'a la ou'hi'hisia 'o la ana. 不要浪費食物.
+1. 直接從容器內吃東西. mitac'o ohi'u to tngoo to naveu. 他直接吃鍋裡的飯 2. 當場吃. mihin'ic'o ohi'u to yoskʉ. 他抓魚當場在河裡吃
+1. 當場吃. itac'o ohi'va to tngoo 'o 'oanʉ. 他當場吃鍋裡的食物。
+1. 浸蝕. micu ohlongʉ ta h'onʉ'u 'o emi. 我的肝已被酒精浸蝕
+1. 浸蝕. isicu ohlonga to emi co h'onʉ'u. 我的肝已被酒精浸蝕。
+1. 入境處. la ohmi ta sea'fʉnʉ ho la uhta hosa. 進到特富野的入口是十字村
+1. 吃得出感覺. mita o'hongʉ ho os'o p'ani to nia mea'hisi. 我給他吃 白鼻心他吃得出來
+1. 吃得出感覺. ita o'honga 'o os'o p'aeni ci nia mea'hisi. 我給他吃 白鼻心他吃得出來.
+1. 往下移動. mosola i'mi ne tpʉyana ho ohpueho noezuhu ne taptuana 'o tapangʉ. 方氏家族是從 Tpʉyana 向下遷徙到達德安 mita ohpueho to kuyai 'e mo'o. Mo'o 下車
+1. 往下移動. zou eni 'e ohsila ohpuehi no hamo. 這就是天神下 降的地方.
+1. 去三次. mita ohtoteuhu tmoepoyʉ to kaapana. 他搬竹子搬三次
+1. 去三次. ita ohtoteuha ne ita teopoya 'o kaapana. 他搬竹子搬三次。
+1. 吃得高興. mo na'no okakaebʉ to emcu 'o feʉ'ʉ. 豬吃地瓜葉吃得很高興
+1. 吃得高興. isi na'na okakaeba to feʉ'ʉ 'o emcu. 豬吃地瓜葉吃得很高興.
+1. 瞬間吃完. mo c'o okameosʉ 'o mo'o ci ihe'so eoho'a. Mo'o 就吃一下， 因為他們請他過去
+1. 很快吃完. isic'o okameosa to feʉ'ʉ 'o os'o p'aeni ci emcu. 我餵給豬的地 瓜葉瞬間被牠吃 光了. [ ]
+1. 小孩. mo cihi 'o oko'u. 我有一個小孩。
+
+
+1. 眾多小孩子. te la poa bumemealʉ tmopsʉ 'o mao'o'oko. 我們要讓 眾多小孩子好好地唸 書
+1. 我的小孩. mo cihi 'o mo n'a tmopsʉ ci oko'u 我還有一位孩子在讀書。
+1. 很多小孩子.
+1. …… 的小孩. mosoc'ola nana na'no 'o'okono cou na meefucu. 傳說小矮人個子很小。
+
+1. 我們的小 孩. teto la angongohza 'o 'o'okoto. 我們要愛護我們的小 孩。
+1. 我的小孩. mo aʉlʉ sio 'o hia botngonʉ to 'o'oko'u. 我的孩子有九個那麼多 。
+1. 小孩. isi patpopsohi to esou to inosi 'o 'oko. 媽媽用細長的 樹枝打了孩子兩次。
+1. 小孩. mo m'ecunu to okono fkoi 'o mo'o. Mo'o 踏到小蛇。
+1. 小的. mo okosi 'e emucu taini. 他的手小小的 moc'o okosi 'o os'o tanua to papai. 我分到的 田 只有小小塊
+1. 小小地. mo 'o'okosi 'o mo su'to ceonʉ ci fatu. 掉落路面的都是小 石頭 2. 他(她)的孩子. zou okosi to mo'e tapangʉ 'e pasuya. pasuya 是方mo'o 的小孩
+1. 嫌小. ita okosia ta tanivu 'o nte chua ci feʉ'ʉ. 要殺的豬,Tanivu 嫌小 moc'on'a okosi 'o ita chua ta tanivu ci feʉ'ʉ. Tanivu 要殺的豬還很小.
+1. 那個. os'ocu peeelʉi 'ola hia mosi to smohfihci. 我已經會設置捕獸夾的方法了。
+1. 吃到. mi'o olʉ to pania ne mi'o bonʉ to nia evoyʉ. 我吃飛鼠肉時吃到 子彈
+1. 吃到. os'o olʉa 'o pania ne mi'o bonʉ to evoyʉ. 我吃飛鼠肉時吃到 子彈.
+1. 吃鹹的. la yaeza aasvʉta poa omaski 'o 'uachumu. 有時也要使牛吃鹹的(指鹽巴)
+1. 那個. 'omo uk'a kuba ci hosa lea yaa hʉfʉ. 沒有男子聖所的部落，會有 集會所的。
+1. 夠吃. mimu amako omso no imu ana? 你們吃的 東西夠吃嗎? 2. 吃飽. 'ua mimza/mimia omso. 我們有吃 飽
+1. 吃飽;夠吃. imza (imia) omsoa. 我們有吃 飽.
+1. 上方. mo uhta omza/omia 'o yangui ho tusbuku. Yangui 去上方處割筍
+1. 它的上方. mio yonto omzasi to ceonʉ 'o 'o'ocea'u. 我的茶園在路的上方 zou yane mao'omza ami. zou yane o'iana hin'i. 我們是北方人.她們是南方人 lata yonenu? lata yone omza 他哪裡人?他是上方的人
+1. 吃剩. mi'o ongaco to te'o teongheni to amo. 我留菜給父親吃 mi'o ongaco to tesi ana to oko'u ci naveu. 我留了飯要給小孩吃
+1. 吃剩. isi ongacveni to ino to te'o ana. 媽媽留吃的留給我.
+1. 吃剩. te'o p'aeni to ngiau 'o os'o ongacvi. 我吃剩的要給貓吃.
+1. 名字. o ongko no'u emoo zou toskʉ. 我的家姓是杜氏 2. 影子. isi pe'ongki to ongko to cmʉcmʉ ne mi'o coeconʉ. 我走路時雲影擋住光線 la sohuyu hola noskufu to ongko to evi. 我在樹影下納 涼很涼快
+
+
+1. 他的名字. la eoho'a ho mo homeyaya 'o ba'eton'u. zou maezo ongkosi 'o noachipa, ci la'so aʉt'ʉcʉ to heoemʉ'ʉ. 小米祭典時呼求小米神, Noachipa 也是祂的名字, 因為祂也掌管農作 物。
+1. 你的名字. isi cohivi to inguyu na ongkosu? Inguyu 知道你的名字嗎?
+1. 意思意思吃一點. o'ana mita mici onsonsou to hia taini nac'o. 他難過地吃不下
+1. 意思意思吃一點. teko amaka fii no teta onsonsova. 你起碼給他一點吃的.
+1. 吃了之後離開不管. mita c'o onʉ'ʉ to ita ana. 她吃了就走了
+1. 吃了之後離開不管. itac'o onʉ'vi 'o ita othui. 她吃了就走了.
+1. 茶園(日語借詞). teko muyo uhne 'o'ocea ta'u meecunu. 你先去茶園我隨後到。 [日語借詞]
+1. 只吃某種食物. oonoyʉ to chai 只吃菜
+1. 挑食. itac'o oonoya si fou. 他只吃肉.
+1. 配菜. la mafe 'o yoskʉ maski ho isi opaskeni. 鹹魚拿來當配菜很好吃 .
+1. 配菜. mimza/mimia opaski to yoskʉmaski. 我們的配菜是 鹹魚
+1. 配菜. lea opaska 'o yoskʉ maski. 鹹魚是拿來配菜
+1. 殺死. mo opcoi to fkoi 'o amo. 父親殺死了蛇
+1. 殺死. isi opcoza to amo 'o fkoi. 父親殺死了蛇.
+1. 吃零食. poa amako o'po'pou no kamcia 'e haah'o. 讓眾人在閒暇時吃糖果
+1. 吃零食. mayo no teko o'po'pova. 拿你要吃的 零食.
+1. 去兩趟. mita opsohʉ tmoepoyʉ to sbuku. 他去搬竹筍二趟
+1. 去兩趟. ita opsoha ne ita teopoya 'o sbuku. 他去搬竹筍兩趟.
+1. 吃兩次. la'u miho c'o opusku to conohie. 我偶而一天只吃兩次
+1. 吃兩次. isi opuska to feʉ'ʉ 'o f'ue ci os'o hafa. 我帶的地瓜豬分兩次吃.
+1. 吃對胃. o'a mita oseolʉ to la cohʉmʉ. 他不吃甜的
+1. 吃對胃. o'a ita oseolʉa 'o mo cohʉmʉ. 他不吃甜的.
+1. 立即,馬上. mo 'osni mongsi 'o oko ne isi koica. 孩子被罵 時馬上就哭
+1. 立即,馬上. itac'o 'osnia oepʉnga 'o os'o faeni ci cnʉmʉ. 他立刻就吃完我給的香蕉.
+1. 猛吃. mo osno'zonʉ to emcu 'o feʉ'ʉ. 豬猛吃了地瓜葉
+1. 猛吃;認真吃. isi osno'zona to feʉ'ʉ 'o emcu. 豬猛吃了地瓜葉.
+1. 首次吃. la ngoveo mʉyʉmcʉ ho mo osonghoi to s'os'o. 第一次吃藥時難以下嚥
+1. 首次吃(自始). lea mafe ho isi osonghoza 'omo faeva ci pai. 剛開始的新米特別好吃.
+1. 嚼汁. lac'o ospʉca 'o fsoi. fsoi 只嚼其汁
+1. 嚼汁. ita ospʉci 'o fsoi. 他嚼fsoi吃汁.
+1. 吃早餐. mac'o otaseoni teno yaatonʉ no yaahioa. 要吃早餐工作才會有力量
+1. 吃早餐. la ʉmnʉ ho isi otaseona 'o f'ue. 地瓜早上吃是非常好的.
+1. 後吃. naho ouyu ta'u otavei. 你先吃我後吃
+1. 後吃. tako otaveia 'o saitungu. 木瓜你要後面吃喔.
+1. 餐具. itac'o onʉ'vi 'o ita othui. 她把他的餐具任意放置。
+1. 吃得很多. te anana'o otmuzu 'o la boetatonʉ yaahioa. 勞力工作者本來就食量大
+1. 吃得很多. lea kuzo ho isi otmuza 'o mo sʉmʉ. 辣的吃很多不好.
+1. 摩托車；機車(日語借詞). mo smopayo ta 'otovai si 'o'oko ho mimiyo. 孩子們騎機車去遊玩。 [日語借詞]
+1. 吃一小塊. imu amaka poa otpʉskʉ to imu ana ci fou 'e 'iusungu. 你們至少讓'Iusungu 吃一點你 們吃的山肉
+1. 吃一小塊;小片. ma isi otpʉska no sia 'e fou'u. 我的山豬肉是 誰偷吃了一小 塊.
+1. 吃一小塊. teava'so o'te p'otpʉski to imu ana ci fou 'e 'iusungu. 你們的山肉一 定 給'Iusungu 吃一小塊.
+1. 邊走邊吃. mo ouhucu to huv'o 'o pasuya. Pasuya 邊走邊吃橘子
+1. 邊走邊吃. isi ouhuca to mo'o 'o huv'o. Pasuya 邊走邊吃橘子.
+1. 吃得快. la na'no oum'uhu 'o teo'ua ho mo bonʉ. 雞吃東西時牠們吃得很 快
+1. 吃得快. teko oum'uha si naveusu. 你的飯趕快吃.
+1. 亂吃. la cong'e cfu'o ho mo oʉnpʉnpʉ. 亂吃東西會胃痛
+1. 亂吃. teav'a la oʉnpʉnpa 'o s'os'o. 藥不可亂吃.
+1. 趕快吃. mita oupcio ci 'teta'so yonto kuyaihe. 他急著吃因為他要坐別人的車
+1. 趕快吃. oupcieva si iko ana ci tena amzo coheʉceʉ. 你趕快吃不然就 涼了.
+1. 挑食. mita c'o oupeipei to ita ana ci chae. 他只挑些菜吃
+1. 挑食. temuc'o oupeipeia si ucei. 你們挑好的芋頭.
+1. 一起吃掉. mo o'upu to os'o ana ci pohe 'o pasuya. Pasuya 跟我一起吃玉米.
+1. 一起吃掉. teko bʉengʉ to pohe te o'upa ho cohzona. 你烤個玉米,中午可以一起吃的
+1. 一起吃掉. isi o'upi to pasuya ne mi'o bonʉ to pohe. Pasuya 跟我一起吃玉米.
+1. 一起吃掉. tekoc'o o'upneni a'o. 你要吃我的 份.
+1. 常去…… . lahe 'ousa to 'o'oko 'o ecuu ta'e ho yuuhnguzi. 小朋友常去那邊的水池游泳。
+1. 試吃. naho cu oʉsvʉtʉ. 你就來試吃
+1. 試吃. nahocu oʉsvʉta. 你就來試吃.
+1. 先吃. Nahocu ouyu 'o'oko. 孩子們你們先吃吧
+1. 先吃. naho oueva si yoskʉ. 那魚你們先吃吧.
+1. 一直在 ……. bu'oo'te tma'ongʉ 'uongʉ ho miko 'oyo pupuzu. 你一直在 火爐邊, 盡量不要用黑 炭弄污黑自己。
+1. 一直在水裡. la kaebʉ 'oyochumu 'o hanahana. 鴨子一直在水裡。
+1. 吃晚餐. la'u oyofonʉ ho micu meove 'o hie. 太陽下山了我就會吃 晚餐
+1. 吃晚餐. la ʉmnʉ ho isi oyofona 'o cohma. 晚餐吃稀飯很好.
+1. 經常的居所 ；住所 ；常待的地方. la noepehe to toevosʉ 'o 'oyona to ftʉftʉ. 帝雉的棲息地 比藍腹鷴還高。 mo ʉmnʉ 'e 'oyona yu'eteuyunu ta hosato. 我們部落的 集會場所很好。 mo yunzou 'o lata 'oyona ci teova. 他常待的工寮燒掉了。
+1. 他一直住的 ；他的居所 ；他常待的. ho tec'u poa mongoi to kuba ho poa yuovei no 'oyonasi ne pepe na hamo, la pasunaenva 'e eao. 當天神要離開會所回天上他的 居所時,要 唱送神曲。
+1. 學校; 公家機關 . la tmopsʉ ta 'oyonatmopsʉ ta lalauya 'e oko'u. 我的小孩在樂野的學校 唸書
+1. 我們一直住的 ；我們的住 所 ；我們常待的. ma'koyu no te la meelʉ ausuhcu ʉmnʉ 'e 'oyonato. 希望我們的居所能越來越美好。
+1. 我一直住的 ；我的住所 ；我常待的. te'o uhto 'oyona'u ho hoseoyʉ ho hucma. 我明天 要到我常待的獵場打獵。
+1. 廚房(借自日語). tako n'a akameosa tusi'nga si suiziva. 你來打掃一下廚房
+1. 蓋. o paceofʉ'u. 他蓋了我的棉被 2. 穿. ohola paceofa ne noana'o 'o feo'u no yuangsou. 以前把 獸皮當衣服穿
+1. 粽子. la mafe ho isi so'upi to simeo 'o packanga. 粽子加上肥肉很好吃。
+1. 教. isi pa'cohivi bua cou to amosi 'o oko. 爸爸教小孩說母語
+1. 全部種. isi cu paecʉhi to ton'u si mibako ta ezoyʉ. 土地的平面都種植了小米
+1. 全部種. isi cu paecʉ'ha 'o hioyapo no ton'u. 小米的種子已全 部播種完畢。
+1. 全部種. ihin'i cu paecʉhneni 'o hioyapo no ton'u. 他們已經把小米種子播種完畢.
+1. 丟擲到. ita paecʉ'hi 'o apihana to c'oeha 他丟擲到河的對岸
+1. 嚇人. isi paehʉzi to ak'engʉca 'o oko. 打雷嚇到小孩.
+1. 開玩笑. tav'ana paenova ci tac'u amzo sʉ'no. 別再逗他了，他 終究會生氣了。
+1. 種了不管理. ita paenʉ'vi to chae 'o papai ho o'tena cumasa. 他菜種到田裡後就不管理了
+1. 種植以後就不理. itac'o paenʉ'veni 'o chae ho o'tena cumasa. 他種了菜之後就不管理了
+1. 相互接. mo na'no smosvʉtʉ 'o isi paepecnguha ci po'oyua. 那接起來的水管很密合。
+1. 這處接另一處； 互接. isicu acʉha paepecngucnguha 'o maapatinsoha to po'oyua. 水管 (複數)都接好了。
+1. 失火. micu petohʉyʉ afsi 'o moso pae'ʉhʉ ta hcuyu ta'e. 那山頂發生的火災終於熄滅 了 mo meiepe si f'ongʉ ta mo pae'ʉhʉ. 火災時的濃煙衝得很高 mo pae'ʉhʉ 'o teova to yapasuyongʉ ne mo pei'i to sbuku. 他煮竹筍時引起工寮火災 mo pae'ʉhʉ 'o mo phomeo ci puutu ne yoyohu. 在 yoyohu 放火整地的漢人引起火災
+1. 失火. isi pae'ʉhi to mo'o 'o teova. Mo'o 讓工寮失火.
+1. 給…帶. os'o pahafi to fou 'o mameoi ne mo uso. 老人家來的時候，我給他 帶肉回去
+1. 給…帶. mio pahafo a'o to tesi phieni ci ehufu 'o fa'ei. Fa'ei 託我帶他要賣的紅棕.
+1. 托帶. isi pahafneni a'o to voyu 'o tesi phieni ci ehufu. Voyu 他讓我帶他要賣的紅棕.
+
+1. 逗人笑. 'a mi'o c'o pa'hicocvo. 我只是開玩笑
+1. 逗人笑. os'oc'o ocea pa'hicocveni to haah'o co e'e'u. 我說的話只想逗大家笑而已.
+1. 逗人笑. os'o pa'hicocvi 'o mo noteuyunu ci maamespingi. 我對那些聚 在一起的女人開玩 笑.
+1. 嚇人的話; 使人害怕的話. leata kaebʉ pa'hismosmoyo to 'o'oko. 他喜歡說一 些嚇人的話來嚇 小孩
+1. 嚇人的話; 使人害怕的話. leata kaeba pa'hismosmoyoi 'e 'o'oko. 他喜歡說一 些嚇人的話.
+
+1. 嚇人的話; 使人害怕的話. lahe 'aoka pa'hismosmoyoneni 'o engohcu. 他們常用水鬼來嚇 小孩.
+1. 包含. isi pa'hi'upi to niahosa 'o tuthusana. 粱家包含朱家 mo ma'hi'upu to niahosa 'o tuthusana. 梁家包含朱家
+1. 包含. isi pa'hi'upneni to niahosa 'o tuthusana. 朱家包含在梁家內.
+1. 沾料. pahsieveni to sieu 'o cuc'u. 他把生薑沾鹽
+1. 發射九次. ihe nana pahsiohi na ihe pnaa. 他們對著射擊目標射了九次. 2. 打九次. ala pahsiohi 'o ihe ti'usna. 他們竟然打了 那個人九次.
+1. 猥褻動作. o'a la azou eʉskʉ ho isi pahsoksoki. 以陽具猥褻的動作對著山,山崩就停止了.
+1. 射殺四次. ihe pahsospothi ne ihe pnaa to yoso 'o fuzu. 山豬被兩人射了四次. 2. 打了四次. pahsospothi ne isi eobaka 'o av'u. 狗被打了四下.
+1. 訓誡. temu tmalʉ ta mameoi ho isi pahsʉsʉfti. 你們要聽 從長者的訓誡
+1. 訓誡. zou cuma co isi pahsʉsʉfteni ta mameoi. 長者在訓誡什麼.
+1. 射殺三次. isi pahtoteuhi to 'avai 'o fuzu. avai 對著山豬射了三次. 2. 打三次. isi pahtoteuhi ne isi eplikva to inosi 'o oko. 小孩被他媽媽打了三下.
+1. 相互接 ；傳承. ihe pa'icngiha to mamamaameoi 'o h'oyungsova ta cou. 鄒族的文化是 由老人 傳承。
+1. 頭飾帶. la na'nosino paifutneni to ceopngu no hici 'e paiftonga. 頭飾帶通常是繫繞在皮帽上
+
+
+
+
+1. 頭飾帶. isi paiftongi to paiftonga 'o fnguu to ba'i. 祖母的頭上繫上頭飾帶.
+1. 頭飾帶. isi paiftongneni to ba'i 'o mon'a faeva ci paiftonga. Ba'i 繫上新的頭飾帶.
+1. 全披上. na'no yonghu si paiftongʉ ta apu'u. Apu'u 的頭飾帶很美麗
+1. 圍繞. ihe paikuyungvi to mo yusungu 'o pupuzu. 他們那些坐著的人圍繞在火爐 ihe paikuyungvi ta 'o'oko a'o. 孩子們圍著我
+1. 圍繞. ihe paikukuyungveni to pupuzu 'o ca'hʉ. 他們把椅子圍在火塘旁.
+1. 有. panto nia la anana'o ongko no av'u ta coua'toana. 以前鄒族的狗有 專用的名字。
+1. 有的有. pantola na'no keuetieha ci yatatiskova. 有的人很會 爬。
+1. 水稻田. o'ana lahe thuci 'o maapapai. 文雀很喜歡在 稻田裡 2. 鼠蹊部. la cong'e papai homo smaina'o. 走路走很久鼠蹊部會痛
+1. 很多稻田. o'ana lahe thuci 'o maapapai. 他們不再在水田插秧了
+1. 我的水田. os'o poa thucneni to voyu 'o papai'u. 我的水田讓Vo yu 種植插秧。
+1. 切； 鋸. mo na'no mahtʉicʉ ho isi papapsa si teʉfsʉ. 那櫸木鋸起來很硬。
+1. 切. isi papasa to yangui 'o tesi pei'i ci fou. Yangui 切肉要煮。 2. 鋸. ihe papasa 'o c'osʉ to yaaceonʉ. 他們鋸了路邊的樟樹
+
+
+1. 切. tekon'a papasneni to fou no te'o pei'i. 請幫我切我要煮的肉. 2. 鋸. takon'a papasneni to toapiu a'o. 你幫我鋸木柴.
+1. 拍手. mo papika 'o mo tmalʉ to mo pasunaeno. 聽歌的人都拍手
+1. 拍手. teto toehunga papikaneni 'e pasuya. 我們一起為Pasuya 拍手.
+1. 挑撥離間, 誤導. o'a mo ʉmnʉ hocila paskuv'i 'o yu'fafoinana. 誤導青少年是不好的 aha'va paskuv'i 'o navconga, ko'ko mo yobai. 那夫妻被挑撥離間, 所以吵架了
+1. 打噴嚏. o'a mita ʉm'ʉmnʉ ci mita eno 'aoko pasngi. 他身體欠安,所以一直打噴嚏
+1. 打噴嚏. tav'ala pasnga 'o te e'ohʉ. 不可對要出門的人打噴嚏.(鄒的習俗).
+1. 指向. teav'a la pas'osi 'o la aomotʉ'a. 不要用手指頭指著你說 話的對象.
+1. 箭竹類總稱. mo mafe 'o sbuku to pasʉ. 箭筍好吃
+1. 各種不同的箭筍. mo somafea to mapapasʉ 'o pasnoaʉlʉ. 上等箭竹的筍最好吃。
+1. 上等箭筍. mo somafea to mapapasʉ 'o pasnoaʉlʉ. 上等箭竹的筍最好吃
+
+1. 輕輕地唱. ake'i pasuhoha'o ho miko pasunaeno. 你要輕輕地唱歌
+1. 輕輕地唱. teko pasuhoha'va 'o ehoi. 你輕輕地唱迎神曲.
+1. 唱歌. teto n'a toehungu pasunaeno. 讓我們一 起唱歌吧 2. 歌. moengʉ 'e pasunaeno. 很好聽的 歌
+1. 唱歌. teton'a toehunga psunaenva 'o miome. 我們來一起唱miome.
+1. 再唱. naho n'a pasuvaho, Pasuya. Pasuya 請再唱
+1. 再唱. nahon'a pasuvaha si pasunaeno te talʉi. 那首歌請再唱一次.
+1. 再唱. poa pasuvahneni ta 'o'oko si pasunaeno. 讓小朋友 再唱那首歌.
+1. 拿得動. o'a os'o pasvo'ha 'o fatu. 我拿不動石頭 uk'a ci os'o pasvo'ha. 我什麼也拿不動 2. 負 擔得起. o'ana isi pasvo'ha to maameoisi 'o 'o'oko homo tmopsʉ. 那家的小孩念書,家長付不起
+1. 說法. mio mateno 'o pat'a'ausa taini. 他說話很準確。
+1. 說法. na'no ʉmnʉ ho isi talʉi co pat'a'ausnusu. 你的說法聽 起來很好.
+1. 說法. mo ecvʉhʉ 'e pat'a'ausnasu. 你的說法 太沉重了
+1. 打五次. ala pateoemohi ne ita eplikva 'o oko. 他打了小 孩有五次 2. 發射五次. ita pateoemohi 'o mo eimo ci evoyʉ. 他對著五隻飛鼠開了五次槍.
+1. 覆蓋六層. ita pateonmʉhi. 他覆蓋六層。
+1. 射殺七次. nama ita pateopoptuhi 'o snumaso. 他竟射了公鹿七次 2. 打七次. isi ala pateopoptuhi ne isi eobaka 'o av'u. 他打那隻狗竟然打 七次
+1. 尾端. s'eftunga si patinsoha ta po'oyua. 把水管的尾端鋸掉
+1. 各個尾端. isicu acʉha paepecngucnguha 'o maapatinsoha to po'oyua. 水管(複數)都接好 了
+1. 撿. patmʉta si mo supeopeohʉ ci tahza (tahia). 把掉下的豆子撿起來. os'o patmʉta 'o mo supeopeohʉ ci bʉnʉvhʉ. 我撿了掉下來的李子.
+1. 撿. poa patmʉtneni ta oko simo supeopeohʉ ci tahia. 讓小孩子把掉下來的豆子撿起來.
+1. 給人看. mio pa'to to isi teai ci macucuma 'o pasuya. Pasuya 把他製作的物品給人家看.
+1. 給人看. pa'teni si iko teai ci macucuma. 你把你做的東西給人看
+1. 給人看. ihe pa'ti to mo na'no ʉmnʉ ci macucuma ne mihin'i mimiyo. 他們出去玩時看到 了非常好的物品.
+1. 排列. mo moteovoveohʉ 'o ita patoyangza ci ca'hʉ. 他排的椅子有八排
+1. 排列. pateoyangi ta coca si ca'hʉ. 在庭院擺椅子
+1. 排列. ita patoyangzneni ta coca si ca'hʉ. 在庭院擺椅子.
+1. 射殺兩次. isi patpopsohi ne isi pnaa 'o 'ua. 他對著鹿射了兩次. 2. 打兩次. isi patpopsohi to esou to inosi 'o oko. 媽媽用細長的 樹枝打了孩子兩次.
+1. 玉山. ita etoyangza ho moso la i'mi ne patunkuonʉ 'e cou. 他很有條理地敘述鄒族人從玉山遷 移。
+1. 再唱一次. teko n'a patvaha 'o miome, pasuya. Pasuya 請再唱miome. 2. 再說. ita siho patvaha 'o e'e taini ho mita sangeau. 他喝酒後一直重複他的話.
+1. 再射一次. ita patvahi ne ita pnaa 'o fuzu. 他又射了一次那隻山豬. 2. 再打. teav'ana patvahi si oko. 別再打小孩了.
+1. 屋頂重蓋. ihe aon'oza si sofʉ ho pa'vahi. 他們拆掉屋頂重蓋 2. 重複地蓋. mo ma'vaho to kuba 'o ne tapangʉ. 達邦社重新加蓋Kuba 的屋頂
+1. 重複地蓋. ihe pa'vahneni to haah'o 'o kaapana ta'e. 用那裏的竹子蓋屋頂.
+1. 逗弄. teav'ana payanova si oko ci tenac'u amzo sʉ'no. 別再逗小孩了，免得他會生氣了
+1. 找不到,遺失. mo payo'ʉ no ino si oko. 小孩找不到媽媽
+1. 找不到,遺失,逝世. isi payo'a to oko 'o peisusi. 小孩遺失了他的錢 .
+1. 找不到,遺失. 'ano eni 'o isi payo'i to peisu to oko. 這裡是小孩遺失錢的地方.
+1. 建立;搭建. ohela p'eac'a no niahosa 'o kuba ne tfuya. 特富野的男子會所是梁氏族建立的 2. 罰站. isi p'eac'a to lema'cohio 'o mo m'out'ut'u ci oko. 老師叫打瞌睡的孩童罰站
+1. 讓其站立. teko poa bʉʉlʉlʉ si iko peac'a ci sʉesʉ. 你把柱子立穩。
+1. 省著喝. la na'no peakak'ingi ho la mimo 'o mamameoi. 老人喝酒都省著喝
+1. 省著喝. o'a ihe s'a peakak'inga to yu'fafoinana 'o emihe. 年輕人沒有省著 喝他們的酒.
+1. 省著喝. ake'a poa peakak'ingneni to haah'o si emisu. 你的酒讓年輕人省著喝吧.
+1. 過敏. panto la peasima ho la bonʉ to yongo. 有人吃螃蟹會過敏。
+1. 造到一半. os'o cu p'eatiska 'o os'o teai ci emoo. 我蓋的房子已經蓋到一半了
+1. 索取一半. ihin'icu ala p'eatiska ta 'o'oko 'o tamaku'u? 我的香煙已經被年輕人要一半了
+1. 索取一半. te'o p'eatiskeni to pohe 'o yangui. 我要為yangui 索取一半的玉米. 2. 索取一半. tekon'a p'eatiskeni to tamaku to okoci fa'ei. 你幫我跟姪兒Fa'ei 要一半的香菸.
+1. 跑步. la'u huhucmasi peayofʉ. 我每天跑步。
+1. 跑步. alʉ yo'hunge 'o lasi le peayofa to 'ua. 鹿常跑的地方已經凹陷.
+1. 跑步. sʉatʉkcʉ 'o la le peayofi to la peayofʉ. 跑道的跑步道很紮實.
+1. 愈來愈多(指人或較大的動物). mo pebobotngonʉ 'o mo esmi ci 'o'oko. 來的孩子愈來愈多
+1. 越來越多(東西, 小動物). pemaman'i 'o peisu ta yangui. Yangui 的錢越來越多
+1. 接近. mo na'no yupa pecmu'u si mo peayofʉ 那兩人跑得很接近 mo na'no yupa pecmu'u 'o hia hin'i memealʉ. 他們的能力相互很 接近
+1. 接近. os'o ake'a pecmu'a ho mimza peayofʉ. 我們跑步實力很接近.
+1. 否認. mita peeco ne mohta otfo. 他否認他有毒魚
+1. 否認. ita peecveni ho mita mayo to 'ua. 他否認他拿到水鹿.
+1. 喝過量. la kuzo 'o h'onʉ ho mo peenguzu to emi. 喝酒過量會傷肝。
+1. 樁搗. cuma na teko pe'eni? 你要搗什麼?
+
+
+1. 吹. teko na'a peepeuci si cohma ho mo n'a cuveu. 那稀飯還很燙請你吹一下. teko na'a peepeuci si yompuhu ta pangka. 桌上的灰塵請你吹一下. 2. 吹奏. la peepeuci ta ngʉcʉ 'o peiengu. 用鼻子 吹鼻笛.
+1. 吹. tekon'a peepeucneni ta tesi ana ci cohma si oko. 請幫那小孩吹他要吃的 稀飯.
+1. 喝完. mi'ocu peepʉngʉ to chumu. 我喝完水了.
+1. 喝完. os'o cu peepʉnga 'o mo cono pania ci chumu. 我喝完一瓶水
+1. 慶祝. te'o peeseni 'o hiesi ne mo'u la yayo. 我要慶祝我的生日 la totovaha peeseni 'o homeyaya ho mayasvi. Homeyaya 和Mayasvi 是每年都會 舉辦的
+1. 禁忌. to homeyaya isi peesi hoci bonʉ to nakuzo ho to mayoyoskʉ. homeyaya 時若吃了腥味重 的獸肉或吃魚視為禁忌 to homeyaya la peesi ho ci bonʉ to mo nakuzo. homeyaya 時不可吃腥味 重的食物 2. 慶祝,紀念. te'o peeseni 'o hiesi ne mo'u la yayo. 我要慶祝我的生日 3. 舉辦祭典. la totovaho meesi to homeyaya ho mayasvi. homeyaya 和mayasvi 是每年都會 舉辦的
+1. 橫樑. mo aftungu 'o pefotngʉ ta emoo'u 我家的橫樑斷了
+1. 橫樑. i'o pefotngeni to teova'u 'o fahei. 我把那杉木用來做工寮的橫樑.
+1. 橫樑. os'o pefotngi to fahei 'o teova'u. 我用杉木做我工寮的橫樑.
+1. 喝得出來. leata pe'hongʉ to mo mafe ci emi 'e yangui. Yangui 喝得出好酒
+1. 喝得出來. ita pe'honga ta yangui 'o mo mafe ci emi. Yangui 喝得出好酒.
+1. 先喝的. pehoza simo yonta oko no kaiyu ci emi. 先喝那小缸的酒.
+1. 先喝的. poa pehoi si mamameoi. 讓老人先喝.
+1. 先喝的. poa pehozneni to mo yusuhngu simo yonta oko no kaiyu. 把那小缸的給坐著的 人.
+1. 煮. mita pei'i to mo mafe ci 'oanʉ. 他煮了好吃的食 物 tekon'a pei'i to te ana ho yofna. 請你煮 一下晚餐
+1. 煮. tekon'a pei'neni 'o te esmi. 你為要來的人煮餐吧.
+1. 煮的人；廚師. leata thauke to la popei'i. 他是廚師的老闆。
+1. 口笛. Uk'anala meelx moyai peingu maitan'e. 現在已經沒有人會 作口笛了。 [相關詞-同義 詞] tungiacʉ
+1. 烹飪. mita peipei'i 'e sayungu ho te cmʉ'ho 'o ak'i. Sayungu 為了爺爺要來而烹飪
+1. 烹飪. tekon'a peipei'neni simo cmʉ'ho. 你為來到的人烹煮.
+1. 準備膳食. 'a mita n'a peisbabonʉ 'e paicʉ. Paicʉ 準備膳食
+1. 準備膳食. ma cumu na osko peisbabobona. 你在準備甚麼食物.
+1. 準備膳食. sia na osko 'aoka peisbaboboneni?
+1. 用心做事. temula ake'i peiskokoyu ho lamu yaahioa. 你們要用 心做事 2. 記著該做的事. la peiskokoyu to temu hioa. 你們要記著該做的事
+1. 記著該做的事. tav'a'so o'te peiskokoeva 'o os'o poa hioaneni. 記住我要你 做的事.
+1. 做錯 ； 犯錯. la ma'popoha'o teno o'te peiskuv'o. 三思而後行才不會做錯。
+1. 鞠躬盡瘁.
+1. 事前做(生前最後的工作). osila peisnonʉ'veni teaineni emoo to nia pasuya 'o 'o'okosi. Pasuya 在死前為他的孩子們蓋一棟房子.
+1. 事前做(生前最後的工作). a si eno teova sico 'o ohsi peisnonʉ'vi to nia pasuya. 這工寮就 是Pasuya 死前最後蓋的.
+1. 玩耍；活動. ita tonkinki ne mimza peispaki si oko. 我們玩的時候他丟傷那小孩的眼睛。
+1. 玩耍. mo peispak'i ta av'u si oko. 孩子跟狗玩耍
+1. 玩耍. isi peispak'eni ta oko si av'u. 那小孩逗弄小狗.
+1. 再次工作. maahaah'o, naho cu peisvaho. 各位,你們再繼續工作
+1. 再次工作. naho cu peisvahi si imu hioa. 你們再繼續工作.
+1. 喝中,喝到. mi'o i'hunu pelʉ to mo sume ci emi. 只有我喝到烈酒
+1. 喝中,喝到. os'o pelʉa 'o mo sume ci emi. 我喝到烈酒.
+1. 喝中,喝到. ita pelʉi 'o mo sume ci emi. 他喝到烈酒.
+1. 喜宴, 敬酒. lahe yu'ausnu no pemo ho mo 'atatotovcongʉ. 結婚時習慣辦酒宴
+1. 喜宴,敬酒. ihe pema to ʉmnʉ ci emi 'o mo es'esmi. 來到的人他們給他 喝好酒. tekon'a pema to chumu 'e teo'ua. 你給雞喝一下水!
+1. 喜宴,敬酒. pemneni to mo cmʉcmʉ'ho 'o mo ʉmnʉ ci emi. 讓來的人喝好酒.
+1. 喝很久. la pena'o ho mo afu'u mimo 'o 'uachumu. 牛一但喝水會喝很久
+1. 喝很久. la ake'ahe pena'va 'o mo sume ho isi ima. 烈酒會喝得比較久一點.
+1. 喝得少. tec'o la pengzotʉ hola mimo to emi. 喝酒喝少少的就好
+1. 喝得少. lac'o pengzota 'o mo sume ci emi. 烈酒只要喝少的.
+1. 喝得少. ake'a pengzoti ci mo angu fozu. 因為太滿了，所以喝掉一些.
+1. 喝得少. poac'o pengzotneni ta 'o'oko si mo cohʉmʉ ci chumu. 讓小孩少喝一點那甜水.
+1. 撈到,鉤到. zou kos'oza 'o os'o peolʉa ne mi'o maaseu. 我打撈的時候撈到的是蝦子 isi peolʉa to kosʉ co pooyoyo'u. 我的褲子被鉤子勾住了
+1. 撈到,鉤到. 'a eno tan'e 'o os'o peolʉi to tungeoza. 這裡就是我撈鰻魚的地方.
+1. 撈到,鉤到. o'te amaka'u peolʉneni no yoskʉ 'e ino. 我沒撈到魚給媽媽. os'o peolʉneni to pooyoyo taini si kosʉ'u. 我的鉤子勾到你的褲子.
+1. 被影子遮蓋. miko pe'ongko ta mo toheae. 你的影子擋住坐下的人
+1. 被影子遮蓋. pe'ongkeni ta mo yusuhngu si housua. 用雨傘為那坐著的人遮太陽.
+1. 被影子遮蓋. iko pe'ongki si mo yusuhngu ho toheae. 你的影子擋住坐下的人.
+1. 只喝. mitac'o peonoyʉ to emi ho o'te mako soepaski. 他光喝酒不配菜 peonoya 'o emi. 光喝酒
+1. 只喝. itac'o poa peononeni ta yangui si emi. 他給Yangui 光喝酒不配菜.
+1. 只喝. tav'a'so peonoya si emi. 不要光喝那酒.
+1. 試喝. ita peothoma 'o emino ton'u. 他試喝小米酒
+1. 試喝. poa peothomneni ta ak'i simo yonta soetohvʉ. 讓祖父試喝那杯.
+1. 試喝. mita peothomʉ to emino ton'u. 他試喝小米酒
+1. 岔路. tako tomoho to peovainʉ. 你在岔路做指標。
+1. 按照. tec'o pesvʉtʉ ta tposʉ ta pania. 按照瓶子的刻度來喝
+1. 按照. tetoc'o pesvʉta ta isi tposi ta pania. 我們按照瓶子的刻度來喝.
+1. 按照. pesvʉti ta s'os'o si soetohva. 用那杯子量藥來喝
+1. 按照. poac'o pesvʉtneni ta oko si s'os'o. 小孩按照量去喝藥.
+1. 追趕很久. 'a isi peteona'va to av'u 'o fuzu. 狗追山豬沒有 追太久
+1. 喝得過量. 'ote la petmuzu to emi. 不要喝很多酒
+1. 喝得過量. teav'ala petmuza 'o emi. 酒不要喝很多.
+1. 山洞. mo mangaya 'o phingi to peʉh'ʉta. 隧道的口開的大大的。
+1. 再喝. 'otena pevaho no emi. 不可再喝(酒)。
+1. 跑步. zou 'oahngʉ to mo mayahe peayofʉ 'e mo'o. Mo'o 是屬於跑得很快的人。
+1. 賣. os'o phieni 'o sangeva. 我賣苦茶子
+1. 買多樣. mav'ov'o 'o ita phiphini ta sayungu. Sayungu 買進很多種類的東西
+1. 燒火. 'ote la 'aʉnpʉnpʉ phomeo. 不要隨意放火
+1. 燒. i'o hmoi 'o pucu. 我燒垃圾
+1. 腳痛. ita c'o haahafa 'o s'os'o taini pi'o. 他就隨身攜帶腳痛的藥。
+1. 脫逃;逃跑. aha'o pkaako to mo nouteuyunu 'e pasuya. Pasuya 無緣無故地離開聚會
+1. 脫逃;逃跑. pkaaki to inosi si ngiau. 貓媽媽遺留下小貓而跑掉.
+1. 杵. teʉsi ta takieing si mo cʉnghʉ ta pngiei ci ufi. 用瓢子刮黏在杵上的米糕。
+
+
+1. 灰林鴿. La na'no man'i 'e p'noi homo beahci 'o c'osʉ . 樟樹結果時會有很 多灰鴿。 [台灣體型 最大的野鴿子。]
+1. 觀看. os'o hafa pocengi to mo peistotothomʉ 'o 'o'oko. 我帶小孩去看活動表演 2. 監督. mi'o pocengi to mo yaahioa. 我監督工人
+1. 監督. os'o pocenga 'o mo yaahioa. 我在監督工人.
+1. 監督. poa pocengneni to voyu 'o mo yahioa. 讓Vo yu 監督在工作的人.
+1. 照顧. isi afnasa p'ocfʉi ci nsou 'o micu tose'conza. 已經一百歲的生命是 由於得到特別的照顧。
+
+1. 俯瞰:俯視. isi p'ocvi to mo'o 'o mo yaahioa ho oszoya Mo'o 對著下面工作的人大聲呼喚。
+1. 推倒. a hin'i 'o mo poefʉ'ʉ to sʉesʉ to teova. 工寮的柱子是他們推倒的
+1. 推倒. ihe poefʉ'a 'o sʉesʉ no teova. 他們把他 工寮的柱子推倒.
+1. 推倒. tav'a poa poefʉ'neni ta 'uachumu si yʉ'pʉ. 不要讓牛推倒那籬笆.
+1. 包皮退去. mo po'eici si av'u. 把那狗的包皮退去
+1. 包皮退去. po'eicza si av'u. 把那狗的包皮退去.
+1. 囚禁. zou lesmoe'isi 'o mo poekotu to moso opcoi. 囚禁殺人者是警察
+1. 囚禁. te anana'va poekotva 'o mo popeiskuzkuzo. 愛做壞事的本來就該監禁.
+1. 囚禁. te poa poekotveni to lesmoe'isi si mo meo'eoi. 該叫警察來囚禁那小偷.
+1. 推. teto poe'ohʉ ta mo nomʉtʉ ta ceonʉ ci fatu. 我們把擋在路的石頭推開 2. 推擠. 'ote'so poe'ohʉ ta mo yusungu. 不要推擠坐著的人
+1. 推. teton'a poe'oha 'e mo nomʉtʉ ta ceonʉ ci fatu. 我們把擋在路上的石頭推一下. 2. 推 擠. teav'a'so poe'oha si mo yusuhug. 不要推擠坐著的人
+1. 風. peaon'oza ta poepe si sofʉ. 屋頂被風吹壞了
+1. 起風. mo aha'o pohpoepe to ta'esi no cohzona (cohiona). 中午過後忽然起風
+1. 推擠. ote so poepoe'ohʉ ta mameoi. 你別推擠這老人
+1. 推擠. teav'a'so poepoe'oha si mameoi. 你別推擠這個老人.
+1. 拉肚子. mo asngʉcʉ poesoso 'e oko. 孩子一直拉肚子
+1. 拉肚子. mo nakuzo si poesosva no av'u. 狗拉的屎很臭.
+1. 拉肚子. isi poesosvi to oko si ca'hʉ. 是孩子在椅子上拉屎.
+1. 狗吠. aoko po'eʉngnʉ 'o av'u ne yofna. 昨晚狗一直吠
+1. 狗吠. cuma co isi 'aoka po'eʉngna nca av'u?. 狗一直在 吠什麼?
+1. 曬. teko n'a poezi si iko tufkua ci yʉsʉ. 你把洗的衣服拿去曬
+1. 以頭載物. lahe e'sosoni to mo at'ocʉ pofngu ho mo mafafo. 他們用頭背式帶東西 很順利
+1. 以頭載物. mo e'sosonʉ ho isi pofngua 'o hiafa. 用頭背式帶東西 很順利.
+1. 欺負. mo pohcinghi to oko 'o 'avai. 'Avai 在欺負小 孩
+1. 欺負. mo ehpʉngʉ to amosi 'o oko ho ihe pohcingha. 小孩被人欺負向他的爸爸訴苦.
+1. 澆水. o'a mita amako polʉ ne ita cohmo to chae. 他給菜澆水時沒有澆到水
+1. 澆水. o'a ita polʉi to chumu 'o chae. 他給菜澆水時沒有澆到水。
+1. 給大塊的食物. la na'no p'omaamtanʉ ho mo p'onʉ to mamameoi 'o voyu. Voyu 給長者的食物 都很大塊
+1. 給大塊的食物. tav'a na'na p'oamaamtaʉi si oko. 餵小孩不要那麼大口.
+1. 養大. meemealʉ ho mita p'omeoisi to snoecavʉ 'e motoyʉ. Motoyʉ 很會把家 禽養大
+1. 養大. te'o chua si isicu p'omeoisa ci feʉ'ʉ. 已經養大的豬我就要 宰了.
+1. 鎖定. mo pomʉtʉ 'o phingi. 門鎖了
+1. 鎖定. isi cu pomʉti 'o phingi. 門已經鎖上了.
+1. 鎖定. tekon'a yaa 'o tee pomʉtneni to phingi. 你去拿東西鎖門.
+1. 使發酵. la p'onakocnʉ to f'ue ho mooyai emnof'ue. 做地瓜酒前要把地瓜發酵
+1. 使發酵. isi p'onakocni ta f'ue si kunkunu. 用那木桶使地瓜發酵.
+1. 使發酵. isi p'onakocva to tanivu 'o te teai emi ci f'ue. Tanivu 把要做酒的地瓜使它發酵.
+1. 使發酵. tekon'a p'onakocveni no ta'u teai emi. 請你做發酵地瓜給我做酒用.
+1. 需要的時間短. lac'o ake'ihe p'onanʉhtʉ ho mo mooyai ieu homo homu'eina. 夏天釀酒時間比 較短
+1. 需要的時間短. ho mo mu'ei lac'o p'onanʉhta 'o cnʉmʉ tac'u tacʉmʉ. 天氣熱時,催熟香蕉 的較短.
+1. 雙花龍葵. lasi mafea to zomʉ 'o beahci to pono. 鳥喜歡吃雙花龍葵樹的果子 2. 射. mo pono to 'ua 'o mo'o. Mo'o 射了水鹿 mita matpopsohʉ ne mita pono to 'ua. 他射殺水鹿射了兩發
+
+
+1. 射. itacu cieva ta voyu 'o 'ua ci teta cu pnaa. V oyu 已經瞄準好他要射的水鹿. zou 'ua 'o isi pnaa to mo'o. Mo'o 是射了水鹿.
+1. 餵. mita p'onʉ to oko. 他餵小孩
+1. 餵. ita p'aeni to oko 'o cnʉmʉ. 他把香蕉餵給小孩.
+1. 量器. te poosvʉtʉ to soetohvʉ no te ima no macicihi. 用量杯倒出每人要喝的量
+1. 量器. te posvʉta to soetuhva na tee ima. 把要喝的倒進量杯.
+1. 量器. te posvʉti 'o soetohvʉ no tee ima. 把要喝的倒進量杯.
+1. 量器. posvʉtneni no tesi ima si oko. 給孩子倒他要喝的.
+1. 豬舍. 'avai, naho cu uhto po'ovnʉ ho tʉtpʉtʉ no te tʉbzʉka ci ciocio. 'Avai, 你就到豬 舍抓要殺的 豬。
+1. 教導. temu la po'pa'cohivi si 'o'oko. 你們要教導那些小孩 isi po'pa'cohivi to hia tmopsʉ to inosi 'o oko. 他的媽媽教導孩子寫字
+1. 被教導. temula talʉa 'o lahe po'pa'cohivneni to mamameoi. 你們要牢記長輩教誨. e ehoi ho eao osi la pa'cohineni no hamo ho yainca "temu la maica ho temu la pasunaeno". 神曲和 送神曲是天神hamo 教導的，祂說：「你們唱的時候要這樣唱。」
+1. 爆破. mo psoelʉ to yoskʉ 'o mo popluku ne c'oha. 在河裡爆破的(人)炸到了魚
+1. 爆破. isi psoelʉa co t'ango'u ne os'o poplukvi 'o fatu. 我炸石頭的時候炸到了我的 腳.
+1. 踢. po'poti ta oko si mali. 小孩踢那球
+1. 射擊. mo alʉ mahsiohʉ 'o mo posmoebako. 有人竟然 射擊了九次 2. 炸. mo posmoebako to fatu 'o voyu. V oyu 炸石頭
+1. 炸. isi posmoebaki to voyu 'o fatu. 是Vo yu 炸了石頭。
+1. 男用束腰帶. la peela teai poso'eʉ 'o evi no tahiucu ho mayayaptʉ no evi ho feo'u. 桑樹和樹皮 及獸皮可以做成束腰帶
+
+
+1. 束上束腰帶. moso la at'ocʉ iposo'eʉ 'o haahocngʉ ne noana'o. 以前的男人他們習慣 束上 男子束腰帶
+1. 拔草乾淨. mo poʉlʉ 'o yangui ho mo momo. Yangui 挖草除得乾淨
+1. 拔草乾淨. poʉlʉa to yangui 'o isi pomi. Yangui 所除的草除得乾淨。
+1. 拔草乾淨. poa poʉlʉneni to yangui 'o isi pomi. 叫Yangui 把草除得乾淨.
+1. 護送, 駕. mita poʉt'ʉcʉ to 'uachumu. 他在趕牛 temu'so bumemealʉ ho lamu poʉt'ʉcʉ to kuyai. 你們開車時要小心
+1. 護送,駕. bumemealʉ ho iko poʉt'ʉca si 'o'oko. 好好護送小孩.
+1. 護送,駕. poa poʉt'ʉceni to sayungu si 'o'oko. 讓Sayungu 護送那些小孩.
+1. 聖誕紅. Lahe kaeba hosopnana to 'i'ihosa to haahocngx 'o bʉvnʉ ta pouya. 男人很喜歡把聖 誕 紅挿在服飾上。
+1. 關在門外. poyafa si av'u. 把狗關在 門外
+1. 關在門外. poa poyafneni ta 'o'oko si av'u. 叫小孩把狗關在 門外.
+1. 穿鞋. os'o psapiezi 'o sapiei no hici. 我把皮鞋穿上.
+1. 偷跑. mita psasoe uhne maibayu 'e yangui. Yangui 偷跑到嘉義。
+1. 照射到. mo psoelʉ ta hcuyu si hie. 陽光已經照射到那山丘 2. 炸到. mo psoelʉ to yoskʉ 'o mo popluku ne c'oha. 在河裡爆破的(人)炸到了魚
+1. 照射到. o'a lasi luya psoelʉa to hie 'o mo yo'hunge. 地凹處是不容易被太 陽照到. 2. 炸到. isi psoelʉa co t'ango'u ne os'o poplukvi 'o fatu. 我炸石頭的時候炸到了我的 腳.
+1. ... 告知；...傳達. tako psoemi to tenva ho eʉsvʉta a'o. 你用電話告訴我。
+1. 照明. mo psoetiskou 'o pzuuhe to mo soupuzu to teova. 他們在工寮起火的火光很亮 mo psoetiskou to aemana 'o teiki. 電燈照亮屋內
+1. 照明. lasi psoetiskovi to feohʉ 'o mo voecʉvcʉ. 月亮會照明黑夜.
+1. 預購. os'o cu psuyoci 'o ta'u emʉ'a ci tutno ecngi.
+1. 吵鬧. na'no ptaʉngʉ si hanahana. 鴨子很吵
+1. 吵鬧. teav'a ptaʉnga 'o mo oengʉtʉ ci oko. 不要吵那睡覺的孩子.
+1. 開路. mo sonʉ ho mo ptuceonʉ to mo maupoponeo. 在平地開路較容易
+1. 開路. te'o ptuceoneni 'o kakaapana'u. 我要為我的竹林開路.
+1. 開路. os'o ptuceoni 'o kakaapana'u. 我在我的 竹林開路.
+1. 鬚線. micuc'o p'ʉcʉ si nia yʉsʉ'u 我的舊衣服只剩一團鬚線
+1. 很多鬚線. la p'ʉp'ʉcʉ 'o emisi to kukuzo. 草會長很多鬚根
+1. 剁. teko puepuyu no te pe'i ci pusiahʉ. 你來切要煮的南瓜 mo puepuyu to f'ue 'o yangui. Yangui 在切地瓜
+1. 剁. os'o puepuneni to teta pei'i ci f'ue 'e yangui. 我幫Yangui 剁她要煮的雞肉.
+1. 剁. isi puepuya to yangui 'o f'ue. Yangui 在切地瓜.
+1. 最小的(人). mo hahocngʉ 'o puesona to oko'u. 我最小的孩子是男的。
+1. 節,關節. mo man'i 'o p'ungu to kaapana ho pcoknʉ. 桂竹和麻竹的節很多 la'u cong'e p'ungu. 我的關節會痛
+1. 各關節. la congo co map'up'ungu'u ho mo hosoyʉma. 冬季時，我的 各個關節都會痛
+1. 刀柄. tekon'a skosneni no tasi punku no poyave 'o ba'i. 你幫祖母削他要做刀柄的。
+1. 拿著. teko pʉta si te'o cnguhi ci po'oyua. 你拿著我要 接的水管
+1. 它們的火. amaka poa kmatpʉskʉ ta imu pʉpʉta 'e 'atai. 至少讓'atai咬一點你們握著的食 物。
+1. 拿著. poa pʉtneni ta oko si po'oyua. 讓小孩摸那水管.
+1. 護送. mi'o pvohcʉ to oko ho e'maine'e. 我送小孩回家
+1. 護送. os'o pvohca maine'e 'o oko. 我送小孩回家.
+1. 護送. poa pvohceni ta sayungu si te maine'e ci oko. 讓Sayungu 陪那要回家的小孩.
+1. 木瓜. teav'a taʉza si saietungu. tes'a supeopeohʉ si beahcisi. 不要搖動木瓜樹，免得它的果實 掉下來。
+
+
+
+
+1. 難得. mo mainci saipa m'ohie si mameoi. 老人家何 故起床起得很晚。
+1. 祭典歌曲. na'no smoepepe 'o yu'fafoinana ho mo sakio. 年輕人跳Sakio 跳得很高。
+1. 酒；酒醉 . mita amamzo no sangau. 他因為酒而 懶散。
+1. 苦茶樹；苦茶子. mo toveucu to sangeava 'o na'vama. 那父子在採苦茶子。 os'o phieni 'o sangeva. 我賣苦茶子
+1. 成年. micu sasmoyʉskʉ 'o mo'o. mo'o 已經成年
+1. 很多青年. mo botngonʉ 'o maasasmoyʉskʉ. 有很多青年
+1. 袋子. mo mtuehu no sava 'o f'ue to ino. 媽媽有三十袋的地瓜。
+1. 過濾. la titha sayahi to ieu 'o tʉpʉ. 篩酒器是用來過濾小米酒用的。
+1. 切塊. imu amaka poa otpʉskʉ to imu s'eangangaeza 'e 'iusungu. 你們至少讓'Iusungu 吃一點你 們切成塊的東西
+1. 切塊. teko s'eangangaezeni ta ufi si 'o'oko. 你把米糕切塊給小朋友 .
+1. 一百. mo se'conza 'o teo'ua'u. 我的雞有一 百隻
+1. 一百零二. mo se'conza ho yuso 'o 'o'oko no maamespingi ta 'oyona tmopsʉ. 學校的女生 有一百零二位
+1. 水泥(日語借詞) . panto imza poa miseisi to semento to ceonʉ. 我們請人把路塗上水泥。
+
+
+1. 切下點；鋸下的點. tako s'emza ta mo knon'i si teko papasa. 你從彎處鋸下。
+1. 綁. seo'isi si av'u te o'te 'aoko mimio. 把狗綁起來才不會亂跑
+1. 綁. seo'isneni ta tuapiu si teesi. 把那繩子用來綁那木柴.
+1. 正是時候. mo seolʉa ho miko maine'e maitan'e. 你今天回來的正是時候 2. 綁. o'te seolʉa 'o su'ku to feʉ'ʉ. 沒有綁到豬的 腳 o'te seolʉneni ta t'ango ta feʉ'ʉ 'e teesi. 這繩子沒綁中那豬的腳
+1. 正是時候.
+1. 綁好；繫好. seolʉlʉa si 'eongʉ ta sapieisu. 你的鞋帶綁好。
+1. 只切掉. s'eonva 'o heo'tʉ ta f'ue. 把地瓜的缺陷切掉。
+1. 栓. seo'tʉneni ta sʉesʉ si av'u. 把狗拴在那柱子上
+1. 栓. la seo'tʉi to 'uachumu si kausayʉ. 那油桐樹是用來綁牛的.
+1. 輪胎. ihe taie'oha ta 'o'oko si seʉzʉ. 孩子們滾那輪胎。
+1. 純放；放置. sia ta pangka si f'ue. 把地瓜放在桌上 os'o sia to ciengona to emoo 'o os'o aʉt'ʉca ci zomʉ. 我飼養的鳥放在家屋後院。
+1. 存放. sieni ta naveu si amosu. 幫你爸爸盛飯.
+1. 鏟起來. mita sicngi to pucu 'e sayungu. Sayungu 把垃圾鏟起來
+1. 鏟起來. ita sicngia ta sayungu 'o pucu. Sayungu 把垃圾掃掉.
+1. 鏟起來. sicngineni ta chumu si 'uachumu. 幫牛撈水.
+1. 咬斷牙齒. mo sie'ohʉ nemo ma'kakoi to cʉehʉ. 在他啃骨頭時把牙齒咬掉了.
+1. 咬斷牙齒. 'a cʉehʉ no moatʉ'nʉ 'o ita sie'ohi. 他就是啃山羊骨咬掉牙齒的.
+1. 咬斷牙齒. os'o sie'ohneni 'o hisi ne mi'o bonʉ to cʉehʉ. 我在啃骨頭時把牙齒咬斷了. ita sie'ohneni 'o hisi taini ne mita bonʉ to kamae. 他吃番石榴時把牙齒咬斷了.
+1. 生獸皮掛架. mita sifkou to feo'u 'e 'uongʉ. ' 'Uongʉ 把生獸皮掛架
+
+
+1. 生獸皮掛架. ita sifkova ta 'uongʉ 'o feo'u no moatʉ'nʉ. 'Uongʉ 把生的山 羊皮掛在架上.
+1. 生獸皮掛架. ita sifkovneni to feo'u ta 'uongu 'e amo. 'Uongʉ 為父親把生獸 皮掛在架上.
+1. 塗抹. micu aono si oho siisneni ta tonghifza. 塗在牆壁的(漆)脫落了
+1. 要'…….. poa to'upneni ta voyu site mita hiapeoza. 叫Vo yu 陪那要過橋的人。
+1. 遮蔭下. mo na'no sohuyu 'e skufu ta evi. 樹蔭下很涼快
+1. 遮蔭下. tav'as'a emʉ'a to isi skufa 'o chae. 菜不要種在有遮蔭處.
+1. 遮蔭下. isi skufi ta evi si os'o emʉ'a ci chae. 我的菜被樹蔭遮到.
+1. 滑行. mo'u smaasas to yuho ne patungkuonʉ. 我曾到玉山滑雪
+1. 滑行. 'a eno tan'e na ohsi smaasasi no nia maaya. 這裡就是以前日本人滑行的地方.
+1. 撞翻. mo smae'ohʉ ta fatu si kuyai. 那車子撞翻石頭
+1. 撞翻. isi sae'oha to mo'o 'omo nomʉtʉ to ceonʉ ci fatu. mo'o 把擋在路上的石頭推開了.
+1. 推落. os'o poa sae'ohneni to kuyai 'omo nomʉtʉ ci fatu. 我讓經過的車輛推翻擋路的石 頭.
+1. 走到. tako smaic'ʉhʉ tomo yaa meoe. 你走到有大石頭的地方
+1. 走到. tako tosvo ho takocu saic'ʉha 'o mo yaa chumua. 你走到有水的地方就停下來.
+1. 走到. osko amaka saic'ʉhi 'o mo yaa chumua? 你有走到有水的地方嗎?
+1. 走到. poa saic'ʉhneni ta 'o'oko 'omo yaa chumua . 讓小孩走到有水的地方.
+1. 走很久. la cong'e papai homo smaina'o. 走路走很久鼠蹊部會痛。
+1. 試著走. te'on'a smaisvʉtʉ ta ohon'a teai ci ceonʉ. 我試著走新開的路
+1. 試著走. imza saisvʉta 'o ohon'a teai ci ʉtkʉ. 我們試著 走剛做的吊橋.
+1. 試著走. osucu ahta saisvʉti 'o ceonʉ ninca. 後面的路你走過了嗎?
+1. 試著走. poa saisvʉtneni ta kuyai si ceonʉ. 讓車子試行駛那條路.
+1. 壓到. mi'o smalʉ to av'u ne ceonʉ. 我在路上壓到狗
+1. 壓到. os'o salʉa ne ceonʉ 'o av'u. 我在路上壓到狗.
+1. 壓到. 'a eno tan'e 'o os'o salʉi to av'u. 這裡就是我壓到狗的地 方.
+1. 壓到. os'o salʉneni to av'u 'o kuyai. 我開我的車壓到狗.
+1. 滑下阻擋. mo smamʉtʉ ta ceonʉ si lingki. 那泥巴滑下阻擋道路
+1. 滑下阻擋. teko samʉta si pethʉ'ta. 你把窗戶關起來.
+1. 滑下阻擋. isi samʉti ta lingki si ceonʉ. 那泥巴滑下阻擋道路.
+1. 滑下阻擋. samʉtneni ta tesi mia ta 'uachumu si pcoknʉ. 用麻竹擋住牛要走的地方.
+1. 用手指或用其他物品彈. mo smapliki ta oko si mameoi. 那老人彈那小孩.
+1. 用手指或用其他物品彈. isi snaplikva ta inosi. 他的媽媽彈他的小孩
+1. 打'……. ；射…….. mi'o titho to yanosuyu ho smea voyʉ ne yofna. 昨晚我用弓箭打飛鼠。
+1. 敢於. o'a mi'o smeecʉ'ho eh'ʉtʉ ho mita yontan'e. 他在這裡我不敢說出來
+1. 敢於. o'a os'o seecʉ'ha eh'ʉta ho mita yontan'e. 他在這裡我不敢說出來.
+1. 敢於. o'a os'os'a seecʉ'hi yam'a si mameoi. 我不敢說那老人家.
+1. 鋸斷; 剪斷; 切斷. mo sme'futngu to kaapana 'o mo'o. Mo'o 鋸斷竹子
+1. 鋸斷; 剪斷; 切斷. tekon'a s'eftungneni to kaapana 'o amo. 你幫爸爸切竹子.
+1. 切到;割到. mi'o smelʉ ta lulku ne mi'o puepuyu to fou. 我切肉時切到手指
+1. 切到;割到. os'o s'elʉa 'e lulku'u ne mi'o maapaso to fou. 我切肉時切到手指.
+1. 切得大塊. mita sme'maamtanʉ ho mita aangae ta fou 'e mo'o. Mo'o 分肉時切得很大塊
+1. 切得大塊. ita s'eamaamtana ta mo'o si ita aangaeza ci fou. Mo'o 把他分的肉 切得很大塊.
+1. 切得大塊. la afnasa s'eamaamtaneni homo aangae to fou 'o mo maameoi. 分肉時分給老 人的要特別大一點.
+1. 刺殺. mita smeu'cu to fuzu. 他刺殺山豬
+1. 刺殺. os'o seu'ca 'o fuzu. 我刺殺山豬.
+1. 刺殺. os'o seu'ceni to fuzu 'o mon'a faeva ci poyave no'u sʉngcʉ. 我的新獵刀用來刺殺山 豬.
+1. 綁. tekon'a atfʉngʉ somoe'isi to kaapana. 由你來綁竹子
+1. 牙齒撞掉. smoe'ohʉ to sʉesʉ 'o nia hisi'u. 我撞上柱子把牙齒撞掉了
+1. 牙齒撞掉. isi snae'oha to kuyai 'o fatu to ceonʉ. 車子把在路上的石頭撞掉了.
+1. 伸長脖子看. na'no yʉʉsʉsʉnʉ si oko ho mo mici smo'eʉc'ʉhʉ ta mo esmi. 那小孩伸長脖子想 看到來的人。
+1. 跌到四腳朝天. ita cocvi ta sayungu ho mi'o smofei'i. Sayungu 嘲笑我跌到四腳朝天
+1. 跌到四腳朝天. ita smofei'zi ta sayungu si lingki sica. 那邊的泥巴是Sayungu 跌到四腳 朝天的地方.
+1. 撞到. mo smoftongʉ to ngi'ngiba 'o kuyai. 車子撞到山
+1. 撞到. isin'a honga si ohsi smoftongi no kuyai. 車子撞的地方還看得出來.
+1. 孵. tav'a aot'ova si mo smoh'o ci mosko'ʉ. 不要動那隻在孵蛋的母雞
+1. 孵. isin'a sko'a ta mosko'ʉ si fcuyu. 那母雞還在孵那些蛋.
+1. 削. te'o atfʉngʉ smohsʉ ta fahei. 我來專門削杉木
+1. 削. naho skosi si fahei. 你可以削那杉木.
+1. 削. tekon'a skosneni no tasi punku no poyave 'o ba'i. 你幫祖母削他要做刀柄的
+1. 撞到; 射中. mo smolʉ to sʉesʉ 'o kuyai to pasuya. Pasuya 的車撞到柱子 mi'o smolʉ to kos'oza ne nte'o mamteyayoskʉ. 我在射魚時射中蝦子
+1. 撞到; 射中. isi smolʉi to kuyai to pasuya 'o sʉesʉ. 這柱子是Pasuya 的車撞到的.
+1. 衝進後造成阻塞. mo tmaie'ohʉ si fatu ho smomʉtʉ ta ceonʉ. 那石頭衝下來堵住了路
+1. 衝進後造成阻塞. isi smomʉti ta fatu si ceonʉ. 路被那衝下來的石頭堵住了.
+1. 在上面. mo engha botngonʉ ta mo smopayo ta evi ci nghou. 在樹上的猴子相當多 mo smopayo ta 'otovai si 'o'oko ho mimiyo. 孩子們騎機車去遊玩
+1. 在上面. isi smopaevi ta kea'ciu si 'uachumu. 黑捲尾鳥在牛背上.
+1. 跌倒跌在地上(摔得很重還有聲音). alʉ smopcako si oko. 那小孩跌倒竟然跌在地上
+1. 跌倒跌在地上(摔得很重還有聲音). . 'a eno sico 'o isi smopcaki to oko. 那裡就是那小孩 跌倒的地方.
+1. 跌倒. isi kaebeni to 'atai ho mita smopcuku. 他跌倒時'Atai 幸災樂禍
+1. 跌倒. 'a eno sica 'o isi smopcuki to mo alʉ smobkobkocʉ. 那裡就是摔成骨折的人跌倒的 地方.
+1. 滑倒. alʉ mat'at'ango 'e 'uongʉ ne mita smoteʉsʉ 'Uongʉ 他滑倒時四腳朝天
+1. 滑倒. ita smoteʉsi ta amo 'e fatu. 這石頭是爸爸滑倒的地方.
+1. 碰撞. mita smotokʉ to phingi ne mita hafsʉ. 他酒醉時碰撞門框
+1. 碰撞. isi smotokʉi to 'uachumu 'o sʉesʉ. 柱子被牛碰撞到.
+1. 準備. nahocu smouyu'ho maitan'e yofna. 你今晚就準備
+1. 準備. te'on'a seuyu'heni 'e 'o'oko ho tehin'icu e'ohʉ ho hucma. 孩子們明天要走了,我為他 們準備.
+1. 害怕. lata smoyo to av'u 'e paicʉ. Paicʉ 是怕狗的 lea'u smoyo ho mi'o mito mo voecʉvcʉ. 我走 暗路會害怕
+1. 害怕. lea'u smoyoa 'o mo pak'i ci av'u. 我害怕凶狠的狗.
+1. 看起來令人害怕. la husmoyoa ci yoi 'o pongeʉngeʉ. Pongeʉngeʉ 這種蟲看起來令 人害怕的。
+1. 害怕. os'o smoyoneni ho mita 'ahʉyʉ supihi ta c'oeha. 他硬是涉水我替他害怕.
+1. 準備. teko ayocʉ smoyu'ho ci teto c'o sʉfeʉngnʉ e'ohʉ ho taseona. 你先作準備，因為我們明天 一早就要出發。
+1. 驟雨打翻土石. smue'oe'oh ne mo mʉchʉ ne hie. 白天下驟雨打翻了土石
+1. 驟雨打翻土石. ala smue'oe'ohi ta tnʉyʉ si tʉ'nʉ. 驟雨下到那山壁土石崩落.
+1. 丈量. mi'o smʉftʉ to te'o sofʉ ci kaapana. 我在量要蓋屋頂的竹子
+1. 丈量. ita svʉta 'o hia meoisi to ezoyʉ'u. 他測量我地的大小 .
+1. 丈量. naho eno svʉtneni ta pangka si teesi. 你來用繩子量桌子.
+1. 僱工. mi'o smuhnu to te'o poa yaahioa. 我僱請工人做事
+1. 僱工. os'o skueni to voyu 'o nte'o tvici. 我雇請Vo yu 砍我要砍的草.
+1. 僱工. os'o skuna 'o upi'i ne hucma ho poa momo. 我昨天雇請Upi'i 拔草.
+1. 數. tekon'a to'uni smʉpeʉ ta peisu'u. 請你來幫我算錢
+1. 數. poa spʉeni ta 'o'oko simo yonta pangka ci huv'o. 請小孩子算那些在桌上的橘子.
+1. 數. tekon'a spʉya simo yonta pangka ci peisu. 請你算那些在桌上的錢.
+1. 數一數. cuma na iko spʉya ho miko yonsica ho smʉsmʉpeʉ? 你在那裡是在數些什麼？
+1. 數一數. os'o siho tuyafa ho spʉspʉya 'o peisu'u. 我多次把我的錢拿 出來數.
+1. 阻塞. mo mohvovei si chumu ta fofeohva ho isi sngʉsnga. 水溝的水因阻塞而回流。
+1. 省著用. ake'i soakak'ingi ta hileo. 肥料省著用
+1. 省著用. poac'o soakak'ineni 'o hileo. 省著用肥料.
+1. 省著用. nahoc'o soakak'inga si hileo. 肥料省著用 .
+1. 照顧. 'a la'u sochipi to 'o'oko. 我照顧小孩
+1. 照顧. zou oko no sia si la'ko sochipa. 你照顧的是誰的小孩.
+1. 照顧. 'a sayungu 'o la'u sochipneni. 我幫Sayungu 照顧小孩.
+1. 最低; 最矮,最便宜. mo socʉecʉ si mo cihi ta oko. 那其中一個小孩最矮
+1. 最低;最矮,最便宜. mo socʉecʉa 'e sapiei'u. 我的鞋子最便宜. [ ]
+1. 省著喝. ake'i soekak'ingi ta chumu. 水要省著喝.
+1. 省著喝. ake'a soekak'inga si chumu. 水要省著喝
+1. 省著喝. poac'o soekak'ineni ta tanivu si chumu. 讓Tanivu 省著喝水.
+1. 初嚐新酒. la a'upa topeohi 'o tvofsuya ho mo soekayo. 初嚐新酒的時候也要為獵具架祈 福
+1. 喝少. la ʉmnʉ homo soengzotʉ homo mimo to emi. 喝酒喝少量比較好
+1. 喝少. ake'ac'o soengzota si emi. 那些酒少喝一點.
+1. 癢. mo soe'oso co kaci'u. 我胯下癢。
+1. 把鍋子放入爐灶內. mo so'eoyʉ ta pupuzu si tngoo. 那鍋子在爐灶內
+1. 把鍋子放入爐灶內. isi so'eoi ta tngoo si pupuzu. 那爐灶放了鍋子.
+1. 把鍋子放入爐灶內. tekon'a so'eoneni ta tngoo si ba'i. 你幫祖母放鍋子在爐灶內.
+1. 把鍋子放入爐灶內. tekon'a so'eoya ta pupuzu si tngoo. 你把鍋子放在爐灶上.
+1. 佐食. mitac'o peonoyʉ to emi ho o'te mako soepaski. 他光喝酒不佐食。
+1. 杯子. pesvʉti ta s'os'o si soetohva. 用那杯子量藥來喝。
+1. 往下看到. isi peela so'euyovca ne cʉcʉesʉ 'o ne lalauya. 從石棹可往下看到樂野
+1. 往下看到. mi'o ei'mi ne hohcʉbʉ ho so'euyovci 'o ne heesiana. 我從塔山往下看兩萬坪
+1. 屋頂. isi peaon'oza ta poepe si sofʉ. 屋頂被風吹壞了 'a haengu ho veio 'o la sofʉ to kuba. 庫巴 的屋頂是用芒草及茅草蓋的.
+1. 屋頂. isi sofi to kaapana 'o teova'u. 我的工寮屋頂是用竹子做的.
+1. 屋頂.
+1. 放在…下面. os'o sof'uf'a to pangka 'o poyave. 我把刀放在桌子底下
+1. 放在…下面. os'o poa sof'uf'eni ta pangka 'o poyave. 我讓人把刀 放在桌子底下.
+1. 放在…下面. isi sof'uf'i to yungku 'o pangka. 桌子底下放了背簍.
+1. 起火. mo ʉmnʉ ho mo sohoi to kaapana. 用竹子起火 很好
+1. 起火. la sohoza 'o esmʉ. 用芒草莖起火.
+1. 起火. poa sohozneni ta 'atai si esmʉ. 讓'Atai 用芒草莖起火.
+1. 厭煩. mo ake'i sohpoi 'o mameoi. 那老人有點感到厭煩 mi'o sohpoi to mo yangaevi ci 'o'oko. 我對孩子的吵鬧聲厭煩
+1. 厭煩. lahe sohpoza 'o mo makonvosʉ. 他們討厭愛霸佔東西的人.
+1. 厭煩. os'o aatvia sohpozneni si mameoi homo na'no pohpoha'o si isi skuna. 被老人差遣的 人動作太慢, 我就替他厭煩.
+1. 舒爽. la sohuyu ta feohʉ no 'tueva. 三月天氣舒爽
+1. 舒爽. la peela sohui ta skufu ta evi hola na'no mu'ei. 天氣很熱時, 那棵樹下可以乘涼.
+1. 擔心. mi'o sokoyu no mʉchʉ. 我擔心會下雨
+1. 擔心. i'o sokoeva 'e 'o'oko ho mihin'i iachi uhne c'oeha. 孩子們自己去河邊我很擔心.
+1. 擔心. i'o sokoeveni 'e 'o'oko ho te emopihi to mo fozu ci chumu. 我替孩子們擔心他們要 渡水深的地方.
+1. 最短的. mo yonenu na mo sonanʉhtʉ ci c'oeha? 我們最短的河在哪裡?
+1. 最短的. mo sonanʉhta 'o fsuyu ta 'uongʉ. 'Uongʉ 的槍最短.
+1. 裝滿. songcʉngci ta f'ue si skayʉ. 把那籃子裝滿地瓜。
+1. 添加. sia na mo sopuhngu ta te'o hiafa? 誰添加了我要載的 東西？.
+1. 添加. 'a f'ue 'o ita sopuhnga. 他添加的是地瓜.
+1. 添加. 'a f'ue 'o isi sopuhngeni. 他添加的是地瓜.
+1. 添加. 'a isi sopuhngi to Apu'u. 是Apu'u 添加的.
+1. 放在上方. os'o soteufza to ezoyʉ 'o teova'u. 我把我的 工寮蓋在農地的上方
+1. 放在上方. os'o soteufzi to teova 'o ezoyʉ. 我蓋了工寮在農地的上方.
+1. 留一點, 放一點. te'ona'a ake'i sotpʉskʉ no nte'o ana ci simeo. 你放一點肉給我吃 .
+1. 留一點, 放一點. ake'a sotpʉskeni no teko opaskeni ho taseona. 給他留一點早餐做早餐 的配菜
+1. 留一點, 放一點. tekon'a sotpʉski ta iko ana co emucu'u. 你放一點你吃的東西在我手上.
+1. 放對位子. petohʉeva sotuhca si ita sia. 他收東西終於收對 地方了
+1. 放對位子. ita sutuhci tomo mafe ci emi 'o os'o yusuhngi. 我坐的位子剛好放好喝的酒.
+1. 放對位子. ihe sotuhceni ta os'o yusuhngi si huv'o. 那橘子他們剛好放在我的位 子.
+1. 混在一起. ita sotvoha to f'ue 'o ucei. 他把芋頭混在地瓜裡面
+1. 混在一起. ita sotvohi to pohe 'o tahza. 他把玉米和豆子混在一起.
+1. 混在一起. ita sotvohneni to ucei 'o f'ue. 他把地瓜和芋頭混在一起.
+1. 添加. la mafe ho isi so'upi to simeo 'o cnofa. 粽子加上豬肉很好吃
+1. 添加. os'o so'upa to teo'ua 'o hanahana. 我把鴨子跟雞放在一起.
+1. 添加. isi poa so'upneni to teo'ua'u 'o teo'ua to fa'ei. Fa'ei 的雞跟我的雞放在一起.
+1. 起火. 'ua micu soupuzu to teova 'o voyu. Voyu 已經在工寮起火了
+1. 起火. cuma na teta soupuza ta Voyu? Voyu 要用什麼起火 ？
+1. 起火. mo yonenu na tesi soupuzi to voyu? Voyu 要在哪裡起火？
+1. 起火. sia na teta soupuzneni ta voyu? Voyu 要為誰起火？
+1. 放在下方. teko soyovca to ceonʉ 'o teko teai ci emono teo'ua. 你把雞舍設在路的下方
+1. 放在下方. soyovci no emono teo'ua 'o meoe. 你蓋雞舍在大石頭下面.
+1. 紮實. sʉatʉkcʉ 'o la le peayofi to la peayofʉ. 跑道的跑步道很紮實。
+1. 到達. micu sʉc'ʉhʉ ne hosa 'o haah'o. 大夥已經到達部落了.
+1. 到達. zou 'o ne hosa 'o tehe sʉc'ʉhi. 他們要到 達的是部落 .
+1. 種得密. la sʉ'cʉpha 'o machachae. 種菜要種得密
+1. 種得密. os'o na'na sʉ'cʉphi to bʉnʉvhʉ si ezoyu'u. 我的地種李子種 得很密.
+1. 坐翻. mi'o sue'ohʉ ta fatu. 我坐翻那石頭
+1. 坐翻. os'o sue'ohi si fatu. 我坐翻那石頭.
+1. 很早走. mo sʉfeʉngnʉ moyafo 'o yangui. Yangui 很早出門.
+1. 很早走. os'o sʉfeʉngna pap'eta 'o h'oepona'u. 我一早出去巡我的陷阱.
+1. 擁抱. mi'o sʉ'fʉnʉ ta paicʉ. 我抱著Paicʉ.
+1. 擁抱. os'o sʉ'fʉni 'o paicʉ. 我抱著Paicʉ. yupasʉ'fʉnʉ. 互相擁抱. mihin'i yʉ'sʉ'fʉnʉ 'e 'atai ho sayungu. 'Atai 和Sayungu 互相擁抱。
+1. 互相擁抱. mihin'i yʉ'sʉ'fʉnʉ 'e 'atai ho sayungu. 'Atai 和Sayungu 互相擁抱。
+1. ... 的蜜. lea mayʉmʉ 'o sʉhsi to teongo ho mo hothoangoa. 鵝掌樹開花時蜂蜜會有苦味。
+1. 吃壞肚子. mo sukvo'ʉ ta cfu'o'u ne mi'o bonʉ ta s'os'o. 我吃藥吃壞肚子
+1. 吃壞肚子. isi sukvo'i to os'o ana ci s'os'o co cfu'o'u. 我吃藥吃壞肚子.
+1. 坐得下. mo okosi 'o pangka; o'a teko sumso. 桌子小,你坐不下
+1. 坐得下. tehec'o sumsoi tamo cmʉ'ho emo cono pangka. 那桌子可以坐得下剛來的人.
+1. 擋住. poe'oha si mo sʉmʉtʉ ci fatu. 把擋路的石頭推開.
+1. 擋住. isi sʉmʉti to mameomeoe 'o ceonʉ. 路被很多巨大石頭擋住.
+1. 直直的. na'no sʉngcʉ si na'si ta fi'i. 檳榔的樹幹很直。
+1. 擤鼻涕. la 'aoko sʉngʉcʉ homo esongʉ. 感冒時常擤鼻涕
+1. 擤鼻涕. tonfui si sʉngʉcva. 用灰燼覆蓋你的鼻涕.
+1. 生氣. micu sʉ'no si av'u ho isi 'aoka keematmohi. 狗已經生氣了,因為不斷玩弄牠
+1. 生氣. isi sʉ'nova to sayungu 'o tanivu. Sayungu 在氣Tanivu 。
+1. 有點生氣. mo mainenu ci miko 'aoko sʉ'sʉ'no maitan'e. 你今天為什麼一直生氣 ?
+1. 有點生氣. mo mainenu ci iko 'aoka sʉ'sʉ'nova 'o motoyʉ. 你為什麼一直對Motoyʉ 生氣的呢?
+1. 作惡夢. mi'o suokvo'ʉ ne yofna. 昨晚我作惡夢
+1. 作惡夢. os'o suokvo'neni na taini. 我在惡夢中夢到他不好的 預兆.
+1. 掉落;摔下. mi'o supeohʉ to fatu ne mi'o toalungu. 我釣魚時從石頭上摔下.
+1. 掉下很多次. alʉ suhsupeohʉ 'o 'avai ne mo cocapo. 'Avai 爬上去的時候掉下來很多次.
+1. 掉落;摔下. 'a eno si evi sico 'o os'o supeohi. 那棵樹就是我掉落的地方.
+1. 很多物品落下. mita matmʉtʉ to mo supeopeohʉ ci bʉnʉvhʉ. 他撿掉下來的李子.
+1. 涉水,渡河. nahocu aothomʉ supihi ta va'hʉ. 你就嘗試 渡河.
+
+
+1. 涉水,渡河. mi'o eya to mo poyapo ho supiha. 我找水淺的地方涉水.
+1. 隔河相近. mo yu'sopihi 'o hosa ne tfuya ho hosa ta tapangʉ. 特富野部落和達邦部落隔河 相近。
+1. 兩百元. mo suse'eicha 'o os'o to'upneni tote titha mhia simeo. 買豬肉的錢我 出兩百。
+1. 坐在一起. 'otes'a yuhesi ta mo suteuyunu ci maameoi. 不要穿越那坐在一起的長者。
+1. 祭神儀式. la sʉ'tʉ to ezoyʉ ho hupa. 墾地和獵場有祭神儀式.
+1. 祭神儀式.
+1. 祭神儀式. la conino sʉ'ti 'o iachi hupa. 自己的獵場要自己祭神.
+1. 赤榕樹. la yainca evi no hicu 'o sʉveʉ. 赤榕樹是鬼神的樹。
+1. 攻擊. moso la suyumo to sbukunu 'e cou. 鄒族曾經攻擊布農族.
+1. 攻擊. isi suyumi to ceoyu na a'o. 我被黃蜂攻擊.
+1. 打仗. lahe conino teai papoevʉ ho mo yu'susuyumo 'o maotano. 在征戰時,他們總是讓將 領帶頭衝鋒。
+1. 背. isi tipeoha to tanivu 'o osila sviei. Tanivu 失去了他的小 孩。
+1. 量. ita svʉti 'o ezoyʉ'u. 他測量我的地.
+1. 耳環. Micuc'o kakutia 'ola meelx moyai svʉyʉ. 會製作耳環的人已經很少了。
+1. 挑. la boemi to ngotohva ho mo taakanga 用扁擔挑東西 la meelʉ e'ecvʉhʉ 'o mo at'ocʉ 習慣扛 東西的人能挑很重的.
+1. 挑. tekon'a taakanneni to f'ue a'o. 你幫我挑地瓜.
+1. 傳到; 聽到(聽人家說 ). os'o tac'ʉhi ho ihe yainca mo tma'congo 'o fa'ei. 我聽人家說 Fa'ei 生病 了
+1. 長. mi'o baito to mo tacvoh'i ci fkoi. 我看見了一條長長的蛇 . mo tacvoh'i 'o os'o aiti ci fkoi ne hucma. 我昨天看到的蛇很長 .
+1. 排得好長 . alʉ boetacvo'hi 'o mo bitoyangi mooteo no poa aotothomʉ. 排隊看病的人排的 好長。
+1. 最長. mo sotacvo'hi 'o os'o aiti ci fkoi. 我看到的蛇最長。
+1. 都很長. mo taacvoh'i 'o kaapana. 竹子都很長
+1. 多量一點. isi ake'a titacvoh'a to momhino ne mi'o mhia yʉteʉ. 我買布料時老闆多量一些 布給我. 2. 捏成長形. leahe kaeba titacvoh'a to 'o'oko 'o ufi ho ihe ana. 小朋友吃 米糕時喜歡 把米糕捏成長形.
+1. 白白受惠. alʉ man'i si taha'va taini ho mita i'mi ta momhino. 他去商店回來得了不少的贈品. pe'i ta 'o'oko 'o nia taha'va no'u fou. 孩子們,我白白得來的肉煮了.
+1. 他們會…….. 'o la yotmuzu tahe yaeza yotmuzi. 給人多的,人也給你多。
+1. 桑樹. la peela teai poso'eʉ 'o evi no tahiucu ho mayayaptʉ no evi ho feo'u. 桑樹和樹皮及獸皮 可以做成束腰帶。
+1. 感覺到; 聽得懂. os'o o'te amaka ta'hongi ne mo boecʉ 'o ehʉʉ. 吸血蟲咬我我都沒 感覺.
+1. 從….開始算起. to ehohanva ta cou a'toana tahoza ho moso etʉpʉ micu engha noana'o 鄒族的傳 說中從洪水時期開始算到現在已經很久遠 temu tahoza tan'e ho tvici. 你們從這裡開始砍草.
+1. 從….開始算起. temu tahozi tan'e ho thuci. 你們從這裡開始插秧.
+1. 摺疊. taipupsu'ha ho sia si apiucu. 把草蓆捲起來收好。
+1. 高雄那瑪夏地名. mo yone takanua 'e kanakanavu. Kanakanavu 住在高雄。
+1. 塗黑. ihe takua'onga to 'o'oko 'o tonghifza. 小朋友把 牆壁塗黑黑的.
+1. 塗黑. isi poa takua'ongveni to 'o'oko 'o sʉesʉ to teova. 他們叫小朋友把 工寮的柱子塗黑 色.
+1. 塗黑. ihe takua'ongvi si sapci ta av'u. 他們把狗的 臉塗黑.
+1. 族名(布農族蘭社群). ohela yoni no nia takupuyanʉ 'o niahosa ne simvi. 新美的舊部落是 Takupuyanʉ 族人的所在地
+1. 聽. talʉi co oko mo mongsi. 注意聽有小孩在哭.
+1. 香菸. tekon'a p'eatiskeni to tamaku to okoci fa'ei. 你幫我跟姪兒Fa'ei 要一半的香菸。
+1. 抽菸. mi'o cu ena'o ho la'u etamaku. 我抽煙抽很久了。
+1. 從….聽到. i'o tamzi to tanivu ho mo na'no tma'congo 'o motoyʉ. 我從Tanivu 聽到Motoyʉ 生 重病.
+1. 搖動. taot'ova ho poa supeohʉ si saitungu. 搖動使木瓜掉下
+1. 搖動. poa taot'ovneni ta 'uongʉ si saitungu. 讓'uongʉ 搖動木瓜樹.
+1. 忘記. mita ta'payo'ʉ mahto poyave. 他忘記帶刀.
+1. 地名 (達邦地名). mosola i'mi ne tpʉyana ho ohpueho noezuhu ne taptuana 'o tapangʉ. 方氏家 族是從Tpʉyana 向下遷徙到達德安。
+1. 想清楚. ta cu ta'sansana 'o teta hioa. 他要做的事情已經很清楚了.
+1. 聽得很清楚. na'no tasansani 'o tmasfihngau to motoyʉ. Motoyʉ 的聲音錄起來很清楚。
+1. 覺得適合;很希望. ci os'o ta'saseolʉa hoci hin'i navconga 'e yangui ho mo'o. 我很希望Yangui 和Mo'o 做夫妻.
+1. 聽了會怕. engha tasmoyoi ho isi tbaki to ak'engʉca. 巨大的雷電聲聽了令人害怕.
+1. 聽煩. os'o tasohpozi 'omo smoavovei ci kuyai. 我聽煩來來往往的車子.
+1. 拉過來,接過來. os'o moeza tas'usna 'o ino'u coni ho lac'o noachi. 我乾脆把獨居的阿姨接過來 住.
+1. 拉過來,接過來. os'o poa tas'usneni ta voyu 'o ino ho poa no'upu. 我請Vo yu 把媽媽接過 去一起住.
+1. 羨慕. mi'o tata'e to ihe phieni ci yoskʉ. 我羨慕他們賣的魚
+1. 羨慕. os'o na'na tata'za 'o mo uhne taipahu. 我很羨慕去台北的人
+1. 羨慕. os'o tata'zeni to yʉsʉ no cou 'e 'o'oko. at'inghi uk'a ci peisu'u. 我很想給小孩買傳統 衣服, 但是我沒有錢 .
+1. 合計. mo aʉlʉ se'conza ne os'o tateuyuna 'o peisu'u 我合計我的錢 剛好一百.
+1. 合計. te tateuyuni ta mo conci saiptuku 'o ongko to mo yaahioa. 把工作的人的姓名寫在 一張紙上.
+1. 收割. mo tat'ozu to ton'u 'o maamespingi. 女人們收割小米
+1. 收割. ihe tat'oiva to maamespingi 'o ton'u. 女人們收割小米.
+1. 算入. mo c'o okosi 'o isi ta'una a'o ci papai 我分到的 水田只有小小一 塊.(算入我名下的水田只 有小小一 塊).
+1. 算入. o isi ta'uneni a'o ci papai moc'o okosi. 我分到的 水田只有小小一 塊.(算入我名下 的水田只有小小一 塊).
+1. 算入. ihecu ta'uni to noacachiana 'o paicʉ. Paicʉ 已經納入到莊家的戶口內.
+1. 列入. lea ta'upa to yaefʉefa 'o mo tomaska veiauemo. 十五歲的人是列入少年組.
+1. 列入. ihe ta'upi to yoskʉhe tomo mahfuyo. 抓到魚的人有分 魚給我.
+1. 搖動. teav'a taʉza si saietungu. tes'a supeopeohʉ si beahcisi. 不要搖動木瓜樹，免得它的果實 掉下來
+1. 搖動. te'on'a poa taʉzneni si oko te poa oengʉtʉa. 我要幫忙把小孩搖一搖使其可以睡覺.
+1. 不要 ；不可 ；不行. tav'a so poa masvovei ta ceonʉ si mo oefʉ'ʉ ci haengu. 倒下來的芒草不 要再讓它倒回路上了。
+1. 不要 ；不可 ；不行. tav'ala pasnga 'o te e'ohʉ. 不可對要出門的人打噴嚏(鄒的習俗)。
+
+1. 不要再...；不可再... . tav'ana paenova ci tac'u amzo sʉ'no. 別再逗他了，他 終究會生氣 了。
+1. 不要 ；不可 ；不行(現在). tav'as'a emʉ'a to isi skufa 'o chae. 菜不要種在有遮蔭處。
+1. 聽到風聲. mi'o yaʉm'ʉm'i ho os'o tayaevi co mʉmʉ no poepe. 我聽到風 聲就心驚肉跳。
+1. 大聲責罵. os'o ala tbangbangi ne taseona 'e yangui. 早上我大聲責罵Yangui 。
+1. 要. la a'asvʉ 'o mameoi to pupuzu ho te i'eongcʉ to te toton'u. 要開墾玉米田之前 ，家族的 掌門 人要先夢卜。
+1. 製作. te'o teai pangka 'e evi 這木頭我要製作桌子.
+1. 提著. os'o poa mi'povneni ta haah'o 'e os'o teatatvia. 群眾為了我提的東西而逗留。
+1. 嘔吐. mo mainenu si mo teavto ta fofeohva. 那在水溝嘔吐的是怎麼啦.
+1. 嘔吐. pohtonzovi si teavta ta av'u. 沖洗狗的嘔吐物.
+1. 嘔吐. isi teavti to av'u si pooyoyo'u. 狗吐在我的褲子上.
+1. 要……. o'a tec'o anou butisi to evoo. 不要把病死獸肉分給 (人)。
+1. 就要……. mo na'no tma'congo 'o amo ne auyusi ne tec'u homeyaya. 在homeyaya 祭典前,父親 得了重病。
+1. 要……. la a'asvʉ 'o mameoi to pupuzu ho te i'eongcʉ to te toton'u. 要開墾玉米田之前 ，家族的 掌門人要先夢卜。
+1. 趕上. 'inania teelʉ to kuyai. 差一點沒趕上車.
+1. 趕上. os'o 'inania teelʉi 'o kuyai. 我差一點沒能趕上車.
+1. 他們要…… . teko i'payo tehe eno aiti. 站到明顯處讓他們看見。
+1. 他們只要……. tehec'o sumsoi tamo cmʉ'ho emo cono pangka. 那桌子可以坐得下剛來 的人。
+1. 吊起來. tekon'a teiha si cnʉmʉ. 你把香蕉吊起來.
+1. 吊起來. poa teihneni ta 'o'oko si cnʉmʉ. 叫小孩把香蕉吊起來.
+1. 吊起來. teihi ta cnʉmʉ si pefotngʉ. 把香蕉吊在橫樑上.
+1. 你要……. teko amaamtana mo'o si te faeni to mamameoi ci macucuma. Mo'o 你要給老人的 東 西(肉)要給大塊的。
+1. 你只要……(祈使句). tekoc'o ekakutia ho teko ya'ei. 你說話時講少一點。
+1. 你就要……(祈使句). tekocu yuovei? 你就要回來了嗎？
+1. 你要……(未來). tekola aezuha 'o lako hia aomotʉ'ʉ. 你要改變你說話的方式。
+1. 你要……(祈使句). tekon'a akameosʉ uhne emoo. 你要立刻去我家。
+1. 你要……(祈使句). pooyoyon'a, tekono o'te pae'ekelu. 穿上褲子,不然你就 被人看光了。
+1. 你要……(祈使句). mo so okosi 'e hopo; o'a tekos'a ma'himamso. 床太小,不夠你躺。
+1. 你要……(祈使句). teko'so la atatalʉa 'o isi eutotaveia to amo. 你要牢記父親所交代叮嚀 的事。
+1. 你要……(祈使句). e'vono ngoseo ho mo yahioa, teko'sola buveici. 工作雖然辛苦,你要 忍耐。
+1. 亂大便. 'ote la te'mako ho mo te'i. 不要亂大便。
+1. 你們要…… . e ehoi ho eao osi la pa'cohineni no hamo ho yainca "temu la maica ho temu la pasunaeno". 迎神曲和送神曲是天神hamo 教導的,祂說:你們唱的時候要這樣唱。
+1. 你們只……. temuc'o yu'pici ta huv'o. 那個橘子你們分一 半。
+1. 你們要……. temula ake'i peiskokoyu ho lamu yaahioa. 你們要用 心做事。
+1. 你們要……(祈使句) . temu'so akokoyu no maine'e, 'o'oko. 小孩子們你們得 回家。 micu aoyocʉ 'o tena uhne fuengu ho hucma. 明天要去上山的已經準備好了。
+1. 要 . tena uhne maibayu ho hucma 'o 'o'oko. 明天小朋友要 去嘉義。
+1. 等一下就要 ...；然候就.... lasi ateuyuna to ak'etutung'ava ‘o kuhtu no ton'u to macoconoemoo, tenac'u cohivi 'o hia botngonʉ to conohosa. 負責戶口普查的長老到 各家收 集小米梗(一個人以一支小米梗代表)，然候就知道一個部落有多少人。
+1. 我將要……我就要.... te'o toa bonʉn'a tena'u cu maine'e. 我明天將要去赴宴。
+1. 還可以. micu aoyocʉ 'o tena uhne fuengu ho hucma. 明天要去上山的已經準備好了。
+1. 書信(日語借詞). mita tmopsʉ to tengami 'e tanivu. Tanivu 寫信。 [日語借詞]
+1. 電((日語借詞). aemʉ'au afsi 'o tenki ne micu smʉnʉ'ʉ. 下大雨時突然停電。 [日語借詞]
+1. 就…… . poac'o maakakutia na temu hafa; teno e'sosoni. 你們每個人都帶一點，就可以搬得 快。
+1. 從底下看(看裙底風光). 'otela teof'uf'u. 不要看裙底風光
+1. 從底下看(看裙底風光). ita teof'uf'i 'o mo yusuhngu. 他看那坐著的人的 裙底風光.
+1. 斜眼看. 'otes'a teo'iyo ta mo sucaefi. 不要斜眼看經過的人
+1. 斜眼看. ihe teoe'ievi ta mo yusuhngu 'e yangui. Yangui 被那坐著的人斜眼看.
+1. 刺眼. la teokngʉkngʉ ho la alʉ mi'unu to hie. 直接看太陽會很刺眼
+1. 刺眼. na'na teokngʉkngi si puzu ta kuyai. 看車燈很刺眼.
+1. 睜開眼睛看到. mo teolʉ to ceoyu 'o 'mo'o. Mo'o 看到虎頭蜂 micu teolʉ si moso oengʉtʉ ci oko. 睡覺的孩子已睜開眼睛
+1. 睜開眼睛看到. isi teolʉi to mo'o 'o ceoyu. Mo'o 看到虎頭蜂.
+1. 曬穀場. la tithua to teomeoma 'o pai ho isi poezi. 要在曬穀場曬稻穀
+1. 壓平. la teomeomi 'o tiothua. 晒穀場要壓平.
+1. 答應給. o'te teomi to 'akuanʉ ne nte'o yuevaho no peisu. 我向'akuanʉ 借錢他不答應
+1. 答應給. o'te teomneni to pasuya ho nte'o yuevaha 'o kuyaisi. Pasuya 不答應我借他的車.
+1. 做很久;搬得久. lea teona'vi ho isi teai 'o yongku. 製作背籃耗時很久
+1. 做很久;搬得久. teona'va teopoya to 'atai 'o efuefu'u. 'Atai 搬沙子搬很久.
+1. 贈送. os'o teongheni to tesi ana ci fou 'o 'akuanʉ. 我贈送肉給'Akuanʉ 吃
+1. 贈送. os'o teonghi to tesi ana 'o 'akuanʉ. 我贈送吃的給'Akuanʉ.
+1. 搬運. poa teoponeni to mo'o 'o f'ue. 讓Mo'o 搬地瓜. 2. 搬. ita teoponeni to ucei 'o ba'i. 他幫祖 母搬芋頭.
+1. 搬運. tekon'a teopoya mo'o si os'o s'eftuftunga ci evi. Mo'o 請你把我鋸斷的那些木頭搬來
+1. 清理燒過的雜物. mimia teo'pu'pu to ohe hmoi ne hucma. 我們清理昨天燒過的雜物
+1. 清理燒過的雜物. tekon'a hmoi 'o nia teo'pu'pa 你燒那些燒剩下的雜物
+1. 清理燒過的雜物. imia teo'pu'peni no tasi emʉ'i si sayungu. 我們在燒過的地幫Sayungu 清理她要種植的地方.
+1. 清理燒過的雜物. imia teo'pu'pi 'o oho hmoi. 我們清理燒過的雜物
+1. 搜尋. mi'o miikikiengi ho teoʉ'tʉmʉ no te esmi. 我看四周搜尋來人
+1. 搜尋. teoʉ'tʉmi ta mo botngonʉ 'o pasuya. 在人群中尋找Pasuya.
+1. 搜尋. poa teoʉ'tʉmneni ta yangui 'o tu'u. 讓Yangui 找小鋤頭.
+1. 縫補. isi t'esa to ino 'o te'o yʉsʉ. 媽媽縫我要穿的衣服
+1. 不然；否則. te'o aangacʉmʉ buacou ho te'o ya'ei. tes'a o'te tma'hongʉ 'o mamameoi 我試著說
+1. 我們要. teto la angongohza 'o 'o'okoto. 我們要愛護我們的小 孩。
+1. 我們只要……. tetoc'o pesvʉta ta isi tposi ta pania. 我們按照瓶子的刻度來喝。
+1. 我們要……. maananat'ot'ohaesa, tetocu e'ohʉ ho yaahioa. 兄弟姊妹 們，我們 出發去工 作吧。
+1. 我們要……. teton'a uhne c'oeha ho otfo. 我們去河裡毒魚。
+1. 排便順暢. na'no 'atutumzo 'e fa'ei ho mita o'te te'vo'ho. Fa'ei 排便不順很痛苦。
+1. 烏鴉. la kua'onga 'o m'um'u to tfua'a. 烏鴉的羽毛是黑色的。
+
+
+1. 自己用. mita tiachi to peisu 'e pasuya. Pasuya 把錢自己花用
+1. 自己用. ita tiachia ta pasuya 'o peisu. Pasuya 把錢自己花用.
+1. 自己用. itac'o poa tiachineni ta pasuya 'o peisu. 他只讓Pasuya 一個人用錢.
+1. 省著用. temu la tiakak'ingi titho to peisu. 你們用錢時要省著用
+1. 省著用. temula tiakak'inga 'o peisumu. 你們錢要省著用 .
+1. 捏破. teav'aso tianzo'a si fcuyu. 不要捏破蛋 [Tfuya 方言]
+1. 捏破(特富野方言). teav'a poa tianzo'neni ta oko si fcuyu. 不要讓小 孩捏破蛋
+1. 提著. isi tiatatviya to oko 'o cʉyʉ'si. 小孩提他的便當
+1. 提著. mo tiatatviei ta cʉyʉ si oko. 那小孩提便當.
+1. 提著. teko tiatatvineni to tʉfsʉ 'o ba'i. 你幫祖母提甘蔗.
+1. 用鋤頭挖土. mihin'i tibangnu no tahin'i emʉ'i no cuc'u. 他們用鋤頭挖要種辣椒的地
+1. 用鋤頭挖土. tibangnua si te emʉ'i no cuc'u. 把要種辣椒的地挖鬆
+1. 用鋤頭挖土. tekon'a tibanguneni no nte'o emʉ'i no ton'u. 你幫我鋤我要種小米的地.
+1. 折斷. mita tibkocʉ to ehti to evi 'e yangui. Yangui 她折斷樹枝
+1. 折斷. isi tibkoca to yangui 'o ehti to evi. Yangui 她折斷樹枝 .
+1. 折斷. isi tibkocneni to ehti to evi to yangui 'o ak'i. Yangui 為爺爺折斷樹枝 .
+1. 承接;繼承. mo ticngihi to ezoyʉ 'o oko. 孩子繼承土地
+1. 承接;繼承. isi ticngiha ta oko 'o ezoyʉ. 孩子繼承土地.
+1. 捏取一塊. mo tic'ohʉ to poacnʉmʉa 'o 'avai. Avai 捏取一塊香蕉糕
+1. 捏取一塊. isi tic'oha to 'avai 'o poacnʉmʉa. 'Avai 捏取一塊香蕉糕.
+1. 捏取一塊. tic'ohneni ta ufi si 'avai. 為'Avai 捏取一塊米糕.
+1. 抓到. mon'a foinana si iko ticuna ci kuhku. 你抓到的狐狸還小。
+1. 倒閉. micu tiefʉ'ʉ 'o meoi no momhino ta sʉa'fʉnʉ. 石桌那家大商店倒閉了
+1. 倒閉. iachia tiefʉ'a ta fa'ei 'o nia momhino hin'i. Fa'ei 把他們自己的店弄到倒閉了.
+1. 捏,夾. mita tifkici to mocmo. 他捏別人
+1. 捏,夾. isi tifkica to yongo 'e lulku'u. 螃蟹夾我的指頭
+1. 做壞了;用錯方法. la na'no yophia hoci tikvo'a 'o la hia meesi. 祭儀時很怕用錯方式
+1. 做壞了. la na'no peesi honci tikvo'ʉ ho mo meesi. 祭儀時很忌諱用錯方式
+1. 捏取大塊. mo timeoisi tic'ohʉ to ufi 'o 'atai. 'Atai 捏取一大塊年糕
+1. 捏取大塊. na'na timeoisa ta oko si ufi'u. 那小孩捏取好大一塊米糕
+1. 捏取大塊. ake'a timeoisneni ta ufi si ba'i. 為祖母捏取大塊一點的
+1. 抓取一點點. tingzotʉ ta tahia no te pei'i. 拿一點豆子來煮
+1. 抓取一點點. tekon'a tingzotneni no tahza a'o. 你為我拿一點豆子
+1. 打得兇;用力捏. mo aemoemou tinoi to oko 'o lema'cohio 他的老師打小孩打得太兇了
+1. 打得兇;用力捏. isi aemoemova tinoza ti'usna to amosi 'o oko. 他的爸爸打小孩打得太過 分了
+1. 打得兇;用力捏. poa tinozneni to panathao si moso meo'eoi. 讓執法者打那小偷. [達邦社： tinoineni]
+1. 捏碎. mo tinzo'ʉ ta fcuyu si oko. 那小孩捏碎蛋.
+1. 捏碎. isi tinzo'a to oko 'o fcuyu. 那小孩捏碎蛋
+1. 接受;接到. o'a i'o s'a tiova 'o to'tohʉngʉ to sayungu. 我並不接受Sayungu 的想法。
+1. 接受;接到. teko'so poa tiovneni ta sayungu na 'to'tohʉngʉ ta pasuya. 你讓Sayungu 接受 Pasuya 的想法.
+1. 接受;接到. mita o'te tiyou ho ntehe fii to fou. 他不接受人家要給的肉
+1. 失手;失去. mo tipeohʉ to nsou 'o luheacana ne hucma. 昨天羅家失去親人
+1. 失手;失去. tipeoha ta koio si isi hafa ci fkoi 那老鷹抓的蛇失手掉下 isi tipeoha to tanivu 'o osila sviei. Tanivu 失去了他的小 孩
+1. 被耽擱; 拿錯. mi'o'so ti'pou ta 'o'oko. o'a te'o meelʉ uhto te nouteuyunu. 因為我得照顧孩子.因 此不能出席聚會 mi'o ti'pou to yungkuhe. 我拿錯別人的背簍
+1. 被耽擱; 拿錯. teav'as'a poa ti'povneni ta mo yahioa 'o tu'u'u. 不要讓那些工作 的人拿錯 我的小鋤頭.
+1. 被耽擱; 拿錯. ihe ti'pova 'o tposʉ'u. 別人拿錯我的書.
+1. 摸索. tekon'a uhta ecuu ho tiseiti no kokeu. 你到池塘裡摸索田螺
+1. 摸索. mo man'i 'o ita tiseita ta yangui ci kokeu. Yangui 摸索到很多田螺.
+1. 摸索. poa tiseitneni ta voyu 'o peisu'u ta fucu. 讓Vo yu 在袋子裡摸索我的錢.
+1. 使用長的. kaebʉ titacvoh'i to yoecʉnghʉ 'e mo'o ho mita toalungu. Mo'o 釣魚時喜歡用長的 釣 竿 2. 呈長形. lea titacvoh'i 'o ehʉʉ no meah'o ho mo coeconʉ. 大的吸水蟲走路時會呈長形
+1. 呈長形. ake'a titacvohneni to ufi si mameoi. 你幫老人把糯米糕弄成長形拿給老人 .
+1. 使用. te'o titho to fatu ho tmopsʉ. 我要用石頭寫字
+1. 使用. la peela titha tmopsʉ 'o fatu. 石頭可以用來寫字.
+1. 使用. titheni ta kaapana ho peobanga si av'u. 用竹子趕走那隻狗.
+1. 曬在. la tithua to teomeoma 'o pai ho isi poezi. 要在曬穀場曬稻穀。
+1. 曬在. la teomeomi 'o tiothua. 晒穀場要壓平。
+1. 捏取一小塊. naho titpʉskʉ ta ufi ho faeni ta oko. 你可以捏取一小塊米糕給孩子吃
+1. 捏取一小塊. isi titpʉska to voyu 'o ufi. V oyu 從米糕上捏取一小塊下來.
+1. 捏取一小塊. tekon'a titpʉskeni ta ufi si oko. 你幫那孩子 捏取一小塊米糕.
+1. 鞭打. mo ti'usnu to av'u 'o voyu. V oyu 在鞭打那隻狗
+1. 鞭打. teav'a ti'usna si av'u. 不要鞭打那隻狗.
+1. 讓……打. lea poa ti'usneni to papathao 'o mo kuici yufafoinana. 素行不良的年輕 人要請panathao 教訓。
+1. 讓...鞭打. poa ti'usneni to panathau si mo meo'eoi. 讓執法者鞭打那小偷.
+1. 接受. tela pateafa 'o tehe toehunga tiyova ci e'e. 要說大家 可以接受的話。
+1. 化妝. mita mifʉecʉ'za ho lata asngʉcʉ tmaangeai. 他常常化妝好像變白了。
+1. 相信. o'a mitas'a huaeca tmaa'uzo. 他看起來不相信
+1. 相信. o'a itas'a huaeca taa'uzva. 他看起來不相信. [達邦社：taa'uiva]
+1. 砍至. tamuc'o tmac'ʉhʉ tan'e. 你們砍草砍到這裡就好
+1. 白白受惠. mi'o tmaha'o to fou ne hucma. 昨天我白白得到肉 alʉ meoi no tmaha'o to huv'o ne mi'o uhto inoconi. 我去看阿姨時收到不少的橘子.
+1. 白白受惠. ma ihec'o taha'veni 'e yʉsʉ'u. 我的衣服是人家送的. taha'veni to mocmo 'o os'o o'te oepʉnga ci yoskʉ'u. 我把我吃不 完的魚送給別人.
+1. 白白受惠. aha'va taha'vi to chae to nun'u faisʉ. Paicʉ 阿姨(faisʉ) 突然送給我菜. taha'vi to yoskʉ to 'uongʉ na a'o. 'Uongʉ 白白給了我魚. os'o taha'vi to cnʉmʉ 'o ba'i. 我送香蕉給奶奶.
+
+1. 感覺,聽懂. ua mi'o cu tma'hongʉ 我已經聽懂了 mi'o tma'hongʉ to mo bua maaya. 我聽得懂日 語
+1. 感覺,聽懂. os'o 'ucea poa ta'hongneni ta 'o'oko ko'ko os'o yainca. 我想要讓孩子們聽懂所 以才這樣說.
+1. 滾落. mo tmaie'ohʉ ta mo meoi no fatu. 那巨大的石頭滾下去。
+1. 打轉. lasi taunona'vʉ to mo n'a oko 'o la tmaikukuyungu ci macucuma. 幼童對於會轉的東西總 覺得很稀奇
+1. 打轉. taikukuyungva ta oko si ca'hʉ no taucunu. 小孩在轉那圓椅子
+1. 打轉. poa taikukuyungveni ta oko simo taucunu ci ca'hʉ. 讓小孩轉那圓椅子.
+1. 滾下. mo tmai'ohʉ si fatu ho smomʉtʉ ta ceonʉ. 那石頭衝下來堵住了路
+1. 聽. tmalʉ na'a 先聽一下 mi'o tmalʉ to mo mongsi ci oko. 我聽到小 孩在哭
+1. 聽. poa talʉneni to tanivu 'o oko honci mongsi. 讓Tanivu 聽小孩有沒有哭.
+1. 透過什麼聽到. mo tmamzo to voyu ho mo mayo no fuzu 'o mo'o. 我從Vo yu 那聽到Mo'o 拿到 山豬
+1. 擁有. mi'o tmanuu to mo cocoya ci ceoa. 我擁有廣大的土地
+1. 擁有. os'o tanua 'o mo tʉ'nʉ ci ezoyʉ. 我擁有陡峭的土地.
+1. 擁有. poa tanuneni ta pasuya 'o kakaapana. 把竹園分給Pasuya.
+1. 用黑炭塗黑. bu'o o'te tma'ongʉ 'uongʉ ho miko 'oyo pupuzu. 你在火爐邊, 盡量不要用黑炭弄 污黑自己
+1. 用黑炭塗黑. teav'a ta'ongi si tonghifza. 不要用黑炭塗黑牆壁.
+1. 用黑炭塗黑. teav'a poa ta'ongneni ta 'o'oko si tonghifza. 不要讓孩子們用黑炭塗黑牆壁.
+1. 聽錯; 寫錯;分錯;砍錯. mita tma'pou 'e voyu. V oyu 聽錯了 mita tma'pou 'e voyu. Voyu 寫錯了 mita tma'pou 'e voyu. Voyu 分錯了 mita tma'pou 'e voyu. V oyu 砍錯草了
+1. 聽錯; 寫錯;分錯;砍錯. ita ta'povi ta pasuya 'o ezoyʉ'u. Pasuya 砍錯草砍到我的農地裡.
+1. 砍草時超過界線. mita tmasa'o to tocihe. 他砍草時越過別人土地的界線。
+1. 聽煩. la'u tmasohpoi to mo smoavovei ci kuyai. 我聽煩來來往往的車子
+1. 聽很多;分很多;寫很多;砍很多草. a'ʉmtʉ tmatmuzu to mo 'oha ʉmnʉ ci e'e. 真的聽很 多不好 的話 mita atva'esi tmatmuzu ne mita tmuvci 'e voyu. V oyu 砍草砍很多. mita atva'esi tmatmuzu to isi aangaeza ci yoskʉ. 他分魚分最多. na'no tmatmuzu tmopsʉ ta isi tposi si oko. 那孩子寫很多字.
+1. 聽很多;分很多;寫很多;砍很多草. ihe atva'esa tatmuzi to yoskʉ 'o pasuya. 分最多魚給 Pasuya.
+1. 列入,寫入. mi'o tma'upu to toci to tosku. 我也有分到杜家的地
+1. 縫. mo tme'si ta tesi yʉsʉ si ba'i. 祖母縫她要穿的衣服
+1. 縫. poa t'esneni to tanivu si yʉsʉ'u. 讓Tanivu 縫我的衣服.
+1. 砍. tekon'a tmoecʉ to kaapana. 你去砍竹子
+1. 砍. tekon'a teoca si kaapana. 你來砍竹子.
+1. 砍. tekon'a teocneni to kaapana a'o. 你幫我砍竹子.
+1. 搬很久; 煮沸很久. ne o'amocu mosola yaa kuyaia, la tmoena'o tmoepoyʉ tote titha eemo 還沒 有車子時,要搬建材都要花很多的時間 ake'a poa tmoena'o moefueso si osko pei'i. 妳煮的要煮沸 久一點
+1. 搬很久; 煮沸很久. teav'as'a na'na poa teona'veni si ihe teopoya. 他們搬東西不要讓他們 搬太久.
+1. 遺留. mo tmoengaso to peisu 'o amo ne tec'u e'ohʉ. 爸爸出門前 有留下錢
+1. 遺留. isi teongasi to paicʉ 'o yungku. Paicʉ 留下他的背簍.
+1. 放著；留下；放棄；遺棄. panto la meteongaso to vcongʉ ho meezuhu. 有人會放 棄原來的配偶另娶他人。
+1. 遺留. isi teongasneni to peisu to amo a'o. 爸爸留錢給我.
+1. 搬. teton'a tmoepoyʉ to ucei. 我們來搬芋頭
+1. 瞬間咬. os'o aiti mo tmo'kameosʉ to ihe ciha ci cʉehʉ 'o av'u. 我看見狗瞬間咬住別人丟掉的 骨頭
+1. 瞬間咬. isi t'okameosa to yoskʉ 'o topana'u. 魚瞬間咬住我的魚餌.
+1. 縫補. mo tmophi to pooyoyo 'o sayungu. Sayungu 縫補褲子
+1. 縫補. isi tpihi to sayungu 'o pooyoyo. Sayungu 縫補褲子 .
+1. 縫補. isi tpihneni to pooyoyo to sayungu 'o ba'i. Sayungu 替祖母縫褲子.
+1. 掌摑. o' tela 'aʉpʉmpʉ tmo'popcako to 'o'oko. 不要隨便掌摑小朋友
+1. 唸書;寫字. a mitan'a tmopsʉ 'e tanivu. Tanivu 還在讀書 mita tmopsʉ to tengami 'e tanivu. Tanivu 寫信
+1. 寫一寫. panto la titho to veina homo tmotmopsʉ. 有的人寫字是用左手。
+1. 唸書;寫字. o'a os'o honga si iko tposi. 我不認得你寫的字. 2. 上學.
+1. 唸書;寫字. os'o titheni to 'empicu ho tposneni suu. 我用筆為你寫. os'o tposneni ta saiptuku 'e 'empicu. 我用筆在紙上寫字. 2. 上學.
+1. 聽說. mi'o tmotmalʉ ho mo nana yone vioin 'o pasuya. 我聽說Pasuya 住院了
+1. 砍草. isi tvici to pasuya 'o 'u'ume. Pasuya 在梅子園砍草.
+1. 的. isi patpopsohi to esou to inosi 'o oko. 媽媽用細長的 樹枝打了孩子兩次。
+1. 釣魚. te'o uhne c'oeha ho toalungu. 我要去河流釣魚
+
+
+1. 釣魚季節 . zou hotoalungva 'o homʉchʉa. 雨季適合釣魚。
+1. 釣魚. mo man'i 'o ita toalungva. 他釣到很多魚.
+1. 釣魚. os'o toalungvi 'o fozucichumu. 我在荖農溪釣魚. mo yoyoskʉ 'o os'o toalungvi. 我 釣魚的地方魚很多.
+1. 採大的. mita c'o toamaamtanʉ ne mita toveucu to bʉnʉvhʉ 'e yangui. Yangui 採李子時，只採 大的
+1. 採大的. ho teko toveuca 'o bʉnʉvhʉ yangui, tekoc'o toamaamtanʉa. Yangui 採李子時， 只要採大的.
+1. 偷採. sia como toasoe to huv'o'u. 誰偷採我的橘子
+1. 偷採. ihe toasoeza 'o huv'o'u. 人家偷採我的橘子.
+1. 多年;好幾年;採多次. micu toaveivei ho mita tma'congo. 他生病多年了
+1. 多年;好幾年;採多次. itocu toaveiveia totea honcita maine'e. 我們等他回來等很多年了. lea ala toaveiveia 'o teofahea. 咖啡採收時會採很多次.
+1. 丟傷眼睛. mita tobkongʉ to mocmo 'e pasuya. Pasuya 丟傷別人的眼睛.
+1. 丟傷眼睛. ita tobkongi ta pasuya 'o voyu. Pasuya 丟傷Vo yu 眼睛
+1. 丟傷眼睛. la na'no hmʉv'ʉ ta mcoo 'o fuu ho isi tobkongneni ta mcoo. 用灰丟傷眼很刺激 眼睛.
+1. 等到.
+1. 等到. o'a os'o ahta'so toc'ʉha. mi'ocu moezoyʉ emoovei. 我一直等不到他,於是我就乾脆 回來了
+1. 跑近. mi'o cu atavei toecum'u to emoo taini 我最後跑到她家附近
+1. 跑近. isi toecum'i to ceono kuyai 'e lalauya. 公路靠近樂野部落.
+1. 趴著. mo toecu'nguyu si oko ho mo oengʉtʉ. 那孩子趴著睡
+1. 趴著. isi toecu'nguyuii ta oko si apngu. 那孩子趴在篩子上.
+1. 一起. toehungu yaahioa 一起工作
+1. 一起. ito toehunga ʉmnʉa 'o ak'i. 我們都很喜歡 爺爺.
+1. 一起. isi toehungi to ceoyu 'o 'uachumu. 一群黃蜂攻擊牛.
+1. 並肩;合在 一起. mo toepohʉ ne micu emoyafo 'o yoso. 　 他們兩人是並肩一起走出去 的
+1. 並肩;合在 一起. teton'a toepohi phini si kuyai. 那車子我們一起合起來買.
+1. 並肩;合在 一起. sia ta isi toepohneni ta suongʉ. 與Suongʉ 一起並肩而走的是誰?
+1. 跑回來. 'atamicu toevovei ta av'u. 那隻狗跑回來了
+1. 跑回來. isi cu toevoveia to av'u 'o okosi. 狗已經跑回牠小孩那裏.
+1. 嫌棄; 嫌髒; 怕傳染. o'ana la'us'a tohayo to mocmo. 我現在不會嫌棄別人.
+1. 嫌棄; 嫌髒; 怕傳染. ohola na'no tohaeva 'o mo kiskisa. 以前很怕有魚鱗癬的會傳染
+1. 躺. mita aha'o tohbako ta ceoa 'e amo. 父親隨意地躺在地上
+1. 躺. 'a isi tohbaki ta ak'i si ca'hʉ. 祖父躺在那椅子上.
+1. 躺. poac'o tohbakneni ta mo moyomo si ca'hʉ. 那椅子讓喝醉的人躺著.
+1. 曬太陽. botngonʉ 'o mo toheyae to mamaepuhu ci yuansou. 很多動物在草原上曬太陽。
+1. 側躺. la kaebʉ toh'iei si ba'i. 祖母喜歡側躺
+1. 側躺. ita toh'ievi si ca'hʉ. 他側躺在那椅子上.
+1. 在不該洗的地方洗. otec'o tohi'u ta kunkunu. 不要直接在木桶裡洗 2. 直接採收. mo tohi'u ta ecngi si ba'i. 祖母直接採樹豆 [採收樹豆的方式是連帶樹枝要剪下]
+1. 直接採收. lac'o tohi'va to evisi 'o teofahea. 咖啡豆是直接從樹上採下.
+1. 在不該洗的地方洗. tohi'veni ta kunkunu si tabubingi. 在木桶裡直接洗碗. 2. 直接採收. poac'o tohi'veni ta 'o'oko si ecngi. 讓孩子們直接採樹豆.
+1. 在不該洗的地方洗. teav'a tohi'vi si chumu ta kunkunu. 水不要直接用來洗.
+1. 做記號. mo titho to haengu ho to'hongʉ to mo oefʉ'ʉ ci evi 'o voyu. V oyu 用五節芒把倒下的樹 做了記號
+1. 做記號. isi to'hongi to voyu 'o mo oefʉ'ʉ ci evi. V oyu 把倒下的樹做了記號.
+1. 做記號. os'o to'hongneni to ceonʉ 'o haengu. 我用芒草在路上做標誌.
+1. 頌讚. talʉi co mo pasunaeno no tohpʉngʉ. 聽那唱頌讚歌的
+1. 頌讚. teton'a tohpʉngneni na hamo. 我們來頌讚天神.
+1. 想法. mo na'no ʉmnʉ co 'tohʉngʉ taini. 他的想法很好.
+1. 想法. mo na'no emzo co 'to'tohʉngʉ taini. 他的想法很對
+1. 願望；思想；想法 . mita cu ma'mamso no leata to'tohʉngʉ. 他已經滿足了他的願望。
+1. 我的心裡；我的思想；我的計畫 . micu ake'i ao'pou co to'tohʉngʉ'u. 我的心裡殊堪告 慰。
+
+1. 盪. a'vokʉ 'o kamae ne mihin'i toh'uzu 'e 'o'oko. 小孩在番石榴樹上盪鞦韆,番石榴樹因此斷裂。
+
+1. 跨過. mi'o tokaci ta fofeohva. 我跨過水溝
+1. 跨過. os'o tokaczi si fofeohva. 我跨過那水溝.
+1. 跌撞膝蓋. mi'o tokali. 我跌撞膝蓋
+1. 跌撞膝蓋. 'a eno si fatu sico 'o os'o tokalia. 我就是在 那石頭上跌到膝蓋的.
+1. 跌撞膝蓋. os'o tokalineni ta fatu co kali'u. 我的膝蓋跌在石頭上.
+1. 擲. mi'o titho to fatu ho tokʉi ta uhngu. 用石頭擲麻雀
+1. 釣到. amako'so tolʉ ho mita toalungu. 他釣魚什麼都沒釣到 2. 撞到. mo tolʉ ta fatu co kali'u. 我的膝蓋撞到石頭
+1. 釣到. o'a ita tolʉi 'o yoskʉ to ecuu. 他沒有釣到池塘裡的魚. 2. 撞到. isi tolʉi to fatu co kali'u. 我的膝蓋被石頭砸到.
+1. 釣到. o'te amaka tolʉneni no yoskʉ 'e ba'i. 我為祖母釣魚 卻釣不到. 2. 撞到. os'o tolʉneni to fatu co kali'u. 我的膝蓋跌撞在石頭上.
+1. 製作標示. tako tomoho to peovainʉ. 你在岔路做指標
+1. 製作標示. zou haengu 'o ita tomohveni. 他做的標記是五節芒.
+1. 製作標示. ita tomohvi ta mo'o ta ceoyu. Mo'o 標示出了那蜂窩. os'ocu tomohvi 'o ceoyu. 我已經標示虎頭蜂窩以示擁有.
+1. 阻擋. ihe poa tomʉtʉ to phingi 'o kuyai. 他們讓車子擋住門口
+1. 阻擋. lasi tomʉti to fiteu na kuisipsipa honci ohcum'u ta kuba ho hosa. 木槲蘭能擋住邪 氣進入會所與部落.
+1. 阻擋. ihe tomʉtneni to phingi 'o kuyai. 他們使車子擋住門口.
+1. 用灰覆蓋. tonfui si sʉngʉcva. 用灰燼覆蓋你的鼻涕。
+1. 牆. oho la teai tonghifza to emoo 'o kaapana. 以前是用竹子做住家的牆 2. 做牆壁.
+1. 做牆壁. isi tonghifi to kaapana 'o emoo'u. 我家裡是用竹子做牆壁 的.
+1. 做牆壁. isi tonghifneni to emoo 'o kaapana. 竹子用來做家裡的牆.
+1. 迫不及待. mi'ocu tongsoyʉ no maine'e. 我已經迫不及待要回家了
+1. 迫不及待. os'o tongsoya 'o tibusungu honci ahtu tenva. 我迫不及待Tibusungu 趕快打電 話來.
+1. 洗(洗物品).
+1. 洗. uhne fulova ho toniovi si lingki ta t'angosu. 去浴室把你腳上的汙泥洗掉.
+1. 丟傷眼. mi'o tonkʉnkʉ to mcoohe. 我丟傷別人的眼睛.
+1. 丟傷眼. ita tonkinki ne mimza peispaki si oko. 我們玩的時候他丟傷那小孩的眼睛
+1. 丟傷眼. ita tonkinkeni to mcoohe 'o efuefu'u. 他用沙子丟傷別人的眼睛.
+1. 洗. mo tonzou to takubingi 'o apu'u. Apu'u 在洗碗盤
+1. 沖洗. pohtonzovi si teavta ta av'u. 沖洗狗的嘔吐物。
+1. 洗一洗. toʉlʉ ho mo tontonzou 'o yangui. Yangui 洗東西時洗得很乾淨。
+1. 受洗. mita cu toonono 'e motoyʉ. Motoyʉ 已經領受洗禮
+1. 洗掉. mo toono to linki to pooyoyo 'o 'avai. 'Avai 洗掉褲子上的泥土
+1. 受洗. te'ocu poa uhta kiokai ho tononveni 'e pasuya. 我讓Pasuya 去教會受洗.
+1. 洗掉. poa toonveni ta ku'atʉ si lingki ta pooyoyosu. 讓Ku'atʉ 洗去你褲子上的泥巴.
+1. 洗掉. isi toonvi to 'avai 'o linki to pooyoyosi. 'Avai 洗掉褲子上的泥土.
+1. 受洗. mita cu'so tmaa'uzo to klisto, ko'ko isicu toononvi. 他已經相信基督,所以領受洗禮.
+1. 掌摑. mainici iko aha'va t'opcakvi taini. 你幹麻無故掌摑他呀!
+1. 掌摑. ta'u poa t'opcakveni to amosu ho miko 'oha tmaolalʉ. 你不聽話我叫你爸爸掌摑你.
+1. 貼上. ote la 'aʉnpʉnpʉ topco no kuici ongko no mocmo. 我不要隨便給別人貼上不好的 名聲
+1. 貼上. os'o topceni to isi zolongi ta emucu'u 'o s'os'o. 我把藥貼在我手被刺傷的地方.
+1. 貼上. os'o topci to kitposa 'o mo yuofeo'ʉ ta t'ango'u. 我在浮腫的腳上貼上月桃葉草藥.
+1. 河水乾涸. mo topeapo si c'oeha ho mo yaa yʉskʉa. 河邊有坍方時河水乾涸
+1. 河水乾涸. isi topeapi to yʉskʉ 'o c'oeha. 河邊坍方時河水乾涸.
+1. 下毛毛雨. micu topeasmu. 下小雨了
+1. 下毛毛雨. la na'no ʉmnʉ 'o chae ho isi topeasmui. 菜淋一點小雨很好.
+1. 祈福. la a'upa topeohi 'o tvofsuya ho mo soekayo. 初嚐新酒的時候也要為獵具架祈福。
+1. 絆腳. la na'no yupa topeu ho mo ehtothomʉ. 摔角時常用絆腳這一招
+1. 絆腳. mainci aha'va topevi si mo sucaefi. 你怎麼無故絆倒經過的人.
+1. 用東西壓著. isi topici to fatu 'e t'ango'u. 我的腳被石頭壓到
+1. 用東西壓著. topicneni ta cukemono si fatu. 用石頭壓住那醬菜.
+1. 垃圾場. os'o to'seni to to'pucva 'o pucu. 我把垃圾丟到垃圾場。
+1. 蓋住. la'u kaebʉ titho to yoi ho topuyu to kos'oza. 我喜歡用 網子蓋住蝦子
+1. 蓋住. os'o topui to yungku 'o teo'ua. 我用背簍蓋住雞.
+1. 蓋住. os'o topuneni to teo'ua 'o yungku. 我用背簍來蓋雞.
+1. 超越. mita tosa'o to 'avai ho mita peayofʉ. 他跑步超越Avai
+1. 超越. ita tosa'vi ho mita peayofʉ 'o mo'o . 他跑步超越Mo'o. 2. 越過;跨過. os'o 'inania tosa'vi 'o 'iusungu ne mimza peayofʉ. 跑步時我勉強超越'Iusungu. [ 詞項mimiza 的達邦用 法：mimia ]
+1. 越過; 跨過. ta'ula 'ahʉyʉ tosa'o to hiata mae'ʉcʉ. 我以後一定要跳得比他遠
+1. 越過; 跨過. tosa'veni ta ceonʉ si f'ue. 把地瓜扔過路的那邊.
+1. 拋. mi'o to'so to pucu. 我丟垃圾
+1. 拋. os'o to'seni to to'pucva 'o pucu. 我把垃圾丟到垃圾場.
+1. 拋. zou to'pucva 'o os'o to'si to pucu. 我是把垃圾丟到垃圾場.
+1. 休息;停止. micu tosvo 'o tnʉyʉ. 大雨已停了 micu tosvo mʉchʉ. 已經停止下雨了
+1. 中途休息. tato to'sihahtu ne sʉa'fʉnʉ. 我在到十字路時中途休息
+1. 休息;停止. nahocu tosveni si hiafasu. 你載的東西可以卸下了.
+1. 休息;停止. 'a evi 'o isi tosvi to zomʉ. 鳥停的地方是樹.
+1. 相約;等到. teto yupa tosvʉtʉ tato cu e'ohʉ. 我們彼此等候才出 發
+1. 相約;等到. teto tosvʉta 'o voyu. 我們等到V oyu.
+1. 聽說. os'o totalʉi mo nana yone vioin 'o pasuya. 我聽說Pasuya 住院了
+1. 洗腳. mita cu tot'ango. 他已經洗腳 了
+1. 洗腳. poa tot'angveni ta ak'imu si mo noyano ci chumu. 那溫水給祖父洗腳.
+1. 洗腳. fii no teta tot'angvi 'e ak'i. 拿水給祖父洗腳.
+1. 蛇木. ihec'o ʉsʉesi to toteocu 'o teova. 他們的工寮是用蛇木立柱子的。
+1. 苗. 'ua te maemamso 'o tothuca no 'ocea 茶苗已經夠我們種了
+1. 苗. os'o tothuci 'o peohna sica. 下面那裏我做苗圃.
+1. 苗. os'o pei'i 'o nto'u tothucneni ta oi'i. 本來要在下面育苗的我煮掉了.
+1. 開墾. isicu t'ot'i to voyu 'o tesi mʉ'i to khafei. 要種咖啡的地已經開墾 了
+1. 開墾. tekon'a t'ot'eni no te'o emʉ'i no ucei. 你幫我開墾要種芋頭的地方.
+1. 採很多. mo totmuzu toa kamae 'o 'o'oko. 孩子採很多番石榴 2. 放很多. na'no totmuzu to siu ho mita pei'i. 她煮東西放 很多鹽巴
+1. 採很多. ihe totmuza to 'o'oko 'o kamae. 孩子採很多番石榴.
+1. 放很多. teav'a anga totmuzi to siu 'o osko pei'i. 妳煮的東西不要放太多鹽巴.
+1. 放很多. teav'a anga totmuzneni si sieu. 鹽巴不要放太多.
+1. 躲起來. mo totoefʉngʉ ta feongo 'o puktu. 松鼠躲在洞裡
+1. 躲起來. ihe totoefʉngi to 'o'oko 'o amohe. 他們躲他們的爸爸
+1. 洗淨. toʉlʉ ho mo tontonzou 'o yangui. Yangui 洗東西時洗得很乾淨
+1. 洗淨. na'no toʉlʉi to yangui 'o takubingi. Yangui 把碗筷洗得很乾淨.
+1. 洗淨. ake'a poa toʉlʉneni si takubingi. 碗筷要洗乾淨一點.
+1. 躲得隱密. mita toʉlʉlʉ totoefʉngʉ. 他躲得隱密 2. 堆好. poa toʉlʉlʉneni ta voyu si tuapzu. 叫 Vo yu 把柴火堆好 3. 靠好. poa'so toʉlʉlʉ si imu teai ci hiapeoza. 你們做的橋要牢靠
+1. 躲得隱密. na'na toʉlʉlʉi totoefʉngi si amo taini. 他躲他爸躲得很隱密.
+1. 幫忙. mita abohtʉ to'unu yahioa 'e 'uongʉ. 幸好'Uongʉ 來幫忙工作
+1. 跟著走;加入. mainci aha'o to'upu si o'a os'o honga. 我不認識的無故跟著我走 mo to'upu to te mhia feʉ'ʉ 'o 'avai. 為了買豬,Avai 也跟他合股買豬.
+1. 跟著走-;,加入. tekon'a to'upi si okono mamespingi ho te mita hiapeoza. 你陪同那女孩過 橋. tekon'a to'upi no ntesi phianeni simeo. 他要買豬肉,請你加一點錢.
+1. 跟著走;加入. mo suse'eicha 'o os'o to'upneni tote titha mhia simeo. 買豬肉的錢我 出兩百 poa to'upneni ta voyu site mita hiapeoza. 叫Vo yu 陪那要過橋的人.
+1. 幫忙.
+1. 幫忙. poa to'usneni ta pasuya si mo toa fo'na. 叫Pasuya 幫忙那採鵲豆的.
+1. 幫忙. 'a ita to'usni ta mo'o. 是Mo'o 幫忙的.
+1. 討論. mihin'i toʉsvʉtʉ no te hia ea peisu. 他們討論如何賺錢
+1. 討論.
+1. 討論. ihin'i toʉsvʉsvʉta na te hia mea peisu. 他們討論如何賺錢.
+1. 討論. mita atfʉngʉ eh'uh'unu to isi toʉsvʉsvʉtneni. 討論的時候他偏偏說一些題外 話.
+1. 為兒女嫁娶. teta cu tovcongʉ 'e pasuya. Pasuya 要娶媳婦/嫁女兒了
+1. 辦喜宴. lahe yu'ausnu no pemo ho mo 'atatotovcongʉ. 結婚時習慣辦酒宴。
+1. 為兒女嫁娶. te'ocu tovcongi 'e 'iusungu. 我要給'Iusungu 娶媳婦.
+1. 為兒女嫁娶. ihe tovcongneni to mo'o 'o paicʉ. 他們把Paicʉ 嫁給Mo'o.
+1. 採;摘. mo toveucu to sangeava 'o na'vama. 那父子在採苦茶子
+1. 採;摘. tekon'a toveuca si micu tacʉmʉ ci huv'o. 請你採那已經 熟的橘子.
+1. 採;摘. os'o toveuci si bʉnʉvhʉ sico. 我採的是那棵李子.
+1. 採;摘. os'o toveucneni to kamae 'e paicʉ. 我替Paicʉ 採芭樂
+1. 收穫. mitacu petohʉyʉ tov'ohʉ ta heoemʉ'ʉ. 他的作物終於 可以收成了 2. 採收. o'te amako tov'ohʉ no teta pei'i ci fo'na 他沒能採收他要煮的鵲豆 3. 甩不掉. o'te ahta tov'ohneni 'o ngiau. 我 一直甩不掉那隻貓 4. 洗得掉. petohʉya tov'ohi si kanti ta t'ango'u. 終於洗掉我腳上的汙垢 5. 配 得成婚. petohʉya tov'ohi tovcongi 'e pasuya. 終於為Pasuya 成婚 6. 等得到. o'te ahta tov'oha 'o mo'o. 都等不到Mo'o
+1. 收穫. isicu petohʉya tov'oha 'e heoemʉ'ʉsi. 他的作物終於 有收成了.
+1. 收穫. o'te amaka tov'ohneni no faeni to ba'i ci huv'o. 我採不到要給 祖母的橘子. [ ]
+1. 泥鰍. 'a o'u tʉlʉa 'e tozoo eni. 這泥鰍是我抓中的。
+1. 地名. mosola i'mi ne tpʉyana ho ohpueho noezuhu ne taptuana 'o tapangʉ. 方氏家族是從 Tpʉyana 向下遷徙到達德安。
+1. 獨自割筍. mi'oc'o tuachi tusbuku maitan'e. 我今天獨自割筍
+1. 獨自割筍. itac'o tuachia 'o man'i ci kakapana. 他獨自割很大片竹林的筍.
+1. 獨自割筍. poac'o tuachineni to pasuya 'o kakapana. 讓Pasuya 獨自割竹林的筍.
+1. 選大的拔. teko c'o tuamaamtanʉa ho teko tum'um'i 'o chae. 你拔菜時，只要拔大的
+1. 選大的拔、割. teko tuamaamtaneni to chae 'o ba'imu. 替你們祖母挑大的菜拔.
+1. 選大的拔、割. tekoc'o tuamaamtanʉi 'o chachae. 你就在菜園 裡選大的拔.
+1. 絕種. micu tuapayo'ʉ 'o snoo ta fuengu. 水獺在山上已經絕種了
+1. 絕種. 'a itacu tuapayo'a ta fa'ei 'o pcoknʉ taini. Faei 割麻竹把麻竹園割毀了.
+1. 絕種. mainci ala poa tuapayo'neni to 'iusungu 'o kakapanasu. 你怎麼讓'iusungu 割毀你的 竹林.
+1. 捏碎(宰殺家禽,家畜). mi'o tʉbzʉkʉ to yoi to chae ne taseona. 早上我在捏死菜蟲 'avai, naho cu uhto po'ovnʉ ho tʉtpʉtʉ no te tʉbzʉka ci ciocio. 'Avai, 你就到豬 舍抓要殺的豬
+1. 捏碎(宰殺家禽,家畜). 'ua itacu tʉbzʉka ta 'avai 'o ciocio. 'Avai 已經宰了那頭豬.
+1. 捏碎(宰殺家禽,家畜). nahocu tʉbzʉkneni no te titha yauesiesi. 你就為祭祀的需要宰殺 吧.
+1. 兩個一起笑. cuma na ihe cocvi ta mo tuepoepohʉ. 那兩個笑的是在笑什麼?
+1. 兩個一起笑. ihin'i ala tuepoepohi ho mi'o smopcuku. 我跌倒他們兩個一起笑我.
+1. 洗衣. 'ana la lua boemamucu ho mo tufku maitan'e. 現在洗衣服幾乎都不用手洗衣了
+1. 洗衣. teko'so tufkua 'o mo ca'i to yʉsʉ. 請你把髒的衣服洗一洗.
+1. 洗衣. hoyuha si oho tufkui ci chumu. 把洗衣水倒掉.
+1. 洗衣. tekon'a tufkuneni si amosu. 你替你爸爸洗衣服.
+1. 夜間抓魚蝦. mita uhto oi'isi to c'oeha ne lalaksu ho tufngi. 他去Lalasku 地帶的河流下方抓魚
+1. 夜間抓魚蝦. ita tufngia 'o va'hʉ ta'e ne yofna. 他昨晚在那條河抓魚蝦.
+1. 夜間抓魚蝦. isi tufngineni to voyu 'o ba'i ne yofna. 昨晚Vo yu 為祖母抓魚蝦.
+1. 微笑. pano ita talʉa ci mita no aha'o tu'iei. 他微笑著是他可能想到什麼
+
+
+1. 微笑. cuma na ita koa tu'ievi. 他為了甚麼微笑.
+1. 刨(用刨絲器). mi'o titho to tousisa ha tuisa 'o f'ue. 我用挫簽器剉地瓜。 [刨絲的台語=挫籤]
+1. 抓中. abohtʉ tʉlʉ to emcu ci os'o ti'eopi. 幸好抓中草藤才抓著
+1. 抓中. 'a o'u tʉlʉa 'e tozoo eni. 這泥鰍是我抓中的.
+1. 拔. la titho to meezo hola tum'umi to m'um'u ta yasngʉ. 要用夾子拔鬍子。
+1. 拔. mo tum'um'u to kukuzo to chachae 'o apu'u. Apu'u 在拔菜園的草.
+1. 拔. poa tum'um'eni ta yangui si isi chua ci teo'ua. 叫Yangui 拔那已殺的雞的毛.
+1. 拔. mo na'no sʉmcʉ ho isi tum'um'i 'o kukuzo. 草很難拔.
+1. 因…而去 世. mo tumzo no sieo 'e av'u. 這隻狗死掉是因為餓死
+1. 因…而去 世. 'o isi tumzi to 'atai zou 'o h'onʉsi. 'Atai 因為肝病而去世.
+1. 死光光. mo tungabo 'o fafahei. 杉木林全死了！ 2. 拔光光. mo tungabo ho mo tuo'o 'o yangui. Yangui 拔草時全都拔
+1. 拔光光. temu tungaboa si sbuku. 你們要把 竹筍全部採光光. temu tungaboa 'o kukuzo. 你們要把 草全拔掉.
+1. 拔光光. 'ua ihecu tungaboi 'o chachae. 他們已經把菜園拔乾淨了.
+1. 口笛、水鹿誘笛. Botngonʉ na o'amo bochio no tungiacʉ. 很多人不知道口笛或水鹿誘笛。 [相關詞-同義詞] peingu
+1. 問. mita tuocosʉ no ceono uhne psoseongana. 他在問去阿里山的 路
+1. 問一問. mita mici tuhtuocosʉ sia na mo n'a yaa skiikia. 他問一問誰還有愛玉子
+1. 問. te'ona tuocosi na ongkosu. 我想請問你的名字
+1. 問. tekon'a tuocosneni a'o no huphinasi ta huv'o. 請你替我問橘子的價錢.
+1. 搔癢. ita tuokeova 'o mo soe'os'o 他在抓很癢的地方。
+1. 拔草. te'on'a uhne toton'u ho tuo'o. 我要去小米田拔草
+1. 拔草. poa tuo'veni to motoyʉ 'o chachae'u. 讓Motoyʉ 拔我菜園的 草.
+1. 拔草. tekon'a tuo'vi si toton'u. 你來拔小米園的草.
+1. 剝. mo tu'oveosʉ to fʉesʉ no pohe 'o motoyʉ. Motoyʉ 在剝玉米粒.
+1. 剝. tu'oveosa si fʉesʉ no pohe. 把玉米粒剝下來
+1. 剝. isi tu'oveosneni to yangui to tesi emʉ'a ci pohe 'o apu'u. Yangui 在剝Apu'u 要種的玉 米粒.
+1. 燒. ita tupuza si micu kuzo ci nia pangka. 他把已經壞的桌子燒了
+1. 割筍. mo uhta apihana ta c'oeha ho tusbuku 'o yangui. Yangui 到河的對岸割筍
+1. 割筍季節. la hotusbuku to kaapana ho mo feohʉ no 'eema. 五月是割竹筍的季節。
+1. 割筍季節. la hotusbukua no pcoknʉ ho mo feohʉ no 'voeva. 八月是麻竹的採筍季。
+1. 割筍. isi tusbuka to yangui 'o pcopcoknʉ ta apihana. Yangui 去河對岸割筍.
+1. 割筍. tekon'a tusbukneni no te'o pei'i. 你幫我割我要煮的筍.
+1. 掃地. la toehungu tusi'ngi ta ceonʉ ho mo taseona 'o yu'fafoinana. 年輕人總在早上一起掃馬路.
+
+
+1. 掃地. tekon'a akameosa tusi'nga si suiziva. 你來去廚房掃地 一下。
+1. 掃地. poa tusi'ngeni ta 'o'oko si coca. 叫孩子們去庭院掃地.
+1. 用手丈量. tekon'a tʉsvʉtʉ ta teesi no te'o titha. 你幫我丈量我要用的繩 子
+1. 用手丈量. tekon'a tʉsvʉta na hia tacvih'i ta 'ue. 你用手丈量那藤條有多長.
+1. 用手丈量. tekon'a tʉsvʉtneni ta 'ue a'o. 你用手丈量一段藤條.
+1. 捉. teto tʉtpʉtʉ to mo yueafo ci teo'ua. 我們來捉那跑出來的雞
+1. 抓起來. mita mea'upu to ihe tʉtptʉta ci mo tifsuyu. 用槍的人被抓了，他被連累到。
+1. 捉. i'o tʉtpʉta 'o mo yuyafo ci teo'ua. 我把跑出來的雞捉住.
+1. 捉. poa tʉtpʉtneni to lesmoe'isi 'o mo meo'eoi. 那偷東西的人叫警察來抓
+1. 地名. panto nia la meoino topngu ne tutung'ava. 以前Tutung'ava 有很大的 堰塞湖。
+1. 捶打. ita tutva ta pasuya 'o mo ekvo'ʉ. Pasuya 捶打罵他的人.
+1. 打聽;請教. mita mici tuucocosʉ no mo n'a yaa skiikia. 他打聽誰還有愛玉子 'a telaeno tuucocosʉ to micu mamameoi. 應該要請教老人家
+1. 打聽;請教. te'on'a tuucocosi 'o pasuya. 我要請教一下Pasuya.
+1. 打聽;請教. tekon'a tuucocosneni no nte'o engocha momo. 你幫我打聽有沒有人 可以幫 我拔草.
+1. 跟著笑;跟著死;連同什麼拔起. mita tu'upu a'o ho cocvo 'e sayungu. Sayungu 跟著我笑 'o oko no av'u mo tu'upu to inosi ho mcoi. 小狗跟著母狗死了 tekon'a tu'upu to chae ho teko momo. 你拔 草時順便拔一些菜
+1. 跟著笑;跟著死; 連同什麼拔起. aha'va tu'upi si mo cocvo. 無故跟著笑. tu'upi si ceo'ʉ ho teko momo. 你拔草時連田埂都拔.
+1. 跟著笑;跟著死; 連同什麼拔起. poa tu'upneni to motoyʉ 'o chachae'u. 讓Motoyʉ 連我的 菜園都要 拔草.
+1. 拿出來. os'o siho tuyafa ho spʉspʉya 'o peisu'u. 我多次把我的錢拿 出來數。
+1. 獵具架. la a'upa topeohi 'o tvofsuya ho mo soekayo. 初嚐新酒的時候也要為獵具架祈福。
+1. 去.
+
+
+
+
+
+
+1. 射中. os'o ʉha to yanosuyu 'e voyʉ. 我用弓箭射中那飛鼠 os'o ʉhneni to voyʉ si tʉ'sʉ'u. 我的 箭射中那飛鼠
+1. 去哪裡. mio uhnenu 'o vamsu maitan'e? 你的爸爸今天去哪裡?
+1. 來這裡. mita petohʉyʉ uhtan'e ho os'o 'aoka eoho'a. 我一直叫他，他總算來這裡了。
+1. 男子名. mita i'mi ne 'alisan 'e yapasuongʉ. Yapasuongʉ 從阿里山來。
+1. 就算. 'upena honci o'te amso yopitvʉhi no heesi. teec'o ʉmnʉ. 就算給不到七個蘋果,也可以啦!
+1. 前往. mo uso a'o 'o mo'o. Mo'o 前往我這裡
+1. 前往. isi usa a'o to amoconi ne hucma. 叔叔昨天來我這裡. te'o usa 'o ba'i ho hucma. 明 天我要去/來祖母那裡.
+1. 前往. te'on'a poa usneni to voyu 'o ba'i. 我請Vo yu 去看祖母.
+1. 立柱子. ihec'o ʉsʉesi to toteocu 'o teova. 他們的工寮是用蛇木立柱子的
+1. 立柱子. ihe ʉsʉeseni to toteocu 'o teova. 他們把蛇 木用作立工廠的柱子.
+1. 他的爸爸. na'no maezo to vamtaini si yu'ausna taini. 他長得很 像他爸爸。
+1. 山葵. la biseolʉ tomo aepepe 'o vasavi. 山葵適合在高海拔的地方。
+1. 一群走路的人. mita atva'esi muyo to mo vasʉzʉ 'e fa'ei. 那一群走路的人Fa'ei 是走最前面的。
+
+1. 十五歲. lea ta'upa to yaefʉefa 'o mo tomaska veiauemo. 十五歲的人是列入少年組。
+1. 筋; 魚線; 纖維. la na'no mafe 'o veocʉ no 'uachumu. 牛筋很好吃 la titho to veocʉ ho toalungu. 要用魚線釣魚 la man'i 'o veocʉ to f'uevi. 樹薯的纖維很多
+1. 多纖維. la na'no veoveocʉ 'o f'uevi. 樹薯很多纖維
+1. 關節. la na'no sino yonta 'vokʉ ta t'ango 'o la pi'o. 痛風多半發生於腳關節
+1. 各關節. mo na'no man'i 'e ma'vo'vokʉ ta feangoto. 我們身上有很 多關節
+1. 男子名. teta anana'o fnguufngu 'e voua. Voua 看起來會是大頭。
+1. 工作. mo seolʉa no yaahioa 'o amo. 父親正在工作
+1. 工作. 'a panto isin'a seolʉa no hioa to amo. 父親還有事做.
+1. 他實行……(工作/行為/動作). mo man'i na hioasi tipo'e no nivnu. Nivnu 神祂行了 很多法術。
+1. 我的工作；我做的. os'ocu aepʉnga 'o hioa'u. 我做的工作做完 了。
+1. 工作. mi'o boeta tu'u ho yahioa. 我用鋤頭工作。
+1. 工作. 'otena 'aoko yahioai ci misucu ngoseo. 不要再工作了，你很 累喔。
+1. 工作. 'a panto os'o poa hioaneni to mo'o. 我還有事給Mo'o 做.
+1. 牽著. isi yaakaka ta vamsi si oko. 那爸爸在牽他的孩子。
+1. 做夢;托夢. mi'o yacei ne yofna. 昨晚我作夢
+1. 站著. mo o'te amso 'e ca'hʉ, ko'ko teko yac'ʉ. 椅子不夠,所以你要站著
+1. 站著. zou fatu 'o os'o yac'i. 我站的地方是石頭.
+1. 說話. teko c'o ekakutia ho teko ya'ei. 你講話講少一點
+1. 說話. teko ya'ezneni si 'o'oko. 你跟孩子說說話.
+
+1. 說閒話. mi'ocu tmac'ʉhʉ ho ihe yaezoya na a'o. 我已聽到人家說我 閒話。
+1. 提親. mo yahngʉyʉ 'o mameoi. 長者提親
+1. 提親. imza yahngʉneni ne hucma 'o pasuya. 昨天我們幫Pasuya 提親.
+1. 提親. mo yahngʉya to voyuana 'o yasiyungu. 石家向安家提親.
+1. 這樣. 'a teko yaica na teko hia mooyai. 你要這樣做 te yaica na te hia mooyoyai ta ca'hʉ. 椅子 要像這樣做
+1. 說. lahe yainca: miko na'no yonghu. 他們說: "妳很漂亮."
+1. 怎麼做. te yainenu honci hafa 'e macaca'hʉ? 這些椅子 要怎麼帶呢?
+1. 說. lahe yaingca to mamameoi 'o fnguu to mayuyuangsou zou papoevʉ. 長者們都說動物的頭 是papoevʉ 。
+1. 告誡. mo yam'o co mameoi ho mo ptaʉngʉ co 'o'oko. 小孩太吵，老人提出告誡
+1. 告誡. isi yam'a to mameoi ho mo angu ptaʉngʉ co 'o'oko. 小孩太吵，老人提出告誡.
+1. 告誡. poa yam'eni ta mameoi si 'o'oko. 讓老人告誡那些孩子 .
+1. 吵雜. mo na'no yangaevi co mo yon ta omza. 上面的人很吵
+1. 吵雜. te'on'a yanaevneni 'e voyu. 我要念一下Voyu.
+1. 長白髮. micu yangtosa 'o maameoi'u. 我的父母已經長白髮 micu aucunu yangtosa 'o f'ʉsʉ ta ino. 母親已經長滿白髮
+
+
+1. 男子名. mita i'mi ne 'alisan 'e yapasuongʉ. Yapasuongʉ 從阿里山來。
+1. 安(姓氏)家. ihe yahngʉya to voyuana 'o yasiyungu. 石家向安家提親。
+1. 這裡的人. a'ʉmta coveoza 'e hia h'okakutia ta yatan'e. 這裡的人實在少得可憐。
+1. 健康；呼吸順暢；活潑. maahaah'o, eokeoasu. 各位，願你們健康。
+1. 選大的. teko yoamaamtanʉi 'o te teai hioyapo. 你選大的 種子
+1. 給得少. yoangzotneni ta 'o'oko si kamcia ci te'so o'te amso. 糖果不多分給小孩要少一點.
+1. 吵架. aha'va paskuv'i 'o navconga, ko'ko mo yobai. 那夫妻被挑撥離間，所以吵架了。
+1. 打. mita yobako to oko 'e pasuya. Pasuya 打小孩
+1. 洗手. naho cu poa yoemucu 'e haah'o. 請讓大家洗手
+
+
+1. 洗手. mayo no chumu ci te yoemuci. 拿水用來洗手.
+1. 每人都給 . acʉha yoemʉhi to simeo 'o mo esmi ci 'oahngʉ. 所有來的親戚都給豬肉
+1. 每人都給 . yoemʉhneni ta mo cmʉ'ho 'o simeo. 把豬肉都分給 來的人.
+1. 驚嚇. mo meifti'i 'o puktu homo yohiʉ. 松鼠受到驚嚇會騰空跳躍。
+1. 蟲. tesi cu ocʉcʉha no yoi si os'o mʉ'a ci chae. 我種的菜快被蟲吃完了 lahe c'o yaeza yainca to mamameoi 'o fkoi "yoi". 長輩們也會把蛇說 成蟲
+1. 各種蟲. la kaebʉ bonʉ to mayoyoi 'o pucku. 壁虎喜歡吃各種蟲。
+1. 毒蟲(蜘蛛,蛇,蠍子,蜈蚣).
+1. 用來. os'o yomza to tu'u ho pa'ea 'e f'ue. 我使用小鋤頭挖這些地瓜
+1. 用來. os'o yomzeni meia f'ue 'e tu'u. 我使用小鋤頭挖這些地瓜. [詞項yomza 的達邦用 法：yomia]
+1. 守候. mo yongmʉ to peohnasi 'o voyu. V oyu 守在下方
+1. 守候. isi yongma to voyu 'o peohnasi. Voyu 在下方守候.
+1. 守候. poa yongmeni to voyu 'o omzasi. 讓Vo yu 在上方守著.
+1. 灰塵. m'oyʉcʉ na'a ci mo na'no yongpuhu. 塵土飛揚先閉上眼睛。
+1. 給得少. mi'oc'o yongzotʉ ne mo toteuyunu to peisu. 大家繳錢時我只繳一點點.
+1. 在;住. ita yoni 'o emoo'u maitan'e. 我的家現在是他在住 isi yoni ta av'u si ca'hʉ. 狗在椅子上 面
+1. 在;住. os'o poa yoneni to voyu 'o emoo'u. 我讓Vo yu 住我的房子.
+1. 在……(地點遠). te'o mo'usnu to mo yonne c'oeha. 我要向著河裡面的人走去。
+1. 在那裏. cuma na iko spʉya ho miko yonsica ho smʉsmʉpeʉ? 你在那裡是在數些什麼？
+1. 在……(地點近). mo yonta apihana ho eoho'ʉ co voyu. voyu 在對面呼叫著。
+1. 在那裡. mo yonta'e ta esa. 界線到那裡為止。
+1. 在這裡. o'a mi'o smeecʉ'ho eh'ʉtʉ ho mita yontan'e. 他在這裡我不敢說出來。
+1. 打人.
+1. 打.
+1. 擔心. mi'o na'no yophi honcihe la ta'unana a'o na mo mayo to evi. 我很擔心人家以為木頭是我 拿的
+1. 擔心. os'o na'no yophia 'e 'o'oko'u honci hin'i fiho tola kuici 'o'oko. 我很擔心我的孩子跟 著那些壞孩子.
+1. 擔心. i'o yophineni simo supihi ta mo fozu ci chumu. 我為那渡深水處的人擔心.
+1. 放陷阱. os'o yoponi 'o o'ula hucuni ci fuzu. 我放陷阱要抓我之前看到的山豬
+1. 閃避. mi'o yose'u ta 'uachumu. 我閃避那頭牛
+1. 閃避. os'o c'o aha'va yose'vi ta 'uachumu. 我不動聲色地避開那頭牛. 2. 給超過.
+1. 魚. leako emafe to yoskʉ? 你喜歡吃 魚嗎?
+
+
+1. 射魚. mi'o smolʉ to kos'oza ne nte'o mamteyayoskʉ. 我在射魚時射中蝦子。
+1. 各種魚. to homeyaya isi peesi hoci bonʉ to nakuzo ho to mayoyoskʉ. homeyaya 時若吃 了腥味重的獸肉或吃各種魚視為禁忌。
+1. 它們的魚. ihe ta'upi to yoskʉhe tomo mahfuyo. 抓到魚的人有分 魚給我。
+1. 鹹魚. na'no mafe 'e yoskʉmaski. 鹹魚很好吃 osko phini nenu 'e yoskʉmaski? 這鹹魚是 那裡買的?
+1. 我的魚. taha'veni to mocmo 'o os'o o'te oepʉnga ci yoskʉ'u. 我把我吃不 完的魚送給別人。
+
+1. 循著腳印.
+1. 循著腳印. os'o yosu'ka 'o o'u hucuni ci fuzu. 我循著我上次 看到的山豬的 腳印
+1. 取水. moso c'o la yo'u ne o'amcu moso la yaa po'oyua. 已前還沒有水管時都是用 提水的
+1. 取水. os'o sia ta kunkunu 'o os'o yo'va. 我提的水放在水桶.
+1. 取水. 'a eno tan'e 'o o'ula yo'vi. 這裡曾經就是我(以前)提水的地方.
+1. 再給. mita yovaho to huv'o. 他又給橘子.
+1. 再給. ohtacu aueva fii a'mi. itan'a yovahi. 他上次給過了他 又給
+1. 再給. tav'ana yovahneni si f'ue. 那地瓜不要再給了.
+1. 遊戲. kaebʉ yoyaso 'e 'o'oko. 孩子們很喜歡 玩遊戲
+1. 遊戲. alʉ sʉ'no 'e yangui ho isic'o yoyasveni ta voyu. V oyu 只是跟Yangui, Yangui 竟然生 氣. isi yoyasveni ta av'u si ngiau. 那隻狗在跟貓玩.
+1. 廣場；遊戲場所. mo botngonʉ si mo yonta yoyasva ci 'o'oko. 在遊戲場有很多小朋友。 mita mifeoyʉ to ceoa ne yoyasva 'e 'avai. 'Avai 橫躺在廣場地上。
+1. 模仿. lata kaeba yoyaeyaeza ta mo'o 'o voyu. Mo'o 很喜歡模仿Vo yu
+1. 廣場. mita mifeoyʉ to ceoa ne yoysasva 'e 'avai. 'Avai 橫躺在廣場地上。
+1. 討. mo yua cuma si oko ho mo 'aoko mongsi. 那孩子一直哭是在討什麼?
+1. 討. lata 'aoka yuaneni peisu ta sayungu 'o voyu. Sayungu 一直跟Vo yu 討錢?
+1. 很生氣. alʉ yuanan'o 'e yangui. Yangui 真的很生氣
+1. 很生氣. yuanana'veni ta yangui 'e suongʉ. Yangui 很氣Suongʉ.
+1. 動物. ohola paceofa ne noana'o 'o feo'u no yuangsou. 以前把獸皮當衣服穿。
+1. 各種動物. laha yaingca to mamameoi 'o fnguu to mayuyuangsou zou papoevʉ. 長者們都 說各種動物的頭是papoevʉ 。
+1. 動物；生物. mo acʉhʉ yaa ngo'ngu 'e mayuyuansou ho yatatiskova. 動物和人類都有上 顎。
+1. 來來回回 . mo mainci yuavovei ta ceonʉ si 'avai  ? 'Avai 怎麼在路上來來回回 ?
+1. 來來回回 . ita 'aoka yuavoveia si mo hafsʉ. 他一直來回察看那酒醉的人.
+1. 長得健康. acʉhʉ na'no yuayokeo 'e 'o'okosu. 你的小孩都長得很 健康
+
+
+1. 及早；趁早. mac'o yucpua aotothoma tesi o'te pateongaboi to tma'congo. 除非及早治療，要不 然會傳染。
+1. 潛水. mi'o yuftongʉ to 'ami ne mi'o yuefo'ʉ. 我潛水時碰到網子而受阻。
+1. 往上長. mo yuepe si c'osʉ. 樟樹長得很高 2. 堆高. mo yuepe to yungku 'o f'ue. 地瓜在背簍堆 得高高的
+1. 往上長. isi yuepzi ta sbuku si fatu. 石頭被竹筍頂 高.
+1. 長成熟；長完成了. mo masʉecʉ ho o'a mocu mo yʉepʉngi 'o bʉnʉvhʉ. 李子還沒有長成熟時 很酸。
+1. 借. mita yuevaho a'o to peisu'u 'e mo'o. Mo'o 向我借了錢
+1. 借. isi yuevaha to mo'o 'o tposʉ'u. Mo'o 借了我的書本. 2. 再長出來.
+1. 借. a i'o ak'i 'o os'o yuevahi ta tu'u. 那鋤頭我是向爺爺借的. 2. 再長出來.
+1. 借. tekon'a yuevahneni no peisu to voyu. 請你幫我向Vo yu 借錢.
+1. 推翻. mita yufei'i ta pangka ho mita sʉ'no. 他生氣時 翻桌
+1. 推翻. ala yufei'za ta voyu si pangka. V oyu 推翻桌子.
+1. 推翻. poa yufei'zeni ta mo'o si pangka. 讓Mo'o 去推翻那桌子.
+1. 挖洞. cuma na tesi ta av'u ho mo yonta'e ho yufeongo? 那隻狗在那裡挖洞幹嘛?
+1. 挖洞. poa yufeongveni ta voyu si te p'eac'i to sʉesʉ. 叫Vo yu 挖要立柱子的洞.
+1. 挖洞. isi yufeongvi ta av'u si teomeoma. 曬穀場被狗挖洞.
+1. 櫻花. mo boe'usnu to teova 'o yufoyonʉ ne mo e'puyu. 櫻花樹倒下來時倒向工寮。
+1. 生長受阻. mo yuftongʉ ta meoe si emisi ta kaapana. 竹子的根長到大 石頭而受阻 2. 移動受阻. mi'o yuftongʉ to 'ami ne mi'o yuefo'ʉ. 我潛水時碰到網子而受阻
+1. 生長受阻. isi yuftongi ta kaapana si va'hʉ. 那條河阻止了竹子的生長. 2. 移動受阻. isi yuftongi ta 'angmu si phingi ho mo angu bankake. 洋人太高而頭撞到門.
+1. 分成兩段. mimza c'o yu'futngu ta cnʉmʉ 'e pasuya. 我和Pasuya 將這隻香蕉分成兩半
+1. 分成兩段. imia yu'futnga 'e pasuya 'o tʉfsʉ. 我和Pasuya 把甘蔗分成兩段.
+1. 分成兩段. poa yu'futngeni ta ku'atʉ ho pasuya si tʉfsʉ. 把甘蔗分成兩段給Ku'atʉ 和 Pasuya.
+1. 流汗. aa'pucu yuhaengi ho mi'o ake'i aut'ou. 我動一下就流汗
+
+
+1. 流汗. os'ocu yuhaenga co o'u ima. 我已經流汗排出我喝的.
+1. 敵意. la na'no yu'hangu to koio 'o tfua'a. 烏鴉對老鷹很有敵意
+1. 敵意. isi na'na yu'hanga ta ngiau si av'u. 那隻貓對那隻狗很有敵意.
+1. 敵意. isi na'no yu'hangneni ta mosko'ʉ si ciociosi ho mo yaa tfua'a. 母雞為了小雞對烏鴉 很有敵意.
+1. 反駁. mitan'a yʉhcʉvho 'e mo'o ho isicu eepʉnga. 已經有定論了,Mo'o 還反駁
+1. 反駁. ihe toehunga yʉhcʉvha 'o e'e taini. 大家全部反駁他的話.
+1. 反駁. os'o poa yʉhcʉvheni ta 'o'oko 'o puutu. 我叫小孩反駁那漢人.
+1. 穿越. otes'a yuhesi ta mo suteuyunu ci maameoi. 不要穿越那坐在一起的長者
+1. 穿越. ita aha'va yuhesa ne mimza aomotʉ'ʉ 'o ak'i. 我和祖父講話時他直接穿越.
+1. 不生氣了 . mo mainenu ci o'te ahtu yu'hupsonʉ si oko. 那孩子怎麼不停地生氣
+1. 不生氣了 . ita o'te ahta yu'hupsoneni si pasuya. 他不斷地氣Pasuya.
+1. 仔細看;觀察. ta'u yui'ia na'a ta'ucu yahngʉya 'o oko no mamespingi. 我先觀察一下那女孩子才 去提親
+1. 長得彎曲. mo yuknon'i si sbuku ho mo yuftongʉ ta fatu. 那竹筍頂 到石頭長得彎曲了
+1. 彎處. tako s'emza ta mo knon'i si teko papasa. 你從彎處鋸下
+1. 遇見. mi'o 'oc'ocic'o yʉlʉ ta voyu ne mita maine'e. Voyu 回來,我正好遇見
+1. 借到. o'te'u yʉlʉ ne mi'o mici yuevaho no peisu ta momhino. 我到商店借不少錢
+1. 遇見. aʉla yʉlʉa 'e mo'o ho mita ahtu maine'e. Mo'o 難得回來,我正好遇見. 2. 借到. mo pio na osko yʉlʉa ta momhino. 你到雜貨店借到多少?
+1. 挖到. os'o yʉlʉi 'o ohta la fo'a ci emi. 我挖到他 以前埋起來的酒
+1. 借到. o'te amaka yʉlʉneni no peisu 'e ku'atʉ. 我沒為Ku'atʉ 借到錢. 2. 挖到. petohʉya yʉlʉneni to teta ana ci sbuku 'e ino. 終於為媽媽 挖到筍子.
+1. 都很會. mo yu'ma moengʉ 'e mao'oahngʉ taini ho mo pasunaeno. 他的親戚都很會唱歌。
+1. 遷怒. mita yumako to ino taini ho isi koica to amo taini. 他爸爸罵他,他卻遷怒他媽媽
+1. 遷怒. ita yumaka a'o ne isi koica to amo taini. 他爸爸罵他,他卻遷怒於我.
+1. 遷怒. aha'va yumakneni a'o na o'a os'o amaka cohivi. 我不知道怎麼會遷怒於我.
+1. 進入. mo yʉmeʉmʉ to emoo 'o ino. 母親進到家裡
+1. 進入. isi yʉmeʉma to av'u 'o emoono teo'ua. 狗進入到雞舍.
+1. 進入. isi yʉmeʉmi to fkoi 'o feongo to ta'e. 蛇進入那邊的洞裡.
+1. 進入. teav'a poa yʉmeʉmneni ta av'u si emoono teo'ua. 不要讓狗 進入雞舍裡.
+1. 烤（非魚肉）. yʉnga si f'ue ho oahtua. 把地瓜烤了當點心吃
+1. 嫌少. mita yungefi to isi aangaeza ci macucuma. 分物資時他嫌少
+1. 嫌少. ita yungefa 'o ihe faeni. 他嫌人家給的 東西少.
+1. 嫌少.
+1. 迎接. mo yungeou to oko 'o amosi. 孩子的父親來接他
+1. 迎接. isi yungeova to amosi 'o oko. 孩子的父親來接他.
+1. 迎接. poa yungeovneni to 'avai 'o te cmʉ'ho. 叫'Avai 迎接要來的人.
+1. 長遍. micu yungongabo 'o kukuzo to papai. 草已長滿了水田 2. 什麼都氣. lata yungongabo ho mita afu'u sʉ'no. 他生氣時 總是什麼都氣
+1. 長遍. micu yungabo 'o kukuzo to papai. 草已經長滿了水田 2. 什麼都氣. lata yungabo ho mita afu'u sʉ'no. 他生氣時 總是甚麼都氣.
+1. 長遍. isi cu yungongaboi to kukuzo 'o papai. 草已經長滿了水田.
+1. 僅生長. mo yunou ta cpu'u si haengu. 基布鳥只長五結芒
+1. 僅生長. isi yunovi to veio 'o poneo ta'e. 白茅草長滿了那平原.
+1. 活;氣息;生命. tʉtpʉtʉ to mo yunsou ci yuansou. 抓活的獵物 mio n'a yunsou? 還有氣嗎?
+1. 活;氣息;生命. mainci na'no yunsova co nsou'u? 為什麼我的呼吸急促?
+1. 不收拾. o'a mo ʉmnʉ ho mo yʉnʉ'ʉ to isi titha. 用過的東西不收拾很不好 2. 借了不還. o'a mo ʉmnʉ ho mo yʉnʉ'ʉ yuevaho. 借了不還是不好的 3. 一直生長 . moc'o yʉnʉ'ʉ si nia heom'ʉ taini. 他的作物一直長下 去 4. 一直生氣 . o'a mo ʉmnʉ ho mo yʉnʉ'ʉ sʉ'no. 生氣一直氣下 去不好
+1. 不收拾. aha'va yʉnʉ'va ta 'o'oko si takubingi. 孩子們不收拾他們用的 碗筷. 2. 借了不還. ita yʉnʉ'va ta yangui 'o yʉsʉno'u cou. 我的鄒族 衣服Yangui 借了不還.
+1. 不收拾. ihec'o yʉnʉ'veni ta pangka si ihe othui. 他們用過的 碗筷留在桌上不收拾. 2. 一 直生長. os'o poa yʉnʉ'veni to kaapana 'o ezoyʉ'u. 我的農地任由竹子生長. 3. 一直生氣 . ita yʉnʉ'veni 'o sayungu. 他對Sayungu 一直氣下 去.
+1. 不收拾. ihe yʉnʉ'vi si ihe othui to 'o'oko. 孩子們用過的 碗筷沒收拾. 2. 借了不還. ita nana yʉnʉ'vi yuevahi 'o momhino ta'e. 聽說他在 那家店賒帳不還. 3. 一直生長 . isic'o yʉnʉ'vi to vici 'o nia ezoyʉ'u. 我的農地任由葛藤生長.
+1. 僅生長. mo yuonoyʉ tan'e 'e laksu. 這裡只長杜鵑
+1. 僅生長. isic'o yuonoi ta laksu 'e tan'e. 這裡只長杜鵑.
+1. 返回. tekocu yuovei? 你要回來了嗎？
+1. 來來去去 . os'o tasohpozi 'omo smoavovei ci kuyai. 我聽煩來來往往的車子。
+1. 返回. tako yuoveia ho p'ani si oko ho cohzona (cohiona). 中午你要回來餵小孩.
+1. 談話. mimza (mimia) n'a yupeahngʉyʉ 'e pasuya. 我還在跟Pasuya 談話
+1. 談話. os'o yupeahngʉneni 'e mo'o. 我和Mo'o 談話.
+1. 談事情；說話 ；商量. la butaso mateolʉlʉ ho te no'upu yupepeahngʉyʉ. 陪人去談事情 是要盡量穿著得體。
+1. 分成兩份. temuc'o yu'pici ta huv'o. 那個橘子你們分一 半
+1. 分成兩份. temu yu'pica si huv'o. 那橘子你們分一 半.
+1. 游到對岸. mi'o c'o yupihi ci mo'so uk'ana hiapeoza. 因為沒有橋了,所以我只好游到對岸
+1. 游到對岸. os'o yupihia 'o meoino c'oeha. 我游過那條大河.
+1. 相遇. mimza yupteilʉ ne fuengu 'e mo'o ne mimza mam'eti. 我在山上 巡陷阱時和Mo'o 相遇
+1. 相遇. os'o yupteilʉneni 'o voyu ne mi'o mam'eti. 我巡陷阱時遇到V oyu.
+1. 遇到的……. la mi'usnu to isi yupteʉlneni ho mainca yokeoasu. 要對著遇到的人問候說: 祝健康平安。
+1. 推翻;推倒. mita yupuyu ta pangka ne mita sʉ'no 'e voyu. Voyu 生氣時把 桌子推翻 2. 倒債. mita yupuyu ho mita angu yuman'i to peisu. 他借太多的錢而倒債
+1. 推翻;推倒. ala yupuneni ta voyu si ca'hʉ ne mita sʉ'no. Voyʉ 生氣時把 椅子推倒.
+1. 推翻;推倒. ala yupuya ta voyu ho mita sʉ'no si pangka. Voyu 生氣時把 桌子推翻. 2. 倒債. ihe ala yupuya 'o momhino bonʉ to ta'e. 那裏的小吃店被倒債.
+1. 高過 (生長). mita cu yusa'o ta amo taini 'e 'atai. 'Atai 的身高已高過他爸爸 2. 借款額度超過. mita cu yusa'o no nteta n'a peela yuevah. 他已經借超過他可以借的額度
+1. 借款額度超過. itacu yusa'vi 'o nteta hnoo. 他拿的錢 已經超過他的工資.
+1. 發芽. na'no yueenghova 'e kukuzo ho mon'a yusbuki. 草剛出土發芽時是翠綠的
+1. 發芽. na'no yueenghova 'e yusbuka ta kukuzo. 剛長出的草是綠綠的.
+1. 取腸子. teko atfʉnga yuseui si yoskʉ. 你來專門取出魚腸子
+1. 取腸子. poa yuseuneni ta paicʉ si isi chua ci teo'ua. 殺好的雞請Paicʉ 清腸子.
+1. 衣服. na'no cofkoya si yʉsʉ ta oko. 那小孩的衣服很乾淨。
+
+
+
+
+1. 睡衣.
+1. 我...的衣服. ita yʉnʉ'va ta yangui 'o yʉsʉno'u cou. 我的鄒族 衣服Yangui 借了不還。
+1. 他的衣服. isi yʉʉcʉcʉha ta oko si yʉsʉsi. 那小孩把衣服脫光。
+1. 你的衣服. mainci poa noe'ʉcʉ si yʉsʉsu? 為何把你的 衣服弄濕?
+1. 我的衣服. ngov'o to evi 'o nia yʉsʉ'u. 我的衣服掛在樹上。
+1. 輪工. ihecu oheʉmha to mo yu'suezuyu 'o ezoyʉhe. 他們輪工完畢了。
+1. 坐下. uh tan'e ho yusuhngu. 來這裡坐下。
+1. 坐下；位子. ihe sotuhceni ta os'o yushungi si huv'o. 那橘子他們剛好放在我的位 子。
+1. 坐下. poa yusuhneni ta ak'i si ca'hʉ. 那椅子讓祖父坐.
+1. 坐下. ita yusuhngi si fatu. 他坐在石頭上。
+1. 坐. mo payo si boki ta moe'o ho mita yusungu. Moe'o 坐下時生殖器露出來。
+1. 互相連接. mo yu'ti'eopʉ si yʉ'pʉ ta ku'atʉ ho voyu. Ku'atʉ 和Vo yu 的籬笆相互連接
+1. 互相連接. micu yu'ti'eo'eopʉ 'o emcu to o'u mʉ'a ci koea. 我種的佛手瓜藤已經互相連接 起來
+1. 回答. la yut'ingi ho lahe tuocosi to mocmo. 人家問的時候要回答
+1. 回答. la yut'inga 'o mameoi ho mo tuocosʉ. 長者問你時要回答.
+1. 回答. tekon'a yut'ingneni ta tenva a'o. 你幫我接電話.
+1. 頂到. mita yutokʉ ta pefotngʉ ho mita akameosʉ yʉc'ʉ. 我突然起身而頭頂到橫梁
+1. 頂到. os'o yutokʉi si phingi ho mo angu cʉecʉ. 門寬太低被我的頭頂到.
+1. 長滿. mo yʉʉcʉcʉhʉ ta poneo si laksu. 杜鵑長滿了平原 2. 脫光. pantola yʉʉcʉcʉhʉ ho la oengʉtʉ. 有人會脫光衣服睡覺 3. 剝光. tekon'a yʉʉcʉcʉhi si pucu ta pohe. 你把玉米皮剝光光
+1. 長滿. isi yʉʉcʉcʉha ta oko si yʉsʉsi. 那小孩把衣服脫光 2. 脫光. isi yʉʉcʉcʉha ta inosi si yʉsʉ ta oko. 媽媽她脫光她孩子的衣服. 3. 剝光. isicu yʉʉcʉcʉha si pucu ta sbuku. 他已 經剝光筍皮.
+1. 長滿. isi yʉʉcʉcʉhi ta laksu 'e poneo. 這平原長滿了杜鵑.
+1. 長滿. poa yʉʉcʉcʉhneni ta kaapana si poneo. 讓竹子長滿那平原. 2. 脫光. poa yʉʉcʉcʉhneni ta oko si yʉsʉsi te aono. 叫孩子脫光衣服來洗澡. 3. 剝光. poa yʉʉcʉcʉhneni ta apu'u si sbuku. 叫Apu'u 把竹筍剝乾淨.
+1. 兩個一起長. mo yuepoepohʉ si sʉveʉ ho yono. 茄苳和雀榕一起生長
+1. 兩個一起長. isi yuepoepohneni ta sʉveʉ si yono. 茄苳和雀榕一起生長.
+1. 游泳. la kaebʉ yuuhnguzu ho mo homu'eina 'o 'o'oko. 小孩喜歡在夏天時游泳。
+
+
+1. 游泳. lahe 'ousa to 'o'oko 'o ecuu ta'e ho yuuhnguzi. 小朋友常去那邊的水池游泳.
+1. 游泳. panto la meemealʉ yufei'i ho mo yuungzu. 有的人很會 仰泳。
+1. 參加;加入. te'o mici yu'upu pasunaeno. 我想參加唱歌
+1. 參加;加入. ita yu'upa sʉ'nova ta tanivu a'o. Tanivu 生氣連我 也遭殃.
+1. 參加;加入. ita yu'upneni ta voyu na a'o ho mita sʉ'no. V oyu 生氣連我 也遭殃.
+1. 長得很健美. mita yʉ'ʉ'ʉmnʉ 'e pasuya. Pasuya 長得很健美
+1. 長得很健美. na'no yʉ'ʉ'ʉmni ta cnʉmʉ si mo bangnu. 香蕉長在肥沃的土壤長得很好 .
+1. 再長出來. mon'a yuvaho si fahei ne ohocu teoca. 那杉木砍了以後又長出來
+1. 再長出來. mo na'no yʉ'ʉ'ʉmni si yuvahi ta fahei. 那杉樹的芽長得很好 . 2. 借.
+1. 受困. yuvehngu ta tʉ'nʉ ho mi'o mici yʉsngʉcʉ. 我想抄近路結果困在懸崖
+1. 受困. i'o yuvehnga 'o fozu ci chumu ne nte'ocu maine'e. 我要回家時被大水困住.
+1. 石頭地. mo n'a na'no yuyu'eo 'o ezoyʉ'u. 我的旱地很多石頭
+1. 石頭地. te yainci emʉ'i 'o hia yu'eo to ezoyʉ. 旱田到處是石頭要如何種植東西?
+1. 兩人一起. eto yuyuso uhne maibayu. 我們兩人一起去嘉義 mimia yuyuso 'e sayungu ho maine'e. 我與Sayungu 一起回家
+1. 兩人一起. os'o yuuyusveni 'e sayungu ho maine'e. 我邀Sayungu 伴隨回家.
+1. 搗米糕. isi poa zocfu to ba'i a'o. 祖母叫我搗米糕
+
+
+1. 搗米糕. tekon'a zocfui si isi pei'i ci hohʉ'eʉca. 你來搗那煮 好的糯米.
+1. 搗米糕. tekon'a zocfuneni no te'o cʉyʉ. 你來搗我要做便當的米糕.
+1. 刺. mo zohcu ta t'ango'u 'o cʉmʉ. 刺刺到我的腳
+1. 刺. isi zohcui to cʉmʉ co t'ango'u. 刺刺到我的腳.
+1. 刺. zohcuneni ta cnʉmʉ si maeno te o'te p'ecihi. 把那尖的東西刺在香蕉樹上才不會踩到.
+
+1. 放火燒. mi'o zo'hosʉ to os'o t'ot'i ne taseona. 今早我在我開墾的地上放火
+1. 放火燒. os'o zo'hosi 'o kukuzo to chachae. 我放火燒菜園裡的草.
+1. 守候式狩獵 . mita zotayo no teta pnaa ci yuansou. 他用守候式來射殺獵物 mita zotayo no teta pnaa ci yuansou.
+1. 守候式狩獵 . ita zotaeva 'o nghou. 他用守候式射猴子.
+1. 搗. mi'o zothu ta suhngu ho mi'o mooyai ufi. 我用臼來搗米糕
+1. 搗. os'o zothui si suhngu ne mi'o poa'ufi. 我用臼來搗米糕.
+1. 搗. os'o zothuneni ta apngu 'e ufi. 我用竹篩來搗米糕.
+1. 撐住. mo zotonʉ ta cnʉmʉ si kaapana. 那竹子撐著香蕉樹.
+1. 撐住. tekon'a zotoneni ta phingi si kaapana. 請你用那竹子頂 著門.
+1. 撐住. zotoni to kaapana 'o cnʉmʉ. 你用竹子撐住香蕉
+1. 刺探洞穴. mo zous'usu ta isi sngʉsnga ci po'oyua 'o amo. 爸爸在刺探被堵住的水管.
+1. 刺探洞穴. boemi to kaapana ho zous'usi 'o feongo. 用竹子刺探洞穴
+1. 刺探洞穴. zous'usneni ta feongo si kaapana. 用竹子刺探那洞.
+1. 豎立著. os'o zu'za ta kaapana si os'o emʉ'i to va'atʉ. 我把我種絲瓜的地方豎立竹竿
+1. 豎立著. isi zu'zi to kaapana to 'uongʉ 'o chachaesi. 'uongʉ 的菜園用 竹子豎立著.
+ 參照 'aafofou 參照 'aafofou 參照 aakak'ingi 參照 aaknuesu 參照 'aanana'o
