@@ -197,28 +197,8 @@ delete: 1.lubuysnaluqraqilmiritpsaanbuji 箭袋；
 PROBLEM: breaks in the middle of the brackets 
 delete: Kingal ddmut ni
 
-PROBLEM: because of there are numbers in the sentences, the numbers caused the sentence to not be fully transcribed 
-delete: Dmtay mu babuy plabu ka dxgal su
-delete: Ima tndulus ka
-delete: Ppglang su smmalu knan ka sapah su
-delete: Tbihi sgsun mu
-delete: Pnegukut su pcinun knan o
-delete: Ppgukut su manu ka
-delete: Gisu ku tmhhbay
-delete: Tthuya su ka huling su
-
 PROBLEM: because of some elipitcal pattern in the definition, the sentence is not fully transcribed
 delete: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali. 
-
-PROBLEM: because the numbers make the sentence not fully transcribed, need to manually transcribe sentences 
-add: Dmtay mu babuy plabu ka dxgal su 3 lituk hug? 你的三甲地我用四條豬背肉 來租好嗎?
-add: Ima tndulus ka 5 radax gaga? 誰拉了那五個大原木？
-add: Ppglang su smmalu knan ka sapah su 7 tntunan o biqun saku piya pila? 你要 託我做你七層樓房的樓梯要給我多少工錢？
-add: Tbihi sgsun mu 3 brunguy. 我要剉絲的蘿蔔有三個背簍？
-add: Pnegukut su pcinun knan o 20, hay ga? 你託我編的鍋墊二十件，是不是 ？
-add: Ppgukut su manu ka 3 gaga? 你那三個鍋墊要用來墊甚麼？
-add: Gisu ku tmhhbay 3 rqnux, yahi ku dmayaw? 我忙著切三隻水鹿的肚皮， 請來幫我？
-add: thuya su ka huling su 5 gaga? 你那五隻狗要做什麼？
 
 PROBLEM: messed up by random/previous lines 
 add: Eneinu ka saun su qmpah? 你要去哪些地方工作？

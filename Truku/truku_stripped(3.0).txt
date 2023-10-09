@@ -4,9 +4,7 @@
  3. 含蓄語. 
 A! a kay siqa. 啊!真不好意思。
  4. 惋惜(
- A! hawan bi 啊!好可惜。 [詞意：kari ini sneiyax 不信任 詞意： kari qlahang 小心 詞意： kari mqsiqa 含蓄語 詞意： kari kmrawah 婉惜 文化小語： 太魯閣族語有
- 29個字母，包括
- 5個母音（ a,e,i,o,u ）、19個子音 （b,c,d,g,h,j,k,l,m,n,p,q,r,s,t,w,x,y ）、5個雙元音（ ay,ey,aw,ow,uy ）。a它不只是字母，也常扮 演嘆詞的角色，並隨後接的詞句來改變或加強整句的意思，如： 1.表「高興」。 A! qlungkumklada. 「啊！我終於知道了。」
+ A! hawan bi 啊!好可惜。 [詞意：kari ini sneiyax 不信任 詞意： kari qlahang 小心 詞意： kari mqsiqa 含蓄語 詞意： kari kmrawah 婉惜 文化小語： 太魯閣族語有 29個字母，包括 5個母音（ a,e,i,o,u ）、19個子音 （b,c,d,g,h,j,k,l,m,n,p,q,r,s,t,w,x,y ）、5個雙元音（ ay,ey,aw,ow,uy ）。a它不只是字母，也常扮 演嘆詞的角色，並隨後接的詞句來改變或加強整句的意思，如： 1.表「高興」。 A! qlungkumklada. 「啊！我終於知道了。」
  2.表「悲傷」。 A!ungathiyada. 「啊！他死了。」
 3.表「失望」。 A!ajikuda. 「啊！我不要了。」
  4.表「懷念」。 A!akaylnglung(laqi). 「啊！我 真的很懷念他（小孩）。」
@@ -473,8 +471,7 @@ Emppeadas patas ka risaw ni wauwa. 男孩和女孩相互寄情書。 [相關詞-
 1. 帶來帶去. 
 Endnadas ana inu ka laqi o mdawi. 被帶來帶去的孩子會 懶惰。 [相關詞-同 義詞] madas
 1. 想要帶. 
-Brunguy o kmeadas ku
- 3 ka bgay mu hyaan. 我很想帶三個背簍給他。 [相關 詞-同義詞] madas
+Brunguy o kmeadas ku 3 ka bgay mu hyaan. 我很想帶三個背簍給他。 [相關 詞-同義詞] madas
 1. 想要寄. 
 Kmpeadas ku patas sunan. 我想寄信給你。 [相關詞-同義詞] madas
 1. 將要帶. 
@@ -611,8 +608,7 @@ Mkmpeaduk ku munan dupan mu, lita hug? 我想請你們到我的獵場去追 獵�
 1. 正要追獵時. 
 Mmeaduk nami bi do ‘ maq ’ quyux paru da. 我們正要追獵物時「maq」突 然下起大雨來了。
 1. 追獵了. 
-Mnaduk nami shiga o
- 3 ka buun nami. 昨天我們獵到三隻獵物。
+Mnaduk nami shiga o 3 ka buun nami. 昨天我們獵到三隻獵物。
 1. 各自追獵. 
 Mndeaduk nami nanak ka lala samat. 我們各自追獵，獵了很多獵物。
 1. 
@@ -713,8 +709,7 @@ Nkeaga namu binaw sliqan ga, aji namu empksaang? 你們三叉箭被弄壞 看看
 1. 做的像三叉箭. 
 Peaga bi smmalu. 做的要像箭一樣。
 1. 託了…做三叉箭. 
-Pneaga na psalu knan o
- 50. 他託我製作的三叉箭有五十支。
+Pneaga na psalu knan o 50. 他託我製作的三叉箭有五十支。
 1. 要託…做三 叉箭. 
 Ppeaga su ptucing emaan ka xiluy nii? 這些鐵你要請誰打造成三叉箭？
 
@@ -1273,8 +1268,7 @@ Teakiaw mu ka usik qapal da. 我要拔老薑了。
 1. 去…砍老. 
 Teakiay ta ka btakan da, hraan lxi ka sayang do o! 我們來砍老麻竹，因為現 在正是長荀的時期。
 1. 採…老的. 
-Teakii
- 3 ka sangi ngalun mu tuyan. 採三個老胡瓜我要拿來當作葫蘆。
+Teakii 3 ka sangi ngalun mu tuyan. 採三個老胡瓜我要拿來當作葫蘆。
 1. 要採…老的. 
 Teakiun mu kana ka shikuy ngalun mu ghak. 我要採所有的老絲瓜拿來當 作種子。
 1. 比較老的. 
@@ -1602,8 +1596,7 @@ Ini pealax qpahun mu ka mduuy knan. 雇主沒有把我解雇。
 1. 
 
 1. 讓…放學. 
-Pnealax ku na
- 5 tuki gbiyan ka qmpah. 他讓我下午五點鐘下班。
+Pnealax ku na 5 tuki gbiyan ka qmpah. 他讓我下午五點鐘下班。
 1. 盡責. 
 Ini pnegealax pusu qpahun na ka seejiq o kika niqan stmaan. 盡責的人可以信賴。
 1. 為了戒掉. 
@@ -2363,8 +2356,7 @@ Naka su ka naku, ida mu gimax hiya. 我的你不要 分開，我要混在一起�
 Nakan su ka rudan ga, tai ta thrakas musa. 你不和父母在一起，他們會氣的自盡。
 
 1. 別離開. 
-Nakaw su
- 3 idas ka laqi munuh na. 你不可離開三個月大未斷奶的孩子。
+Nakaw su 3 idas ka laqi munuh na. 你不可離開三個月大未斷奶的孩子。
 1. 不要讓…
  Nakay su ka bru ini tduwa nakan na. 你不要讓還在哺乳的小豬分開。
 1. 另外取. 
@@ -2380,8 +2372,7 @@ Neanak su nhari, kika aji namu empssmriq pmkayun. 你應該早一點分戶， �
 1. 
  Nkani nanak ka nhiya. 把他的單獨分別出來。
 1. 另外單獨分. 
-Peanak
- 5 pnniqan ka pnsramal ini tuku sgun. 為了擔心不夠分就另外 單獨 預備五份。
+Peanak 5 pnniqan ka pnsramal ini tuku sgun. 為了擔心不夠分就另外 單獨 預備五份。
 1. 使…分開. 
 Pgeanak bru munuh. 把小豬分開斷奶。
 1. 單獨做過. 
@@ -2438,8 +2429,7 @@ Yamu deanan o iyah ki han. 你們單身的人先過來。
 1. 預留…的人. 
 Dmpeanan mangal nnita o lutut ta. 預留我們的是我們的親戚。
 1. 為…預留. 
-Eanan misu
- 7 ka pucing. 我為你預留七把山刀。
+Eanan misu 7 ka pucing. 我為你預留七把山刀。
 1. 會…多餘的. 
 Empgeanan ka nii da. 這個是多餘的。
 1. 不要預留. 
@@ -2481,8 +2471,7 @@ Meanan su nnima ka isu? 你要預留誰的？
 1. 多空跑一趟;另留一份. 
 Musa ku mgeanan hiya. 我到那裡空跑一趟。
 1. 想要預留. 
-Mkmpeanan ku smquri
- 3 ka ubung yahun su mangal. 你要來拿的經軸我想多 雕製三個。
+Mkmpeanan ku smquri 3 ka ubung yahun su mangal. 你要來拿的經軸我想多 雕製三個。
 1. 
 
 1. 
@@ -2502,8 +2491,7 @@ Peanan mu mgay buan ka nii. 這是我要 預留給母親的。
 1. 預留. 
 Pneanan mu bgay mu payi ka ni. 這是預留給祖母的。
 1. 要預留. 
-Ppeanan mu dnurun dha ka
- 5 giya gaga. 那五個小簸箕是他們交代我要預留的。
+Ppeanan mu dnurun dha ka 5 giya gaga. 那五個小簸箕是他們交代我要預留的。
 
 1. 白跑. 
 Musa ku ptgeanan, tna wada da. 他們早就走了，我白跑一趟。
@@ -3367,8 +3355,7 @@ Tgswani ku ha tglian mu tujiq ka skasu gaga. 替我用那烏心樹雕製成積�
 1. 翻土挖成槽形. 
 Tmgeasu kmari dxgal ka bowyak. 山豬翻土成凹槽。
 1. 翻成凹槽. 
-Tmnegeasu qmpahan mu ka bowyak o wada mu ngalun
- 3 da. 在我田地上翻土 的山豬，我捉到三隻了。
+Tmnegeasu qmpahan mu ka bowyak o wada mu ngalun 3 da. 在我田地上翻土 的山豬，我捉到三隻了。
 1. 雕製…槽. 
 Tnegeasu su qsiya ga o yaku embarig na. 你雕製的水槽我來買。
 1. 經常…槽. 
@@ -3430,8 +3417,7 @@ Nseasug namu nanak ka yamu da. 你們應該自己彼此分配。
 1. 拿…分配的. 
 Usa peasug nhari. 趕快去拿所分配的。
 1. 請…分配. 
-Pneasug mu hyaan o
- 30 pnniqan. 我請他分配的有三十份。
+Pneasug mu hyaan o 30 pnniqan. 我請他分配的有三十份。
 1. 託…分配. 
 Negxal mu o ppeasug mu dhyaan ki da. 我親戚的我要託他們分配。
 1. 分配. 
@@ -3662,8 +3648,7 @@ Ngalun mu pneaway brunguy ka qwarux mslagu bi gaga. 那直的藤條我 要用來
 Ini hari pneggeaway rmngaw kari ka hiya. 他不大會 拐彎抹角的講話。
 
 1. 要…緯線. 
-Ppeaway mu o mha bi
- 3 tntaan ka qwarux. 我要編的 緯線大概要三個切 斷的藤條。
+Ppeaway mu o mha bi 3 tntaan ka qwarux. 我要編的 緯線大概要三個切 斷的藤條。
 1. 向…緯線. 
 Miyah sgeaway cinun qabang snurug knan ka lupung mu. 我的朋友來向 我要織粗被毯的緯線。
 1. 像…緯線一樣. 
@@ -4753,8 +4738,7 @@ Iya bi salu ka pgsahu kkbaax phuqil seejiq. 絕對不要做致所有人於死的
 1. 想…死. 
 Kmpbaax su phuqil tnbgan mu o hmnuya ku sunan? 你想要殺光我養的牲畜， 我惹你什麼了？
 1. … 
- Knbaax mhuqil punu ka rudux mu o msgeegul
- 3 hngkawas. 我的雞連續三 年都得雞瘟全死了。
+ Knbaax mhuqil punu ka rudux mu o msgeegul 3 hngkawas. 我的雞連續三 年都得雞瘟全死了。
 1. 除草. 
 Ga maax ka laqi. 孩子在除草。
 1. 像…除草一樣. 
@@ -4837,8 +4821,7 @@ Bbawun mu mnsa bbuyu kmeaguh ka lupung. 打獵後我才邀請朋友過來。
 1. 讓…之上. 
 Bbwai gsilung tmeasu ka laqi su. 讓你的孩子在 海上開船。
 1. 把…之上. 
-Bbwani bukuy kacing ka
- 2 lubuy trabus gaga. 把那兩包花生放在牛背上。
+Bbwani bukuy kacing ka 2 lubuy trabus gaga. 把那兩包花生放在牛背上。
 1. 揹在…之上的人. 
 Dmpgbabaw laqi mapa napa ka Truku seuxal. 以前太魯閣族 都把孩子 揹在揹的東西上面。
 1. 要在…之上. 
@@ -5561,8 +5544,7 @@ Asi na kbaka hi wa! 他受夠了！
 1. 剛好. 
 Kkbaka uqan ka blbul ga o pkhada bi han. 要使香蕉可以吃，就讓它熟一點。
 1. 當作剛好. 
-Kmnbaka paan
- 4 hiyi kmudaw hnjilan ka tama su. 你父親以四人抬的力量當 作是適合他扛的重量。
+Kmnbaka paan 4 hiyi kmudaw hnjilan ka tama su. 你父親以四人抬的力量當 作是適合他扛的重量。
 1. 剛好. 
 Hmut mhhalig mhada knbaka qbrungan ka payay su da. 你的稻子已經熟的可以收 割了。
 1. 剛好. 
@@ -5915,8 +5897,7 @@ Pnbali tpuq smmalu ka nii. 這個拿去製造槍彈。
 1. 像砲彈. 
 Ini pnegbali qowngu ka bali pcingun pspruq alang. 投射城市的炸彈不像砲彈一 樣。
 1. 託做子彈. 
-Pnkbali na qowngu kana o
- 3,000. 他委託製造的砲彈全部是三千顆。
+Pnkbali na qowngu kana o 3,000. 他委託製造的砲彈全部是三千顆。
 1. 因子彈而死. 
 Wada ptgbali ka kingal yami hiya shiga. 昨天我們那裡有一位因子彈而身 亡。
 1. 有很多子彈. 
@@ -6365,8 +6346,7 @@ Gbarah mu miri tminun ka wauwa mu mha sjiqun. 我要為出嫁的女兒重新織�
 1. 重新. 
 Gmbarah su tmatak o empskla su tkuyan? 你重新開墾還來得及播種嗎？
 1. 重新. 
-Gmnbarah mu tminun ka qabang hilaw misan o qulung bi dhuq ka
- 7 wah! 我織冬天 蓋的被毯勉強織了七件！
+Gmnbarah mu tminun ka qabang hilaw misan o qulung bi dhuq ka 7 wah! 我織冬天 蓋的被毯勉強織了七件！
 1. 重新養. 
 Gnbarah mu psgeaguh tmabug ka rudux uqun lupung. 給朋友吃 的雞是我重新飼 養的。
 1. 重新開. 
@@ -6718,8 +6698,7 @@ Brigaw mu ka kingal lituk dxgal su hug? 讓我買你一甲地好嗎？
 1. 要買. 
 Brigay ta kingal brunguy su, piya pila? 我們買你的一個背簍要多少錢？
 1. 
- Brigi
- 3 ka qabang dmayi hilaw ta mskuy. 我們買三件冬天要蓋的棉被。
+ Brigi 3 ka qabang dmayi hilaw ta mskuy. 我們買三件冬天要蓋的棉被。
 1. 買. 
 Icih pila su, brigun mu emu. 你給我一點錢，我要買糖果吃。
 1. 買的人. 
@@ -7205,8 +7184,7 @@ Ttbasur dha mkan dga, ga snbuyas da. 他們經常吃不熟的食物，就拉肚 
  Tbbat smbut kana. 大家都在砍草。
 1. 貪心. 
 2. 人名（
- Niqan
- 3 Batu hangan ka alang hiya. 那個部落有三位名叫巴度。
+ Niqan 3 Batu hangan ka alang hiya. 那個部落有三位名叫巴度。
  3. 塊 
  [詞意：pnrana na mangal 貪心 詞意： hangan seejiq 人名（男） 詞意： kbatu 塊肉]
 1. 
@@ -7462,8 +7440,7 @@ Hlisan ku dha gmbayu ku tmukuy masu o ini ku pgspung endhiya. 雖然他們譏 �
 1. 
  Gmnbayu ku dgiyaq dmahaw ga, thrngas ku mkan ka rapit. 我在窄小的山 上設飛鼠的樹上陷阱，捕的飛鼠吃不完。
 1. 
- Gnbayu mu kmtuy ka basaw o
- 3 qabang. 我從窄小地收割的小黍有三包被 毯。
+ Gnbayu mu kmtuy ka basaw o 3 qabang. 我從窄小地收割的小黍有三包被 毯。
 1. 窄小的. 
 Ana asi kbayu ka qmpahan tkuyan mu ga, masu na o smkla nbaki. 我播種的地雖 然窄小，但收的新小米趕上舊收的小米。
 1. 為了…窄小. 
@@ -7991,8 +7968,7 @@ Iya csqii meyhuy ka bhniq, mgrung o! 別把弓弄的太彎，會折斷的！
 1. 像…彎曲一樣. 
 Mgbeyhuy hnigan su ka hnigan na. 你身體彎曲像他一樣。
 1. 想弄彎. 
-Mkmpbeyhuy ku
- 3 ka rbnaw pruxul sqtun mu ngalan bhniq hici. 我想弄彎三根 新生的櫸木，便以後砍來做弓箭用。
+Mkmpbeyhuy ku 3 ka rbnaw pruxul sqtun mu ngalan bhniq hici. 我想弄彎三根 新生的櫸木，便以後砍來做弓箭用。
 1. 曾彎曲的. 
 Mnbeyhuy han ni mslagu sayang da. 本來彎曲現在直了。
 1. 容易彎曲. 
@@ -8203,8 +8179,7 @@ Ma su saw skbeytaw balay? 你怎麼那麼喜歡跳躍？
 1. 教…
  Tama mu o spbeytaw ku na psluhay paah bilaq. 我父親從小就訓練我跳遠。
 1. 全都跳. 
-Tbbeytaw mhraw qowlit ka
- 3 huling mu o qmrak pnkingal. 我三隻狗一起彈跳著 追老鼠各抓一隻。
+Tbbeytaw mhraw qowlit ka 3 huling mu o qmrak pnkingal. 我三隻狗一起彈跳著 追老鼠各抓一隻。
 1. 
  Tgsbeytaw bi pstaril mkddowras ga o mirit. 山羊很會沿著懸崖彈跳。
 1. 常常跳. 
@@ -8337,8 +8312,7 @@ Tgbgay bi pila sunan ka risaw ki o kuxul su? 那個比較會拿錢給妳的男�
 1. 忙於分發. 
 Nii ku tmbbgay pila qnpahan dha. 我正在發 放工資。
 1. 拿…給. 
-Tmnbgay ku pila ppatas laqi mu
- 3 hiyi ka shiga. 昨天我拿錢給三 個孩子的 註冊 費。
+Tmnbgay ku pila ppatas laqi mu 3 hiyi ka shiga. 昨天我拿錢給三 個孩子的 註冊 費。
 1. 給者. 
 Tnbgay kingal libu slaq sunan ga o tayal huway na. 那個送你一分水田的人非常慷 慨。
 1. 給. 
@@ -8503,8 +8477,7 @@ Gbglaw su manu ka qngqaya bglaw gaga? 那撬具是用來撬開什麼？
 1. 撬起的工具. 
 Ggblaw mu ka nii. 這是我橇起東西的工具。
 1. 撬起. 
-Gmbglaw ku qcinuh ga,
- 5 ka qowlit mniq hiya. 我撬開木板時有五隻老鼠在裡面。
+Gmbglaw ku qcinuh ga, 5 ka qowlit mniq hiya. 我撬開木板時有五隻老鼠在裡面。
 
 1. 
  Gnbglaw mu radax ka bglaw nii. 這撬具是我用來 撬開大木頭。
@@ -8579,8 +8552,7 @@ Kbgu hari nhapuy su. 你煮的湯多一點。
 1. 要多湯. 
 Saw kkbgu rapit ka piimah su pyian su o shgani kingal kayu. 你要給祖母喝的飛 鼠湯，舀滿一個大製木碗。
 1. 
- Knbgu layan hnangut su o mtuku nami bi
- 5 hiyi. 你煮的綠豆湯夠我們五 個人喝。
+ Knbgu layan hnangut su o mtuku nami bi 5 hiyi. 你煮的綠豆湯夠我們五 個人喝。
 1. 像…湯一樣. 
 Mgbgu uma nimah mu yaku ka bgu tuwil. 我喝的鰻魚湯像蝦虎魚湯一樣。
 
@@ -9484,8 +9456,7 @@ Wada mqbilaq siyaw ka pratu nii. 這個碗的邊緣碎裂了。 [相關詞-同�
 1. 為了小…而爭. 
 Msnbilaq dxgal ini tuku qpahan ka laqi. 孩子為了地小不夠耕作而爭執。 [相關詞-同義詞] bilang
 1. 成為分小份. 
-Mtbbilaq
- 5 gutu ka bunga mu. 我的地瓜分成五個小堆。 [相關詞-同義詞] bilang
+Mtbbilaq 5 gutu ka bunga mu. 我的地瓜分成五個小堆。 [相關詞-同義詞] bilang
 1. 
  Nbilaq bi han, paru da. 原來是小的， 已經大了。 [相關詞-同義詞] bilang
 1. 應該少些. 
@@ -9998,8 +9969,7 @@ Tmnbisi ku kmlawa ga, qtaan mu ka knlabu nbuyas na o mdka tuyan. 我 照顧有�
 1. 經常…浮腫病. 
 Ttbisi mu qmita uqun bisi o tnglingis ku gmealu. 我經常看到得浮腫病的 人，我含 淚的可憐他們。
 1. 蚯蚓. 
-Bisur o
- 2 klgan, bisur dxgal ni bisur nbuyas. 蚯蚓有兩種有土裡的蚯蚓及蛔蟲。
+Bisur o 2 klgan, bisur dxgal ni bisur nbuyas. 蚯蚓有兩種有土裡的蚯蚓及蛔蟲。
  2. 蛔 蟲. 
 3. 被打的痕跡條狀. 
 4. 麵條（西部賽德克用語）。 . [詞意：hangan kuwi mkddxgal 蚯蚓]
@@ -10790,8 +10760,7 @@ Bkyanay misu haya ka djima su. 你的竹子我來幫你捆綁。
 ..來綁. 
 Kbsiyaw kana ka bkyani djima. 竹子都用月桃樹來綁。
 1. 把、串. 
-Ngali
- 2 bnkiyan seysay ni biqi bubu su! 拿兩把稻穗然後給你的媽媽！
+Ngali 2 bnkiyan seysay ni biqi bubu su! 拿兩把稻穗然後給你的媽媽！
 1. 被綁. 
 Tmnbrih ku gasil bnkuy dha. 解開那些被他們用繩子綁的東西。
 1. 專綑綁（
@@ -11249,8 +11218,7 @@ Smbluhing spung payay ka Truku seuxal. 以前太魯閣族人用 簸箕來量稻�
  2. 掉落海中的聲音. 
 Blung msa hmnang mtucing gsilung ka asu skaya. 飛機「blung 」的聲 音墜入海中。 [詞意：hnang tmalang ni mssli 跑步聲（擬聲詞）]
 1. 相繼發出「blung 」聲. 
-Bblung hmnang wada mtucing gsilung ka
- 3 asu skaya. 三架飛機 相繼發出「blung 」墜海。
+Bblung hmnang wada mtucing gsilung ka 3 asu skaya. 三架飛機 相繼發出「blung 」墜海。
 1. 別在…「blung 」聲. 
 Blunga su tmalang ka bqrus rudan su. 別在你老人家的墓地 「blung 」跑步。
 1. 一起「blung 」聲. 
@@ -11531,8 +11499,7 @@ Tnblux na ka biqi pila. 清理過的人給他工資。 [相關詞-同義詞] mlu
 1. 
  Ttblux dha o asi tqqrat mlux kana. 要清理了個個都一起來。 [相關詞-同義詞] mlux
 1. 梁木. 
-Sapah o niqan
- 2 bnaang. 房子前後有兩枝樑木。
+Sapah o niqan 2 bnaang. 房子前後有兩枝樑木。
 1. 野橘子（
  Bnaay o tgbasi bi uqun. 野橘吃起來很酸。 [詞意：hangan mami bbuyu 野橘子（果樹名）]
 1. 都是野橘子. 
@@ -11660,8 +11627,7 @@ Hiya o ga jiyax tmbnat rmangay kntbnagan babuy na do ini kmusa qmpahan. 他在�
 1. 過胖. 
 Tnbnat laqi ga o emblaiq bi rudan na. 那過胖的孩子他的 父母是富有人。
 1. 為了…胖. 
-Bubu na ga, ttbnat na dmanga laqi na
- 7 o saw teyruh liwang ka hiya. 他的母親 為了養胖七個孩子而自己很消瘦。
+Bubu na ga, ttbnat na dmanga laqi na 7 o saw teyruh liwang ka hiya. 他的母親 為了養胖七個孩子而自己很消瘦。
 1. 壯碩;肥壯. 
 2. 撒嬌. 
 3. 嬰兒. 
@@ -13538,8 +13504,7 @@ Tgbqlit bi thmuku ga o ki nak gaya dha. 那比較會跪著鞠躬的是他們的�
 1. 向…跪著. 
 Ana su ini tmbqlit ka thmuku knan. 你也可以不向我跪著鞠躬。
 1. 跪過. 
-Tmnbqlit ku
- 3 iyax tuki do mnarux bqlit mu da. 我跪過三個小時候我膝蓋就痛了。
+Tmnbqlit ku 3 iyax tuki do mnarux bqlit mu da. 我跪過三個小時候我膝蓋就痛了。
 
 1. 曾跪著. 
 Tnbqlit su tluung inu ka shiga? 你昨天在哪裏坐著跪下？
@@ -13567,8 +13532,7 @@ Ggbqri mu ka qumi nii. 這個針是我要用來 取刺的。
 1. 取…刺. 
 Nii ku jiyax gmbqri qaqay mu. 我在忙於取腳裡的刺。
 1. 取過…刺. 
-Gmnbqri ku qaqay tama, spgun mu o
- 20. 我取二十根我父親腳裡的刺。
+Gmnbqri ku qaqay tama, spgun mu o 20. 我取二十根我父親腳裡的刺。
 1. 用…取刺. 
 Gnbqri mu ka qumi nii o ssais mu lukus uri. 我用這針取刺也拿來縫衣服。
 1. 被…刺. 
@@ -13987,8 +13951,7 @@ Brakaw nhari, iya kiisug. 趕快跳過去，不要害怕。 [相關詞-同義詞
 1. 不要跳越. 
 Brkaga su tahut ha, empsqama su da. 不要跳過火堆，你會被燒到。 [相關 詞-同義詞] mrakaw
 1. 跨越. 
-Sbrakaw ta
- 3 brkagan msa ku o kingal bi ka tmhqilan. 我認為我可以跨越三個障礙 物，結果只勉強跳過一個障礙物。 [相關詞-同義詞] mrakaw
+Sbrakaw ta 3 brkagan msa ku o kingal bi ka tmhqilan. 我認為我可以跨越三個障礙 物，結果只勉強跳過一個障礙物。 [相關詞-同義詞] mrakaw
 1. 要讓…跳越. 
 Brkagaw ta psluhay pstaril ka laqi snaw. 我們要讓兒子練習跳高。 [相關 詞-同義詞] mrakaw
 1. 讓…跳越. 
@@ -14004,8 +13967,7 @@ Brkgani pbhraw samat ka huling. 讓狗跳越追補獵物。 [相關詞-同義詞
 1. 障礙賽者. 
 Gneegan dmsbrakaw tlaman ka yamu. 你們都是被選為跑障礙賽的人。 [相 關詞-同義詞] mrakaw
 1. 要跨越. 
-Embrakaw ku
- 5 ayug ka yaku. 我要跨越五個山谷。 [相關詞-同義詞] mrakaw
+Embrakaw ku 5 ayug ka yaku. 我要跨越五個山谷。 [相關詞-同義詞] mrakaw
 1. 會跳越. 
 Empsbrakaw ku nanak, iya ku sklani. 我自己會跳，不要推我。 [相關詞-同義 詞] mrakaw
 1. 用跳越. 
@@ -14027,8 +13989,7 @@ Mkmsbrakaw ku bi o mshjil ka hiyi mu. 我很想跳越但我身體很重。 [相�
 1. 適合跳越. 
 Mnegsbrakaw bi ka lhkah hiyi dha. 身體很輕的人很適合跳越。 [相關詞-同 義詞] mrakaw
 1. 跳越過. 
-Mnsbrakaw ku
- 5 brkagan ka yaku. 我跳過五個障礙物。 [相關詞-同義詞] mrakaw
+Mnsbrakaw ku 5 brkagan ka yaku. 我跳過五個障礙物。 [相關詞-同義詞] mrakaw
 1. 跳越. 
 Mrakaw qlubung ka bowyak mkla smknux. 山豬嗅出陷阱就會越過去。 [相關詞- 同義詞] mrakaw
 1. 跳越. 
@@ -14047,15 +14008,13 @@ Psbrakaw bi laqi ka rudan Truku, bbhraw dha samat. 太魯閣族的 祖先常讓�
 .不慎. 
 Muda ku ptgbrakaw tgqmul ka yaku da. 我因為跳躍不慎撲倒在地因而 嘴沾到泥土。 [相關詞-同義詞] mrakaw
 1. 因…跳越. 
-Sbrakaw ta
- 3 brkagan msa ku o kingal bi ka tmhqilan. 我認為我可以跨越三個 障礙物，結果只勉強跳過一個障礙物。 [相關詞-同義詞] mrakaw
+Sbrakaw ta 3 brkagan msa ku o kingal bi ka tmhqilan. 我認為我可以跨越三個 障礙物，結果只勉強跳過一個障礙物。 [相關詞-同義詞] mrakaw
 1. 看成跨越. 
 Sknbrakaw mu qmita ka ga pstaril. 我把跳遠看成是跳高。 [相關詞-同義詞] mrakaw
 1. 很多跨欄. 
 Smbbrakaw bi ka smluhay brkagan tmalang. 練習跨欄需要很多次跨欄。 [相關詞-同義詞] mrakaw
 1. 叫跨越. 
-Spbrakaw na
- 5 brkagan ka risaw na. 他叫他兒子跨越五個障礙物。 [相關詞-同 義詞] mrakaw
+Spbrakaw na 5 brkagan ka risaw na. 他叫他兒子跨越五個障礙物。 [相關詞-同 義詞] mrakaw
 1. 都同時跨越. 
 Tbbrakaw kana do msbrakaw ku uri da. 都同時跳越了我也跟著去跳了。 [相關詞-同義詞] mrakaw
 1. 比較…跨越. 
@@ -14761,8 +14720,7 @@ Nbreebu su bi qmpahan mu hki, prbuun mu kacing ka nnisu da! 你踏亂我田地 �
 1. 讓…踏亂. 
 Hana ga smwaqit ka trabus mu o iya sai pbreebu laqi han. 我種的花生剛發芽， 請你別讓孩子去踏亂。
 1. 放…踏亂. 
-Pnbreebu ku rudux hnmaan na beyluh o pgsaan ku na
- 5 rudux. 我的雞踏亂他 種的豆，他要求我賠償五隻雞。
+Pnbreebu ku rudux hnmaan na beyluh o pgsaan ku na 5 rudux. 我的雞踏亂他 種的豆，他要求我賠償五隻雞。
 1. 會…破壞. 
 Ini pnegbreebu entaxa ka niqan lhbun seejiq. 有良心的人不會 去破壞別人的 東西。
 1. 放…破壞. 
@@ -14786,8 +14744,7 @@ Gaga tmbreebu bunga mu ka rungay. 猴子專在破壞我的地瓜。
 1. 嬉戲過. 
 Saw bi ima ka aji tmnbreebu pduuy rudan? 到底是誰不是被父母親嬉戲抱過？
 1. 破壞者. 
-Tnbreebu qlubung mu ka seejiq kiya o ini angal samat
- 2 hngkawas. 破壞我套腳 陷阱的人，兩年沒有捉到任何獵物了。
+Tnbreebu qlubung mu ka seejiq kiya o ini angal samat 2 hngkawas. 破壞我套腳 陷阱的人，兩年沒有捉到任何獵物了。
 1. 經常…嬉戲. 
 Ttbreebu na munuh buan na ka tatat o ini spung. 小狗經常毫無節制地嬉戲 吸食母奶。
 1. 平原；平地. 
@@ -15133,8 +15090,7 @@ Gnbrikug mu ka ina mu. 我的媳婦是賣了吊飾品賺來的錢娶來的。
 1. 吊滿…飾物. 
 Asi kbrikug pnslawa purut ka payay mu. 我的稻田都吊滿了嚇山麻雀的器 具。
 1. 掛成項鍊. 
-Kkbrikug srgun su o biqay misu
- 3 ka giji. 你要戴的項鍊我給你三條珍珠項鍊。
+Kkbrikug srgun su o biqay misu 3 ka giji. 你要戴的項鍊我給你三條珍珠項鍊。
 
 1. 看成…項鍊. 
 Kmnbrikug gmeuqu qmita brikug mu ka bubu su. 你的母親看錯了我的項 鍊。
@@ -15368,8 +15324,7 @@ Ma su saw sqbriqul smngahan embriqul, ini su gealu? 你怎麼譏(嘲) 笑視力�
 1. 別對視力模糊者. 
 Tbrqula su mhulis ha, ruun su na da. 你不要嘲笑視力模糊的人，他會 傳染給你的。
 1. 
- Tbrqulan kana ka
- 3 laqi na. 他的三個孩子都是視力模糊的。
+ Tbrqulan kana ka 3 laqi na. 他的三個孩子都是視力模糊的。
 1. 讓…給視力模糊的. 
 Tbrqulaw ta pdanga ka hiya. 我們讓他給視力模糊的人領養。
 1. 擔心…
@@ -15598,8 +15553,7 @@ Mnbruh mtamay o wada mlatat duri. 「bruh」進入又出去了。
 1. 喜歡…進. 
 Mnegbruh bi mrmux rangah qhuni ka rapit. 飛鼠很喜歡住在樹洞。
 1. 為了…「bruh」進入而吵. 
-Msnbruh mtmay sapah wauwa ka
- 2 risaw. 二個男青年為了 「bruh」進入小姐家爭風吃醋。
+Msnbruh mtmay sapah wauwa ka 2 risaw. 二個男青年為了 「bruh」進入小姐家爭風吃醋。
 1. 為了去…爭.
 1. 應該趕快 進.
 1. 叫…「bruh」進入. 
@@ -15952,8 +15906,7 @@ Gmbrutul mkan waru rudux kawa ka baki mu. 我的祖父挑火雞脖子的肉瘤�
 1. 用來…發腫. 
 Gnbrutul su meytaq ka qumi do qdaani ki da. 你用來注射發腫的針就要丟 棄。
 1. 全…發腫. 
-Qnyutan ku
- 5 bgiya ga, asi kbrutul kana hiyi mu. 被五隻虎頭蜂螫得我全身發 腫。
+Qnyutan ku 5 bgiya ga, asi kbrutul kana hiyi mu. 被五隻虎頭蜂螫得我全身發 腫。
 1. 如果…發腫. 
 Aji kkbrutul ka qnqan pngasuy o rsuhi brayaw. 如果不使被毛毛蟲咬得發 腫就擦姑婆芋。
 1. 看成…發腫. 
@@ -16015,8 +15968,7 @@ Nii ku tmbrutul pstalux dngdang brutul laqi. 我在煮滾水燙孩子的腫塊�
 1. 以…腫塊. 
 Tmnbrutul ku rmisuh qbulit kacing mu. 我以火灰擦我牛的腫塊。
 1. 經常…腫塊. 
-Ttbrutul na smapuh o
- 7 hngkawas da. 他經常治療腫塊已經有七年了。
+Ttbrutul na smapuh o 7 hngkawas da. 他經常治療腫塊已經有七年了。
 1. 雷. 
 Bruwa o saw smiisug hnang na. 雷聲很恐怖。
  2. 地方吵鬧的聲音. 
@@ -16325,8 +16277,7 @@ Gbsiyak mu bowyak powsa ka huling nii. 我用這隻狗快速地追趕山豬。
 1. 
  Gmnbsiyak nami mhidaw trabus ka smrbu. 我們早上急急忙忙 曬了花生
 1. 匆匆忙忙. 
-Gnbsiyak nami kmtuy ka masu o smka jiyax
- 30 lubuy. 我們匆匆忙忙地在半 天裡收割了三十包小米。
+Gnbsiyak nami kmtuy ka masu o smka jiyax 30 lubuy. 我們匆匆忙忙地在半 天裡收割了三十包小米。
 1. 爭相. 
 Qulun mhada ka kliyut dga, asi kbsiyak qbhni nanak bhangan ga mkan kliyut. 桑椹 成熟了，只聽到小鳥在爭相吃桑果的聲音。
 1. 為了…爭相. 
@@ -17527,8 +17478,7 @@ Ttbtut na meytaq kacing o ga rungan kacing uri da. 他常「btut」擊刺牛 而
 “Bubu” msa mlawa ka laqi. 「媽！」孩子這樣喊 著。
  2. 樹幹. 
 3. 用來形容任何事務的 根本（以…
- [詞意：pniyahan laqi 媽媽 詞意：bubu pnegalang 樹幹 詞意：pusu ana manu 用來形容任何事務的根本 文化小語： bubu 有3種意思： 1.女性類：1人類：媽媽；2 家畜家禽：buburudux 「母雞」、bubuhuling 「母狗」、bububabuy 「母豬」（但老母豬有不 同的稱呼，為kuraybabuy ）；
- 3植爱：會開花結果子的果樹（族人稱之為母的樹），如 Bubukabukuhnii. 「這棵木瓜是母的」（ 因結了許多木瓜），另外會稱樹幹為bubuqhuni 。
+ [詞意：pniyahan laqi 媽媽 詞意：bubu pnegalang 樹幹 詞意：pusu ana manu 用來形容任何事務的根本 文化小語： bubu 有3種意思： 1.女性類：1人類：媽媽；2 家畜家禽：buburudux 「母雞」、bubuhuling 「母狗」、bububabuy 「母豬」（但老母豬有不 同的稱呼，為kuraybabuy ）； 3植爱：會開花結果子的果樹（族人稱之為母的樹），如 Bubukabukuhnii. 「這棵木瓜是母的」（ 因結了許多木瓜），另外會稱樹幹為bubuqhuni 。
  2. 負面意思： 如 bubugeeguy 「慣竊」、bubuqnnaqih 「大壞蛋」、 bububsu 「非常吝嗇」、 bubulaput 「很會造謠（長舌婦）」。
  3.任何事爱的根本(以…為本、以…為主、以…為母)， 如：bubutdruy 「車的主要骨架」。]
 
@@ -17660,8 +17610,7 @@ Bbulaw ta cih qsiya su hug? 我挑一點你的水好嗎？
 1. 要挑水. 
 Bbuli thngay tbaqa ka isu. 你要挑滿水缸的水。
 1. 要挑水. 
-Bbulun mu pthngay ka
- 5 tbaqa gaga. 我要挑滿五個水缸的水。
+Bbulun mu pthngay ka 5 tbaqa gaga. 我要挑滿五個水缸的水。
 1. 要挑水者. 
 Dmbubul qsiya ka dhiya ungat yudun. 他們是挑水的沒有接水管。
 1. 
@@ -18502,8 +18451,7 @@ Emptbuluq mkan hiyi apu ka qbhni. 小鳥專門吃熟的柿子。
 Gmbuluq mkan ka rudan ungat gupun. 沒牙的老人選熟軟的吃。
 1. . Gmnbuluq ku tlulug uqun tama mu. 我正在選熟葡萄給我爸爸吃。
 1. 曾…過熟的. 
-Gnbuluq mu gmaaw ka busuq o
- 2 brunguy. 我挑過熟的李子有二個 背簍。
+Gnbuluq mu gmaaw ka busuq o 2 brunguy. 我挑過熟的李子有二個 背簍。
 1. 變熟軟的. 
 Maabuluq pnshnuk mhapuy ka buut kacing uqun rudan. 把牛骨煮熟成軟的給 老人吃。
 1. 像…熟軟. 
@@ -21229,8 +21177,7 @@ Gmncix ku mapa mshjil paah bilaq ka yaku. 我從小就揹著重物發 出「cix�
 1. 要「cix
  Kkcix su mapa mshjil o sluhay ba. 你要「cix」揹重物就必須要練習。
 1. 「cix」
- Kncix mu mapa steetu ka
- 2 lubuy emu btunux. 我費盡力量「cix」的爬 上揹了兩包水泥。
+ Kncix mu mapa steetu ka 2 lubuy emu btunux. 我費盡力量「cix」的爬 上揹了兩包水泥。
 1. 像「cix」…一樣. 
 Mgcix hnang su ka hiya. 他「cix」岀力語氣的聲音像你一樣。
 1. 想「cix
@@ -21472,8 +21419,7 @@ Pncsdudul ta tmabug o ini ta slhbun ka siida da. 我們提早養，到時候就�
 1. 會提早. 
 Ana lala ka tbyaxun o ungat pnegcsdudul na ka seejiq kiya. 雖然要忙碌的事務 很多，那個人不會 提早做。
 1. 為了…提早. 
-Ppcsdudul mu tmabug eangal ina ka bru
- 3 nii. 這三隻豬仔我提早養是為了 娶媳婦的。
+Ppcsdudul mu tmabug eangal ina ka bru 3 nii. 這三隻豬仔我提早養是為了 娶媳婦的。
 1. 
  Pscsdudul bi tmgsa pmkayun sapah knan ka bubu mu. 我母親很會提早敎我 做家事。
 1. 因提早…而死. 
@@ -21840,8 +21786,7 @@ Niqan dadal na. 他有妾。
 1. 做…妾. 
 Seejiq dmptdadal ka dhiya gaga. 她們是作妻妾的。
 1. 有外遇. 
-“ Emdadal
- 3 ” msa ka seejiq gaga. 那人說：「我有 三個外遇。」
+“ Emdadal 3 ” msa ka seejiq gaga. 那人說：「我有 三個外遇。」
 1. 要成為妾. 
 Empdadal mu ka hiya. 她要成為我的妾。
 1. 要外遇. 
@@ -22904,8 +22849,7 @@ Qbhni o dngaan na kuwi ka wawa na. 鳥用昆蟲餵小鳥。
 1. 不要餵. 
 Dngaanay su laqi ka bulang wawa qbhni. 你不要拿雛鳥餵孩子吃。
 1. 給…吃. 
-Dngaani kuyuh su mndurug ka
- 2 rudux gaga. 那兩隻雞給你妻子坐月子吃。
+Dngaani kuyuh su mndurug ka 2 rudux gaga. 那兩隻雞給你妻子坐月子吃。
 1. 讓…養育. 
 Dngaaw mu yaku ungat laqi ka kingal laqi su hug? 我沒有孩子， 讓我來養你 一個孩子好 嗎？
 1. 要照顧. 
@@ -22999,8 +22943,7 @@ Dngaray ta smraki bunga ka brihut. 我們用地瓜為餌設捕捉松鼠的 石�
 1. 設…石板陷阱. 
 Dngari smraki mirit ka kumay. 用羊為餌設捕捉熊的石板陷阱。
 1. 要設…石板陷阱. 
-Dngarun mu
- 70 ka qmpahan mu bunga. 我要在地瓜園設七十個石板 陷阱。
+Dngarun mu 70 ka qmpahan mu bunga. 我要在地瓜園設七十個石板 陷阱。
 1. 所有的石板陷阱. 
 Kana dngdangar ga o endaan su smpug, yaa bi piya? 所有你算過的石 板陷阱大約有多少？
 1. 不要設…石板陷阱. 
@@ -23020,8 +22963,7 @@ Ggdangar mu pais mkuy ka gasil nii. 這繩子是我用來 綑綁壓敵人的 陷
 1. 設置的石板陷阱. 
 Asi nealu gmdangar seejiq gmeeguy tnjiyal ka hiya. 他光偷別人設置 的石板陷阱所壓到的獵物。
 1. 設的石板陷阱. 
-Gmndangar ku qbhni o kingal jiyax
- 70 ka dnangar mu. 我設的石板陷阱 一天壓到七十隻鳥。
+Gmndangar ku qbhni o kingal jiyax 70 ka dnangar mu. 我設的石板陷阱 一天壓到七十隻鳥。
 1. 用石板陷阱壓到. 
 Gndangar mu btunux kana ka tkurih gaga. 那竹雞全是我用石板陷阱 壓到的。
 1. 都是石板陷阱. 
@@ -23046,8 +22988,7 @@ Mgdangar ima ka dangar bgilaq gaga? 那捕捉果子狸的石板陷阱像 誰的�
 1. 想設石板的陷阱. 
 Mkmdangar su o iyah dmangar da! 你想設石板的陷阱就來啊！
 1. 正要設…石板陷阱. 
-Mmdangar ku bi
- 3 do qiyuci ku na quyu da! 我正要設三個石板陷阱 時被蛇咬了！
+Mmdangar ku bi 3 do qiyuci ku na quyu da! 我正要設三個石板陷阱 時被蛇咬了！
 1. 喜歡設…石板陷阱. 
 Mnegdangar bi karus dgiyaq ka baki mu. 我祖父很喜歡在深山設捕 捉山鼠的石板陷阱。
 1. 為了設…石板陷阱發生爭執. 
@@ -23432,8 +23373,7 @@ Gdraani prngat kingal bru ka gaya laqi su. 你那違背習俗的孩子為他殺�
 1. 要殺. 
 Gdraaw mu ka ruru paru gaga. 那個鵝我來殺。
 1. 來殺. 
-Gdraay ta
- 5 ka rudux uqun lupung. 朋友來訪要吃的雞我們來殺五隻。
+Gdraay ta 5 ka rudux uqun lupung. 朋友來訪要吃的雞我們來殺五隻。
 1. 去殺. 
 Gdrai nanak ka babuy. 豬自己去殺。
 1. 用來殺. 
@@ -24277,8 +24217,7 @@ Naqih bi kuxul mu mntdawin nami o wada ka hiya da. 我們的關係曾是非常 �
 1. 為了…關係. 
 Msndawin ku wada tealax knan o naqih bi kuxul mu. 我為了他離開我而難 過。
 1. 勾肩搭背. 
-Ana mksa mtdawin bi ka
- 2 gaga. 他們二位連走路都勾肩搭背。
+Ana mksa mtdawin bi ka 2 gaga. 他們二位連走路都勾肩搭背。
 1. 跟…
  “ Isu o iya bi paadawin hyaan ” sun ku dha. 他們對我說：「你別 跟他做朋 友。」
 1. 使…
@@ -24715,8 +24654,7 @@ Bubu mu o phdayu bi pntsiyusan balung. 我母親很會幫我 煮蛋飯包;我母
 1. 說謊. 
 Ddbahu dayu ka alang hini. 這部落的人都是遊手好閒的人。
 1. 計算單位名稱. 
-Kingal ddmut ni
- 2 pucing ka babuy tnbgan mu. 我養的豬約有一百九十斤了。
+Kingal ddmut ni 2 pucing ka babuy tnbgan mu. 我養的豬約有一百九十斤了。
 2. 四條豬背肥肉（從後頸以四根手指頭寬切到尾）為一個計算單位. 
 [詞意：spngan knlala 計 算單位名稱 詞意：spat pucing ka sun ddmut 四條豬背肥肉 文化小語： ddmut 是計算單位名 稱，祖先用獵刀將 豬背從後頸以四根手指頭寬為一個計算 單位切到尾。
 1.kingalpucingospattlulingbaga 一條是 四根族語「 手指頭寬」；
@@ -24741,8 +24679,7 @@ Dmtan na mgay ka lupung. 他給朋友四條豬背肉。
 1. 要…單位. 
 Dmtaw mu tmabug ka babuy barig mu dxgal su. 我要養四條豬背肉大的 豬 來買你的地。
 1. 用…單位. 
-Dmtay mu babuy plabu ka dxgal su
- 3 lituk hug? 你的三甲地我用四條豬背肉 來租好嗎?
+Dmtay mu babuy plabu ka dxgal su 3 lituk hug? 你的三甲地我用四條豬背肉 來租好嗎?
 1. 要…單位. 
 Dmtun mu tmabug ka babuy ni peekan mu rudan. 我要把豬養大在殺給父母 親吃。
 1. 要…單位. 
@@ -24774,8 +24711,7 @@ Qmita hbaraw ka laqi mu do asi pddmut mgay ka tama mu. 我父親看到 我孩子
 1. 分發. 
 Nsug siyang nii o pdmut mu lupung mu ki da. 我要分給我的朋友這份豬肉。
 1. 各…單位. 
-Mangal nami pnddmut ka
- 2 nami. 我們二個各拿四條豬背肉。
+Mangal nami pnddmut ka 2 nami. 我們二個各拿四條豬背肉。
 1. 會…單位. 
 Ini pnegddmut aanak na mangal ka baki mu. 我祖父不會多拿四條豬背肉。
 1. 各個…單位. 
@@ -24790,8 +24726,7 @@ Saw skddmut matu ka seejiq msqnaniq. 貪心的人總是會拿四條豬背肉。
 1. 都會…單位. 
 Ida kngkingal ensaan mu tuhuy o smddmut mgay ka lupung mu. 每次去我 朋友家，他都會給我四條豬背肉。
 1. 把…單位. 
-Snddmut na masug o
- 30 pnniqan. 他把四條的豬背肉共分成三十等份。
+Snddmut na masug o 30 pnniqan. 他把四條的豬背肉共分成三十等份。
 1. … 單位. 
 Tgddmut ga ka nhiya. 那四條的豬背肉是他的份。
 1. 
@@ -25156,8 +25091,7 @@ Qmndgiyaq bubu mu qmita dgiyaq payi na ka laqi gaga. 那個孩子 把我 母親�
 1. 
 
 1. 若要…山. 
-Saw qqdgiyaq kana ka rgagun ta o asi ka
- 5 idas. 如果要巡所有的山 需要五個 月的時間。
+Saw qqdgiyaq kana ka rgagun ta o asi ka 5 idas. 如果要巡所有的山 需要五個 月的時間。
 1. 
  Sdgiyaq ka klwaan dha. 他們是多山的國家。
 1. 依山. 
@@ -25323,8 +25257,7 @@ Saman o iyah gmdgsay smluhay knan. 明天來我這裏專學理線。
 1. 曾專門理線. 
 Qbsuruan mu kuyuh o gmndgsay tmgsa dkuyuh mcinun. 我姊姊專教織布 的婦女們理線。
 1. 理線. 
-Biqan ku dha
- 3 rudux ka gndgsay mu. 我理線他們就給了我三隻雞。
+Biqan ku dha 3 rudux ka gndgsay mu. 我理線他們就給了我三隻雞。
 1. 只有理線. 
 Sayang o asi kdgsay nanak ka slhayi han. 現在單單學 理線就好了。
 1. 要理線. 
@@ -25441,8 +25374,7 @@ Malu hiyi dha o ini hari pnegdguq mnarux. 身體健康的人不容 易得氣喘�
 1. 氣喘. 
 Meegul tama mu ka ppdguq knan. 我的氣喘病是我爸爸遺傳給我的。
 1. 因氣喘而死. 
-“
- 7 ka wada ptgdguq alang nami ” msa su o cipung su ki da! 你說：「我們 村落有七位因氣喘而死」，那 已經很多了 。
+“ 7 ka wada ptgdguq alang nami ” msa su o cipung su ki da! 你說：「我們 村落有七位因氣喘而死」，那 已經很多了 。
 1. 氣喘. 
 “ Asi qdguq kana ka mnarux alang namu o hnyaan namu? ” sun ku dha. 他們對我說： 「你們部落都得氣喘病是什麼緣故？ 」
 1. 想…氣喘. 
@@ -25590,8 +25522,7 @@ Tgdhaan na gmbing ka sagas. 他把西瓜切成兩半。
 1. 把…切半. 
 Tgdhaaw mu ka baun su gaga. 我把你那個南瓜切半。
 1. 把…分一 半. 
-Tgdhaay ta
- 2 ta ka mirit. 我們兩個人把山羊分成一半。
+Tgdhaay ta 2 ta ka mirit. 我們兩個人把山羊分成一半。
 1. 去把…分一 半. 
 Tgdhai dha namu ka kingal mneudus bowyak. 你們兩個人去把一隻 山豬 分成一半。
 1. 幫…分兩半. 
@@ -26088,8 +26019,7 @@ Tddka kana o murux kingal ka hiya. 每個人都切半塊，唯獨他拿整塊。
 1. 忙…切成半隻. 
 Nii ku tmdka kingal mneudus babuy. 我正在把一隻豬殺成兩半。
 1. 把…切成一半. 
-Tmndka ku
- 5 mneudus mirit. 我把五隻羊各殺成兩半。
+Tmndka ku 5 mneudus mirit. 我把五隻羊各殺成兩半。
 1. 切半者. 
 Ima tndka na ka tlahi gaga? 誰把那文旦切成兩半？
 1. 黏.
@@ -26239,8 +26169,7 @@ Dmrxani mgay binaw rudan ga, ini angal o! 給老人家一點點看看，他不�
 1. 
  Emptdmrax ku pssli negay laqi ka uqun mu. 我吃的東西是孩子一點一 點收集給我的。
 1. 原來給一點點. 
-Endmrax ka negay na o malan na
- 3 duri. 他原來給一點點，他又多給了 三個。
+Endmrax ka negay na o malan na 3 duri. 他原來給一點點，他又多給了 三個。
 1. 施小惠. 
 Iya gdmrax prqdug mgay rdanan. 請不要只拿一點點東西欺騙老人。
 1. 只挑選一點點. 
@@ -26262,8 +26191,7 @@ Mhbaraw ka mnswayi nami o maadmrax ku nngari utux ka yaku. 我們 兄弟姐妹�
 1. 好像只有一個. 
 Gnkla mu o ki bi saw mgdmrax bi ka laqi na snaw. 就我所知，他好 像只 有一個兒子。
 1. 原想…只一個. 
-Mkmpdmrax ku tmquli laqi o
- 7 ka negay utux. 我原想只生一個孩子， 但神給了我七個。
+Mkmpdmrax ku tmquli laqi o 7 ka negay utux. 我原想只生一個孩子， 但神給了我七個。
 1. 只…一個個. 
 Mnegdmrax bi tquli dha laqi ka lutut dha. 他們的親戚喜歡只養育一個孩 子。
 1. 為了…一個而爭執. 
@@ -26271,8 +26199,7 @@ Msndmrax nami qabang ini tuku shilaw. 我們為了只有一條被毯不 夠蓋�
 1. 若只有一個. 
 Ndmrax bi ka laqi su binaw, wada ngalun utux do mhuya su? 若你只有一個 孩子看看，神明把他帶走了，你怎麼辦？
 1. 只有一個. 
-Nkdmrax binaw sbgay su knan ga, ana ku pbrabang mgay o yaa misu biqun
- 2 dmrax. 你只給我一個看看，就算我多給你也只會 給你兩個。
+Nkdmrax binaw sbgay su knan ga, ana ku pbrabang mgay o yaa misu biqun 2 dmrax. 你只給我一個看看，就算我多給你也只會 給你兩個。
 1. 只一個. 
 Ma su pdmrax mgay rdanan su? 你為什麼只給你父母一個而已呢？
 1. 只…過一個. 
@@ -26658,8 +26585,7 @@ Gdngu mu djima smqit ka sowki nii. 這刀是專門用來砍乾竹的。
 1. 拿過乾的. 
 Gmndngu ku djima hhiru nami rmbu keeman. 我們拿過乾竹做為走夜路的照 明。
 1. 拿乾的. 
-Gndngu mu psgaaw ka qhuni o
- 5 paga. 我挑選的乾的木材有五個背架。
+Gndngu mu psgaaw ka qhuni o 5 paga. 我挑選的乾的木材有五個背架。
 1. 不孕;旱地;枯乾;
 
 1. 斷氣;
@@ -27995,8 +27921,7 @@ Dnulus ima ka qhuni gaga? 那木頭是誰拉的？
 1. 要拉. 
 Empdulus ku qaraw djima sunan ka saman. 我明天要為你拉竹枝。
 1. 應該拉. 
-Saw emptuku tunun
- 5 ka brunguy o endulus su lala ka qwarux. 要能足夠編織五 個背簍，你就應多拉一些藤條。
+Saw emptuku tunun 5 ka brunguy o endulus su lala ka qwarux. 要能足夠編織五 個背簍，你就應多拉一些藤條。
 1. 用來拉. 
 Gdulus mu tdruy ka kacing lubuy. 黃牛是我要用來 拉牛車的。
 1. 用…拉賺來. 
@@ -28058,8 +27983,7 @@ Nii ku tmdulus qrul smluun mu biyi kacing. 我正在拉筆筒樹要蓋牛舍。
 1. 曾強邀. 
 Tmndulus ku lqian su mha nami pngahi. 我曾強邀你的孩子 去釣魚。
 1. 拉的人. 
-Ima tndulus ka
- 5 radax gaga? 誰拉了那五個大原木？
+Ima tndulus ka 5 radax gaga? 誰拉了那五個大原木？
 1. 經常拉. 
 Ttdulus na qhuni o mgkacing brax na. 他經常拉原木的力量像牛一樣。
 1. 有的;一些. 
@@ -28341,9 +28265,7 @@ Tmndungus ku quri pseesaun snaw paah laqi ka yaku. 我從小就專注在男人�
 1. 
 
 1. 各取一份. 
-Asi gdungut pnkingal ka
- 2 namu han, sgun nami ka
- 5 ga da. 你們兩個各自領 一份，這五份我們就自己分了。
+Asi gdungut pnkingal ka 2 namu han, sgun nami ka 5 ga da. 你們兩個各自領 一份，這五份我們就自己分了。
 1. 
 
 1. 為了…
@@ -28576,8 +28498,7 @@ Durang o tlayan waru. 套頸陷阱 是用來套頸的。 [詞意：pnsnama tlaya
 1. 用來…
  Ddurang su durang manu ka gasil gaga? 那條線你要用來 做什麼樣的 套頸陷阱 線？
 1. 
- Dmnurang ku rqnux o
- 3 ka draqul nangal mu. 我放套頸陷阱 捕捉到三隻母 鹿。
+ Dmnurang ku rqnux o 3 ka draqul nangal mu. 我放套頸陷阱 捕捉到三隻母 鹿。
 1. 
 
 1. 專做套頸陷阱 者. 
@@ -28836,17 +28757,14 @@ Nasi niqan kari mu o mdurun ku nanak. 如果我有事的話我會自己傳話。
 1. 像…祈求的一樣. 
 Mgdurun su ka ddurun na Tuxan Baraw. 他向上帝禱告的跟你一樣。
 1. 想訂. 
-Tabug mu rudux ka sqmu o mkmdurun ku
- 7 lubuy. 我想訂七包的玉米養雞。
+Tabug mu rudux ka sqmu o mkmdurun ku 7 lubuy. 我想訂七包的玉米養雞。
 1. 想託…傳話. 
 Mkmpdurun ku lqian su ka kari mu sunan. 我想託你的孩子 傳話給你。
 1. 喜歡傳話. 
 Mnegdurun bi meysa hlama uqun na ka baki mu. 我祖父喜歡 傳話要吃糯米糕。
 
 1. 為了傳話…而吵 架. 
-Msndurun nami brunguy
- 3 msa ku o
- 5 msa ka hiya. 我們為了互相傳 話我要三個背簍，他說五個而吵架。
+Msndurun nami brunguy 3 msa ku o 5 msa ka hiya. 我們為了互相傳 話我要三個背簍，他說五個而吵架。
 1. 應該訂. 
 Ndurun su lala hari ka buwax dhquy, aji tuku hlmaun ka dnurun su. 你應該訂多 點糯米，你訂的不夠煮糯米糕。
 1. 要互相傳話. 
@@ -28905,8 +28823,7 @@ Dmptdnuuy alang nami hiya o hbaraw balay. 我們村裡很多有財物的 人。
 1. 有財物的人. 
 Niqan gnealu ka emptdnuuy o ana rabang. 有財物的人有愛心是很難 得的。
 1. 期待…地. 
-Endnuuy ta bi knan ka
- 3 lituk slaq ga khi msa ku kmtu tluling smeura. 我 很羨慕咬著手指頭，如果那個三甲田地是我的該多好。
+Endnuuy ta bi knan ka 3 lituk slaq ga khi msa ku kmtu tluling smeura. 我 很羨慕咬著手指頭，如果那個三甲田地是我的該多好。
 1. 不要拿財產. 
 Gdnuya su mangal laqi mu ha! 不要拿我孩子的財 產。
 1. 只…財產. 
@@ -28931,16 +28848,14 @@ Gmndnuuy gmeeguy ka seejiq kiya o wada qrapun da. 偷竊財物的人已經 被�
 1. 只…財寶. 
 Gmpusudnuuy marig ga o emblaiq seejiq. 有錢的人只會 買財寶。
 1. 用財物…娶來的. 
-Gndnuuy mu ka
- 3 ina mu. 我的三個媳婦是我賣財物娶過來的。
+Gndnuuy mu ka 3 ina mu. 我的三個媳婦是我賣財物娶過來的。
 
 1. 財寶. 
 “ Asi gpusudnuuy sbarig ka isu sun ” mu ka lupung mu. 我對朋友說：「你 只要賣財寶就好了。」
 1. 金錢. 
 Asi kdnuuy kana ka ga pskuan dnuuy. 銀行都是儲存金錢。
 1. 買. 
-Kkdnuuy su ka
- 5 maxal tntunan sapah qpras ga o tklaun su marig? 如果是五棟 十層樓的水泥房你買的起嗎？
+Kkdnuuy su ka 5 maxal tntunan sapah qpras ga o tklaun su marig? 如果是五棟 十層樓的水泥房你買的起嗎？
 1. 當作…財物. 
 Kmndnuuy ana dnuuy seejiq ka seejiq kiya. 他連別人的財 物當作是 自己的。
 1. 很多財寶. 
@@ -28954,8 +28869,7 @@ Msndnuuy tama dha mkeekan kari ka mnswayi gaga. 那些兄弟們 為了爸爸的�
 1. 露出錢. 
 Mtgdnuuy kukul knlala dnuuy na ka risaw su. 你的男孩口袋裡露出 很多 錢。
 1. 變成…水田. 
-Ini paadnuuy na ka
- 3 lituk slaq do wada tbsqur da. 那個三甲水田沒有 變成他的 就上吊死了。
+Ini paadnuuy na ka 3 lituk slaq do wada tbsqur da. 那個三甲水田沒有 變成他的 就上吊死了。
 1. 分配財物. 
 Asi ba pgdnuuy masug lqian ka tama na. 他的爸爸用財物分配給孩子。
 
@@ -29289,8 +29203,7 @@ Sdxlanay su bi pqeepah ka laqi, empatas ka dhiya. 你不要讓孩子做農，他
 1. 讓…做農. 
 Iya sdxlani pqeepah ka wauwa su, prwayi pcinun. 不要讓你女兒做農，專心 織布就好了。
 1. 為了地而去. 
-Wada sgdxgal breenux ka
- 3 hiyi yami hiya. 我們那裏有三個人為了平原地 而遷移。
+Wada sgdxgal breenux ka 3 hiyi yami hiya. 我們那裏有三個人為了平原地 而遷移。
 1. 
 
 1. 當作…
@@ -29468,8 +29381,7 @@ Dpan ka sapah do mnkuung da. 門扇關起來家裏就暗了。
 1. 要封. 
 Dpaw ta saman ka elug gaga. 那條路我們明天要封起來。
 1. 
- Dpay mu ka
- 3 bling gaga. 我要關那 三個窗戶。
+ Dpay mu ka 3 bling gaga. 我要關那 三個窗戶。
 1. 關門. 
 Dpi nhari emptmay ka bngux da. 灰塵飛進來了，趕快把門關起來。
 1. 要關門. 
@@ -29579,8 +29491,7 @@ Gmeegaw ku marig snalu su, yaasa gmhnuk su hari. 我只買你做的酒麴，因 
 1. 拿…的酒麴. 
 Gmneegaw ku nengari dha ka yaku. 我拿別人剩下來的酒麴。
 1. 酒麴換的. 
-Gneegaw mu ka
- 3 sla mu nii. 三件男用外套我用酒麴買來的。
+Gneegaw mu ka 3 sla mu nii. 三件男用外套我用酒麴買來的。
 1. 酒麴. 
 Malu karat do asi keegaw ka phdagi han. 天氣好的時 候就曬酒麴好了。
 1. 都…酒麴. 
@@ -29640,8 +29551,7 @@ Tmneegaw ku sinaw payay ka yaku. 我做過酒麴釀米酒。
 1. 酒麴主人. 
 Tneegaw payay nii o ini kla msinaw masu. 這釀米酒的酒麴主人不會 釀小米 酒。
 1. 經常做…酒麴. 
-Tteegaw na o
- 30 hngkawas sayang da. 他做酒麴已經有三十年了。
+Tteegaw na o 30 hngkawas sayang da. 他做酒麴已經有三十年了。
 1. 很多;
  Egu bi nhuma na tmurak quwaq ka lupung mu. 我朋友他種很多黃瓜。 [詞意： lala很多、太…]
 1. 多的人. 
@@ -29949,8 +29859,7 @@ Luaw ta mkan ka uqun. 我們把食物省著吃。
 1. 要節省. 
 Mniq su Alang brnux o luay bi duuy su. 你在都市生活時要節省。
 1. 省著用. 
-Lui dmuuy ka
- 200 pila nii. 這兩百元省著用。
+Lui dmuuy ka 200 pila nii. 這兩百元省著用。
 1. 將會省著用. 
 Luun mu ka bnegay su Bu, iya slhbun. 媽放心，你給我的我會 省著用。
 1. 會節省. 
@@ -30068,8 +29977,7 @@ Iya glgani haya, mluhay bi sgeelug da. 不要給他開路，他習慣依賴他�
 1. 開路. 
 Gaga gmeelug elug qmpaha ka Teymu. Teymu （人名）在 開挖田地的路。
 1. 開設道路. 
-Gmneelug nami elug tdruy qrngul o
- 3 hngkawas sayang da. 我們從事開 設鐵 路的工作，到現在已經三年了。
+Gmneelug nami elug tdruy qrngul o 3 hngkawas sayang da. 我們從事開 設鐵 路的工作，到現在已經三年了。
 1. 開闢的路. 
 Gneelug namu o ini tuku knlabang na. 你們開的路不夠寬。
 1. 有道路了. 
@@ -30147,8 +30055,7 @@ Psruwan ka seejiq o ‘ em ’ msa. 人被打的 時候痛得叫「em」。
  Mkla do ‘ em ’ sa ka tama mu. 我父親了解後就說「是喔」這 樣。 [詞意：kari hlitan knrxan 忍受痛的聲音]
 1.
  7. Empitu hiyi ka sapah Rabay. Rabay （人名） 家有7個人。
-1.
- 20. Empusal ka hngkwasan laqi mu. 我的孩子 已經20歲了。
+1. 20. Empusal ka hngkwasan laqi mu. 我的孩子 已經20歲了。
 1. 聽；聆聽. 
 Smqmuq ku na rmngaw o ini mu klai embahang ka kari na. 他講話口吃所以對我說 話時我都聽不懂。 Ga tmpix embahang uyas mirit ka dhiya. 他們在仔細地聆聽山羊「嗶呵」的 叫聲。
  2. 聽起來. 
@@ -30773,8 +30680,7 @@ Gmeerut nami qpras ka yami tama su. 我和你的父親在製作水泥柱子。
 1. 拿柱子. 
 Gmneerut ku enlaxan dha ka yaku. 我拿他們不要的柱子。
 1. 架設橋墩賺來. 
-Gneerut nami smmalu hakaw yayung o kingal jiyax
- 2000 pila. 我們做橋 墩的工資一天二仟元。
+Gneerut nami smmalu hakaw yayung o kingal jiyax 2000 pila. 我們做橋 墩的工資一天二仟元。
 1. 要…用柱子撐住. 
 Greeci qhuni ha ki ini ktagur. 用木頭來當柱子撐住就不會倒塌。
 1. 都…桿. 
@@ -30831,8 +30737,7 @@ Wada ptgeerut hakaw ka kingal nami shiga. 昨天我們當中有一個人因 搭�
 1. 很多柱子. 
 Seerut ka sapah na. 他房子柱子很多。
 1. 為…支撐. 
-Mha ku sgeerut beyluh tama mu, ini tuku
- 20 ka naku. 我要去拿我父親的豆子 支撐木，我少了二十支。
+Mha ku sgeerut beyluh tama mu, ini tuku 20 ka naku. 我要去拿我父親的豆子 支撐木，我少了二十支。
 1. 老是柱子. 
 Ma su saw skeerut hyaun su? 你怎麼老是要柱子要做甚麼？
 1. 當成…的支撐架. 
@@ -31145,8 +31050,7 @@ Iya gaaw ka isu. 你不要選。
 1. 選擇者. 
 Yamu dmgaaw bukung Truku o ima ka geegun namu? 你們要選太魯閣族的 領袖 要選誰呢？
 1. 要選擇. 
-Empgaaw ku
- 5 ka prparu bi tlahi. 我要選五個大的柚子。
+Empgaaw ku 5 ka prparu bi tlahi. 我要選五個大的柚子。
 1. 別選擇. 
 Geega su bi hyaan ka bukung. 別選他做領袖。
 1. 挑了. 
@@ -31229,8 +31133,7 @@ Gisu nami tmgaaw qwarux, yaasa niqan ka maacyaqung. 我們正在挑選黃藤， 
 1. 挖了山藥. 
 Tmnegaaw ku kmari ka shiga o kingal brunguy ka knrian mu. 昨天我挖山藥 共挖了一個籠子。
 1. 山藥的主人. 
-Ima tnegaaw ka
- 5 brunguy gaga? 那五個籠子的山藥是誰的？
+Ima tnegaaw ka 5 brunguy gaga? 那五個籠子的山藥是誰的？
 1. 挖山藥吃. 
 Ttgaaw na ka bowyak o qmhdu kmeebung kmari dxgal bbuyu. 山豬挖山藥把 野外挖翻了。
 1. 拔出. 
@@ -31343,8 +31246,7 @@ Gbula su mshjil ka aapa laqi. 孩子要揹的不要裝重的。
 1. 裝載的. 
 Gbulan na ptntun huway na ka lupung mu. 我的朋友慷慨地給我滿滿的。
 1. 要裝載. 
-Gbulaw mu
- 3 qabang ka masu bgay mu sunan. 我要裝三件被 毯的小米給你(一 件被毯約可裝四個大背簍)。
+Gbulaw mu 3 qabang ka masu bgay mu sunan. 我要裝三件被 毯的小米給你(一 件被毯約可裝四個大背簍)。
 1. 替…裝載. 
 Gbulay ta haya ka enlaqi ini kla gmabul. 我們替不會裝東西的孩子裝。
 1. 
@@ -31588,8 +31490,7 @@ Saw kkgaing ka ksaun su o lbui lala hari ka buwax. 因你要去遠方打 獵，�
 1. 看成遠的. 
 Kmnegaing dalih bi ka laqi su. 你的孩子 把近的看成遠的。
 1. 很遠的路程. 
-Knegaing saun ta o empkrabi ta
- 5 rabi. 我們要走很遠的路程，要夜 宿五夜。
+Knegaing saun ta o empkrabi ta 5 rabi. 我們要走很遠的路程，要夜 宿五夜。
 1. 成為遠. 
 Maagaing bi ka endalih. 原來近的成為遠了。
 1. 離很遠. 
@@ -31787,8 +31688,7 @@ Glqani pais ka snbeytaq nii. 這把刀拿去出草。
 1. 出草（
  Rdrudan sbiyaw o gmaliq balay seejiq. 祖先有出草的習俗。
 1. 取了. 
-Gmnegaliq ku
- 3 pais ka yaku. 我取了三個敵人的首級。
+Gmnegaliq ku 3 pais ka yaku. 我取了三個敵人的首級。
 1. 取過首級. 
 Gnaliq pais ka pucing o ini hmci dmuuy. 取過敵人首級的刀不能隨便亂動。
 1. 取首級技術. 
@@ -32175,8 +32075,7 @@ Iya sai gmarang ka pnhidaw trabus gaga, mquyux ka sayang. 不要去耙開日曬�
 Gmnarang kari Utux tbyaxun paah sknuwan ka tama na? 你父親什麼 時候開始傳 上帝的話？
 1. 傳講. 
 2. 耙開過日曬的. 
-Gnarang mu mhidaw ka payay dhquy o
- 5 lubuy powci. 我耙開過 日曬的糯米稻有五包麻布袋。
+Gnarang mu mhidaw ka payay dhquy o 5 lubuy powci. 我耙開過 日曬的糯米稻有五包麻布袋。
 1. 別…耙開. 
 Grangasu qmuyux ka pnhdagan trabus. 雨天時別把要日曬的花生耙開。
 1. 把…耙開. 
@@ -32377,8 +32276,7 @@ Ttgasig na buan ka laqi ga o ungat rrihan. 那小孩子 經常在母親身邊沒
  2. 繩子. 
 Sai mangal ka gasil gaga. 你去把那條繩子拿過來。 Gasil kacing. 牛的繩子。
  3. 屋頂的樑木. 
-Gasil sapah mu ka
- 3 gaga. 那三支是我屋頂的樑木。 [詞意：hangan seejiq 人名（男） 詞意： snuyuk nuqih 繩子]
+Gasil sapah mu ka 3 gaga. 那三支是我屋頂的樑木。 [詞意：hangan seejiq 人名（男） 詞意： snuyuk nuqih 繩子]
 1. 編繩者. 
 Dmptgasil ka qpahun dha. 他們的工作是編繩子的。
 1. 要成為…繩子. 
@@ -32992,8 +32890,7 @@ Ppgayaw mu pgeelug munan ka elug mu. 我要請你們替我拓寬道路。
 1. 勸架、
 
 1. 幫…宰殺. 
-Sgayaw nami haya kmrut ka kacing na o
- 3 mneudus. 我們幫他宰殺的牛共有 三頭。
+Sgayaw nami haya kmrut ka kacing na o 3 mneudus. 我們幫他宰殺的牛共有 三頭。
 1. 老是喜歡…開 闢. 
 Saw skgayaw gmeelug dgiyaq ka dhiya gaga. 他們老是喜歡開山路。
 1. 像劈…一樣. 
@@ -33629,8 +33526,7 @@ Mnmanu ka gneeguy na? 他偷了些東西？
 1. 被偷. 
 Pnlealu mu powsa ku patus o wada guyun. 我隨意放的槍被人偷了。
 1. 變成偷竊犯. 
-Asi kgeeguy kana ka
- 5 laqi na. 他的五個孩子都是偷竊犯。
+Asi kgeeguy kana ka 5 laqi na. 他的五個孩子都是偷竊犯。
 1. 才…
  Aji su kkgeeguy o asi su ka qrapun ni musa phmuk! 你必須被抓去坐牢才可 以不偷竊嗎！
 1. 偷窺. 
@@ -33711,15 +33607,13 @@ Iya glkani dangi seejiq ka risaw su. 別讓你兒子搶別人的情人。
 1. 搶奪. 
 Klat wada gmeeluk dnuuy. 他用的的 搶奪那個要用的東 西。
 1. 搶奪了. 
-Gmnegeeluk ku
- 3 ka smbrangan pais wada mu gliqun. 我從被我殺死的敵人手 中搶奪了三隻矛槍。
+Gmnegeeluk ku 3 ka smbrangan pais wada mu gliqun. 我從被我殺死的敵人手 中搶奪了三隻矛槍。
 1. 搶奪. 
 Gnegeeluk na enlaqi su ka ppatas gaga. 他從你孩子那 裏搶奪那隻筆。
 1. 想要搶. 
 Kmgeeluk ku hapung wauwa ga o ini usa baga mu msiqa ku. 我想要搶那小姐的 毛巾，但我感覺不好意思下不了 手。
 1. 要從…搶奪. 
-Mgeeluk ku
- 2 ka pucing pais ni bgay mu sunan ka kingal. 我要從敵人手中 奪得兩把山刀，一把給你。
+Mgeeluk ku 2 ka pucing pais ni bgay mu sunan ka kingal. 我要從敵人手中 奪得兩把山刀，一把給你。
 1. 互相爭奪. 
 Mggeeluk nami towkan tama o yaku ka mangal na. 我們互相爭奪父親的背網 袋而我得到。
 1. 想要…搶奪. 
@@ -33943,8 +33837,7 @@ Nii nami tmghak beyluh hmaun hkawas. 我們在取明年要種的豆種子。
 1. 取種子. 
 Tmneghak ku blbeyluh ka yaku. 我收藏很多的豆類種子。
 1. 
- Tneghak pajiq nii o tduwa sghak
- 4 pnskarat ka ghak na. 這個人的 菜種子一 年四季都可以種。
+ Tneghak pajiq nii o tduwa sghak 4 pnskarat ka ghak na. 這個人的 菜種子一 年四季都可以種。
 1. 取種子. 
 Ttghak na o mkla bi gmaaw ghak. 他很會挑選種子。
 1. 用便宜. 
@@ -34200,8 +34093,7 @@ Gaga tggihat bi eusa mdkrang ga o malu snpi dha. 他們急著去馘首是因為�
 Manu sun namu haya tmggihat pngahi, knhuway hari. 你們怎麼急著釣魚，慢慢來。
 
 1. 曾急著. 
-Tmnegihat nami muyak
- 3 bowyak ka smrbu. 今天早上我們急著宰殺三頭山豬。
+Tmnegihat nami muyak 3 bowyak ka smrbu. 今天早上我們急著宰殺三頭山豬。
 
 1. 曾急著. 
 Tnegihat na mkan mtalux ka peebrih. 他因急著吃熱食而反胃。
@@ -34336,13 +34228,11 @@ Gkusun mu ka dupan ta saman. 明天我要在獵場上設置長刺陷阱。
 1. 設置竹刺陷阱. 
 Gmgiku ka sowbaw bi ga o ini thngili do wada tgkayuh ka tru da. 那人沒 有把木刺削尖導致三隻野獸擦傷而過。
 1. 放長刺陷阱. 
-Gmikus ka sowbaw bi ga o ini thngili do wada tgkayuh ka
- 3 da. 那個笨拙的 人沒有把長刺樁削尖，所以有三隻只擦傷而過。
+Gmikus ka sowbaw bi ga o ini thngili do wada tgkayuh ka 3 da. 那個笨拙的 人沒有把長刺樁削尖，所以有三隻只擦傷而過。
 1. 設置的長刺陷阱. 
 Gmnegikus ku rungay o wada na qhduun gmabal kana ka snegikus mu. 我設置的長刺陷阱被猴子全數拔掉了。
 1. 設置的長刺陷阱. 
-Naduk mu ka pada o
- 5 ka tbeytaq gnegikus mu. 我追獵的五隻山羌是 在長刺陷阱上捉到的。
+Naduk mu ka pada o 5 ka tbeytaq gnegikus mu. 我追獵的五隻山羌是 在長刺陷阱上捉到的。
 1. 設置長刺陷阱. 
 Ana asi kgikus kana ka siyaw qmpahan na o ungat tjiyal ana kingal ka bowyak. 雖然他在田地旁設置長刺陷阱，但連一隻山豬都沒有捕獲。
 1. 若…要設置長刺陷阱. 
@@ -34398,8 +34288,7 @@ Tgikus snalu su ka bsiyaq bi jiyun. 你做的緯線具最耐用。
 1. 製作梭. 
 Nii ku tmggikus cinun jiyun tminun kana kyikuyuh alang nami. 我在製作我們部 落婦女使用的梭。
 1. 專製作梭. 
-Tmnegikus ku cinun smmalu o
- 5 hngkwas sayang da. 我製作梭已經五年了。
+Tmnegikus ku cinun smmalu o 5 hngkwas sayang da. 我製作梭已經五年了。
 1. 梭的主人. 
 Tnegikus cinun nii o hiya ka mnarah na smmalu. 這梭的主人是發 明者。
 1. 使用梭. 
@@ -34598,8 +34487,7 @@ Tggirang kana ka xiluy ini rsuhi gluq embanah. 沒有用紅漆防銹的鐵都會
 1. 專…生銹. 
 Nii nami tmggirang sminaw xiluy ka sayang. 今天我們專在擦拭生銹的鐵。
 1. 專…銹. 
-Tmnegirang ku sminaw xiluy sgrangan ni rsuhan mu gluq embanah o
- 3 hngkawas da. 我專擦紅漆防銹的工作已經三 年了。
+Tmnegirang ku sminaw xiluy sgrangan ni rsuhan mu gluq embanah o 3 hngkawas da. 我專擦紅漆防銹的工作已經三 年了。
 1. 銹…的主人. 
 Tnegirang pucing nii o ddawi na ini smkul qngqaya. 這銹刀的主人因懶惰 不整理工具。
 1. 經常處理生銹. 
@@ -34694,8 +34582,7 @@ Gisu nami tmgisil ka sayang o tai ta tgila ku mk2 jiyax miyah ka yaku. 我們 �
 Tmnegisil nami smjiyax lupung paru ka shiga. 我們昨天做親家 的土堰作為幫工。
 
 1. 土堰的主人. 
-Tnegisil qmpahan nii o
- 2 lituk ka qmpahan gsulun na. 做這個土堰的人他有 兩甲地要做土堰。
+Tnegisil qmpahan nii o 2 lituk ka qmpahan gsulun na. 做這個土堰的人他有 兩甲地要做土堰。
 1. 經常做土堰. 
 Ttgisil nami o asi nami bi pkrbuk. 我們做土堰使我們勞累。
 1. 要來這裡. 
@@ -35170,8 +35057,7 @@ Ga gmglama smbu pais niya kmrmux alang ka dhiya. 他們等著射擊攻擊他們�
 1. 預先. 
 Gmneglama mkan tutu qsurux bnegay nami ka baki ni payi. 祖父和祖母先吃了我 們給他們的魚罐頭。
 1. 取了. 
-Gneglama nami mangal ka djima pngqluli tama o
- 3 tdruy kacing. 我們取了父親水 運桂竹一共有三台牛車。
+Gneglama nami mangal ka djima pngqluli tama o 3 tdruy kacing. 我們取了父親水 運桂竹一共有三台牛車。
 1. 就等著. 
 Asi kglama smbu rungay miyah mkan gitu ka isu hug? 你就等著射吃枇杷的猴 子好嗎？
 1. 為了…等著. 
@@ -35199,8 +35085,7 @@ Iya bi sai pglama smmalu sapah ka euda rngsux. 土石流經過的地方不要在
 1. 預先. 
 Ini pnegglama smksik sapah ka seejiq ini psbhgay. 不愛清潔的人不會清 掃房子。
 1. 等著用來. 
-Ppglama mu tujiq ka tbaqa
- 3 gaga. 那三個水缸是我等著用來積雨水的。
+Ppglama mu tujiq ka tbaqa 3 gaga. 那三個水缸是我等著用來積雨水的。
 1. 因為…
  Wada ptgglama sunu rbngan ka sapah seejiq kiya. 那個人的 房子因坍方被掩 埋了。
 1. 預先. 
@@ -35257,8 +35142,7 @@ Glangi haya ka putus buji na. 幫他做箭尾鉤。
 1. 要…做刀銷. 
 Glangun mu saman ka rudu pucing su. 我明天才要做你的刀銷。
 1. 不要做…樓梯. 
-Glnganay su bi haya ka elug nkala sapah
- 5 tntunan. 不要做他五層樓房的 樓梯。
+Glnganay su bi haya ka elug nkala sapah 5 tntunan. 不要做他五層樓房的 樓梯。
 1. 幫…做鉤. 
 Glngani haya ka rijig pucing na. 幫他做刀柄的止滑鉤。
 1. 製作鉤結. 
@@ -35305,8 +35189,7 @@ Ini pnegglang ka tapaq dowras sipaw gaga. 對面的峭壁沒有台階。
 1. 做了梯子. 
 Pneglang su knan ka erut hakaw o mk10 mu jiyax. 我花了十天做你叫我做的 木梯。
 1. 託…做樓梯. 
-Ppglang su smmalu knan ka sapah su
- 7 tntunan o biqun saku piya pila? 你要 託我做你七層樓房的樓梯要給我多少工錢？
+Ppglang su smmalu knan ka sapah su 7 tntunan o biqun saku piya pila? 你要 託我做你七層樓房的樓梯要給我多少工錢？
 1. 因…做台階而死. 
 Wada ptgglang gmeelug dowras ka kingal yami hiya. 我們那裡有一位 因在懸崖開路的台階而死。
 1. 依賴…台階. 
@@ -35451,8 +35334,7 @@ Tmnegluq ku rusuq psamaw o htbyaxun bi ka miyah smluhay ssalu dha uri. 我做 �
 1. 捕獲粘物者. 
 Tnegluq rktu mirit nii o ki tbhringun na balay. 捕獲山羊胃中有粘珠物的人 很有靈氣。
 1. 做潤滑油. 
-Ttgluq nami smmalu gluq ayang o
- 5 hngkawas da. 我們已經有五年的時間製 作潤滑油了。
+Ttgluq nami smmalu gluq ayang o 5 hngkawas da. 我們已經有五年的時間製 作潤滑油了。
 1. 指責他人動作遲緩. 
 Gmama binaw niqan tbyaxun ga, sita su mhuya? 工作忙碌時動作遲緩， 看你怎麼辦？
 1. 動作遲緩的人. 
@@ -36095,8 +35977,7 @@ Dmptgquring ssalu asu gsilung ka qpahun dha. 他們的工作是研究造船。
 1. 要研究. 
 Empgquring nami smmalu kana elelug euda ka yami. 我們要研究全部的海陸空 交通道路。
 1. 用來…研究所. 
-Ggquring mu ppatas laqi ka pila pnsku mu
- 7 hngkawas. 我七年的積蓄要 用來給小孩子讀研究所。
+Ggquring mu ppatas laqi ka pila pnsku mu 7 hngkawas. 我七年的積蓄要 用來給小孩子讀研究所。
 1. 研究所. 
 Gmnegquring matas ka seejiq o kika pqbyaiq dhyaan. 讀了研究所 就會增廣見聞。
 
@@ -36190,8 +36071,7 @@ Gnrabun ima ka bluhing gaga? 這簸箕是誰滾的邊？
 1. 別幫…滾邊. 
 Grbanay su haya ka giya na. 別幫他滾小簸箕的邊。
 1. 幫…修邊. 
-Grbani haya ka
- 3 gupuq baki su. 你把祖父的三個便當盒修邊。
+Grbani haya ka 3 gupuq baki su. 你把祖父的三個便當盒修邊。
 1. 讓…修邊. 
 Grbuay ta haya ka giya na. 讓我們來幫他修小簸箕的邊。
 1. 別修邊. 
@@ -36242,8 +36122,7 @@ Aji tmnegrabun ka seejiq o aji empeekla manu ka sun gmrabun. 沒有滾過邊的�
 1. 修邊的人. 
 Tnegrabun bluhing nii o hiya ka mslikaw bi gmrabun alang nami hini. 修這簸 箕的人在我 們部落是動作很快。
 1. 滾邊. 
-Ttgrabun na bluhing o
- 9 hngkawas sayang da. 他滾簸箕的邊到現在已經有九年了。
+Ttgrabun na bluhing o 9 hngkawas sayang da. 他滾簸箕的邊到現在已經有九年了。
 
 1. 鬆掉. 
 Iya grahuq ka masaw su nhapuy. 你端飯時手不要鬆掉。
@@ -36526,11 +36405,9 @@ Nii ku tmggring smmalu jiyun dha smbarig huda. 我專門在做他們賣冰的 �
 1. 做過搖鈴. 
 Tmnegring su smmalu uri isu ga? 你也做過搖鈴嗎？
 1. 搖鈴的主人. 
-Ima ka tnegring
- 5 gaga? 這五個搖鈴的主人是 誰？
+Ima ka tnegring 5 gaga? 這五個搖鈴的主人是 誰？
 1. 一直做搖 鈴. 
-Ttgring na smmalu o
- 5 hngkawas da. 他一直做搖 鈴已經五年了。
+Ttgring na smmalu o 5 hngkawas da. 他一直做搖 鈴已經五年了。
 1. 扭曲的話. 
 2. 旋轉. 
 3. 悔想. 
@@ -36595,8 +36472,7 @@ Grman mu ka hukut na. 我折斷他的拐杖。
 1. 別騎壞. 
 Grmanay su haya ka tdruy gakat tama su. 你別騎壞了你父親的單車。
 1. 弄斷. 
-Grmani
- 3 sibus ka uqun payi su. 弄斷三根甘蔗給你祖母吃。
+Grmani 3 sibus ka uqun payi su. 弄斷三根甘蔗給你祖母吃。
 1. 把…弄斷. 
 Grmaw ta ka hakaw gaga. 我們把那個橋弄斷。
 1. 要弄斷. 
@@ -36902,8 +36778,7 @@ Tmurak damat baki mu o sgsgus mu haya. 我替我祖父剉絲黃瓜。
 1. 去剉絲. 
 Sgsi nanak ka tmurak su. 你的黃瓜自己去剉絲。
 1. 要剉絲. 
-Tbihi sgsun mu
- 3 brunguy. 我要剉絲的蘿蔔有三個背簍？
+Tbihi sgsun mu 3 brunguy. 我要剉絲的蘿蔔有三個背簍？
 1. 像剉絲…一樣. 
 Sknegsgus mu tbihi gmsgus ka tbuwir. 我剉絲黃瓜像剉絲蘿蔔一樣。
 1. 費時來剉絲. 
@@ -37671,11 +37546,9 @@ Qmita ku ga pgukut ququy dgiyaq ka rulung do ini ku phidaw payay da. 我看見�
 1. 用鍋墊. 
 Ini pneggukut ka seejiq ungat liwas na. 沒有鍋子的人不用 鍋墊。
 1. 託…鍋墊. 
-Pnegukut su pcinun knan o
- 20, hay ga? 你託我編的鍋墊二十件，是不是 ？
+Pnegukut su pcinun knan o 20, hay ga? 你託我編的鍋墊二十件，是不是 ？
 1. 用來墊. 
-Ppgukut su manu ka
- 3 gaga? 你那三個鍋墊要用來墊甚麼？
+Ppgukut su manu ka 3 gaga? 你那三個鍋墊要用來墊甚麼？
 1. 來要鍋墊. 
 Miyah sggukut mu meysa kana ka laqi mu ungat gukut. 我所有沒有鍋墊的孩 子都來向我要。
 1. 用墊. 
@@ -38185,15 +38058,13 @@ Mmguquh ku bi kmari pusu erut qnawal o mgrung ka rijig bkaruh mu da. 我正要 �
 1. 喜歡挖. 
 Mnegguquh bi kmari bling qowlit ka huling mu. 我的狗很喜歡挖老鼠洞。
 1. 想要挖. 
-Mqmguquh ku
- 3 ka skran bluhing. 我想要挖三個凹形的簸箕。
+Mqmguquh ku 3 ka skran bluhing. 我想要挖三個凹形的簸箕。
 1. 為了挖…而發生爭執. 
 Msneguquh nami bluhing mqsuqi gnquhan na. 我們為了要編簸箕 挖凹形坑過於深而發生爭執。
 1. 露出…挖的坑. 
 Hmut mtgguquh kana ka driq dgiyaq qnbrangan pais mrata. 山邊都露出 埋伏敵軍的散兵坑。
 1. 應該挖. 
-Neguquh su
- 5 ka gquhan giya, htbyaxun ka mguquh giya sayang. 你應該挖五個 要編小簸箕用的凹形坑，因為有很多人要編小 簸箕。
+Neguquh su 5 ka gquhan giya, htbyaxun ka mguquh giya sayang. 你應該挖五個 要編小簸箕用的凹形坑，因為有很多人要編小 簸箕。
 1. 使…凹形. 
 Hidaw ka pguquh qcinuh gaga. 太陽使木板凹形的。
 1. 坑洞. 
@@ -38215,13 +38086,11 @@ Saw aji qqguquh daan qsiya ka qmpahan o naa huya sun ka malu? 不曉得如何 �
 1. 用…凹形. 
 Maah ku sgguquh gnquhan su giya. 我要用你編小 簸箕的凹形坑。
 1. 替…凹形. 
-Sguquh mu
- 5 ka gquhan dha bluhing. 我替他們挖五個編簸箕的凹形坑。
+Sguquh mu 5 ka gquhan dha bluhing. 我替他們挖五個編簸箕的凹形坑。
 1. 會使…坑洞. 
 Smgguquh bi qmpahan ka enteetu qmuyux. 常常下雨會使田地坑坑洞洞。
 1. 請…凹形. 
-Spguquh mu kmawih bkian mu ka
- 7 kayu. 我請我祖父雕製七個木製的大碗。
+Spguquh mu kmawih bkian mu ka 7 kayu. 我請我祖父雕製七個木製的大碗。
 
 1. 老是挖. 
 Saw sqguquh bbuyu ka bowyak. 山豬老是把叢林挖的坑坑洞洞。
@@ -38712,8 +38581,7 @@ Dgxal mu ga o malu bi tgxalan kana. 那些是我很合得來的親戚。
 1. 同伴. 
 Dmptgxal Klmukan ga o ini pnegxal Trkuan. 平地人不喜歡和太魯閣族 做同伴。
 1. 要做同伴. 
-Empeegxal mu ka
- 3 hiyi gaga. 這三個人要跟我同伴。
+Empeegxal mu ka 3 hiyi gaga. 這三個人要跟我同伴。
 1. 要成為伙伴. 
 Empgxal ku dha ka yaku paah sayang. 從現在開始要和他們做伙伴。
 1. 要做伙伴. 
@@ -38723,8 +38591,7 @@ Ggxal mu masug ka nii. 這是我要 分給親戚的。
 1. 告知親戚. 
 Niqan paru euda do muda gmgxal pgkla ka hiya. 有重大事情時他會告知他的 親戚們。
 1. 
- Gnegxal mu lmamu ka pila o mtuku bi brigun
- 5 mneudus babuy. 從親戚收集 來的錢足夠買五頭豬。
+ Gnegxal mu lmamu ka pila o mtuku bi brigun 5 mneudus babuy. 從親戚收集 來的錢足夠買五頭豬。
 1. 各個親戚. 
 Kana gxgxal mu ga o pnaah gaing ka duma. 我所有的 親戚當中有的是來 自遠 方。
 1. 都成為親戚. 
@@ -38756,8 +38623,7 @@ Nkgxal su bi hki hiya ga, prqdgun su na mgay nengari lniing ka siyang o. 讓 他
 1. 成為夥伴. 
 Asi namu pggxal nak mnswayi ka yamu. 你們兄弟姊妹各自成為一夥。
 1. 要分…親戚. 
-Pgxal mu ka babuy o
- 7 mneudus. 我宰殺七頭豬分給親戚。
+Pgxal mu ka babuy o 7 mneudus. 我宰殺七頭豬分給親戚。
 1. 會同伙. 
 Ini pnegtgxal kmseanak bi ka hiya. 他自己獨立不會想和我們同伙。
 1. 給…吃的筵席. 
@@ -39034,8 +38900,7 @@ Gghabung mu smmalu bqrus ka qngqaya mu gaga. 我的那些工具是要用來 做�
 1. 找土堆. 
 Gmhabung psiyus ka laqi su. 你的孩子在 找蟋蟀土堆。
 1. 找過土堆. 
-Gmnhabung ku arung ka shiga o
- 3 ka hnlayan mu. 我昨天找到三隻 穿山甲的 土堆。
+Gmnhabung ku arung ka shiga o 3 ka hnlayan mu. 我昨天找到三隻 穿山甲的 土堆。
 1. 用來…土堆. 
 Gnhabung mu kmari qibu ka parih nii. 這鋤頭是我用來 挖小田鼠的土堆。
 1. 那些土堆. 
@@ -39418,8 +39283,7 @@ Ma su tghhadut bi samat knan? Ida bi niqan snyaxun su knan. 你怎麼老是送�
 1. 曾送過. 
 Tmnhadut ku patas kngkingal rhngun sapah ka qpahun mu. 我過去的工作是郵 差。
 1. 送的人. 
-Tnhadut kingal mneudus bowyak nii o lupung mu mnangal
- 5 mneudus bowyak snii. 送我這一隻山豬的人，是我 最近獵了五頭山豬的朋友。
+Tnhadut kingal mneudus bowyak nii o lupung mu mnangal 5 mneudus bowyak snii. 送我這一隻山豬的人，是我 最近獵了五頭山豬的朋友。
 1. 常搬運. 
 Tthadut na qngqaya gbulun asu o bitaq ensuwil asi taqi babaw tdruy. 他常搬運貨 輪的貨有時忙到在車上睡覺。
 1. 行列;排列. 
@@ -40094,8 +39958,7 @@ Hnaanay su ha peekan ka ida na mqmuqun. 他想吃的東西，你不要 當作 �
 Hnaani pduuy lqian mu ka patus kmjiyun na. 我孩子想用的槍讓他初次使用。
 
 1. 
- Hnaaw ta musa mgay ka nkusa
- 3 hngkawas. 我們剛去還 積欠三年的債。
+ Hnaaw ta musa mgay ka nkusa 3 hngkawas. 我們剛去還 積欠三年的債。
 1. 
  Hnaay ta musa pha gasil ka qrunang bnsiyaq pnsangay. 我們才剛去 放很久沒有放 陷阱的獵場。
 1. 
@@ -40750,8 +40613,7 @@ Ma su ini sruwa pharis tmabuy pgeelug knan? 你怎麼不讓我開闢往下斜的
 1. 會…斜坡. 
 Ini pnegharis ppowsa na gasil mirit ka tama mu gmnsteetu kuxul na. 我父親不 會沿著斜坡設置山羊的陷阱，而是喜歡在陡峭的地方設置。
 1. 請…斜坡. 
-Pnharis na pstabuy pgeelug mnan o
- 5 qiri bbaraw. 他請我們開闢往下斜的路 有五個很長的彎道。
+Pnharis na pstabuy pgeelug mnan o 5 qiri bbaraw. 他請我們開闢往下斜的路 有五個很長的彎道。
 1. 讓…斜坡. 
 3 hnegadan ka ppharis na ptlnga knan. 他讓我在三行斜坡放套腳陷阱。
 1. 走…斜坡. 
@@ -41784,8 +41646,7 @@ Thbaya su mkan ka isu laqi. 你是小孩子，只有 肚皮不可吃！
 1. 只取肚皮. 
 Thbayan na mangal ka babuy mu. 他只取我豬的肚皮。
 1. 只挑肚皮. 
-Thbayaw ta mkan
- 2 ta ka pada nii. 我們兩個人只挑山羌的肚皮吃。
+Thbayaw ta mkan 2 ta ka pada nii. 我們兩個人只挑山羌的肚皮吃。
 1. 只吃肚皮. 
 Thbayay mu mkan yaku ka bgilaq gaga. 讓我吃那果子狸的肚皮。
 1. 只去切肚皮. 
@@ -41797,8 +41658,7 @@ Thbyanay su peekan laqi mu snaw hiya ha! 我擔心你讓我兒子在那 裡吃�
 1. 只給…肚皮. 
 Thbyani peekan tmaan su ka bru bowyak. 給你父親吃小山豬的肚皮。
 1. 忙著切肚皮. 
-Gisu ku tmhhbay
- 3 rqnux, yahi ku dmayaw? 我忙著切三隻水鹿的肚皮， 請來幫我？
+Gisu ku tmhhbay 3 rqnux, yahi ku dmayaw? 我忙著切三隻水鹿的肚皮， 請來幫我？
 1. 專找肚皮. 
 Tmnhbay rungay mkan ka baki su shiga. 你的祖父昨天專吃猴子的肚皮。
 1. 肚皮所有人. 
@@ -42030,8 +41890,7 @@ Ini namu angal ka tunux pais o iya hdhik. 你們沒有馘首的就別凱旋歡�
 1. 凱旋歡呼者. 
 Dmphdhik mnangal pais ka Truku sbiyaw. 以前太魯閣族人 馘首會凱旋歡 呼。
 1. 會凱旋歡呼. 
-Mangal nami
- 2 ka pais o emphdhik nami mn2. 我們獵兩個人頭會凱旋歡呼 兩次。
+Mangal nami 2 ka pais o emphdhik nami mn2. 我們獵兩個人頭會凱旋歡呼 兩次。
 1. 向…凱旋歡呼. 
 Ghdhik su mnan o gnhiyug babaw pngpung mtreura balay, ki ka bhangan. 當你向我們凱旋歡呼時，你要 站在明顯的地方才會聽到。
 1. 等待…凱旋歡呼. 
@@ -42043,8 +41902,7 @@ Gmnhdhik ku smpi o malu utux mu. 我在夢中夢到凱旋歡呼的聲音覺得�
 1. 別凱旋歡呼. 
 Hdhka su mn3 ka nngalan kingal tunux. 獵到一個首級就別吶喊三次。
 1. 凱旋歡呼. 
-Hdhkan dha mn3 ka nngalan
- 3 tunux. 他們用三聲凱旋歡呼吶喊獵三個敵人 首級。
+Hdhkan dha mn3 ka nngalan 3 tunux. 他們用三聲凱旋歡呼吶喊獵三個敵人 首級。
 1. 別凱旋歡呼. 
 Hdhkanay su ka nngalan su kumay. 獵到熊別來凱旋歡呼。
 1. 讓…凱旋歡呼. 
@@ -42066,8 +41924,7 @@ Hmndhik nami mn3 o mn2 ka bhangan dha. 我們凱旋歡呼過三次他們卻聽 �
 1. 曾…凱旋歡呼聲. 
 Hnhdhik dha ga, qbahangan o mn2. 他們聽到兩次的凱旋歡呼聲。
 1. 都是凱旋歡呼聲. 
-Asi khdhik kana ka tkblnga dgiyaq ga o kla su ha mnangal
- 5 ka pais. 滿 山迴盪著凱旋歡呼的聲音，原來 取了五個首級。
+Asi khdhik kana ka tkblnga dgiyaq ga o kla su ha mnangal 5 ka pais. 滿 山迴盪著凱旋歡呼的聲音，原來 取了五個首級。
 1. 要凱旋歡呼. 
 Kkhdhik namu o asi endka kana. 你們要凱旋歡呼時都要一起歡呼。
 1. 當作…凱旋歡呼. 
@@ -42107,8 +41964,7 @@ Ini tduwa sphdhik txaun ka nngalan pais. 獵敵人首級不能請別人來凱旋
 1. 比較會凱旋歡呼. 
 Tghdhik bi risaw ga o qaras na hana mangal tunux pais. 那在凱旋歡呼 的男青年因初次馘首而喜樂。
 1. 專門…凱旋歡呼聲. 
-Tmhdhik nami embahang nngalan dha
- 3 tunux pais ka kana alang. 我 們全部落在傾聽他們獵三個敵人的首級。
+Tmhdhik nami embahang nngalan dha 3 tunux pais ka kana alang. 我 們全部落在傾聽他們獵三個敵人的首級。
 1. 專門期待…凱旋歡呼聲. 
 Tmnhdhik nami psmiyah wada mdkrang. 我們期待去獵首級的 凱旋吶喊聲。
 1. 凱旋歡呼的人. 
@@ -42497,8 +42353,7 @@ Asi qhgliq kana ka patas hnegliq laqi na. 所有的書被他的孩子 撕破。
 1. 當作撕破…一樣. 
 Qmnhgliq qmita lukus mu ida knshaya smais ka payi gaga. 那祖母把開 岔的衣服看作 是被撕破的樣子。
 1. 裂開的樣子. 
-Qnhgliq nngalan na luqih o
- 5 sneisan. 他撕裂的傷口縫了五針。
+Qnhgliq nngalan na luqih o 5 sneisan. 他撕裂的傷口縫了五針。
 1. 為了…撕破. 
 Aji qqhgliq patas ka laqi ga o sku baraw ka patas namu. 為了不讓那孩子撕 破書本，把你們的書放在最上方。
 1. 用…
@@ -42945,8 +42800,7 @@ Dmhici laqi sapah musa qmpahan ka dbubu ga o niqan payi dha emklawa laqi. 那些
 1. 留…的人. 
 Dmphici tbrinah dmnanga ka lutut dha. 他們的親戚都是忘恩負義的人。
 1. 會留下. 
-Emphici ku
- 300 pila ka brigun namu damat. 我要留三百元給你們買菜。
+Emphici ku 300 pila ka brigun namu damat. 我要留三百元給你們買菜。
 1. 留下. 
 Ghici mu smiyuk ka kingal mneudus babuy. 我會留一隻豬回請。
 1. 留. 
@@ -42992,8 +42846,7 @@ Mghici bi kngkla na ka laqi ga o saw sgealu. 那個孩子的 智力遲緩讓人�
 1. 先留下. 
 Mhici ku mmkay ni empsnegul ku munan da. 我先留下做家事，隨後跟著你們 後面走。
 1. 想留. 
-Quri sunan o mkmhici ku
- 3 lituk ka dxgal. 對你我想留給你三甲的土地。
+Quri sunan o mkmhici ku 3 lituk ka dxgal. 對你我想留給你三甲的土地。
 1. 想要留給. 
 Mkmphici ku buan su ka mami uqun namu ska hidaw. 你們中午吃的橘子， 我想要留給你母親。
 1. 正當要遺棄. 
@@ -43003,9 +42856,7 @@ Ana asi huya o ida mneghici bi kksa na ka saw muxi gaga. 那走路慢吞吞地�
 1. 為了留下…而爭執. 
 Msnhici nami pila lqian ini tuku shici. 我們為了要留給孩子的錢不 夠而爭執。
 1. 應該留. 
-Nhici su
- 6 ka yabas,
- 6 nami hiyi o! 你應該要留六粒番石榴，我們有六個人呢！
+Nhici su 6 ka yabas, 6 nami hiyi o! 你應該要留六粒番石榴，我們有六個人呢！
 
 1. 託…留. 
 Phici mu sunan ka giji payi su, bqani haya ha! 我要把你祖母的項鍊留給你，要 交給她喔！
@@ -43302,8 +43153,7 @@ Empthili laqi snaw ka laqi kuyuh. 女孩子會給男孩子帶來幸福。
 1. 用來……送. 
 Ghili mu rdanan ka qabang tninun mu. 我織的被毯要用來送給父母 親。
 1. 只送……. Gmhili ku seejiq saw ga mqraqil bi ka yaku. 我是只送東西給災民。
-1. 要給……. Gnhili mu laqi pssli ka buhug o
- 7 pila da. 我要給孩子的錢已存了七塊。
+1. 要給……. Gnhili mu laqi pssli ka buhug o 7 pila da. 我要給孩子的錢已存了七塊。
 
 1. 
  Hhili nami laqi mqrinut ka lukus gaga. 那衣服是要送給貧困的孩子。
@@ -44427,8 +44277,7 @@ Spdhiya su nanak ka qpahun kiya o aji dha sngqlingun. 你把工作 託給他們�
 1. 
  Tgdhiya ga ka mnegaya balay. 他們是比較守祖訓的。
 1. 他們的. 
-Tgendhiya ga o malan mu
- 3 duri. 他們的我又多給了三份。
+Tgendhiya ga o malan mu 3 duri. 他們的我又多給了三份。
 1. 對他們好. 
 Wana yamu tmdhiya bi ga. 只有你們對他們好。
 1. 忙於…他們的. 
@@ -44562,8 +44411,7 @@ Thyian na ka wauwa ki o ini sddalih. 他到小姐那裏但她不靠近他。
 1. 專門在那裡. 
 Tmnhiya ku mhuma ngiraw o ini ku dha yahi kmiyux. 我專門在那裡種香菇， 他們沒有來跟我擠。
  2. 喜歡她. 
-Tmnhiya ku bitaq sayang
- 5 hngkawas o ini bi tnjiyal na. 我已經喜歡她 五年了但她一直不答應。
+Tmnhiya ku bitaq sayang 5 hngkawas o ini bi tnjiyal na. 我已經喜歡她 五年了但她一直不答應。
 1. 那邊的主人. 
 Tnhiya ga o hiya ka tndxgal hiya. 那邊的主人是 地主。
  2. 她…生的. 
@@ -44907,8 +44755,7 @@ Ghjil mu qngqaya gmabul ka tdruy mu. 這車是我用來 搬家具用的。
 1. 只…搬移. 
 Ma su muda gmhjil qlubung mu? 你怎麼只把我的的套腳陷阱移走？
 1. 翻成. 
-Gmnhjil nami kari Truku paah kari Amirika o
- 3 hngkawas da. 我們把英文翻成太 魯閣族語 已經三年。
+Gmnhjil nami kari Truku paah kari Amirika o 3 hngkawas da. 我們把英文翻成太 魯閣族語 已經三年。
 1. 翻譯賺來. 
 Gnhjil nami kari Truku ka pila nii. 這錢是我們翻譯太魯閣族語 費。
 1. 別移走. 
@@ -45036,8 +44883,7 @@ Hjiqun mu hmilaw wauwa ga ka qabang dmayi. 我要把棉被讓給女兒 蓋。
 1. 退讓了. 
 Hmnjiq nami ka yami o ini hjiq ka dhiya. 我們退讓了，他們卻不讓。
 1. 讓給. 
-Hnjiq mu hyaan ka dxgal o
- 3 libu. 我讓給他的地是三分地。
+Hnjiq mu hyaan ka dxgal o 3 libu. 我讓給他的地是三分地。
 1. 
 
 1. 互相讓. 
@@ -45226,8 +45072,7 @@ Ghkraw mu mhiyug paah hini ka lmamu mami. 我要從這裏伸手用來摘橘子�
 1. 在…伸著. 
 Gmnhkraw ku babaw ngahu ka psmiyah tmaga sunan. 我在峭壁前緣上伸著 身等著你回來。
 1. 
- Gnhkraw mu lmamu ka busuq o
- 3 brunguy. 我伸著身體用手摘的李子有 三個背 簍。
+ Gnhkraw mu lmamu ka busuq o 3 brunguy. 我伸著身體用手摘的李子有 三個背 簍。
 1. 別把…伸. 
 Hkraga su qaqay euda seejiq. 別把腳伸在人過的地方。
 1. 
@@ -45768,8 +45613,7 @@ Alang mu hiya o asi nami phhlama nanak ka niqan dhquy. 我部落那裡有糯 米
 1. 做米糕. 
 Ini hari pneghlama masu ka yami hiya. 我們那裡不太喜歡小米糕。
 1. 託…做的米糕. 
-Pnhlama na knan o
- 3 rikit. 他託我做的是三塊米糕。
+Pnhlama na knan o 3 rikit. 他託我做的是三塊米糕。
 1. 要…做的米糕. 
 Pphlama su knan o piya rikit? 你要請我做的米糕要幾塊？
 1. 因米糕…而死. 
@@ -45911,8 +45755,7 @@ Tghlpa bi ga o trilan asu skaya. 那比較平坦的地是飛機場。
 1. 整平. 
 Gisu nami tmhlpa hmaan pajiq. 我們正在整平地種菜。
 1. 忙著整平. 
-Tmnhlpa nami trilan asu skaya bitaq sayang o
- 3 hngkawas da. 一直到現 在有3 年的時間我們忙著整平飛機場。
+Tmnhlpa nami trilan asu skaya bitaq sayang o 3 hngkawas da. 一直到現 在有3 年的時間我們忙著整平飛機場。
 1. 平坦地的主人. 
 Tnhlpa bi breenux ga o seejiq ga munan hiya. 那平坦地的主人是你 們那 裏的人。
 1. 經常整平. 
@@ -46204,8 +46047,7 @@ Mnhluyuq o mtumun da. 原來圓錐形的變成圓形了。
 1. 圓錐形. 
 Dxgal Taywang o mshluyuq quri hunat. 台灣的地形是南向成圓錐形。
 1. 為了圓錐形…爭執. 
-Msnhluyuq nami pratu sapa
- 3 ka wada na grmun. 我們為了三個圓 錐形的菜盤被他打破而發生爭執。
+Msnhluyuq nami pratu sapa 3 ka wada na grmun. 我們為了三個圓 錐形的菜盤被他打破而發生爭執。
 1. 露出尖的. 
 Dgiyaq ga mtghluyuq ga ka dupan nami. 那露出尖的山頂是我們的獵場。
 1. 原來…尖. 
@@ -46491,8 +46333,7 @@ Hmmuk su kulu sjiqun o malu? Ma ungat gnealu su. 你把人關起來好嗎？你�
 1. 用…蓋住. 
 Hmnmuk ku gmumuk bluhing wawa rudux skiisug mu rhu. 我用簸箕把小雞 蓋住我擔心隼。
 1. 
- Hnmuk kulu
- 5 hngkawas o srawah sayang da. 關過五年的現在出獄了。
+ Hnmuk kulu 5 hngkawas o srawah sayang da. 關過五年的現在出獄了。
 1. 成為…關. 
 Mnegeisug siida o asi khmuk dnpan kana ka sapah. 戒嚴時期所有的家門成為 關的門。
 1. 想…閉門. 
@@ -47836,8 +47677,7 @@ Tthrgu na btunux o ensuwil kngktaan btunux ka baga na. 他經常溜運石頭有 
 2. 氣喘聲;氣喘. 
 Hrhir mnarux waru ka meegul mu. 我有氣喘的毛病。
  3. 銼刀. 
-Hrhir mu ka
- 3 gaga. 那三個是我的 銼刀。 [詞意：lapux hiluy 磨刀石 詞意：hnang hiraw 氣喘聲]
+Hrhir mu ka 3 gaga. 那三個是我的 銼刀。 [詞意：lapux hiluy 磨刀石 詞意：hnang hiraw 氣喘聲]
 
 
 1. 氣喘的人. 
@@ -47863,8 +47703,7 @@ Hhrhir su manu ka kana gaga? 那些全部的你要用 什麼來磨呢？
 1. 正在磨. 
 Ga hmhrhir manu ka tama su? 你父親正在磨什麼？
 1. 
- Hmnhrhir ku
- 20 ka buji bgay mu sunan. 我磨過二十支箭鏃給你。
+ Hmnhrhir ku 20 ka buji bgay mu sunan. 我磨過二十支箭鏃給你。
 1. 磨. 
 Gaga hmrhir pucing ka tama mu. 我的父親正在磨鐵。
 1. 磨過的. 
@@ -48168,8 +48007,7 @@ Saw skhrig btunux qmpahan ka seejiq kiya. 那人老是在田地上倒石頭。
 1. 需要倒很多. 
 Smhhrig bi qsiya mahun ka rudux tbgan ta rawa. 在雞籠裏飼養雞需要倒很 多水喝。
 1. 託…裝. 
-Sphrig na lubuy knan ka buwax o
- 5 lubuy. 他託我裝在米袋的米共有五包。
+Sphrig na lubuy knan ka buwax o 5 lubuy. 他託我裝在米袋的米共有五包。
 1. 比較…倒. 
 Tghrig bi peimah qsiya lpungan ga o wauwa kmslupung bi. 那比較會倒水給 客人喝的小姐很好客。
 1. 
@@ -48210,8 +48048,7 @@ Hrnasa su kari ini pgayay ha. 你說話別太過份不守法。
 Hrnasaw ta ka tbyaxan tmukuy han. 讓我們先忙過播種期。
 1. 要超越. 
 2. 讓…送. 
-Hrnasay ta mgay
- 2 lubuy payay ka lupung. 讓我們多送朋友 二袋的 米。
+Hrnasay ta mgay 2 lubuy payay ka lupung. 讓我們多送朋友 二袋的 米。
 1. 越過. 
 Iya hrnasi ka sapah mu, uda bi phapuy. 別越過我家，一定要進來吃飯。
 1. 超過. 
@@ -48323,16 +48160,14 @@ Hrnglani ku haya ka rjijg bkaruh mu hug? 替我抽拔我鋤頭的柄好嗎？
 1. 
  Hrngula su qwarux bnkuy mu ha. 別抽我捆好的黃藤。
 1. 
- Hrngulan na
- 5 ka bnkuy mu qhuni do hmut sruhaw da. 他抽了五根我捆好的木 材就鬆脫了。
+ Hrngulan na 5 ka bnkuy mu qhuni do hmut sruhaw da. 他抽了五根我捆好的木 材就鬆脫了。
 1. 讓…抽. 
 Hrngulaw mu kingal ka uraw bnkuy su ha? 讓我抽一根你捆好的高山細 竹好嗎？
 
 1. 讓…抽. 
 Hrngulay ta kingal ka sibus su pqdal mu payi. 讓我們抽一根你的甘蔗給我祖母 吃。
 1. 
- “ Hrnguli
- 3 hnigan ka djima bnkiyan mu ” sun ku na. 他對我說：「我捆好的竹 子去抽三根。」
+ “ Hrnguli 3 hnigan ka djima bnkiyan mu ” sun ku na. 他對我說：「我捆好的竹 子去抽三根。」
 1. 
  Hrngulun su knuwan ka pakung gneurung sapah su? 你何時要抽拔家裡撐木 的掛釘？
 1. 為了要抽身. 
@@ -48340,8 +48175,7 @@ Kknrhngul su musa o hici kari bkian su. 為了你要抽身離開要留話給你�
 1. 靜悄悄的…抽. 
 Kmnrhngul ku mtutuy aji ttutuy laqi ga mtaqi. 為了不吵到孩子在睡覺， 我要靜悄悄的抽身起床 。
 1. 想從…
- Kmrhngul ku
- 3 hnigan ka qwarux bnkuy su. 我想從你捆綁的黃藤裡抽三根。
+ Kmrhngul ku 3 hnigan ka qwarux bnkuy su. 我想從你捆綁的黃藤裡抽三根。
 
 1. 
  Niqan tgghun su o asi knrhngul nanak musa. 你有急事的話就自己抽身離開。
@@ -48358,8 +48192,7 @@ Mnegsrhngul bi qlubung na ka tama na. 他父親的套腳陷阱很容易鬆脫。
 1. 為了鬆脫…而爭執. 
 Msnrhngul nami bhniq qlubung ini ku na slingi. 我們為了他沒問我 鬆脫陷阱的彈簧桿而發生爭執。
 1. 鬆脫了. 
-Wada msrhngul
- 3 ka mirit mu tnjiyal qlubung. 被我套腳陷阱套住的三隻山羊鬆 脫了。
+Wada msrhngul 3 ka mirit mu tnjiyal qlubung. 被我套腳陷阱套住的三隻山羊鬆 脫了。
 1. 如果…鬆脫. 
 Nsrhngul binaw qlubung su rqnux ga, aji su empkrawah? 如果你的套腳陷 阱捉到的水鹿鬆脫看看，你不會 覺得可惜嗎？
 1. 
@@ -48646,8 +48479,7 @@ Htuli wili ka yudun mu binaw, mgsmay ku smuqi. 我的水管被水蛭阻塞，我
 1. 會便秘. 
 Iya ekan cina bgiya, htulun su nusa ngangut da. 別吃虎頭蜂的幼蟲，上廁所會 便秘的。
 1. 造成塞住. 
-Mnrmux paah pusu yudun ka slaq o asi khtul
- 3 hnigan yudun. 流入水管的泥 濘造成塞住三條水管。
+Mnrmux paah pusu yudun ka slaq o asi khtul 3 hnigan yudun. 流入水管的泥 濘造成塞住三條水管。
 1. 為了…阻塞. 
 Aji na kkhtul ka yudun su o psai kaji ka pusu yudun. 為了你的水管不阻塞 水管頭要放紗網。
 1. 被塞住了. 
@@ -48784,13 +48616,11 @@ Smulu mqqada ka laqi su o nhtur su ka isu da. 你的孩子 想要離婚，你應
 1. 互相阻止. 
 Iya ta phhtur ka emprngaw malu uda. 談好的事我們不要互相阻止。
 1. 塞車. 
-Phtur nami ungat uda tdruy ka elug o
- 2 iyax tuki. 我們被塞車無法行車約兩小時。
+Phtur nami ungat uda tdruy ka elug o 2 iyax tuki. 我們被塞車無法行車約兩小時。
 1. 會拒絕. 
 Ini pneghtur gspngan huway na ka seejiq kiya. 那個人喜歡慷慨到從不會拒絕人 的要求。
 1. 結紮. 
-Pnhtur ku ka yaku do
- 3 hngkawas ini ku kshjil da. 我結紮之後我已經三年不懷孕 了。
+Pnhtur ku ka yaku do 3 hngkawas ini ku kshjil da. 我結紮之後我已經三年不懷孕 了。
 1. 會攔截. 
 Aji su pphtur mgriq tdruy muda elug o klai bi ka pnegaya elug. 為了你開車不會 被攔截必須要知道交通法規。
 1. 被…阻擋. 
@@ -48820,8 +48650,7 @@ Tmnhtur pais aji ttmay alang ka mrata. 軍人忙著阻擋敵人不讓其進入�
 1. 阻擋. 
 Tnhtur nami bgihur ungat tdruy ppaan o dalih mk10 jiyax. 我們被颱風阻擋過近十 天沒有車子搭了。
 1. 
- Tthtur nami yayung aji euda mapa alang o
- 3 hngkawas da. 我們經常阻擋河 水，避免沖毀部落已經三年了。
+ Tthtur nami yayung aji euda mapa alang o 3 hngkawas da. 我們經常阻擋河 水，避免沖毀部落已經三年了。
 1. 疑問結尾助詞,在人名後加的 問句. 
 Walis! kiya hu ? Walis （人名）！是 嗎？ [詞意：smiling mniq brah smlbu hangan seejiq 疑問結尾助詞，在人名後加的 問句]
 1. 渴. 
@@ -49693,8 +49522,7 @@ Tghunat ka malu bi tbgan babuy. 南部地區很好養豬。
 1. 都…南方. 
 Thhunat kana do kingal bi sapah ka ga mkrangi daya hida. 大家都遷到南方， 北方只剩一戶了。
 1. 前往南部. 
-Wada tmhhunat hmaan na blbul ka swayi mu
- 3 hiyi. 我三位弟弟都前往南部 去種香蕉 了。
+Wada tmhhunat hmaan na blbul ka swayi mu 3 hiyi. 我三位弟弟都前往南部 去種香蕉 了。
 1. 都在南部. 
 Tmnhunat ku tmabug babuy, ki ka lala bi pngusul. 我都在南部地區飼養豬， 因那裡有很多蝸牛。
 1. 
@@ -49940,11 +49768,9 @@ Gaga empphuqil nanak ka alang hiya. 那村落的人互相殘殺。
 1. 拼命. 
 Emptmhuqil ku matas ka paah sayang. 從現在我要拼命讀書。
 1. 拼命. 
-Ghuqil mu qmpah ka aangal mu
- 3 ina. 我拼命賺錢是要娶三個媳婦。
+Ghuqil mu qmpah ka aangal mu 3 ina. 我拼命賺錢是要娶三個媳婦。
 1. 拼命. 
-Gnhuqil mu smli pila ka ppatas laqi mu
- 5 hiyi. 我拼命存錢是要給五個孩子讀書。
+Gnhuqil mu smli pila ka ppatas laqi mu 5 hiyi. 我拼命存錢是要給五個孩子讀書。
 1. 死亡. 
 Tqaq o qbhni pgkla hhuqil seejiq. 蒼鷺是會啟示人死亡的鳥
 1. 終生. 
@@ -50280,8 +50106,7 @@ Gnhurit mu hyaan kingal jiyax dmayaw qmburung payay ka brunguy gaga. 那個背�
 1. 討好慰留. 
 Hhurit misu rmimu wauwa msa ka rudan mu o msiqa ku balay. 我的父母說： 「我要為你討好慰留小姐」，我很不好意思。
 1. 留下. 
-Hmnurit ku
- 5 pnniqan ka kacing wada mu seeru lupung. 我留下五份牛肉分給朋友 。
+Hmnurit ku 5 pnniqan ka kacing wada mu seeru lupung. 我留下五份牛肉分給朋友 。
 
 1. 
 
@@ -50307,9 +50132,7 @@ Iya hriji ka wauwa su, bsiyaq pmbkalan namu da. 你們來往已經很久了，�
 1. 為了…留. 
 Kkhurit su laqi na o rngagi ka rudan na ha. 為了你要留他的孩子要通知他的 父母。
 1. 想…留. 
-Kmhurit
- 5 pnniqan ka siyang o hriji
- 3 pnniqan sun mu. 想要留五份豬肉我就說 留三份好了。
+Kmhurit 5 pnniqan ka siyang o hriji 3 pnniqan sun mu. 想要留五份豬肉我就說 留三份好了。
 1. 堅持留的樣子. 
 Knhurit na knan o asi saw sgealu do smruwa ku da. 他堅持留我看起來很 可憐我就答應了。
 1. 互相挽留. 
@@ -50440,8 +50263,7 @@ Shurug quci bisur ka qmpahan mu. 我的田地遍地都是蚯蚓的糞粒。
 1. 一定…小石頭. 
 Saw skhurug btunux hqulun na ka msalu sapah qpras. 他一定要搬運小石 頭蓋水泥屋。
 1. 看作身材 矮小. 
-Sknhurug na qmita ka laqi mu
- 5 hiyi. 他把五位孩子看作身材 矮小。
+Sknhurug na qmita ka laqi mu 5 hiyi. 他把五位孩子看作身材 矮小。
 1. 需要…小石頭. 
 Smhhurug bi btunux ka sapah qpras. 水泥屋需要很多小石頭。
 1. 用…小粒. 
@@ -50844,8 +50666,7 @@ Ga namu jiyax tmhhuya hida, mha ku ramal yaku da. 你們在那裡做什麼 ，�
 1. 在…
  Tmnhuya namu ka ga namu pkaxa yayung hiya shiga? 昨天你們花那麼長 的時間在河川做什麼？
 1. 要做什麼. 
-Tthuya su ka huling su
- 5 gaga? 你那五隻狗要做什麼？
+Tthuya su ka huling su 5 gaga? 你那五隻狗要做什麼？
 1. 尖. 
 [詞意：huyuq 尖]
 1. 尖. 
@@ -50894,8 +50715,7 @@ Hmnuyuq ku qmita dgiyaq “ Ini gkuji rulung hug? ” msa ku. 我在看山峰時
 ..尖. 
 Manu ga su sun haya hmuyuq hiya? 你在那裏做什麼尖物？
 1. 
- Hnuyuq mu ka smbrangan o
- 50. 我磨尖過的矛有五十支。
+ Hnuyuq mu ka smbrangan o 50. 我磨尖過的矛有五十支。
 1. 像…尖一樣. 
 Mghuyuq muhing barit ka smuhing. 鼴鼠鼻尖像臭鼬一樣。
 1. 都…尖. 
@@ -50959,8 +50779,7 @@ Thhuyuq kana ka hiyi sangi dha o tgaaw mqurug ka naku. 他們的胡瓜都是尖�
 1. 在…尖. 
 Ga tmhhuyuq tminun rawa psaan na qsurux mha pngahi ka dhiya. 他在編尖嘴魚 簍他們用來釣魚用的。
 1. 設置…尖. 
-Tmnhuyuq ku
- 50 ka djima sgikus mu kacing. 我做了五十支竹製的長刺陷阱 要捕牛。
+Tmnhuyuq ku 50 ka djima sgikus mu kacing. 我做了五十支竹製的長刺陷阱 要捕牛。
 1. 尖…的主人. 
 Tnhuyuq tmurak bawa nii o hiya ka ga psruway mhuma tmurak bawa. 種這 茄子的主人是 專業的。
 1. 編尖. 
@@ -51366,8 +51185,7 @@ Teeicing kana ka musa psapuh spuhan icing. 所有獨眼的人都到眼科醫院�
 1. 專為…獨眼. 
 Ida ga tmeicing laqi na ga psapuh ka bubu na. 他母親一直專為 他獨眼的孩 子治療。
 1. 曾經專…獨眼的. 
-Tmneicing ku kmlawa
- 3 hiyi sapah spuhan ka yaku. 我在醫院照顧過 三個獨眼的病人。
+Tmneicing ku kmlawa 3 hiyi sapah spuhan ka yaku. 我在醫院照顧過 三個獨眼的病人。
 1. 獨眼者. 
 Bubu tneicing dowriq ga o qbsuran mu kuyuh. 那獨眼的母親是我姊姊。
 1. 
@@ -51395,8 +51213,7 @@ Edaay ta mhuma trabus ka qmpahan su. 讓我們還是在你田 地上種花生。
 1. 一定都. 
 Edeida meekan hlama ga o tknani hlama. 那些一定都要吃米糕的人，就搗米糕 給他們。
 1. 一定要. 
-Eida mu paadas sunan musa su sjiqun ka
- 3 pniri nii. 這三件挑織布紋的衣服我 一定要給妳作嫁妝。
+Eida mu paadas sunan musa su sjiqun ka 3 pniri nii. 這三件挑織布紋的衣服我 一定要給妳作嫁妝。
 1. 要…一定. 
 Empeida bi hiya ka maah. 要來的可 能一定是他。
 1. 一定…用來. 
@@ -52938,8 +52755,7 @@ Ida mu iyingun ka kacing mu wada meydang. 我走失的牛我一定要去找回�
 1. 尋找要. 
 Kkeiying na hmaan sibus o mgsmay kkukug dxgal mu. 他尋找要種甘蔗的地來 向我要求我的地。
 1. 想找. 
-Kmeiying ku
- 5 hiyi ka sduun mu qmpah. 我想找五個僱工。
+Kmeiying ku 5 hiyi ka sduun mu qmpah. 我想找五個僱工。
 1. 尋找. 
 Kneiying na qlbungan o nhiya kana dgiyaq. 他尋找放陷阱的地方找遍所有的山。
 1. 會尋找. 
@@ -53103,8 +52919,7 @@ Kmeiyuk su bangah tcingan o jiyi kulu iyuk mu. 你想起火鑄鐵的話就用我
 Kmneiyuk tahut iyuk mgagu ka payi gaga. 那祖母把洞簫當作吹氣筒。
 
 1. 洞簫之多. 
-Kneiyuk mgagu snalu na o
- 55. 他做的洞簫有五十五隻。
+Kneiyuk mgagu snalu na o 55. 他做的洞簫有五十五隻。
 1. 看吹的技術. 
 Maaiyuk ka ini biyaw psranaq tahut. 火起的快就看吹的技術。
 1. 
@@ -53288,8 +53103,7 @@ Jijil ha, lukus mu nii. 幫忙提著我的衣服。 [詞意：pqriun baraw manga
 1. 替…提. 
 Dlanay ta ha ka sagas tama su. 我們來替你父親提西瓜。
 1. 為…提. 
-Dlani
- 3 sangi ka baki su. 為你祖父提三 個胡瓜。
+Dlani 3 sangi ka baki su. 為你祖父提三 個胡瓜。
 1. 提著. 
 Wada dmijil uqun ka laqi. 孩子手提著食物。
 1. 
@@ -53327,9 +53141,7 @@ Jilun ima ka nii? 誰要提這個？
 1. 為了…抱. 
 Kkjijil su laqi mksa o qlahang aji su ttakur. 為了不跌倒所以你抱孩子走路要 小心。
 1. 想要提. 
-Kmjijil ku
- 3 ka sagas o
- 2 ka tklaan mu. 我想提三個西瓜，但我只能提兩個。
+Kmjijil ku 3 ka sagas o 2 ka tklaan mu. 我想提三個西瓜，但我只能提兩個。
 1. 抓…的程度. 
 Knjijil na wawa rudux mu ka rhu o asi spug kngkingal jiyax. 隼每天都來抓 我的小雞。
 1. 要看怎麼提. 
@@ -53453,8 +53265,7 @@ Msnjima nami mkan ini rangi damat knan. 我們為了他先吃不留菜餚 給我
 1. 為了先…去. 
 Sgjima knan weela musa ka hiya. 他比我先離開。
 1. 
- Tama mu o sjima ku na tminun
- 3 ka towkan. 我父親已經為 我編了三件背 網。
+ Tama mu o sjima ku na tminun 3 ka towkan. 我父親已經為 我編了三件背 網。
 1. 
  Saw skjima mtutuy mmgrbu ka baki mu. 我祖父老是先早起。
 1. 
@@ -53938,8 +53749,7 @@ Smdjiyay bi ka muuyas. 唱歌常需要用聲帶。
 1. 說大話;吹牛. 
 Mkla bi smjiyay kari ka hiya. 他會說大話。
 1. 讓…取聲帶. 
-Spgjiyay na knan ka
- 3 kacing na. 他讓我取他三頭牛的聲帶。
+Spgjiyay na knan ka 3 kacing na. 他讓我取他三頭牛的聲帶。
 1. 
  Ma su spjiyay mgay hyaan ka jiyay? 你為什麼拿 聲帶給他？
 1. 比較…聲帶. 
@@ -54484,9 +54294,7 @@ Gaga hiya ka rudux killing na. 他那邊有小土雞。 [詞意：bilaq hnyiqan 
 1. 每次. 
 Gmlqlaq ku qmlubung o smpug kngkingal ensaan tjial. 放在狹縫中的陷阱每次都 會狹到。
 1. 各一份. 
-Asi gdungut pnkingal ka
- 2 namu han, sgun nami ka
- 5 ga da. 你們兩個各自領一 份，這五份我們就自己分了。
+Asi gdungut pnkingal ka 2 namu han, sgun nami ka 5 ga da. 你們兩個各自領一 份，這五份我們就自己分了。
 1. 專一. 
 Saw bbrih kari na ini skingal. 他說話反覆無常不一致。
 1. 要很專心;要很專一. 
@@ -56300,8 +56108,7 @@ Hlyani ha ka pseesuun rudan su. 幫你父母耙堆清理田地。
 1. 
  Hmnluluy ku dxgal smmalu qmpahan hmaan mu payay ka shiga. 昨天我耙要 種稻的田地。
 1. 
- Hnluluy mu ka dxgal o
- 3 tdruy. 我耙過的土已經三台車了。
+ Hnluluy mu ka dxgal o 3 tdruy. 我耙過的土已經三台車了。
 1. 變成滑動. 
 Endaan sunu do asi khluluy kana ka hrus sipaw gaga. 坍方後對面的坡 地變成滑動的土質。
 1. 使滑動. 
@@ -56981,8 +56788,7 @@ Dmpdadak ka dmrata gaga. 那些兵是守望兵。
 1. 
  Tgmrata ima ka embiyax bi tmgjiyal? 那很會打仗的軍隊是那一國的？
 1. 五十;五的十個或十的五個. 
-[詞意：spgan
- 5 kmxalan 五十、五的十個或十的五個]
+[詞意：spgan 5 kmxalan 五十、五的十個或十的五個]
 1. 
  Asi kmrimal ka rudux mu wada mhuqil. 我的雞一下子死五十隻。
 1. 以五十為…
@@ -61827,8 +61633,7 @@ Ga mtqapur embahan prngagan kari ka seejiq alang hiya. 那村子的人聚集在�
 1. 讓…說. 
 Prngagi duri hug? 再讓他說好嗎?
 1. 會說話. 
-Mkla bi rmngaw kari ka laqi
- 3 hngkwasan na. 三歲的孩子很會 說話了。
+Mkla bi rmngaw kari ka laqi 3 hngkwasan na. 三歲的孩子很會 說話了。
 1. 說. 
 Mnrima su ka rngagan da ida su ini qbahang niya na. 已經跟你說五次了，你還是不 聽。
 1. 告訴. 
@@ -63518,8 +63323,7 @@ Psputan siput ka pngpung. 山崗上到處都是長不高的樹
 1. 
 
 1. 
- Spsiput bi ini kdakil ka laqi na
- 5 hiyi. 他的五個孩子都長得不高
+ Spsiput bi ini kdakil ka laqi na 5 hiyi. 他的五個孩子都長得不高
 1. 刺的聲音. 
 [詞意：kari sbeytaq ka mhungul pkiyux do o siq msa hnang niya 刺的聲音]
 1. 被硬物刺入. 
