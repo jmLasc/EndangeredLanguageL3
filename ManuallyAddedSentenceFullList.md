@@ -179,3 +179,75 @@ PROBLEM: because of the 。., the sentences are not fully transcribed, need to d
 delete: Muntunuh tu daan hai, pahaisan; nii tu palahaib. 坍方
 delete: Masa dusang vali hai, pacinlaizu mas sinsusuaz. 從前有兩個太陽，
 delete: Mais namacingaanin uvaaz hai, asa tu kadavus, na-istan-ali mavala. 當要為小孩命名的時候， 必須釀酒，
+
+
+
+
+
+Truku 
+PROBLEM: needs to write a code to delete the pattern of this 
+delete(this pattern):[相關詞-同義詞] + truku words 
+
+PROBLEM: not being logged fully for some reason 
+delete: [詞意：kari ini sneiyax 不信任 詞意： kari qlahang 小心 詞意： kari mqsiqa 含蓄語 詞意： kari kmrawah 婉惜 文化小語： 太魯閣族語有
+delete: [詞意：kari tgearih 失望 詞意： mskluwi 驚嚇 詞意： ini snyax 不信任 詞意： mqaras 驚喜 文 化小語 ah在太魯閣族語是嘆詞，來表示狀 態或加強語氣， 以下說明ah的用語例句： 1.Ah! Ma su saw smdamat. 「啊呵！好久不見。」
+delete: [相關詞-同義詞] uxay [ 詞意：ini tduwa 不可 詞意： ini sruwa 不答應（否定詞） 文化小語 花蓮的太魯閣族語通常會 使用aji，南投的德魯固語通常 用uxay 。 用aji形成的片語如下： 1.aj i uri o 「或是」 ；
+delete: 1.lubuysnaluqraqilmiritpsaanbuji 箭袋；
+
+PROBLEM: breaks in the middle of the brackets 
+delete: Kingal ddmut ni
+
+PROBLEM: because of there are numbers in the sentences, the numbers caused the sentence to not be fully transcribed 
+delete: Dmtay mu babuy plabu ka dxgal su
+delete: Ima tndulus ka
+delete: Ppglang su smmalu knan ka sapah su
+delete: Tbihi sgsun mu
+delete: Pnegukut su pcinun knan o
+delete: Ppgukut su manu ka
+delete: Gisu ku tmhhbay
+delete: Tthuya su ka huling su
+
+PROBLEM: because of some elipitcal pattern in the definition, the sentence is not fully transcribed
+delete: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali. 
+
+PROBLEM: because the numbers make the sentence not fully transcribed, need to manually transcribe sentences 
+add: Dmtay mu babuy plabu ka dxgal su 3 lituk hug? 你的三甲地我用四條豬背肉 來租好嗎?
+add: Ima tndulus ka 5 radax gaga? 誰拉了那五個大原木？
+add: Ppglang su smmalu knan ka sapah su 7 tntunan o biqun saku piya pila? 你要 託我做你七層樓房的樓梯要給我多少工錢？
+add: Tbihi sgsun mu 3 brunguy. 我要剉絲的蘿蔔有三個背簍？
+add: Pnegukut su pcinun knan o 20, hay ga? 你託我編的鍋墊二十件，是不是 ？
+add: Ppgukut su manu ka 3 gaga? 你那三個鍋墊要用來墊甚麼？
+add: Gisu ku tmhhbay 3 rqnux, yahi ku dmayaw? 我忙著切三隻水鹿的肚皮， 請來幫我？
+add: thuya su ka huling su 5 gaga? 你那五隻狗要做什麼？
+
+PROBLEM: messed up by random/previous lines 
+add: Eneinu ka saun su qmpah? 你要去哪些地方工作？
+add: Hana su mowsa ka isu? Mdmdamat wada kana ka dhiya da. 他們都已經 走了，你才要出發嗎？
+
+PROBLEM: because of some pattern, sentences are not fully transcribed// or sentences are in the brackets but are still useful sentences that should be transcribed 
+add: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali. 我用來......下雨的那個傘不要拿走。
+add: Smlaa su bi sapah dxgal mu. 別在我土地上建房子。
+add: Hnuyuq mu ka smbrangan o 50. 我磨尖過的矛有五十支。
+add: Hnluluy mu ka dxgal o 3 tdruy. 我耙過的土已經三台車了。
+add: A!qlungkumklada. 啊！我終於知道了。
+add: A!ungathiyada. 啊！他死了。 
+add: A!ajikuda. 啊！我不要了。
+add: A!akaylnglung(laqi). 啊！我真的很懷念他（小孩）。
+add: A!iyashaya. 啊！不要那樣。
+add: A!hawansubinaqihnii. 啊！你這壞蛋。
+add: A!Isunii! 啊！你這人喔！
+add: ‘Aa!’ msa mnqhnga ni mskluwi. 「啊！啊！」這樣驚惶及驚嚇。
+add: Ah! Ma su saw smdamat. 啊呵！好久不見。 
+add: Ah! Ungat ki da. 啊呵！已經走了（死了）。 
+add: Ah! Tayal su balay. 啊呵！你真是的。 
+add: Ah! Rbangay su balay. 啊呵！你真要不得。 
+add: Ah! Tayal su balay qnsjiqan. 啊呵！妳真漂亮。 
+add: Ah! Ungat isu nii wa. 啊呵！你真沒用。
+add: Snegeah na rmimu psbiyax ka laqi. 他以「啊呵」安慰鼓勵 小孩子。
+add: Teeah mnkluwi kana. 都發出「ah! ah! 」的驚訝 聲。 
+add: Ttghana dha mqqita o asi bi ptqrak mkkdamat wah! 他們才剛見面就互相思念 擁抱。
+add: Asi khili hyaan ka isu da, pgealu bi ka risaw kiya! 你就嫁給他好了，那 男青年很可憐呢！
+
+PROBLEM: there is english in the definition, which makes the whole sentence not logged 
+add: Ma su kmnBowluk knan? Aji Bowluk ka yaku. 你為什麼把 我當作是 Bowluk ？我不是Bowluk 。
+
