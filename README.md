@@ -10,3 +10,6 @@ last few pages: contain a list of all the words in the dictionary, which is also
 (language name)_stripped.txt = the text version of the pdf dictionary 
 this text file only removed pictures and watermarks and stars next to the words 
 this is the file that I compare to with (language name)_stripped_final.txt 
+
+**NOTE**
+for Saaroa, you would compare Saaroa_Stripped_1.txt with Saaroa_Stripped_final_1.txt! 
