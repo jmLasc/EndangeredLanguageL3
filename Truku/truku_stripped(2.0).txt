@@ -966,9 +966,11 @@ Saw eheah kari na mskluwi. 他驚嚇的時 候會發出「啊呵」的 聲音。
 1. 喜歡發出「啊呵」的聲音. 
 Mnegeah bi kari na, ini sneiyax sjiqun. 他喜歡發出「啊呵」 的聲音，不介意別人的 存在。
 1. 常發出「啊呵」聲.
-1. 以「啊呵」聲…。. Snegeah na rmimu psbiyax ka laqi. 他以「啊呵」安慰鼓勵 小孩子。
+1. 以「啊呵」聲…
+ Snegeah na rmimu psbiyax ka laqi. 他以「啊呵」安慰鼓勵 小孩子。
 
-1. 全都發出「ah」. Teeah mnkluwi kana. 都發出「ah! ah! 」的驚訝 聲。
+1. 全都發出「ah
+Teeah mnkluwi kana. 都發出「ah! ah! 」的驚訝 聲。
 1. 不可. 
 2. 不答應（
  3. 不是（
@@ -3505,10 +3507,12 @@ Tayal bi ka tteata namu da, ma ini asi hngji, ixun lu pgeegul hi ga. 你們怎 �
  Aw! kla isu hug. 噢！原來是你（ 一種客氣的寒暄，帶有歉意的）！
 1. 喜歡說對不起. 
 Mnegeaw bi rmngaw ka seejiq mnegaya. 守法的人喜歡說對不起。
-1. 都說對不起的感嘆（ 口吻）。. Asi endka seeaw ka dhiya. 他們都說對不起的感嘆語 (口吻)。
+1. 都說對不起的感嘆（ 口吻）
+ Asi endka seeaw ka dhiya. 他們都說對不起的感嘆語 (口吻)。
 1. 以對不起的感嘆語（ 
  Sneaw na rmngaw ka qnquan na. 他以對不起的 感嘆語（ 口吻）說他的不是。
-1. 都說「aw」. Asi endka teeaw msa ka dhiya. 她們都說「aw」。
+1. 都說「aw
+Asi endka teeaw msa ka dhiya. 她們都說「aw」。
 1. 人名（男;
  2. 緯線（
  Away mu tminun brunguy ka nii. 這是我要編 背 籃的緯線。 [詞意：hangan seejiq 人名（男、女） 詞意： pusu kari geaway 緯線（編織品上 的橫線）]
@@ -3746,7 +3750,8 @@ Mkeekan nami kari ka mnswayi o gneax nami na msaang ka tama. 我們兄弟姊妹 
 Kkeax na msaang lqian o tpruq bhangan. 聽到他用很大 聲音罵孩子住口。
 1. 
  Kneax saang tama mu o asi glhbun. 我父親生氣地說住口讓我很痛心。
-1. 手掌擊打聲（擬聲詞）。. Iya si max smipaq dqras ka laqi, pgealu. 別直接用手掌拍打 孩子臉部，很可 憐。 [詞意：nang smipaq 手掌擊打聲]
+1. 手掌擊打聲（擬聲詞）
+ Iya si max smipaq dqras ka laqi, pgealu. 別直接用手掌拍打 孩子臉部，很可 憐。 [詞意：nang smipaq 手掌擊打聲]
 1. 
  Mnegmax bi baga na msru laqi. 他常用手打孩子很容 易發出聲音。
 1. 像…說住口一樣. 
@@ -4736,7 +4741,8 @@ Bbwani bukuy kacing ka 2 lubuy trabus gaga. 把那兩包花生放在牛背上。
 Dmpgbabaw laqi mapa napa ka Truku seuxal. 以前太魯閣族 都把孩子 揹在揹的東西上面。
 1. 要在…之上. 
 Empgbabaw ku wahir mapa bunga ka yaku. 我要把地瓜葉放在地瓜的上面 揹。
-1. 扼要說明;疏除（gmbabaw masu 「讓很密的小米拔除使其有間隔）」。.
+1. 扼要說明;疏除（gmbabaw masu 「讓很密的小米拔除使其有間隔）」
+
 1. 要在…之後. 
 Asi kbabaw knciyan ka iyah! Kika niqan hlmaun ta. 就在收割以後來吧！ 這樣我們才有米糕可以搗。
 1. 將在…之後. 
@@ -5588,7 +5594,8 @@ Aji yaku ka tnbaki hyaan. 我不是他的 親家。
 4.tmeemux 「人類」。 ]
 1. 要交配. 
 Empsbalas niya na ka huling nii. 這隻狗還沒有交配過。
-1. 哺乳類動物正在交配（單指狗或貓,並非指所有的 哺乳動物）。. Gaga mssbalas ka ngiyaw. 貓正在交配。
+1. 哺乳類動物正在交配（單指狗或貓,並非指所有的 哺乳動物）
+ Gaga mssbalas ka ngiyaw. 貓正在交配。
 1. 喜歡交配. 
 Saw skbalas ka ngiyaw nii. 這隻貓很喜歡交配。
 1. 哺乳類動物性交（單指狗或貓,並非指所有的 
@@ -6798,7 +6805,8 @@ Tmnsbarux nami gmabal trabus ga, kingal jiyax kingal lituk qduun nami. 我們曾
 Tnbarux mtaqi babaw tasil hini shiga ka mirit. 昨天山羊翻來覆去地睡在這 石頭上。
 1. 翻覆. 
 Ttbarux dha trima dxgal ka rudux o malu bi dmhagan. 雞在地上翻覆地洗身的動作 很好看。
-1. 砍草聲（擬聲詞）。. “Bas bas”msa mhnang kmaraw llingay ka hiya. 他「bas bas 」的砍草聲 是在整理環境。 [詞意：hnang smbut bbuyu 砍草聲（擬聲詞）]
+1. 砍草聲（擬聲詞）
+ “Bas bas”msa mhnang kmaraw llingay ka hiya. 他「bas bas 」的砍草聲 是在整理環境。 [詞意：hnang smbut bbuyu 砍草聲（擬聲詞）]
 1. 小黍（
  Ga tmukuy basaw ka alang hiya. 那邊的部落在播種小黍。 2. 人名（
  Basaw hangan na ka lupung mu snaw. 我的男朋友名叫巴紹。 3. 白內障. 
@@ -7048,7 +7056,8 @@ Tmnbasur ku nhapuy dha bunga stabug mu rudux. 我取他們不熟的地瓜來 餵
  Tnbasur mtaqi keeman o tksiyuk mtaqi jiyan. 夜晚沒睡好白天又再睡。
 1. 經常…不熟的. 
 Ttbasur dha mkan dga, ga snbuyas da. 他們經常吃不熟的食物，就拉肚 子了。
-1. 鞭打聲;砍草聲（擬聲詞）。. “bat” msa hnang ka smbut bbuyu. 砍草時會發出「bat」的聲音。 [詞意：hnang smbut 鞭打聲、砍草聲（擬聲詞）]
+1. 鞭打聲;砍草聲（擬聲詞）
+ “bat” msa hnang ka smbut bbuyu. 砍草時會發出「bat」的聲音。 [詞意：hnang smbut 鞭打聲、砍草聲（擬聲詞）]
 1. 
  Tbbat smbut kana. 大家都在砍草。
 1. 貪心. 
@@ -12133,7 +12142,8 @@ Gnbnuwar na ka lukus na. 他的衣服是用李子 賣的錢買的。
 Qeuqu ta mhuma msa ku o asi kbnuwar kana ka qmpahan . 我只是想隨便種 李子，結果耕地都長滿了李子。
 1. 多多種植李子. 
 Kkbnuwar kana ka qmpahan su o ququ mhuma. 若想土地都是李子， 就 要多多種植。
-1. 擊打人背部及胸部聲（擬聲詞）。. Smtarang meekan ka seejiq siida o ‘bowk’ sun na smipaq ka brah na. 人要挑釁攻擊時，對自己搥胸發出「bowk 」的聲音。 [詞意：hnang npaqan bukuy ni brah seejiq 擊打人背部及胸部聲（擬聲詞）]
+1. 擊打人背部及胸部聲（擬聲詞）
+ Smtarang meekan ka seejiq siida o ‘bowk’ sun na smipaq ka brah na. 人要挑釁攻擊時，對自己搥胸發出「bowk 」的聲音。 [詞意：hnang npaqan bukuy ni brah seejiq 擊打人背部及胸部聲（擬聲詞）]
 1. 擊打發出「bowk 」的聲音. 
 Mnegbowk hnang paqun ka brah na. 擊打胸部會發出 「bowk 」的聲音
 1. 擊打使發出「bowk 」的聲音. 
@@ -12817,7 +12827,8 @@ Gbows mu murus qsiya ka sahug nii. 這杓子是我用來「 bows 」灑 水的�
 Gmbows ku qsiya mhing tahut ka yaku. 我用水「bows 」滅火。
 1. 曾用…「bows 」滅. 
 Gnbows mu mhing tahut ka qsiya. 我用水「bows 」來滅火。
-1. 變成「bows 」. Asi kbows qsiya ka tglaq. 瀑布的水「bows 」成水花。
+1. 變成「bows 
+Asi kbows qsiya ka tglaq. 瀑布的水「bows 」成水花。
 1. 要「bows 」灑. 
 Kkbows mu murus qmpahan o ini tuku ka qsiya. 我要用水「bows 」噴灑 田地但水不夠。
 1. 「bows 」噴灑的樣子. 
@@ -14786,7 +14797,8 @@ Gmnbrih djima ka tama mu. 我父親賣竹子賺錢。
 Gnbrih mu maayung o kingal qbubur wauwa. 我當工友所得的薪資娶了一個 媳婦。
 1. 
 
-1. 重新發芽（稻子）。.
+1. 重新發芽（稻子）
+
 1. 倒胃口（
 
 1. 
@@ -15312,7 +15324,8 @@ Kingal mneudus babuy nii o ggbruh mu mgay mtmay sapah lupung. 我要用這 一�
 Gmbruh mtmay sapah seejiq miying buur ka empdawi. 懶惰的人 「bruh」進入別人的家討飯吃。
 1. 曾「bruh」進入. 
 Gmnbruh ku mrmux bling lhngaw qmrak klaway kangi ka yaku. 我曾 「bruh」進入岩洞抓蝙蝠。
-1. 以「bruh」. Gnbruh mu mtmay libu qmrak ka mtali bi rudux. 我以「bruh」地進入雞籠 去抓很怕被抓的雞。
+1. 以「bruh
+Gnbruh mu mtmay libu qmrak ka mtali bi rudux. 我以「bruh」地進入雞籠 去抓很怕被抓的雞。
 1. 要帶. 
 Kkbruh su mtmay sapah dangi o maadas su manu? 你去愛人的家要帶什麼東西？
 1. 快速「bruh」進入的樣子. 
@@ -18699,7 +18712,8 @@ Qqbqbuq mnbuwa ka dmdangsu o sbyaxi bi smungu. 要使水很快煮沸就必須 �
 Ini sbqbuq mnbuwa ka nhapuy bunga o smmdaruh uqan. 地瓜沒有 發出煮沸的「buq」聲吃起來半生不熟。
 1. 託…「buq」聲煮開. 
 Spbqbuq na pdngdang knan ka qsiya mahun na. 他託我「buq」聲 煮開他要喝的開水。
-1. 總是要「buq」. Saw sqbuq dngdang mahun mu ka baki mu. 我的祖父總是要喝「buq」 開過的水。
+1. 總是要「buq
+Saw sqbuq dngdang mahun mu ka baki mu. 我的祖父總是要喝「buq」 開過的水。
 1. 聽成…「buq」聲. 
 Sqnbqbuq mu tnegli qsiya embahang ka kacing ga smhmu langu qsiya. 我把牛小便的聲音聽成是蓄水池「buq」的聲音。
 1. 汲水的聲音. 
@@ -20785,90 +20799,144 @@ Dmcit smagi huling ka Truku. 太魯閣人用「 嘖」聲呼叫狗來。
 1. 叫喚狗去. 
 Empcit ku smagi huling dsun mu maduk. 我用「嘖」的叫聲呼叫狗來去打獵。
 
-1. 應該「cit」. Encit su nhari smagi, kika naa musa sunan hi ka huling. 你應該趕快 「cit」 的呼叫，狗就去你那裏了。
-1. 用「cit」. Gcit mu smagi ka huling. 我用 「cit」呼叫狗。
-1. 用 「cit」…. Gmcit smagi huling mu o ini usa, yaasa aji hiya ka tmnabug. 他「cit」呼 叫我的狗不去，是因為不是他養的。
-1. 曾用「cit」. Gmncit ku smagi rudux o ini iyah, yaasa ‘ kut ’, ‘ kut ’ sun smagi ka rudux. 我曾用 「cit」呼叫雞來但沒有來，因為呼叫雞要「kut」地叫聲。
-1. 曾用「cit」. Gncit mu smagi ka babuy o ini iyah. 我曾用 「cit」呼叫豬卻沒來。
-1. 就用「cit」. Wada meydang ka huling na ga, asi kcit smagi smka jiyax. 他狗迷失時，他 就用「cit」呼叫了半天。
-1. 為了「cit」. Aji su kkcit smagi huling o elani ka huling su. 為了你不要「 cit」叫你的狗 把你的狗栓起來。
-1. 呼叫成「cit」. Kmncit smagi babuy ka hiya ga, ‘ bah ’, ‘ bah ’ ksa smagi sun mu tmgsa. 他把豬呼叫成「cit」，我教他用「bah」「bah」呼叫。
+1. 應該「cit
+Encit su nhari smagi, kika naa musa sunan hi ka huling. 你應該趕快 「cit」 的呼叫，狗就去你那裏了。
+1. 用「cit
+Gcit mu smagi ka huling. 我用 「cit」呼叫狗。
+1. 用 「cit
+ Gmcit smagi huling mu o ini usa, yaasa aji hiya ka tmnabug. 他「cit」呼 叫我的狗不去，是因為不是他養的。
+1. 曾用「cit
+Gmncit ku smagi rudux o ini iyah, yaasa ‘ kut ’, ‘ kut ’ sun smagi ka rudux. 我曾用 「cit」呼叫雞來但沒有來，因為呼叫雞要「kut」地叫聲。
+1. 曾用「cit
+Gncit mu smagi ka babuy o ini iyah. 我曾用 「cit」呼叫豬卻沒來。
+1. 就用「cit
+Wada meydang ka huling na ga, asi kcit smagi smka jiyax. 他狗迷失時，他 就用「cit」呼叫了半天。
+1. 為了「cit
+Aji su kkcit smagi huling o elani ka huling su. 為了你不要「 cit」叫你的狗 把你的狗栓起來。
+1. 呼叫成「cit
+Kmncit smagi babuy ka hiya ga, ‘ bah ’, ‘ bah ’ ksa smagi sun mu tmgsa. 他把豬呼叫成「cit」，我教他用「bah」「bah」呼叫。
 1. 在「cit」
  Kncit na smagi huling o wana hiya bhangan. 只有聽到他在「cit」的 呼叫狗。
 1. 像「cit」…一樣. 
 Mgcit ssagi su huling ka hiya. 他「cit」的呼叫狗 像你一樣。
-1. 想「cit」…. Mkmcit smagi huling mu lngu na geuyun o plgun mu da. 他想「cit」呼叫 我的狗要偷走時正好被我發現。
+1. 想「cit
+ Mkmcit smagi huling mu lngu na geuyun o plgun mu da. 他想「cit」呼叫 我的狗要偷走時正好被我發現。
 1. 已經叫喚 狗來. 
 Mncit ku smagi huling o ungat miyah. 我呼叫狗來卻沒有回來。
-1. 不斷地「cit」…. Mnegcit bi smagi huling ga o rmigaw bi ka huling na. 那不斷地「cit」 呼叫出去遊 蕩的狗。
+1. 不斷地「cit
+ Mnegcit bi smagi huling ga o rmigaw bi ka huling na. 那不斷地「cit」 呼叫出去遊 蕩的狗。
 1. 為了「cit」…發生爭執. 
 Msncit nami empgeeluk smagi huling. 我們為了「cit」地搶著 呼叫狗而發生爭執。
-1. 叫…「cit」. Pncit su psagi knan ka huling su o wada embrinah duri sunan. 你叫我 「cit」呼叫你的狗來又回到你那裏去。
-1. 會「cit」…. Ini pnegcit smagi ka ini tabug huling. 沒養狗的人不會「 cit」呼叫狗。
-1. 用「cit」…. Scit mu smagi ka huling o cssigaw ngungu ni msqqgu kiyig mu. 我用 「cit」呼叫狗時狗就搖著尾巴在我旁邊跳躍。
-1. 老是…「cit」. Saw skcit smagi huling mmgrbu ka hiya. 他老是每天早上「cit」的呼叫 狗。
-1. 當作「cit」…. Skncit na smagi huling na ka huling seejiq o ini qbahang ssagi na. 他呼叫 別人的狗當作「cit」的呼叫他的狗，但不聽他的呼叫。
-1. 很煩地「cit」…. Smtcit bi psagi ka huling mrigaw. 很煩地「cit」呼叫出去亂跑的狗。
-1. 託…「cit」. Spcit na psagi knan ka huling na o ini iyah. 他託我「cit」呼叫他的狗卻沒 有來。
-1. 用「cit」…. Tcici smagi ka huling su nanak. 你用「cit」呼叫你的狗。
-1. 不要用「 cit」. Tcita su smagi babuy. 不要用「 cit」叫聲來呼叫豬。
-1. 用…「cit」. Tcitan na gmeuqu smagi ka kacing. 他用錯了 「cit」 呼叫牛。
-1. 要用「cit」…. Tcitaw mu smagi ka huling su. 我要用「 cit」呼叫你的狗。
-1. 不要用「 cit」…. Tcitay su smagi ka aji huling su. 你別用「 cit」呼叫不是你的 狗。
-1. 要用「cit」. Tcitun mu smagi ka huling mha ku maduk. 我要用「 cit」呼叫狗要去打獵。
+1. 叫…「cit
+Pncit su psagi knan ka huling su o wada embrinah duri sunan. 你叫我 「cit」呼叫你的狗來又回到你那裏去。
+1. 會「cit
+ Ini pnegcit smagi ka ini tabug huling. 沒養狗的人不會「 cit」呼叫狗。
+1. 用「cit
+ Scit mu smagi ka huling o cssigaw ngungu ni msqqgu kiyig mu. 我用 「cit」呼叫狗時狗就搖著尾巴在我旁邊跳躍。
+1. 老是…「cit
+Saw skcit smagi huling mmgrbu ka hiya. 他老是每天早上「cit」的呼叫 狗。
+1. 當作「cit
+ Skncit na smagi huling na ka huling seejiq o ini qbahang ssagi na. 他呼叫 別人的狗當作「cit」的呼叫他的狗，但不聽他的呼叫。
+1. 很煩地「cit
+ Smtcit bi psagi ka huling mrigaw. 很煩地「cit」呼叫出去亂跑的狗。
+1. 託…「cit
+Spcit na psagi knan ka huling na o ini iyah. 他託我「cit」呼叫他的狗卻沒 有來。
+1. 用「cit
+ Tcici smagi ka huling su nanak. 你用「cit」呼叫你的狗。
+1. 不要用「 cit
+Tcita su smagi babuy. 不要用「 cit」叫聲來呼叫豬。
+1. 用…「cit
+Tcitan na gmeuqu smagi ka kacing. 他用錯了 「cit」 呼叫牛。
+1. 要用「cit
+ Tcitaw mu smagi ka huling su. 我要用「 cit」呼叫你的狗。
+1. 不要用「 cit
+ Tcitay su smagi ka aji huling su. 你別用「 cit」呼叫不是你的 狗。
+1. 要用「cit
+Tcitun mu smagi ka huling mha ku maduk. 我要用「 cit」呼叫狗要去打獵。
 
-1. 比較…「cit」. Tgcit bi smagi huling ga o mkla bi tmabug huling. 這比較會「cit」呼叫 狗的人是很會 養狗的。
-1. 從…「cit」. Tmncit ku smagi huling paah bilaq ka yaku. 我從小就「cit」的呼叫狗。
-1. 在「cit」…. Ga tmtcit smagi huling na meekan quci laqi. 他在「cit」呼叫他的狗要吃 小孩子糞便。
-1. 讓…「cit」. Ttanay ta psagi tnhuling ka huling. 讓我們叫狗主人來「 cit」呼叫狗。
-1. 讓…「cit」. Ttani psagi hyaan ka huling gaga. 讓他「cit」呼叫那隻狗。
-1. 都在「cit」…. Ga ttcit smagi huling mha maduk ka alang hiya. 那部落的人都在「cit」 地呼叫他們的狗要去打獵。
+1. 比較…「cit
+Tgcit bi smagi huling ga o mkla bi tmabug huling. 這比較會「cit」呼叫 狗的人是很會 養狗的。
+1. 從…「cit
+Tmncit ku smagi huling paah bilaq ka yaku. 我從小就「cit」的呼叫狗。
+1. 在「cit
+ Ga tmtcit smagi huling na meekan quci laqi. 他在「cit」呼叫他的狗要吃 小孩子糞便。
+1. 讓…「cit
+Ttanay ta psagi tnhuling ka huling. 讓我們叫狗主人來「 cit」呼叫狗。
+1. 讓…「cit
+Ttani psagi hyaan ka huling gaga. 讓他「cit」呼叫那隻狗。
+1. 都在「cit
+ Ga ttcit smagi huling mha maduk ka alang hiya. 那部落的人都在「cit」 地呼叫他們的狗要去打獵。
 1. 很小. 
 Ciway bika bnegay na. 他給我的很少。
 1. 那最小的. 
 Tgciway bi gaga ka nnaku. 那最小的是我的。
 1. 出力的聲音（
  “Cxcix” msa mapa qaya steetu kana. 揹東西爬坡會發出”cxcix” 的 聲音 [Cix 為單數（發出聲音的次數），cxcix 為複數]
-1. 不要「cix」. Cixa su pskiyux mapa, spung nanak. 你不要勉強揹到發出「cix」的聲音， 自己要斟酌。
-1. 讓…「cix」. Cixan ku na psluhay mshjil ka tama. 父親讓我磨練揹重物到發出「cix」 的聲音。
-1. 讓…「cix」. Cixaw mu mapa yaku ka qmagas gaga. 讓我發出「cix」的聲音來揹那個 薯莨。
-1. 讓…「cix」. Cixay mu mhaal yaku ka dngur qhuni gaga. 讓我來發出「cix」的聲音來 扛那個原木。
-1. 去…「cix」. Cixi mapa isu ka sari ga hug? 你去發出「cix」的聲音揹那個芋頭好嗎？
-1. 要…「cix」. Cixun mu mapa ka bunga. 我要發出「cix」的聲音揹地瓜。
-1. 不要讓…「cix」. Cxanay su paapa ka rudan. 你不要讓父母揹著東西發出「cix」的聲 音。
-1. 替…「cix」. Cxani ha mapa ka nlupung su. 發出「cix」的聲音替你的朋友揹東西。
+1. 不要「cix
+Cixa su pskiyux mapa, spung nanak. 你不要勉強揹到發出「cix」的聲音， 自己要斟酌。
+1. 讓…「cix
+Cixan ku na psluhay mshjil ka tama. 父親讓我磨練揹重物到發出「cix」 的聲音。
+1. 讓…「cix
+Cixaw mu mapa yaku ka qmagas gaga. 讓我發出「cix」的聲音來揹那個 薯莨。
+1. 讓…「cix
+Cixay mu mhaal yaku ka dngur qhuni gaga. 讓我來發出「cix」的聲音來 扛那個原木。
+1. 去…「cix
+Cixi mapa isu ka sari ga hug? 你去發出「cix」的聲音揹那個芋頭好嗎？
+1. 要…「cix
+Cixun mu mapa ka bunga. 我要發出「cix」的聲音揹地瓜。
+1. 不要讓…「cix
+Cxanay su paapa ka rudan. 你不要讓父母揹著東西發出「cix」的聲 音。
+1. 替…「cix
+Cxani ha mapa ka nlupung su. 發出「cix」的聲音替你的朋友揹東西。
 1. 發出「cix」聲音的人. 
 Dmcix mapa mshjil kana ka seejiq mqeepah. 工人揹重物都會發 出「cix」的聲音。
-1. 要…「cix」. Empcix ku mapa mshjil steetu sipaw ga saman. 明天我要在對 面上坡揹重 物會發出「cix」的聲音。
-1. 用「cix」. Gcix mu pgkla ka knshjilan. 我用「cix」的聲音表示重量。
+1. 要…「cix
+Empcix ku mapa mshjil steetu sipaw ga saman. 明天我要在對 面上坡揹重 物會發出「cix」的聲音。
+1. 用「cix
+Gcix mu pgkla ka knshjilan. 我用「cix」的聲音表示重量。
 1. 從…發出「cix」過. 
 Gmncix ku mapa mshjil paah bilaq ka yaku. 我從小就揹著重物發 出「cix」的聲音。
-1. 用「cix」…. Gncix mu mapa mkbbuyu ka qmagas. 我用「cix」出力語氣在深山揹薯莨。
+1. 用「cix
+ Gncix mu mapa mkbbuyu ka qmagas. 我用「cix」出力語氣在深山揹薯莨。
 
-1. 要「cix」…. Kkcix su mapa mshjil o sluhay ba. 你要「cix」揹重物就必須要練習。
+1. 要「cix
+ Kkcix su mapa mshjil o sluhay ba. 你要「cix」揹重物就必須要練習。
 1. 「cix」
  Kncix mu mapa steetu ka 2 lubuy emu btunux. 我費盡力量「cix」的爬 上揹了兩包水泥。
 1. 像「cix」…一樣. 
 Mgcix hnang su ka hiya. 他「cix」岀力語氣的聲音像你一樣。
-1. 想「cix」…. Mkmcix ku bi o ini nkala nghak mu hnjilan. 我很想發出「cix」的聲音但 我的氣沉重的發不出。
-1. 曾…「cix」. Mncix nami mhaal qhuni ka shiga. 昨天我們扛木材發出「cix」的聲音。
-1. 發出「cix」…. Mnegcix nami bi mapa mshjil steetu kana. 我們爬坡揹重物都會發出 「cix」出力的語氣。
+1. 想「cix
+ Mkmcix ku bi o ini nkala nghak mu hnjilan. 我很想發出「cix」的聲音但 我的氣沉重的發不出。
+1. 曾…「cix
+Mncix nami mhaal qhuni ka shiga. 昨天我們扛木材發出「cix」的聲音。
+1. 發出「cix
+ Mnegcix nami bi mapa mshjil steetu kana. 我們爬坡揹重物都會發出 「cix」出力的語氣。
 1. 為了「cix」…
  Msncix ku knshjilan napa, mkslagu ka hiya. 我為了「cix」揹重 物他沒揹任何東西而爭吵。
-1. 被…「cix」. Pncix ku psluhay paapa mshjil tama mu paah laqi ka yaku. 我從小就被父 親訓練揹重物發出「cix」的聲音。
-1. 會「cix」…. Ini pnegcix ka mapa lhkah napa. 揹輕的東西不會發出「cix」的聲音。
+1. 被…「cix
+Pncix ku psluhay paapa mshjil tama mu paah laqi ka yaku. 我從小就被父 親訓練揹重物發出「cix」的聲音。
+1. 會「cix
+ Ini pnegcix ka mapa lhkah napa. 揹輕的東西不會發出「cix」的聲音。
 1. 因…「cix」而死. 
 Wada ptgcix knshjilan nhaal ka seejiq kiya. 那個人因扛重物而發出 「cix」的聲音而死。
-1. 為了…「cix」. Miyah sgcix mapa lala bi bunga mu ka hiya. 他為了來揹我很多的地瓜 發出「cix」的聲音。
-1. … 老是「cix」. Saw skcix ana bilaq bi napa na ka kuyuh kiya. 那個婦女連揹輕的東西 也老是會發出「cix」的聲音。
+1. 為了…「cix
+Miyah sgcix mapa lala bi bunga mu ka hiya. 他為了來揹我很多的地瓜 發出「cix」的聲音。
+1. … 老是「cix
+Saw skcix ana bilaq bi napa na ka kuyuh kiya. 那個婦女連揹輕的東西 也老是會發出「cix」的聲音。
 1. 像「cix」…一樣. 
 Skncix na mshjil phlan ka lhkah bi phlan. 他扛輕的東西像扛重的東 西發出「cix」的聲音一樣。
-1. 很會「cix」…. Smtcix bi phlan ka mshjil. 扛重的東西很會發出「cix」的聲音。
-1. 使…「cix」. Tama mu o spcix na phaal knan ka dngur qhuni. 我父親使我發出「cix」的 聲音扛原木。
-1. 比較「cix」…. Tgcix bi mapa lala ga o risaw su? 那個揹比較多而發出「cix」聲音的 是你的兒子嗎？
-1. 發出「cix」…. Emeima ka tmncix mhaal mshjil paah bilaq? 是誰從小扛著重物發出 「cix」的聲音的呢？
-1. 發出「cix」…. Manu sun su haya tmtcix blbil hiya? 你在那裡發出「cix」的聲音拉什 麼東西？
-1. … 都「cix」. Ttcix mhaal qhuni kana ka seejiq. 所有的人 扛木頭都發出「cix」的聲音。
+1. 很會「cix
+ Smtcix bi phlan ka mshjil. 扛重的東西很會發出「cix」的聲音。
+1. 使…「cix
+Tama mu o spcix na phaal knan ka dngur qhuni. 我父親使我發出「cix」的 聲音扛原木。
+1. 比較「cix
+ Tgcix bi mapa lala ga o risaw su? 那個揹比較多而發出「cix」聲音的 是你的兒子嗎？
+1. 發出「cix
+ Emeima ka tmncix mhaal mshjil paah bilaq? 是誰從小扛著重物發出 「cix」的聲音的呢？
+1. 發出「cix
+ Manu sun su haya tmtcix blbil hiya? 你在那裡發出「cix」的聲音拉什 麼東西？
+1. … 都「cix
+Ttcix mhaal qhuni kana ka seejiq. 所有的人 扛木頭都發出「cix」的聲音。
 
 1. 標示;指示. 
 Isu ciyu na ka ssaun ta sayang. 今天我們要去的地方由你來指示。 2. 食指. 
@@ -33892,7 +33960,8 @@ Ini tduwa spgimax mhuma slaq ka bunga. 地瓜不能混合種在水田上。
  Ma gipu kana ka bru babuy nini? 為什麼這些小豬都是母的？ [詞意：bais knthuk 雌性（母的） ]
 1. 
 
-1. 彈簧發出來的聲音（擬聲詞）。. Ma ”giq”msa gakat nii. 這個椅子怎麼有”giq”的聲音。 [詞意：hnang keelgan bawa 彈簧發出來的聲音]
+1. 彈簧發出來的聲音（擬聲詞）
+ Ma ”giq”msa gakat nii. 這個椅子怎麼有”giq”的聲音。 [詞意：hnang keelgan bawa 彈簧發出來的聲音]
 1. 咳聲(氣管炎)（
  Mnaruh balay ka gir mu. 我一直在咳(很痛)因為氣管發炎。 [詞意： hrhir waru 咳聲(氣管炎)]
 1. 鐵銹. 
@@ -38891,68 +38960,109 @@ Biqi ku kingal hahug buwax su masu ha. 你舀給我一些小米。 [詞意：qay
 Dhiya ga o dmhahuy mhulis ini sneiyax qmita seejiq. 那些人 「hahuy 」地叫著瞧不起人。
 1. 專說「hahuy 」的人. 
 Kana kyikuyuh ga o dmpthahuy mhulis qrasan. 那些婦女們在讚美 中「hahuy 」地大笑。
-1. 要叫「hahuy 」. Mqaras ku qmita sunan o emphahuy ku mhulis. 看到你我高興 地大笑叫 「hahuy 」。
-1. 叫「hahuy 」. Ana nami empthahuy mhulis o ida ini sntuku ka qnnaqih kuxul mu. 雖然我 們「hahuy 」地大笑，但掩不住我的 痛苦。
+1. 要叫「hahuy 
+Mqaras ku qmita sunan o emphahuy ku mhulis. 看到你我高興 地大笑叫 「hahuy 」。
+1. 叫「hahuy 
+Ana nami empthahuy mhulis o ida ini sntuku ka qnnaqih kuxul mu. 雖然我 們「hahuy 」地大笑，但掩不住我的 痛苦。
 1. 要為…「hahuy 」地. 
 Mkan pntrian do ghahuy maku hulis qaras mu. 在喜宴中我要 「hahuy 」地大笑為你們慶賀。
-1. 在叫「hahuy 」. Ga jiyax gmhahuy embahang hulis kuyuh ka swayi mu snaw. 我弟弟只 聽婦女「hahuy 」 的笑聲。
-1. 只叫了「hahuy 」. Gmnhahuy ku embahang hulis kyikuyuh o aji hmut saw hulis bhangan. 我只聽到婦女們 「hahuy 」的笑聲跟一般的笑聲不一樣。
-1. 發出了「hahuy 」. Wada mqqaras bi kana ka seejiq mstrung hiya o gnhahuy na mhulis. 他 發出了「hahuy 」的笑聲，讓所有在那 裏相遇的人高興。
-1. 叫「hahuy 」. Hhahuy na mhulis o wana nhiya ka bhangan balay. 他叫的「hahuy 」聲非 常清楚。
+1. 在叫「hahuy 
+Ga jiyax gmhahuy embahang hulis kuyuh ka swayi mu snaw. 我弟弟只 聽婦女「hahuy 」 的笑聲。
+1. 只叫了「hahuy 
+Gmnhahuy ku embahang hulis kyikuyuh o aji hmut saw hulis bhangan. 我只聽到婦女們 「hahuy 」的笑聲跟一般的笑聲不一樣。
+1. 發出了「hahuy 
+Wada mqqaras bi kana ka seejiq mstrung hiya o gnhahuy na mhulis. 他 發出了「hahuy 」的笑聲，讓所有在那 裏相遇的人高興。
+1. 叫「hahuy 
+Hhahuy na mhulis o wana nhiya ka bhangan balay. 他叫的「hahuy 」聲非 常清楚。
 1. 用來做什麼. 
 Hhuya su ka pupu yasan gaga? 那個小斧頭你要用來 做什麼？
-1. 別在發出「hahuy 」. Hhuya su ga nbsian ha. 別在哀傷中發出「hahuy 」地笑聲。
-1. 發出「hahuy 」. Hhuyan su ka ga nbsian o paru smiyus. 在哀傷中發出「hahuy 」地笑聲 是最大的禁忌。
-1. 發出「hahuy 」. Hhuyaw ta hi ka kyikuyuh ga mqaras gaga. 我們讓那正高興的 婦女們 「hahuy 」地大笑。
-1. 發出「hahuy 」. “ Hhuyay ta mhulis ” msa nami o asi lu bowng mnarux ka laqi mu da. 我 們說：『讓我們一起發出「hahuy 」地笑聲』時，我孩子 突然病倒了。
-1. 發出「hahuy 」. Hhuyi mu mhulis ka bubu mu o tlhulis rmngaw “ empunu su ” sun ku na. 我給我母親發出「hahuy 」的笑聲時，她笑著對我說：「你發 瘋了。」
-1. 發出「hahuy 」. Hhuyun mu mhulis pxal ka snaw mu, sita huya msa. 我要對我 先生發出 「hahuy 」的笑聲，看他反應如何。
-1. 別讓…發出「hahuy 」. Hhyanay su ga knrxan baki su ka ina su. 你別讓你的媳婦在你公 公生病時發出「hahuy 」地笑聲。
-1. 讓…發出「hahuy 」. Hhyani hi ga mqaras ka kyikuyuh gaga. 讓那些婦女在那裏高興地 發出「hahuy 」的笑聲。
-1. 使「hahuy 」. Mreurat waru na hmahuy mhulis ka kuyuh su. 你的妻子「hahuy 」地笑時 脖子暴筋。
+1. 別在發出「hahuy 
+Hhuya su ga nbsian ha. 別在哀傷中發出「hahuy 」地笑聲。
+1. 發出「hahuy 
+Hhuyan su ka ga nbsian o paru smiyus. 在哀傷中發出「hahuy 」地笑聲 是最大的禁忌。
+1. 發出「hahuy 
+Hhuyaw ta hi ka kyikuyuh ga mqaras gaga. 我們讓那正高興的 婦女們 「hahuy 」地大笑。
+1. 發出「hahuy 
+“ Hhuyay ta mhulis ” msa nami o asi lu bowng mnarux ka laqi mu da. 我 們說：『讓我們一起發出「hahuy 」地笑聲』時，我孩子 突然病倒了。
+1. 發出「hahuy 
+Hhuyi mu mhulis ka bubu mu o tlhulis rmngaw “ empunu su ” sun ku na. 我給我母親發出「hahuy 」的笑聲時，她笑著對我說：「你發 瘋了。」
+1. 發出「hahuy 
+Hhuyun mu mhulis pxal ka snaw mu, sita huya msa. 我要對我 先生發出 「hahuy 」的笑聲，看他反應如何。
+1. 別讓…發出「hahuy 
+Hhyanay su ga knrxan baki su ka ina su. 你別讓你的媳婦在你公 公生病時發出「hahuy 」地笑聲。
+1. 讓…發出「hahuy 
+Hhyani hi ga mqaras ka kyikuyuh gaga. 讓那些婦女在那裏高興地 發出「hahuy 」的笑聲。
+1. 使「hahuy 
+Mreurat waru na hmahuy mhulis ka kuyuh su. 你的妻子「hahuy 」地笑時 脖子暴筋。
 1. 曾「hahuy 」地叫. 
 Hmnhahuy ku mhulis pxal o kseengun ku tama da. 有次我曾 「hahuy 」地笑著被我父親斥責。
-1. 發出「hahuy 」. Ana su asi khahuy mhulis pnnais bi ka kiya. 雖然你會發出「hahuy 」的 笑聲但那只是短暫的。
-1. 就會「hahuy 」. Pmahi lala sinaw kkhahuy na mhulis ka kuyuh gaga. 給那婦女喝多一點 酒，她就會「hahuy 」地笑著。
+1. 發出「hahuy 
+Ana su asi khahuy mhulis pnnais bi ka kiya. 雖然你會發出「hahuy 」的 笑聲但那只是短暫的。
+1. 就會「hahuy 
+Pmahi lala sinaw kkhahuy na mhulis ka kuyuh gaga. 給那婦女喝多一點 酒，她就會「hahuy 」地笑著。
 1. 大笑之聲音. 
 Kmhahuy mhulis. 大聲笑。
-1. 發出「hahuy 」. Mkan ta pntrian shiga o kmnhahuy su mhulis. 昨天我們吃婚宴時你發 出了 「hahuy 」的笑聲。
-1. 發出「hahuy 」. Knhahuy na mhulis o powsa bi lnglungan muuyas ta. 他所發出的 「hahuy 」笑聲會使我們盡情的唱歌。
+1. 發出「hahuy 
+Mkan ta pntrian shiga o kmnhahuy su mhulis. 昨天我們吃婚宴時你發 出了 「hahuy 」的笑聲。
+1. 發出「hahuy 
+Knhahuy na mhulis o powsa bi lnglungan muuyas ta. 他所發出的 「hahuy 」笑聲會使我們盡情的唱歌。
 1. 要…
 
-1. 變成「hahuy 」. Hmuya maahahuy ka hulis su da! 你的笑聲怎麼變成「hahuy 」聲呢！
+1. 變成「hahuy 
+Hmuya maahahuy ka hulis su da! 你的笑聲怎麼變成「hahuy 」聲呢！
 1. 像…「hahuy 」一樣. 
 Hulis na o mghahuy hulis mu. 他發出「hahuy 」的笑聲像我一樣。
 
-1. 發出「hahuy 」. Mhahuy su mhulis siida o qita seejiq ha, siqa ta balay. 當你要發出 「hahuy 」的笑聲時看看有沒有人，我 們會不好意思的。
-1. 想要發出「hahuy 」. Ana ku mkmhahuy o hbaraw seejiq dga, msiqa ku da. 我想要發出 「hahuy 」的笑聲但看到人多時就不好意思了。
-1. 想使…發出「hahuy 」. Mkmphahuy ku hulis wauwa mu o ini bi sruwa. 我想使我女兒發 出「hahuy 」 的笑聲，但她不願意。
-1. 很會「hahuy 」. Qulung qmita seejiq do mneghahuy mhulis ka kuyuh gaga. 那婦女看到 人時就會「hahuy 」地笑著。
-1. 就發出「hahuy 」. Miyah su sapah mu shiga o mnhahuy su qaras mhulis. 昨天你來我家 時你高興的發 出「hahuy 」的笑聲。
+1. 發出「hahuy 
+Mhahuy su mhulis siida o qita seejiq ha, siqa ta balay. 當你要發出 「hahuy 」的笑聲時看看有沒有人，我 們會不好意思的。
+1. 想要發出「hahuy 
+Ana ku mkmhahuy o hbaraw seejiq dga, msiqa ku da. 我想要發出 「hahuy 」的笑聲但看到人多時就不好意思了。
+1. 想使…發出「hahuy 
+Mkmphahuy ku hulis wauwa mu o ini bi sruwa. 我想使我女兒發 出「hahuy 」 的笑聲，但她不願意。
+1. 很會「hahuy 
+Qulung qmita seejiq do mneghahuy mhulis ka kuyuh gaga. 那婦女看到 人時就會「hahuy 」地笑著。
+1. 就發出「hahuy 
+Miyah su sapah mu shiga o mnhahuy su qaras mhulis. 昨天你來我家 時你高興的發 出「hahuy 」的笑聲。
 1. 為了…「hahuy 」而爭吵. 
 Naqih bi kuxul mu msnhahuy nami hulis kuyuh mu saw smiqa. 我心裏很難過，我們為了我的妻子「hahuy 」 地笑很不好意思 而爭吵。
-1. 發出「hahuy 」. Ga mtghahuy hulis kingal sapah su ka nii hmbragan kuyuh. 有很多婦女 在你家中發出「hahuy 」的笑聲。
-1. 應該發出「hahuy 」. “ Nhahuy su mhulis ” sun ku dha o ini ku bi sruwa. 他們對我說： 『你應該發出 「hahuy 」 的笑聲。』但我不願意。
-1. 發出「hahuy 」. Ini skuxul phahuy laqi na ka tama su. 你父親不喜歡讓孩子發出 「hahuy 」的笑聲。
-1. 適合發出「hahuy 」. Ini pneghahuy knseesu na ka ina mu. 我媳婦文靜地不適合發出 「hahuy 」的笑聲。
-1. 使…發出「hahuy 」. Pnhahuy hulis pxal swayi mu ka lupung na o “ manu sun namu haya? ” msa ka bubu mu. 有次我弟弟使他的朋友發出 「hahuy 」的笑聲，我母親就說： 「你們在做什麼？ 」
-1. 會使…發出「hahuy 」. Pphahuy bi laqi na ka bubu na. 他的母親會使孩子發出 「hahuy 」的笑聲。
-1. 發出「hahuy 」. Asi ka niqan saw sklwiun o ki ka pshahuy hulis ka bubu mu. 我母親要有 驚奇的事她才會發出 「hahuy 」 的笑聲。
-1. 跟著「hahuy 」. Kmhahuy kana do sghahuy ku uri da. 所有人都發出「hahuy 」的笑聲 時我也跟著笑了。
-1. 發出「hahuy 」. Ini tduwa shahuy ka ga nbsian, kiya o paru bi smiyus. 不可以在哀悼中 發出 「hahuy 」的笑聲，那是很 嚴重的忌諱。
-1. 喜歡發出「hahuy 」. Kyikuyuh alang namu o saw skhahuy mhulis qaras. 你們部落的婦 女喜歡在歡笑中發出「hahuy 」的笑聲。
-1. 當作…發出「hahuy 」. Sknhahuy dha embahang ka saw baraq hulis. 他們把狂笑聲聽作 是「hahuy 」的笑聲。
-1. 常發出「hahuy 」. Kuyuh kiya o smhhahuy bi bhangan hulis na. 常聽到那個婦女發出 「hahuy 」的歡笑聲。
-1. 發出「hahuy 」. Ini bi tduwa snhahuy ka mkan hadur. 在馘首祭中不能發出「hahuy 」 的笑聲。
-1. 讓發出「hahuy 」. Ma su sphahuy phulis ka laqi su? 你怎麼讓你孩子發 出「hahuy 」的 笑聲？
+1. 發出「hahuy 
+Ga mtghahuy hulis kingal sapah su ka nii hmbragan kuyuh. 有很多婦女 在你家中發出「hahuy 」的笑聲。
+1. 應該發出「hahuy 
+“ Nhahuy su mhulis ” sun ku dha o ini ku bi sruwa. 他們對我說： 『你應該發出 「hahuy 」 的笑聲。』但我不願意。
+1. 發出「hahuy 
+Ini skuxul phahuy laqi na ka tama su. 你父親不喜歡讓孩子發出 「hahuy 」的笑聲。
+1. 適合發出「hahuy 
+Ini pneghahuy knseesu na ka ina mu. 我媳婦文靜地不適合發出 「hahuy 」的笑聲。
+1. 使…發出「hahuy 
+Pnhahuy hulis pxal swayi mu ka lupung na o “ manu sun namu haya? ” msa ka bubu mu. 有次我弟弟使他的朋友發出 「hahuy 」的笑聲，我母親就說： 「你們在做什麼？ 」
+1. 會使…發出「hahuy 
+Pphahuy bi laqi na ka bubu na. 他的母親會使孩子發出 「hahuy 」的笑聲。
+1. 發出「hahuy 
+Asi ka niqan saw sklwiun o ki ka pshahuy hulis ka bubu mu. 我母親要有 驚奇的事她才會發出 「hahuy 」 的笑聲。
+1. 跟著「hahuy 
+Kmhahuy kana do sghahuy ku uri da. 所有人都發出「hahuy 」的笑聲 時我也跟著笑了。
+1. 發出「hahuy 
+Ini tduwa shahuy ka ga nbsian, kiya o paru bi smiyus. 不可以在哀悼中 發出 「hahuy 」的笑聲，那是很 嚴重的忌諱。
+1. 喜歡發出「hahuy 
+Kyikuyuh alang namu o saw skhahuy mhulis qaras. 你們部落的婦 女喜歡在歡笑中發出「hahuy 」的笑聲。
+1. 當作…發出「hahuy 
+Sknhahuy dha embahang ka saw baraq hulis. 他們把狂笑聲聽作 是「hahuy 」的笑聲。
+1. 常發出「hahuy 
+Kuyuh kiya o smhhahuy bi bhangan hulis na. 常聽到那個婦女發出 「hahuy 」的歡笑聲。
+1. 發出「hahuy 
+Ini bi tduwa snhahuy ka mkan hadur. 在馘首祭中不能發出「hahuy 」 的笑聲。
+1. 讓發出「hahuy 
+Ma su sphahuy phulis ka laqi su? 你怎麼讓你孩子發 出「hahuy 」的 笑聲？
 1. 因…發出「hahuy 」
  Tghahuy bi hulis ga o kuyuh su ga uqun qaras. 你的妻子因高興 而發出「hahuy 」的笑聲。
 1. 吸蒸氣之人（
 
-1. 曾…發出「hahuy 」. Tmnhahuy nami embahang hulis na ka shiga o embahang nami lingis na ka sayang da. 昨天我們聽到她發出「hahuy 」的笑聲，而今天卻聽到她的哭聲 了。
+1. 曾…發出「hahuy 
+Tmnhahuy nami embahang hulis na ka shiga o embahang nami lingis na ka sayang da. 昨天我們聽到她發出「hahuy 」的笑聲，而今天卻聽到她的哭聲 了。
 1. 發出「hahuy 」的人. 
 Tnhahuy hulis ga o knlgan na hi hulis na. 那發出「hahuy 」笑聲的 人是他自然的笑聲。
-1. 不斷地發出「hahuy 」. Kuyuh ga o bitaq sqhaan tthahuy na mhulis. 那婦女不斷地發出 「hahuy 」的笑聲到聲音沙啞。
+1. 不斷地發出「hahuy 
+Kuyuh ga o bitaq sqhaan tthahuy na mhulis. 那婦女不斷地發出 「hahuy 」的笑聲到聲音沙啞。
 1. 
  Ksi haka nhiya. 他的部份就這樣了。 [詞意：smlbu haya ka 就這樣]
 1. 橋. 
@@ -53189,7 +53299,8 @@ Tkahaw bi daan qmpah dxgal nini. 這塊耕地土壤很鬆弛會好耕作。
 
 1. 是「skahing 沙卡亨」
  [如果線沒有整理好，就會看起來很亂。另外，殺豬時可以 看到豬肉有像網狀的脂肪，族人會 拿起來曬，做成油。]
-1. 沙卡亨(地名-部落名-舊部落,在今花蓮縣秀林鄉銅門村境內,參考附錄舊部落分布 圖）。.
+1. 沙卡亨(地名-部落名-舊部落,在今花蓮縣秀林鄉銅門村境內,參考附錄舊部落分布 圖）
+
 1. 網（
  2. 脂肪. 
 3. 流浪（
@@ -55295,7 +55406,8 @@ Slpi ka payay na. 他的稻只長糠粃。
  Dmptlubug ka qpahun dha. 他們的職業是樂手。
 1. 
 
-1. 彈琴來…。. Lbgi binaw bhangay ta. 彈彈看，我們來聽。
+1. 彈琴來…
+ Lbgi binaw bhangay ta. 彈彈看，我們來聽。
 1. 
 
 1. 為…
@@ -55304,7 +55416,8 @@ Slpi ka payay na. 他的稻只長糠粃。
 [詞意：qnqaya tqrian 袋]
 1. 
  Kana lblubuy ga o tqrian mu trabus. 那些麻袋是我要用來 裝花生的。
-1. 讓…做睡袋 。.
+1. 讓…做睡袋 
+
 1. 
 
 1. 
@@ -55342,7 +55455,8 @@ Mnbulang ku trima ni emplukus kau da. 我洗澡脫衣，現在我正要 穿衣�
 Lukus snalu dmayi o muuxul bi plkusan. 絲織的衣服秔起來很暖和。
 1. 要…
 
-1. 對衣服很痴;很喜歡衣服 。.
+1. 對衣服很痴;很喜歡衣服 
+
 1. 
  Tglukus snalu su ka malu bi taan. 你縫製的這個衣服最漂亮。
 1. 
@@ -55469,7 +55583,8 @@ Tthluluy na qmpah hrus o luhay niya. 他在會滑動的坡地工作習 慣了。
 
 1. 要求,
  Sai ta smluluy meysa ka hiya han. 我們去要求他一下。
-1. 煙草（植物名）。.
+1. 煙草（植物名）
+
 1. 種過煙草. 
 Pnslumak ku mhuma o pglkan dha marig. 我種植的煙草被他們搶著購買。
 1. 
@@ -55506,7 +55621,8 @@ Klala ka negay su lpungan. 你要給朋友多一 點。
 Qrasun dha bi ka isu, malu su slpungan. 他們都很讚美你，因為你很好相處。
 1. 
  Sai smlupung ka malu bi wauwa ga hiya. 那裏有位很好的 女孩，你去跟他做 朋友。
-1. 鬆的聲音（擬聲詞）。. [詞意：hnang sruhaw 鬆的聲音]
+1. 鬆的聲音（擬聲詞）
+ [詞意：hnang sruhaw 鬆的聲音]
 1. 
 
 1. 弄鬆. 
@@ -55544,7 +55660,8 @@ Saw lqluq mlgug waru na. 他脖子常習慣發出嘎啦的聲音。
  Masu sqnluqih bi nuda su? 為什麼老 是做出傷害人的事？
 1. 
 
-1. 脫落,複數為lslus。.
+1. 脫落,複數為lslus
+
 1. 要拖拉…
 
 1. 脫落;
@@ -55576,7 +55693,8 @@ Dmptbrqni kana ka ltlutut mu. 我的親戚都是專門種胡桃樹的。
 
 1. 親戚;親族;
 
-1. 讓…接上（連接）。.
+1. 讓…接上（連接）
+
 1. 
 
 1. 
@@ -55665,8 +55783,10 @@ Lux su sgealu, aji empsbrinah sunan. 他不會回心轉意，你卻還要愛他�
  Lxun su msaang empeerinah da. 無緣無故地 責罵會嘔氣的。 [詞意：ixun 勉強、白費、隨意]
 1. 
  Blxun su knuwan ka sari su. 你什麼時候帶走你的芋頭呢？
-1. 無緣無故 。.
-1. 問語（疑問句語首助詞）。. Ma saw kiya da? 為什麼這樣呢？ Ma su lu miyah han? 你為什 要來呢？ [詞意：kari smiling 問語]
+1. 無緣無故 
+
+1. 問語（疑問句語首助詞）
+ Ma saw kiya da? 為什麼這樣呢？ Ma su lu miyah han? 你為什 要來呢？ [詞意：kari smiling 問語]
 1. 成為. 
 Maa kuyuh. 成為女人。 [詞意：kari brah pkpriyux nkiya 成為 文化小語 女孩成為女 人是因為學會文化 技能－織布後才能結婚，也才是名副其實的太魯閣 女人。 ]
 1. 正要來;
@@ -55806,16 +55926,19 @@ Mnmspatan ta mqqita sayang da. 我們已見了十六次。
 [詞意：spgan smsul rima 六]
 1. 
  Asi kmataru ka rapit buun mu. 我一打就打了六隻飛鼠。
-1. 近六之久…。. Mkmataru ka knshjilan kuyuh na da. 他太太已懷了快六個月的身孕了。
+1. 近六之久…
+ Mkmataru ka knshjilan kuyuh na da. 他太太已懷了快六個月的身孕了。
 
-1. 連襟（姊姊和妹妹的先生間的稱呼）。. [詞意：snaw mnswayi ka kuyuh 連襟]
+1. 連襟（姊姊和妹妹的先生間的稱呼）
+ [詞意：snaw mnswayi ka kuyuh 連襟]
 1. 將成為姐（妹）
  Empaamawan su ka hiya. 他將成為你太太姐（妹）的先生。
 1. 成為姐（妹）
  Maamawan mu ka hiya da. 他是我太太 姐（妹）的先生。
 1. 十. 
 [詞意：spgan smsul mngari 十]
-1. 已經十…。. Epaamaxal jiyax ka knrxun mu da. 我已經病了十天了。
+1. 已經十…
+ Epaamaxal jiyax ka knrxun mu da. 我已經病了十天了。
 1. 
  Hngkwasan nami o msnmaxal hngkawas. 我們相差十歲。
 1. 荒廢. 
@@ -55833,8 +55956,10 @@ Tgbuur sari ka mdngil sqapah bi baga qlitan. 剝芋頭的皮容易沾黏在手�
 Gmnayay marig ka mduuy nputung. 有槍的人都選擇購買散彈。
 1. 怎樣的;
  [詞意：smiling knmanu 怎樣的、什麼樣的]
-1. 將會如何…。. Empmeenu su hici saw nii nuda su ga? 你這樣做將來怎麼辦？
-1. 看成…。. Kmnuun su qmita ka seejiq gaga? 你如何看那個人？（你把那個人看成什 麼？）
+1. 將會如何…
+ Empmeenu su hici saw nii nuda su ga? 你這樣做將來怎麼辦？
+1. 看成…
+ Kmnuun su qmita ka seejiq gaga? 你如何看那個人？（你把那個人看成什 麼？）
 1. 什麼；如何. 
 Iya phulis seejiq, mmeenu su nanak ka isu? 不要取笑別人，你 自己是怎樣 的人？
 1. 結語語詞（ 
@@ -55851,7 +55976,8 @@ Manu sun su mey hiya? 你幹嘛對他說活該呢？ [相關詞-同 義詞] meyx
  Mgmeybang sowki mu ka gaga. 那個很像我的大鐮刀。
 1. 
  Miyah sgmeybang sowki mu ka hiya. 他來向我要大鐮刀。
-1. 捶打聲（擬聲詞）。. [詞意：kari bhbeyh msru 捶打聲]
+1. 捶打聲（擬聲詞）
+ [詞意：kari bhbeyh msru 捶打聲]
 1. 
  Mnegmeyh bi msru kuyuh ka snaw na. 他先生常很會 打他太太。
 1. 用…
@@ -55873,10 +55999,12 @@ Dmpsnangi qmpah ni meysa lala snadu ka dhya. 他們工作故 意只做一點點�
 1. 終於好了 ;夠了（結語語詞）。 . [詞意：mnhdu nuda 終於好了、 夠了]
 1. 
  Mnegmeyx bi kari na ka tama mu psnhdu uwit na. 我爸爸為了減輕 他的勞累總是說好啦。
-1. 讓…。. Snegmeyx na ptghuy kari ga phuqil quyu ka hiya. 他在打蛇的同時， 嘴巴也說 好
+1. 讓…
+ Snegmeyx na ptghuy kari ga phuqil quyu ka hiya. 他在打蛇的同時， 嘴巴也說 好
 1. 給. 
 Dmpscikuh mgay bsu dha ka dhiya gaga. 他們那些人是只會 少給（報酬）的人。
-1. 颱風草（植物名,別稱風動草;龍舟草）。. [詞意：hangan wahir iiyahan bihur 颱風草]
+1. 颱風草（植物名,別稱風動草;龍舟草）
+ [詞意：hangan wahir iiyahan bihur 颱風草]
 1. 
  Nmgmaw kana ka qmpahan mu wada mu gbalun da. 田地上原本長很多的 颱風草，不過被我清除了。
 1. 
@@ -55890,7 +56018,8 @@ Mgsdung taan ka dgiyaq. 山看起來是淺藍色的。
 1. 
  Saw skmha kari na ni ini usa. 他常說要去，但實際沒去。
 1. 山嶺. 
-2. 馬黑揚(地名-部落名-舊部落,在今花蓮縣秀林鄉境內,參考附錄舊部落分布圖）。. [詞意：hnyigan dgiyaq 山嶺 詞意：hangan alang 馬黑揚]
+2. 馬黑揚(地名-部落名-舊部落,在今花蓮縣秀林鄉境內,參考附錄舊部落分布圖）
+ [詞意：hnyigan dgiyaq 山嶺 詞意：hangan alang 馬黑揚]
 1. 像…
  Mgmhiyang dgiyaq nami hi ka dgiyaq gaga. 那座山的山嶺和我們那邊 一樣。
 1. 
@@ -55900,7 +56029,8 @@ Mgsdung taan ka dgiyaq. 山看起來是淺藍色的。
  [詞意：khnua 沒有多少 詞意：aji lala 不多]
 1. 那些少量的. 
 Kana ddmida ga o pssliun do lala da. 將一點一點收集成多。
-1. 將少量當作…。. Sknmida na ka lala. 他把少量看成很多。
+1. 將少量當作…
+ Sknmida na ka lala. 他把少量看成很多。
 1. 找. 
 Sani miing djima hidaw lukus. 幫她找竹子曬衣服。
 1. 布紋;挑織. 
@@ -55916,7 +56046,8 @@ Sani miing djima hidaw lukus. 幫她找竹子曬衣服。
 [詞意：hangan samat ni tnbgan 山羊 詞意：spjian ni mgmirit 不聽話]
 
 
-1. 誤將山羊當做… 。. Sknmirit mu gmeuqu qmita ka pada. 我把山羌看錯成山羊了。
+1. 誤將山羊當做… 
+ Sknmirit mu gmeuqu qmita ka pada. 我把山羌看錯成山羊了。
 1. 
  Mha ku tmmirit dgiyaq ka saman. 明天我要去獵山羊。
 1. 冬天. 
@@ -55941,7 +56072,8 @@ Asi na gdriqi mita. 他立刻用眼睛瞄他。
  Mnegmiyak bi ka ina mu. 我的媳婦認真做家務。
 1. 為加綴詞,表人物;
 
-1. 莫可黑揚(地名-部落名-舊部落,在今花蓮縣秀林鄉境內,參考附錄舊部落分布圖）。. Seejiq MkmHiyang ka hiya. 他是mkHiyang 部落的人。
+1. 莫可黑揚(地名-部落名-舊部落,在今花蓮縣秀林鄉境內,參考附錄舊部落分布圖）
+ Seejiq MkmHiyang ka hiya. 他是mkHiyang 部落的人。
 1. 吃. 
 Nii ku mkan apu. 我正在吃柿子。
 1. 吃. 
@@ -55970,18 +56102,21 @@ Ggbrqiya mu mkuy ka gasil nii. 這繩子我拿來綁旗幟的。
  [詞意：kari snru mkshaya 可能做到的語氣]
 1. 
  Kmlaa bi nhari ka mnarux na ha. 希望他的病趕快好起來。
-1. 做…。. Smlaa su bi sapah dxgal mu. 別在我土地上建房子。
+1. 做…
+ Smlaa su bi sapah dxgal mu. 別在我土地上建房子。
 1. 浮腫. 
 2. 包裹. 
 [詞意：mkkawa 浮腫 詞意：lbuan 包裹 文化小語 mlabu 意為「浮腫」。在 太魯閣族的 傳統「生活慣習」（gaya ）裡，常常認為生病的原因一定是觸犯gaya 的結果。 如太魯閣族的 傳說「吊一包火灰在橘子樹上如果有人偷了橘子身體會浮腫」（Saan pswiwil qbulit ka mami, nasi gmeeguy ka seejiq do o mlabu balay msa ka rudan sbiyaw. ），或「在 爐灶上 小便生殖器會浮腫」（Shmaan ka rqda o mlabu ka utas smnhmu msa ka rudan sbiyaw. ）。]
-1. 百步蛇（動物名）。. [詞意：hangan quyu 百步蛇]
+1. 百步蛇（動物名）
+ [詞意：hangan quyu 百步蛇]
 
 
 1. 
  Mgmlhay hari taan ka quyu shmut. 龜殼花看起來像百步蛇。
 1. 
  Wada ptgmlhay ka tama na. 他爸爸被百步蛇咬死。
-1. 香蕉花（植物名）。. [詞意：dudux hiyi blbul 香蕉花]
+1. 香蕉花（植物名）
+ [詞意：dudux hiyi blbul 香蕉花]
 1. 
  Msnmlmul nami blbul wada na sliqan. 我們為了被他弄壞的香蕉花而 吵架。
 1. 
@@ -56014,7 +56149,8 @@ Mowl msa tggmul ka tdruy. 車子疊在一起（像交媾一樣）的形狀就是
 
 1. 
  Saw skmowl baga na msru laqi. 他習慣用手打孩子。
-1. 爆炸聲（擬聲詞）。. [詞意：hnang bali qowngu ni pspruq btunux 爆炸聲]
+1. 爆炸聲（擬聲詞）
+ [詞意：hnang bali qowngu ni pspruq btunux 爆炸聲]
 1. 
  Kkmowng na hmnang o tqrii lala qbulit. 若要爆炸聲大，就裝填多一點火 藥。
 1. 
@@ -56045,7 +56181,8 @@ Dmpdadak ka dmrata gaga. 那些兵是守望兵。
 [詞意：spgan 5 kmxalan 五十、五的十個或十的五個]
 1. 
  Asi kmrimal ka rudux mu wada mhuqil. 我的雞一下子死五十隻。
-1. 以五十為…。. Smrimal kingal lmabu ka emu gaga. 那個糖果一包裝五十顆。
+1. 以五十為…
+ Smrimal kingal lmabu ka emu gaga. 那個糖果一包裝五十顆。
 1. 汗（
  2. 
  [詞意：qsiya kntlxan hiyi 汗 詞意：knrbkan ni kndrmtan 形容辛苦與努力]
@@ -56065,13 +56202,15 @@ Dmpciq mrut phuqil kuwi pajiq ka dhiya. 他們在擠壓菜蟲。
  Dmtmruyang ka qpahun dha. 他們獵黃鼠狼為業。 [詞意：klgan rqbux 黃鼠狼]
 1. 以獵黃鼠狼為業. 
 Dmtmruyang ka qpahun dha. 他們獵黃鼠狼為業。
-1. 因獵黃鼠狼而…。. Ttmruyang dha o ini sjiyal qmpah da. 他們為了獵黃鼠狼而不工作 了。
+1. 因獵黃鼠狼而…
+ Ttmruyang dha o ini sjiyal qmpah da. 他們為了獵黃鼠狼而不工作 了。
 1. 他這樣說的（
  Embbqru ka qaqay na o nimah mu sinaw wah msa 他說我腳 痛風是因喝酒引起的。 2. 問. 
 3. 結語語詞. 
 4. 這樣. 
 [詞意：smnru kari taxa 他這樣說的 詞意： smilng endaan taxa 問 詞意：nhdaan kari 結語語詞]
-1. 如此說…。. Mnsa ku rmngaw sunan o shngian su da? 我有對你 說過這樣的話，你忘記 了嗎？
+1. 如此說…
+ Mnsa ku rmngaw sunan o shngian su da? 我有對你 說過這樣的話，你忘記 了嗎？
 1. 
  Ni pnegmsa kari na o yaasa aji kari. 他含糊說辭，講出來就不太像是話。
 1. 勒住. 
@@ -56111,7 +56250,8 @@ Gbru ta ptjiyal ka bowyak msa ku o asi lu mtgiril ka tjiyal. 我希望夾到小�
 4. 大鼻子. 
 5. 地名,形容像鼻子一樣击出的地方. 
 [詞意：jiyun enpsknux 鼻子 詞意： pusu tgpucing ni baang sapah 房屋牆角 詞意： smuhing 鼹鼠 詞意： smuhing 大鼻子 詞意： hangan dxgal 地名，形容像鼻子一樣凸出的地方（例如布洛灣台地的 堐處就很像鼻子，那地方就叫muhing ）]
-1. 以鼻作…。. Pnmuhing muuyas ka baki mu. 我爺爺用鼻音歌唱。
+1. 以鼻作…
+ Pnmuhing muuyas ka baki mu. 我爺爺用鼻音歌唱。
 1. 
  Sgmuhing qnabil sapah tgliing ka qowlit utux 老鼠藏於牆角。
 1. 
@@ -56128,7 +56268,8 @@ Pnmumul mu hyaan ka emu gaga. 那糖果是我要給他含在嘴裏的。
  Smumung ka tdruy mu. 我後車輪的軸心很大。 [相關詞-同義詞] bunuh
 1. 你們. 
 Kana dpunu ga o pnaah munan hiya? 那些精神病的人是從你們那裏來的嗎？
-1. 野山芋（野菜名）。. [詞意：sari bbuyu 野山芋]
+1. 野山芋（野菜名）
+ [詞意：sari bbuyu 野山芋]
 1. 
  Emptmunang ku tabug mu babuy. 我要用野山芋養豬。
 1. 
@@ -56226,8 +56367,10 @@ Empnais ku tluung ni mha ku nhari. 我坐一下馬上走。
  [相關詞-同義詞] lama [ 詞意：ramal ni psramal 先去、先去預備]
 1. 將為…
  Empgnama nengari su qnqan ka yaku? 你為我預備的是你吃剩下的食物 嗎？ [相關詞-同義詞] lama
-1. 等接東西（通常是 從上面掉/丟下來的東 西待接）。. [相關詞-同義詞] lama
-1. 要接東西（通常是 從上面掉/丟下來的東 西待接）。. [相關詞-同義詞] lama
+1. 等接東西（通常是 從上面掉/丟下來的東 西待接）
+ [相關詞-同義詞] lama
+1. 要接東西（通常是 從上面掉/丟下來的東 西待接）
+ [相關詞-同義詞] lama
 1. 
  Nama musa ni psnama mnan. 你（們）先去為我們預備一下。 [相關詞-同義 詞] lama
 1. 
@@ -56284,7 +56427,8 @@ Msnmrmul nami nangal na nnaku. 我們為了他拿走我的鳥而吵架。
  Snngiun mu mkan ka bilaq bi negay su. 我就隨意吃你給我的少許東西。
 1. 南投. 
 Dhiya o pnaah mqribaq alang Nantu. 他們是來自後山西部的南投族人。
-1. 嘮叨聲（講個不停的聲音,擬聲詞）。. [詞意：nmut pskla kari 嘮叨聲]
+1. 嘮叨聲（講個不停的聲音,擬聲詞）
+ [詞意：nmut pskla kari 嘮叨聲]
 1. 一直說不停. 
 Empnaq quwaq ka laqi su kuyah.
 1. 
@@ -56337,7 +56481,8 @@ Kana dbrbar kari ga o mnnarux glu dha.
  Pknrxun ta msru 我們去痛打他一頒。
 1. 因…生病. 
 Bbatu na ka sknarux na. 他因貪心而生病的。
-1. 如果（如…就／會…）。. Nasi yaku o malu. 如果是我就好了。 [詞意：kari smpung 如果]
+1. 如果（如…就／會…）
+ Nasi yaku o malu. 如果是我就好了。 [詞意：kari smpung 如果]
 1. 
  Iya usa sgnasi saw sknasi hiya. 你（們）不要去「說話常說如果」 的人那裡。
 1. 
@@ -56373,14 +56518,16 @@ Ngnga lmingis ka laqi rbnaw. 嬰兒們發出哭叫聲。 [詞意：rngat kacing 
 
 1. 
 
-1. 開口（張嘴巴）。. [詞意：quwaq ini pggumuk 開口（張嘴巴）]
+1. 開口（張嘴巴）
+ [詞意：quwaq ini pggumuk 開口（張嘴巴）]
 1. 
 
 1. 
 
 1. 把…張開. 
 Pnghai quwaq. 把嘴巴打開。
-1. 被張開（要他把嘴巴張開）。.
+1. 被張開（要他把嘴巴張開）
+
 1. 名字. 
 Apay ngahan na ka laqi kuyuh gaga. 那位女孩的名字 叫Apay 。
 1. 釣魚. 
@@ -56402,7 +56549,8 @@ Ngahu ttakur na. 正要倒下去了。 2. 峭壁盡頭（
  [詞意：mlalu bi ttakur 隨時會跌下來 詞意： tunux dowras 峭壁盡頭（邊）]
 1. 
  Mkngngahu dowras ka mirit. 那個山羊喜歡在山壁邊（峭壁岩崖上）生活 （山羊沿著山崖走）。
-1. 盡頭（峭壁的邊緣,峭壁岩崖上）。.
+1. 盡頭（峭壁的邊緣,峭壁岩崖上）
+
 1. 
  [詞意：rungut hiyi 肉瘤]
 1. 因…
@@ -56439,7 +56587,8 @@ Ngangut sapah 外院 [詞意：aji ruwan 庭院、外院 詞意：saan phrinas, 
 1. 
 
 1. 張開嘴巴哭狀. 
-2. 缺口（刀上的缺口,鎌刀或刀的缺口）。. [詞意：paru ngaha quwaq lmingis 張開嘴巴哭狀 詞意： paru grung na ka hma sowki ni pucing 缺口]
+2. 缺口（刀上的缺口,鎌刀或刀的缺口）
+ [詞意：paru ngaha quwaq lmingis 張開嘴巴哭狀 詞意： paru grung na ka hma sowki ni pucing 缺口]
 1. 小缺口形;東西凹陷. 
 2. 歪嘴巴. 
 [詞意：qngqaya mngasih 小缺口形、東西凹陷 詞意： quwaq mrijil 歪嘴巴]
@@ -56456,7 +56605,8 @@ Ngangut sapah 外院 [詞意：aji ruwan 庭院、外院 詞意：saan phrinas, 
 1. 猴子打架的聲音. 
 2. 熊打架的聲音. 
 [詞意：hnang rungay embsiyak 猴子打架的聲音 詞意： hnang kumay mkeekan 熊打架的聲音]
-1. 發出吷叫（猴子打群架的聲音）。.
+1. 發出吷叫（猴子打群架的聲音）
+
 1. 
  Tngngaq mhrapas ka rungay. 猴群玩耍時會發出尖叫聲。
 1. 狗打群架之聲. 
@@ -56749,7 +56899,8 @@ Mtbnaw seejiq o“nguq nguq”msa mtaqi keeman. 胖的人晚上睡覺時會 發�
 Seejiq daan muda o msngusul bi. 人們感冒時容易流鼻涕。
 
 
-1. 使流鼻涕 。.
+1. 使流鼻涕 
+
 1. 
 
 1. 
@@ -56784,7 +56935,8 @@ Sbeebu smipaq djima knsat Nihung ka smnhiyi Kiristuan. 凡是因為信伖基督�
  Saw dnii. 就是這些。
 1. 
  Nnii o nnisu. 這些是你的。
-1. 最近（近些時候）。. Snii bi mbarig ku tdruy qapi. 我買車是最近的事。
+1. 最近（近些時候）
+ Snii bi mbarig ku tdruy qapi. 我買車是最近的事。
 1. 
  Tgnii ka naku. 這個是我的。
 1. 妻子對丈夫的稱呼. 
@@ -56826,7 +56978,8 @@ Mkmdawi ku matas o nowxay bi rudan mu ka smbbiyax knan. 我曾想不要認真讀
 Emrigaw alang kdjiyax ka Bukung Nsgan. 鄉長每天到部落查訪。
 1. 行為. 
 Ddugun mu bi sunan o pgaya balay iya smhmut nuda su. 我最主要鼓勵你要守法，不可 胡來。
-1. 豪雨（發生意 外死亡所下的大 雨,失魂雨）。. [詞意：quyux paru mkeiyax mhuqil 豪雨]
+1. 豪雨（發生意 外死亡所下的大 雨,失魂雨）
+ [詞意：quyux paru mkeiyax mhuqil 豪雨]
 1. 
  Mmsnuhur nami qmpah. 我們在豪雨中工作。
 1. 
@@ -56843,7 +56996,8 @@ Ddugun mu bi sunan o pgaya balay iya smhmut nuda su. 我最主要鼓勵你要守
  Nsnulug su bi hki sunu ga,empeungat utux su. 若你在路上遇到坍方，你會 嚇得魂飛魄散。
 1. 
 
-1. 讓…巧遇 。.
+1. 讓…巧遇 
+
 1. 使之巧遇. 
 Asi nami psnulug mstrung elug. 我們恰巧在路上相遇。
 1. 說話的聲音. 
@@ -56853,14 +57007,16 @@ Asi nami psnulug mstrung elug. 我們恰巧在路上相遇。
  Ma su saw sknun knan hmuya su? 你為什麼老 在我背後說我？
 1. 
  Ssnun su rmngaw ka rudan o aji malu. 你老是在背後說長輩，這樣不是 很好。
-1. 無花果（果樹名）。. [詞意：hangan pnegalang ini phpah ni mghiyi 無花果]
+1. 無花果（果樹名）
+ [詞意：hangan pnegalang ini phpah ni mghiyi 無花果]
 1. 
  Mtnunuh ka sayang da. 現在是盛產無花果季節。
 1. 
  Tmnunuh ka brihut. 松鼠專吃無花果。
 1. 
  Ttnunuh na ka qbhni o asi ksiyang. 吃無花果的鳥很肥。
-1. 豌豆（荷蘭豆,作物名）。. Nuqaw o mkray bi brigan. 豌豆賣得很貴。 [詞意：hangan beyluh ni spriq uri 豌豆]
+1. 豌豆（荷蘭豆,作物名）
+ Nuqaw o mkray bi brigan. 豌豆賣得很貴。 [詞意：hangan beyluh ni spriq uri 豌豆]
 1. 
  Snnuqaw knux na ka napa su. 你揹的東西有豌豆的味道。
 1. 
@@ -56909,7 +57065,8 @@ Nsknuwan bi ka hiya da 他是什麼時 候來的！他太 早來啦！
 Mniyah sknuwan? 他什麼時候（何時）來的 ？
 1. 幸虧;
  Nuxay hiya ka dmudul. 還好是他帶領。 [詞意：kari qnaras mnshaya hyaan 幸 虧、幸好]
-1. 幸虧是…。. Tnnuxay bi hiya msa kana ka seejiq. 每個人都說還好有他。
+1. 幸虧是…
+ Tnnuxay bi hiya msa kana ka seejiq. 每個人都說還好有他。
 1. 一併. 
 Asi nxal musa iya jiyax msppara. 要去就一起去 ，別猶豫。 2. 不知道的 未來. 
 [詞意： asi pxali 一併 詞意：knuwan o ini klai 不知道的 未來]
@@ -57001,7 +57158,8 @@ Gmpahing rudux gmabal. 他專拔雞翅毛。
  Si kpais kana ka alang nami. 我們部落的人跟周圍的部落互相敵對。
 1. 蔬菜（
  2. 人名（
- 3. 水源（地名部落名,在今花蓮縣秀林鄉水源 村）。. [詞意：hangan damat 蔬菜 詞意：hangan seejiq 人名（女） 詞意： hangan alang 水源]
+ 3. 水源（地名部落名,在今花蓮縣秀林鄉水源 村）
+ [詞意：hangan damat 蔬菜 詞意：hangan seejiq 人名（女） 詞意： hangan alang 水源]
 
 
 1. 綠色. 
@@ -57069,7 +57227,8 @@ Mskuy o empsdngur ku mtahu malah. 冷天時我要燒樹幹來烤火。
  Asi kpalit nanak qnqan kumay. 熊吃得只剩下翅膀。
 1. 
  Prqdgan ku plpalit. 他給我的都是碎屋（剩下的
-1. 槍的射擊聲（擬聲詞）。. Asi kuna si pang smipaq birat. 他重重地”pan” 一聲打了我的耳朵。 [詞意：hnang msqar puniq 槍的射擊聲]
+1. 槍的射擊聲（擬聲詞）
+ Asi kuna si pang smipaq birat. 他重重地”pan” 一聲打了我的耳朵。 [詞意：hnang msqar puniq 槍的射擊聲]
 1. 
  Wada sgpang msqar puniq ka laqi mu. 我兒子在槍擊聲那裏死了。
 1. 
@@ -57140,7 +57299,8 @@ Asi nxal musa iya jiyax msppara. 要去就一起去 ，別猶豫。 [相關詞-�
 Ni tduwa tlngun ka paras. 咬人狗樹不能用手摸。 [詞意：hangan seejiq 人名（男） 詞意： hangan qhuri qmiyut. 咬人狗樹（樹木名，其葉表面有焮毛，故會咬 人）]
 
 
-1. 將成為咬人狗樹的…。. Empeeparas kana hici ka sipaw gaga. 對面的地以後將是咬人 狗樹。
+1. 將成為咬人狗樹的…
+ Empeeparas kana hici ka sipaw gaga. 對面的地以後將是咬人 狗樹。
 1. 
  Mha ku psparas qmpahan mu. 我要到山上砍（處理）咬人狗樹。
 1. 小鋤頭. 
@@ -57170,7 +57330,8 @@ Alaw su psparu bi, kiya do ungat lupung su da. 因為你很驕傲，所以你沒
 
 1. 噴血的聲音（
  Hbagan siida pas sriyu ka dara. 割傷時血會”pas”地流出來。 [詞意： kari biyax snryuan dara 噴血的聲音]
-1. 就是…。. Empeepasi haya ka saun ta maduk saman. 明天那裏就是我們打獵的地方。
+1. 就是…
+ Empeepasi haya ka saun ta maduk saman. 明天那裏就是我們打獵的地方。
 1. 
  Emppas nami smbut payay hini saman. 明天我們會在這裏篩打稻米。
 1. 立刻. 
@@ -57180,11 +57341,13 @@ Rngagi ku, pasi ku shaya. 告訴我，我立 刻照著做。 2.
 Tppas ga ttaril sida qhuni ka rapit. 飛鼠在樹枝上跳來跳去會發出”啪嘶 啪嘶”的聲音。
 1. 
  [詞意：qngqaya gqur 鑿子]
-1. 用鑿子開鑿…。. Empasir nami gmeelug dowras sipaw ga ka yami. 我們在懸崖上用鑿 子開鑿道路。
+1. 用鑿子開鑿…
+ Empasir nami gmeelug dowras sipaw ga ka yami. 我們在懸崖上用鑿 子開鑿道路。
 1. 
  Emptpasir qpahun na ka hiya. 他是以製做鑿子為業。
 1. 人之走路聲（
- 2. 鞭打聲（擬聲詞）。. Pat smbut qaraw djima knan ka bubu mu. 我 媽媽用竹鞭打我。 [詞意：hnang kksa seejiq 人之走路聲 詞意：hnang smbut 鞭打聲]
+ 2. 鞭打聲（擬聲詞）
+ Pat smbut qaraw djima knan ka bubu mu. 我 媽媽用竹鞭打我。 [詞意：hnang kksa seejiq 人之走路聲 詞意：hnang smbut 鞭打聲]
 1. 
  Saw skpat smipaq sbut sulay kacing ka hiya. 他一直（常）鞭打牛屁股而 發出啪啪聲。
 1. 
@@ -57225,7 +57388,8 @@ Gncicih mu smli ka pila o ki ka sppatas mu laqi. 我用一點一點存起來的�
  Tppax csiyus kana ka puniq nami. 我們的槍個個都發出 「pax」的聲音，表示 全部都未擊出。
 1. 稻子（
  [詞意：hangan uqun nhuma 稻子]
-1. 將 都 成 為 … 稻 。. Empeepayay dhquy ka slaqun mu. 我要將我的水田都耕種糯 米稻（我要在我的 水田耕種糯米）。
+1. 將 都 成 為 … 稻 
+ Empeepayay dhquy ka slaqun mu. 我要將我的水田都耕種糯 米稻（我要在我的 水田耕種糯米）。
 1. 像…
  Mgpayay mu knmalu ka payay su. 你種的稻跟我的一樣好。
 1. 祖母. 
@@ -57241,7 +57405,8 @@ Gncicih mu smli ka pila o ki ka sppatas mu laqi. 我用一點一點存起來的�
  [詞意：hana smluhay ini kla bi na 不熟練]
 1. 
  Hana ku emppbaya tminun ka yaku. 我織布還不熟練。
-1. 以不熟練…（剛學習及還不會做）。. Spbaya mu pcinun lqian ka qabang. 我以不熟練 的手藝去織那塊織布。
+1. 以不熟練…（剛學習及還不會做）
+ Spbaya mu pcinun lqian ka qabang. 我以不熟練 的手藝去織那塊織布。
 1. 掉. 
 Pcingan btunux ka langu qsiya o “buq” msa hmnang. 石子掉落水中時發出「buq」的聲音。
 
@@ -57262,7 +57427,8 @@ Pcingan btunux ka langu qsiya o “buq” msa hmnang. 石子掉落水中時發�
  Mneydang ku mnlala bi ka yaku. 我曾經迷路過好幾次。
 1. 遺失；弄丟；丟了. 
 Msnpuqan wada na prdangun ka baki mu. 我爺爺因丟失了煙斗， 而在生氣。
-1. 被摔的聲音（擬聲詞）。. [詞意：hnang tmgsbut 被摔的聲音]
+1. 被摔的聲音（擬聲詞）
+ [詞意：hnang tmgsbut 被摔的聲音]
 1. 
  Mnegpeyh bi tmgsbut biyax na mspung ka hiya. 他跟人比摔跤時摔人的聲音 很響亮。
 1. 
@@ -57284,8 +57450,10 @@ Msnpuqan wada na prdangun ka baki mu. 我爺爺因丟失了煙斗， 而在生�
 1. 求. 
 2. 發情. 
 [詞意：mgspung 求 詞意：tmbgan ni samat mkmsayuk ni mkmsbalas 發情]
-1. 想要…。. Mkmpeysa ku cih cimu su. 我想向你要點鹽。
-1. 慣於要…。. Mnegpeysa bi pila buan ka laqi. 小孩很習慣向母親要錢。
+1. 想要…
+ Mkmpeysa ku cih cimu su. 我想向你要點鹽。
+1. 慣於要…
+ Mnegpeysa bi pila buan ka laqi. 小孩很習慣向母親要錢。
 1. 藪鳥（
  2. 笛子. 
 [詞意：hangan qbhni 藪鳥 詞意：hangan iyuk 笛子]
@@ -57302,7 +57470,8 @@ Mnegagu muuyas shiga ka pgaga. 藪鳥昨天在啼叫。 2.
 
 1. 
  Dai pspghuk ka qmpahan su. 你要拔在田地上的雜草。
-1. 使 長 雜 草 。. Spghuk ka qmpahan na. 你的地長雜草。
+1. 使 長 雜 草 
+ Spghuk ka qmpahan na. 你的地長雜草。
 1. 藜. 
 [詞意：hangan uqun kciyun 藜]
 
@@ -60833,8 +61002,10 @@ Rmpa balay ka seejiq gaga. 那個人很會 欺詐。
 Emprpaw do baka bi ttuyan psramal musa qmpahan da. 黎明時分，表示要 起 床準備工作了。
 1. 黎明. 
 [詞意：prajing rmdax 黎明]
-1. 即將黎明（天亮）。. Empgrpaw ka sayang da. 現在即將天亮了。
-1. 在（趁）黎明時…。. Tbyaxan do npgrpaw su ka musa qmpahan da. 若農忙的時 期，就（應該）趁著黎明早點出門上山工作。
+1. 即將黎明（天亮）
+ Empgrpaw ka sayang da. 現在即將天亮了。
+1. 在（趁）黎明時…
+ Tbyaxan do npgrpaw su ka musa qmpahan da. 若農忙的時 期，就（應該）趁著黎明早點出門上山工作。
 1. 樹蔭遮到工作的土地（園地）而被砍. 
 2. 砍伐樹蔭好放置飛鼠的陷阱. 
 3. 被風所吹倒. 
@@ -64419,7 +64590,8 @@ Pstkungan ka gaga. 那是拜偶像的地方
 
 1. 都是弄偶像的. 
 Tmteykung smapuh kana ka seejiq hini 這邊的人都是敬拜偶像的
-1. 刺的用語（狀 態;聲音等）。. [詞意：kari meytaq bbeytaq 刺的用語]
+1. 刺的用語（狀 態;聲音等）
+ [詞意：kari meytaq bbeytaq 刺的用語]
 1. 使打嗝. 
 Ptgaak suqi bi tngi na da. 他吃的太飽而打嗝
 1. 在打嗝. 
@@ -64516,7 +64688,8 @@ Tgsai ta kngkla ni knmalu ka laqi. 教育孩子要教善良與知識。
 
 1. 
 
-1. 老人癬（疾病名）。. [詞意：klgan bkiluh hiyi saw bsbus 老人癬]
+1. 老人癬（疾病名）
+ [詞意：klgan bkiluh hiyi saw bsbus 老人癬]
 1. 
 
 1. 
@@ -65922,7 +66095,8 @@ Twqitan ka bowyak. 山豬有很長獠牙
 1. 眺望. 
 Psrwayan hidaw mgrbu ka sngkyaan bgiya ni walu 可以利用早晨的陽光看見蜜蜂 的飛行路線就知道窩在哪裡
 1. 眺望. 
-2. 飄雨狀（颱風前雨勢如織線）。.
+2. 飄雨狀（颱風前雨勢如織線）
+
 1. 
 
 1. 脖子（
@@ -66181,7 +66355,8 @@ Yuy pngkkiyux mtqapur ka seejiq. 很多人擠在一起 [詞意：kari dnhqan see
 1. 對長女的稱呼. 
 2. 人名（
  [詞意：rmngaw quri qmbsranan laqi kuyuh 對長女的稱呼 詞 意：hangan seejiq 人名（女）]
-1. 出尖頭（竹筍長出尖頭）。. [詞意：dudux lxi gisu hmru 出尖頭]
+1. 出尖頭（竹筍長出尖頭）
+ [詞意：dudux lxi gisu hmru 出尖頭]
 1. 
 
 1. 竹筍生長的時期. 
