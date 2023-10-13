@@ -200,9 +200,6 @@ delete: Kingal ddmut ni
 PROBLEM: because of some elipitcal pattern in the definition, the sentence is not fully transcribed
 delete: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali. 
 
-PROBLEM: because of ...... (6 american periods) in the chinese translation, the sentence is not fully transcribed 
-delete: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali.
-
 PROBLEM: messed up by random/previous lines 
 add: Eneinu ka saun su qmpah? 你要去哪些地方工作？
 add: Hana su mowsa ka isu? Mdmdamat wada kana ka dhiya da. 他們都已經 走了，你才要出發嗎？
@@ -234,15 +231,3 @@ add: Asi khili hyaan ka isu da, pgealu bi ka risaw kiya! 你就嫁給他好了�
 PROBLEM: there is english in the definition, which makes the whole sentence not logged 
 add: Ma su kmnBowluk knan? Aji Bowluk ka yaku. 你為什麼把 我當作是 Bowluk ？我不是Bowluk 。
 
-PROBLEM: sentences are not transcribed because the Truku starts with numbers
-add: 3 pucing o sknddmut mu smpug mqneuqu ku. 我把切成三條的豬背肉算錯 成四條豬背肉。
-add: 3 ka rqnux nangal mu draqul kana. 我總共捕捉三隻母水鹿。 [詞意：gipu rqnux ni pada 母鹿及母羌]
-add: 3 nami o gmnhakaw nami mrduung qhuni entaril yayung. 我們三個人建過 橫跨河流的原木橋。
-add: 3 hnegadan ka ppharis na ptlnga knan. 他讓我在三行斜坡放套腳陷阱。
-add: 3 hiyi mnswayi ga o asi khwiras kana ka mnarux dha. 那三兄弟都生肋間 肌肉病。
-add: 4 pucing ka maaddmut. 四條豬背肉稱一 個單位。
-add: 30 hngkawas tthakaw nami qpras ka yami da. 我們已經造了三十年的水泥橋。
-add: 100 pila ka speelu na pduuy lqian na. 他拿一百元給孩子省著用。
-
-PROBLEM: (because of ...... in chinese translation, the sentence is not fully transcribed 
-add: Hhnu mu qmuyux ka bubung ga o iya ku haya ngali. 我用來......下雨的那個 傘不要拿走。
