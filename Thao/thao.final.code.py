@@ -127,7 +127,8 @@ read_text_file('thao_stripped.txt', 'thao_stripped(1.0).txt')
 input_file = "thao_stripped(1.0).txt"
 output_file_1 = "thao_stripped(2.0).txt"
 output_file_2 = "thao_stripped(3.0).txt"
-regex_pattern_1 = r"([\u4e00-\u9fff]+\. )|([\u4e00-\u9fff]+ \.)|([\u4e00-\u9fff]+\S\.)|[\u4e00-\u9fff]+\S \.|[\u4e00-\u9fff]+\S \. |[\u4e00-\u9fff]+\S\. "
+#regex_pattern_1 = r"([\u4e00-\u9fff]+\. )|([\u4e00-\u9fff]+ \.)|([\u4e00-\u9fff]+\S\.)|[\u4e00-\u9fff]+\S \.|[\u4e00-\u9fff]+\S \. |[\u4e00-\u9fff]+\S\. "
+regex_pattern_1 = r"([\u4e00-\u9fff]+\. )|([\u4e00-\u9fff]+ \.)|([\u4e00-\u9fff]+\S\.)|[\u4e00-\u9fff]+\S \.|[\u4e00-\u9fff]+\S \. |[\u4e00-\u9fff]+\S\. |(」\.) |(」\u2026\.)| (\u2026\。\.)|(\。\.)|(\）\。\s\.)|(\）\.\s)|(\）\.)"
 regex_pattern_2 = r' [2-9]'
 add_newlines(input_file, output_file_1, regex_pattern_1)
 add_return_bar_before_regex(regex_pattern_2, output_file_1, output_file_2)

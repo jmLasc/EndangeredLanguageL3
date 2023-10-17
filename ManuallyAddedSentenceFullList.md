@@ -231,3 +231,22 @@ add: Asi khili hyaan ka isu da, pgealu bi ka risaw kiya! 你就嫁給他好了�
 PROBLEM: there is english in the definition, which makes the whole sentence not logged 
 add: Ma su kmnBowluk knan? Aji Bowluk ka yaku. 你為什麼把 我當作是 Bowluk ？我不是Bowluk 。
 
+
+
+
+
+Thao
+PROBLEM: ...... (6 American periods) ends some of the definition, making the sentences not transcribed 
+add: tuqatuqashiza yaku! niwan! parhawaywan ihu! 我已經老了！還沒！你還年 輕呢！ 
+add: thuini ya pulalu tamuqu, pisain tanalhiwan muqayiza putuan sa shupak. 今天拜tamuqu 時，只是把甜酒釀放在蒸桶而已。
+add: mumu ya mahumhumiza sa qali amadunhuniza sa shanglaw a bangqir. 鼴鼠天黑後將會鑽損菜根。
+add: afariwik thithu lhai suma, pakulhqaqlhak fariwik. 它要賣給別人，被我買回來。 
+add: hau tu kahiwan inin'ianan Lai'azuan tuiza tu shashawin sa Lipun niza yamin tu isai Lay'azuan. 邵族人曾經住在Lai'azuan （今潭南）， 一直 到被日本人 驅趕，我們才不再住在Lay'azuan 。
+add: haya inin'ianan thau mutaq. 有人在這裡 吐。
+add: makuliushiza naak a bizu, akishkishakuan naak a bizu. 我的鬍鬚已經很長了，我要 刮一刮我的鬍鬚。 
+add: thithu shmimul inisa naak a qlhup a tuali, min'iakin ukaiza sa inisa qlhup a tuali. 他借走我口袋裡的錢，使得我口袋裡都沒有錢了。
+add: muqay miazithu. 只是這樣而已。 
+add: muqay ihu miazithu? 你只是這樣而已嗎？ 
+add: muqay miazithu a pashaila? antu maqitan riqazan! 戲只是這樣嗎？不好看！ 
+add: muqay yaku a minlhalhuzu. 我抽藤要做魚笱。 
+add: mihu a pazay ya antu pudanshiran uhu akaanin sa rumfaz alhthkiz sa rumfaz kmaan 你的稻子如果不做鳥 驚，會全部被鳥吃了。
