@@ -250,3 +250,15 @@ add: muqay ihu miazithu? 你只是這樣而已嗎？
 add: muqay miazithu a pashaila? antu maqitan riqazan! 戲只是這樣嗎？不好看！ 
 add: muqay yaku a minlhalhuzu. 我抽藤要做魚笱。 
 add: mihu a pazay ya antu pudanshiran uhu akaanin sa rumfaz alhthkiz sa rumfaz kmaan 你的稻子如果不做鳥 驚，會全部被鳥吃了。
+
+PROBLEM: this bracket is cut half by the code. Even though we don't need the things in the brackets, this one has more sample sentences with translation. So I am adding them into the list 
+delete: [●分辨： 1. 正確：numa s kalawan ihu iutu qa? 你在那裡做 什麼？
+add: numa s kalawan ihu iutu qa? 你在那裡做 什麼？
+add: numa s kmalawa iutu? 什麼東西 在那裡做 ？ 
+
+
+
+
+Tsou
+PROBLEM: for some reason, this sentence is not transcribed 
+add: mitac'o ekameosʉ ho mita aomotʉ'ʉ 'e pasuya. pasuya 他只說得很簡短。

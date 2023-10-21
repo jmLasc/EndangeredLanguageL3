@@ -159,7 +159,9 @@ regex_pattern_1 = [
     r"(\)\.\s)",
     r"([\u4e00-\u9fff] \. )",
     r"(….. )",
-    r"(…. )"
+    r"(…. )",
+    r"(\.\.\.\s)",
+    r"(\…\s\.\.\s)"
 ]
 #regex_pattern_2 = r" [2-9] "
 regex_pattern_2 = r"\b[2-9]\."
