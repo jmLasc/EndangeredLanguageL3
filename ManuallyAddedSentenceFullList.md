@@ -262,3 +262,30 @@ add: numa s kmalawa iutu? 什麼東西 在那裡做 ？
 Tsou
 PROBLEM: for some reason, this sentence is not transcribed 
 add: mitac'o ekameosʉ ho mita aomotʉ'ʉ 'e pasuya. pasuya 他只說得很簡短。
+
+
+
+
+
+Seediq
+PROBLEM: .... this pattern (4 American periods) 
+add:  Mpneyah inu kari ta mesa "gukuc" nii ha? Niqan gukuc cbeyo peni?    有關本族 "輪胎"這個詞彙是怎麼來的 呢？以前有輪胎這種物品嗎？
+
+
+
+
+Amis
+PROBLEM: .... this pattern (4 American periods + space) that eneds the definition 
+add: Mapacefcef no tawki ci Mayaw to epah i pafilongan. Mayaw 的老闆過年時強制Mayaw 喝酒。 
+add: Mianako' ci Osay to picocok no ising i kamay nira. 醫生在伍賽手上打針時發出疼痛的呻吟。 
+add: Misaenged to falo malocalok a masakero. 製作圓形花環做為跳舞時戴的花冠。 
+add: Telien i kafotian ko fodoy! 請將衣服 放在房間。
+add: Pacefcef ko mama no kapah to sasa a selal to epah. 領袖階級強制後輩青年喝酒。 
+
+
+
+
+Puyuma
+PROBLEM: …。. (this pattern) 
+add: an malikasaw i mulri na babayan i, salaw apelr. 我的祖母跳舞時，非常的柔軟。 
+add: saigu semenay dra bulretrenganan dra senay i mulri na mainayan. 我的祖父很會唱古老的歌。
