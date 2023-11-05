@@ -270,6 +270,17 @@ add: mitac'o ekameosʉ ho mita aomotʉ'ʉ 'e pasuya. pasuya 他只說得很簡�
 Seediq
 PROBLEM: .... this pattern (4 American periods) 
 add:  Mpneyah inu kari ta mesa "gukuc" nii ha? Niqan gukuc cbeyo peni?    有關本族 "輪胎"這個詞彙是怎麼來的 呢？以前有輪胎這種物品嗎？
+PROBLEM: ...).  (3 American periods + ) + 1 americna period) 
+add: Ini kmalu mnarux na Dakis meniq byoing Hori hiya, kika desan daha Taycyu di.    Dakis 的病(情)在埔里沒好 (轉)，所以他們把他帶到臺中去了。
+add: Dnsanan ku na qucun pnhmaan bubu na ka Temi.    Temi 帶給我她媽媽種的蕗蕎。 
+add: Dsane ta tama bubu ta ka wawa rnbruban nii.    我們將這燻烤過的獵肉帶給我們的父母親。 
+add: Pdsane ta dheay ka duma da, dsanun daha laqi daha.    有些就讓他們帶回去吧，他們要帶給他們的孩子。
+add: Pdsani Umin ga peni, ye mooda sapah na Iwan kusun ka heya.    你就讓Umin 帶去吧，他明天不是要 經過Iwan 的家。
+add: Wada mu pdsanun Takun ka lukus na Dakis di, daun mu hmaduc kiya keeman mesa Takun.    我已經把Dakis 的衣服給 Takun 帶走了， Takun 說他今晚會送過去 。
+add: Ima pnadis patis su nii Dakis?   Dakis ，你這本 (些)書是誰寄來的？
+add: Ga hini macu dhequy pndsanan ku na Takun wa, dsani isu si.    Takun 讓我帶回來的 糯小米在這裡，他說帶給你。
+add: Malu riyung sphuma ngiro ka qgeri nii, ani si ini eniq tqrehaq peni.    栓皮櫟是種香菇的好樹種，只是 皮很容易裂掉。 
+add: Wada miyan na psugan pnteru rabu pusu mudu kanna nami ka tama na Losi.    Losi 的爸爸都分給我們每人各三株橘子樹苗。 
 
 
 
