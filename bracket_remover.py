@@ -16,7 +16,7 @@ for i, folder in enumerate(folders):
     # Get final scraped file
     final = [file for file in os.listdir(folder)]
     final = [file for file in final if re.search(r".*final.*\.txt", file.lower())]
-    if len(final) == 0:
+    if len(final) != 1:
         print("""fail: more than 1 file with the name in the form "...final.txt"\nplease check filenames in folder {0}""".format(folder))
 
     filepath = os.path.join(os.getcwd(), folder, final[0])
