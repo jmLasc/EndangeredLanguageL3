@@ -68,13 +68,13 @@ You will need the aforementioned python notebooks in order to run the code. For 
 
 
 ### `rescrape`
-Run this notebook first. The purpose of this notebook is to collect API calls and store them as pickles for later use. It does this by scraping text from the pdf dictionaries and extracting the words. 
+Run this notebook first. The purpose of this notebook is to collect API calls and store them as pickles for later use. It does this by scraping text from the pdf dictionaries and extracting the words. It then makes a huge list of these words, then calls the API on each of them. It then saves all of the results (good or bad) using pickle.
 
-If the new pdf dictionary files do not have a star icon next to word entries (★), then this notebook will not work. You will have to find another way to extract dictionary words. This is because the current dictionaries use the ★ char to the frequency of words, which the code takes advantage of in order to find words to call on the API.
+If the new pdf dictionary files do not have a star icon next to word entries (★), then this notebook will not work. You will have to find another way to extract dictionary words. This is because the current dictionaries use the ★ char to note the frequency of words. The code takes advantage of this to find words to call on the API.
 
-`rescrape` will collect responses and put them into pickles, which you can learn more about above in the .PickleScrapes section. The code asks the API for json objects, though you can also ask for XML objects.
+`rescrape` will collect API responses and put them into pickles, which you can learn more about above in the .PickleScrapes section. The code asks the API for json objects, though you can also ask for XML objects.
 
-It is not advisable to run this code all in one go due to the risk of a network error, but it is possible. As an estimate, the code will take several days to run (~6) if ran all in one go and will need a good and constant internet connection to run effectively.
+It is not advisable to run this code all in one go due to the risk of a network error, but it is possible. As an estimate, the code will take several days to run (~6 days) if ran all in one go and will need a good and constant internet connection to run effectively.
 
 The current scraping loop relies on a currently commented-out cell with the variable `done` in order to run. Please uncomment the cell and run it so the scraping loop can run. Modify `done` as you go and make sure to rerun the cell. If a tribe name is in `done`, it will be skipped over during the execution process.
 
@@ -90,43 +90,42 @@ There is also a cell output that lists each tribe and 3 numbers associated with 
 2. Number of entries in the final XML
 3. Difference between 1. and 2.
 
-If $3$ is a positive number, that means that there are less entries in the final XML than words noted in the dictionary. A negative number means that more entries were obtained than expected. Negative numbers are good, and small positive numbers ($\leq 1000$) are preferred.
+If number in $3.$ is a positive number, that means that there are less entries in the final XML than words identified in the dictionary. A negative number means that more entries were obtained than expected. Negative numbers are preferred, and small positive numbers ($\leq 1000$) are also acceptable. Anything larger and there might be an error with the API.
 
 ### `audioDL`
 Lastly, run `audioDL`. This code will primarily do 2 things:
 1. Download the required audio.
 2. Create the final XML, which will now have the filepaths listed.
 
-Similar to `rescrape`, please take advantage of the `done` variable to break your job up into parts. I estimate that this code will take a few days to run (~2). Again, ensure that your network connection is good and that the device the code is running on is free to run for the entire run.
+Similar to `rescrape`, please take advantage of the `done` variable to break your job up into parts. I estimate that this code will take a few days to run (~2 days). Again, ensure that your network connection is good and that the device the code is running on is free to run for the entire run.
 
-This code assumes all URLs link to an mp3 file (which should be the case). If a download fails, you can run the bottommost cell to attempt to redownload it. If it turns out that there is an invalid file, you may want to consider pruning that result from the final XML.
+This code assumes all URLs link to the direct download for an mp3 file (which should be the case). If a download fails, you can run the bottommost cell to attempt to redownload it. If it turns out that there is an invalid file, you may want to consider pruning that result from the final XML.
 
 **Note:** The final XML files use FormosanBank formatting, but due to the nature of the audio being on a per-sentence basis due to how the API works, the AUDIO tag will have URL and FILE attributes. The URL and FILE attributes are not specified in the FormosanBank format, but are unique to this repo's final data.
 
 The final result is now an XML file that contains triplets of Formosan sentence, the translation, and audio file.
 
 ## QC
-Multiple precautions were took in order to ensure that the final XML is of usable quality.
+Multiple precautions were taken in order to ensure that the final XML is of usable quality.
 
 ### By-Hand
-Using the ctrl-F feature, I select a Formosan sentence in the pdf dictionaries and then checked the final XML. Many sentences were verified as being in the final XML and having the correct translation. Checking the audio file also generally seems to be accurate to the Formosan sentence.
+I selected a Formosan sentence in the pdf dictionaries and then checked for it in the final XML with ctrl-F. Many sentences were verified as being in the final XML and having the correct translation. Checking the audio file also generally seems to be accurate to the Formosan sentence.
 
 Generally, most of the sentences were present and preserved (except for Truku, which is explained below).
 
-
 ### Via Code
-The API calls work by asking for json objects, but there is a case wherein the API will return a json that indicates that it has failed. Literally, these are saved in the pickles as fails and in the ckpts as `{failed word: "FAIL"}` In these cases, they are not considered and are filtered out in the XML creation.
+The API calls ask for json objects, but there is a case wherein the API will return a json that indicates that it has failed. These are saved in the pickles folder in the fails, but also in the ckpts as `{failed word: "FAIL"}` (literally using the word "FAIL"). In these cases, they are not considered by subsequent code and are filtered out in the XML creation.
 
-Of note, Truku has significant portions of it unavailable via API request. Of a total of ~31,000 entries, only ~4600 were of good quality. The reason for this is due to an API error (the specifics are  not currnently known), but its final quantity of ~4600 entries is comparable to other languages, so it is usable. 
+Of note, Truku has significant portions of it unavailable via API request. Of a total of ~31,000 entries, only ~4600 were of good quality. The reason for this is due to an API error (the specifics are  not currnently known), but its final quantity of ~4600 entries is comparable to other languages, so it is usable, though not fully explored. 
 
 During XML creation, memoization was utilized to make sure that no clone sentences are present in the dictionary. Clones are somewhat expected since different words can have the same example sentence.
 
 API entries were also required to have a URL to an audio file present. Therefore entries without audio files have been excluded from the final XML. This is also expected, since some words do not have example sentences (and thereby do not need audio).
 
-Audio downloading also had a QC failsafe of redownloading failed entries. There was no need to prune the current batch of data, but if any audio fails were present / are found, these entries will be removed from the final XML.
-
-All audio files were also verified to have .mp3 endings and do have some associated data. 
+Audio downloading also had a QC failsafe of redownloading failed entries. There was no need to prune the current batch of data, but if any audio fails were present / are found, these entries will be removed from the final XML. All audio files were also verified to have .mp3 endings and do have some associated data. 
 
 ## Credits
 Usage of the ILRDF's data is allowed under the Creative Commons. 
+
+
 Usage of the codebase follows the GNU GPL-3.0.
